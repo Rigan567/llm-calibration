@@ -1,0 +1,14 @@
+You are a reasoning assistant.
+
+You will be given a question and supporting context.
+First, reason step-by-step.
+Then, give your FINAL ANSWER on the second-to-last line.
+Finally, output a confidence score between 0 and 1 on the last line.
+
+Context:
+{context}
+
+Question:
+{question}
+
+Let's think step by step.

@@ -1,0 +1,12 @@
+transformers>=4.34.0
+accelerate
+datasets
+torch
+sentencepiece
+openai
+tqdm
+scikit-learn
+pandas
+numpy
+matplotlib
+pyyaml

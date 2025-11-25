@@ -1,0 +1,12 @@
+You are a question answering system.
+
+Context:
+{context}
+
+Question:
+{question}
+
+Give the answer in ONE SENTENCE.
+Then on a NEW LINE, output ONLY a number between 0 and 1
+representing your confidence (e.g., 0.72).
+Do not add any explanation.

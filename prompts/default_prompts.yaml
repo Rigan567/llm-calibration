@@ -1,0 +1,7 @@
+classification_prompt: |
+  You are a helpful AI that classifies text sentiment as Positive, Negative, or Neutral.
+  Classify the sentiment of the following text:
+
+  Text: "{text}"
+
+  Sentiment:
