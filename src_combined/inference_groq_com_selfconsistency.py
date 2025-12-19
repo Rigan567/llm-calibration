@@ -10,9 +10,11 @@ from collections import Counter
 
 load_dotenv()
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+file = open("Groq_api_key.txt", "r")
+key = file.read()
+client = Groq(api_key=key)
 
-INPUT_FILE = "data/processed/combined_clean.jsonl"
+INPUT_FILE = "data/combined_qa_dataset_800.jsonl"
 OUTPUT_CSV = "outputs/self_consistency_groq.csv"
 
 COT_PROMPT_TEMPLATE = """

@@ -163,29 +163,41 @@ hotpot_mapped = hotpot_200.map(map_hotpot)
 # 4. COMBINE ALL INTO ONE DATASET
 # ============================================================
 
+questions = (
+    astro_mapped_j["question"][:] +
+    astro_mapped_s["question"][:] +
+    medqa_mapped["question"][:] +
+    torque_mapped["question"][:] +
+    hotpot_mapped["question"][:]
+)
+
+answers = (
+    astro_mapped_j["answer"][:] +
+    astro_mapped_s["answer"][:] +
+    medqa_mapped["answer"][:] +
+    torque_mapped["answer"][:] +
+    hotpot_mapped["answer"][:]
+)
+
+sources = (
+    astro_mapped_j["source"][:] +
+    astro_mapped_s["source"][:] +
+    medqa_mapped["source"][:] +
+    torque_mapped["source"][:] +
+    hotpot_mapped["source"][:]
+)
+
+ids = list(range(len(questions)))  # or start from 1 if you prefer
+
 combined = Dataset.from_dict({
-    "question": (
-        astro_mapped_j["question"][:] +
-        astro_mapped_s["question"][:] +
-        medqa_mapped["question"][:] +
-        torque_mapped["question"][:] +
-        hotpot_mapped["question"][:]
-    ),
-    "answer": (
-        astro_mapped_j["answer"][:] +
-        astro_mapped_s["answer"][:] +
-        medqa_mapped["answer"][:] +
-        torque_mapped["answer"][:] +
-        hotpot_mapped["answer"][:]
-    ),
-    "source": (
-        astro_mapped_j["source"][:] +
-        astro_mapped_s["source"][:] +
-        medqa_mapped["source"][:] +
-        torque_mapped["source"][:] +
-        hotpot_mapped["source"][:]
-    ),
+    "id": ids,              # <-- FIRST COLUMN
+    "question": questions,
+    "answer": answers,
+    "source": sources,
 })
+
+print(combined)
+print("Total examples:", len(combined))
 
 print(combined)
 print("Total examples:", len(combined))
