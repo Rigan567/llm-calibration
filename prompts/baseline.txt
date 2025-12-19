@@ -1,12 +1,8 @@
-You are a question answering system.
+Determine whether the following factual statement is TRUE or FALSE.
 
-Context:
-{context}
+If true → output "yes"
+If false → output "no"
 
-Question:
-{question}
+Then output a confidence on the next line.
 
-Give the answer in ONE SENTENCE.
-Then on a NEW LINE, output ONLY a number between 0 and 1
-representing your confidence (e.g., 0.72).
-Do not add any explanation.
+Statement: {question}
