@@ -71,7 +71,8 @@ def map_astro_j(example):
     return {
         "question": full_question,
         "answer": answer,
-        "source": "Astro-QA_Judgement"
+        "source": "Astro-QA_Judgement",
+        "type": "True or False"
     }
 
 def map_astro_s(example):
@@ -84,7 +85,8 @@ def map_astro_s(example):
     return {
         "question": full_question,
         "answer": answer,
-        "source": "Astro-QA_Subjective"
+        "source": "Astro-QA_Subjective",
+        "type": "Open ended"
     }
 
 def map_medqa(example):
@@ -99,7 +101,8 @@ def map_medqa(example):
     return {
         "question": question_with_options,
         "answer": "; ".join(answer_texts),
-        "source": "GlobalMedQA_EN"
+        "source": "GlobalMedQA_EN",
+        "type": "Multiple-choice"
     }
 
 def map_torque(example, max_per_context=1):
@@ -124,7 +127,8 @@ def map_torque(example, max_per_context=1):
             valid_qas.append({
                 "question": full_question,
                 "answer": answer_text,
-                "source": "TORQUE"
+                "source": "TORQUE",
+                "type": "temporal"
             })
 
         if valid_qas:
@@ -137,7 +141,8 @@ def map_hotpot(example):
     return {
         "question": to_str(example.get("question")),
         "answer": to_str(example.get("answer")),
-        "source": "HotpotQA"
+        "source": "HotpotQA",
+        "type": "Open ended"
     }
 
 # ============================================================
@@ -187,17 +192,24 @@ sources = (
     hotpot_mapped["source"][:]
 )
 
+types = (
+astro_mapped_j["type"][:] +
+    astro_mapped_s["type"][:] +
+    medqa_mapped["type"][:] +
+    torque_mapped["type"][:] +
+    hotpot_mapped["type"][:]
+)
+
 ids = list(range(len(questions)))  # or start from 1 if you prefer
 
 combined = Dataset.from_dict({
     "id": ids,              # <-- FIRST COLUMN
     "question": questions,
     "answer": answers,
+    "type": types,
     "source": sources,
 })
 
-print(combined)
-print("Total examples:", len(combined))
 
 print(combined)
 print("Total examples:", len(combined))
