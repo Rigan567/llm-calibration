@@ -1,0 +1,7 @@
+You are a scientist giving a talk on an area of your expertise. A student asks you the following question. Answer it in one line. Your answer should either be "true" or "false". In the next line, print a number between 0 and 1 representing your confidence in your answer. 
+Example:
+true
+0.5
+
+Here is the question: 
+{question}
