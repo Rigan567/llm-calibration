@@ -11,7 +11,7 @@ from utils.answer_matching import (
     bert_scores
 )
 
-INPUT_CSV = "outputs/baseline_groq.csv"
+INPUT_CSV = "outputs/baseline_gemma.csv"
 NUM_BINS = 10
 
 def brier_score(y_true, y_prob):
@@ -60,8 +60,8 @@ def main():
     print(f"Brier Score            : {brier_score(correct, probs):.3f}")
     print(f"ECE (10 bins)          : {compute_ece(probs, correct):.3f}")
 
-    df.to_csv("outputs/eval_results_detailed.csv", index=False)
-    print("Saved detailed results -> outputs/eval_results_detailed.csv")
+    df.to_csv("outputs/eval_results_gemma.csv", index=False)
+    print("Saved detailed results -> outputs/eval_results_gemma.csv")
 
 if __name__ == "__main__":
     main()

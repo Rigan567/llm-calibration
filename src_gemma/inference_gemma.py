@@ -2,28 +2,33 @@
 
 import os
 import pandas as pd
-from groq import Groq
+import google.generativeai as genai
 from dotenv import load_dotenv
 from tqdm import tqdm
 from pathlib import Path
 
-#setup
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR.parent / ".env")
 
+
+
 # file = open("Groq_api_key.txt", "r")
 # key = file.read()
+# client = genai(api_key=key)
+api_key= os.getenv("GEMMA_API_KEY")
+if not api_key:
+    raise RuntimeError("GEMMA_API_KEY not found in .env")
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+genai.configure(api_key=api_key)
+
 
 
 INPUT_FILE = "dataset/combined_qa_dataset_800.jsonl"
-OUTPUT_CSV = "outputs/baseline_groq.csv"  
-MODEL_NAME = "llama-3.1-8b-instant"
-# PROMPT_TEMPLATE = open("prompts/baseline.txt").read()
+OUTPUT_CSV = "outputs/baseline_gemma.csv"  
+MODEL_NAME = "gemma-3-4b-it"
+model = genai.GenerativeModel(MODEL_NAME)
 # PROMPT_TEMPLATE = (BASE_DIR / "prompts" / "baseline.txt").read_text()
 PROMPT_VERSION="baseline"
-
 
 
 # Experiment control
@@ -42,7 +47,8 @@ SAMPLES_PER_SOURCE = 2
 
 def parse_model_output(text):
     lines = [line for line in text.splitlines() if line.strip() != '']
-    answer = lines[-2]
+    # answer = lines[-2]
+    answer = lines[-2] if len(lines) >= 2 else lines[-1] 
     try:
         confidence = float(lines[-1].strip())
     except ValueError:
@@ -88,17 +94,13 @@ def main():
             "Multiple-choice": "choice",
             "temporal": "temporal",
         }.get(row["type"])
-        prompt_template = open(BASE_DIR/f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
+        prompt_template = open(BASE_DIR/f"prompts_gemma/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
 
 
         prompt = prompt_template.format(question=question)
+        response = model.generate_content(prompt)
+        text = response.text.strip()
 
-        response = client.chat.completions.create(
-            model=MODEL_NAME,
-            messages=[{"role": "user", "content": prompt}]
-        )
-
-        text = response.choices[0].message.content.strip()
         pred, conf, raw = parse_model_output(text)
 
         rows.append({
