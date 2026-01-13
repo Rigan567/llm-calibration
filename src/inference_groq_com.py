@@ -16,7 +16,7 @@ client = Groq(api_key=key)
 INPUT_FILE = "data/combined_qa_dataset_800.jsonl"
 OUTPUT_CSV = "outputs/baseline_groq.csv"  
 MODEL_NAME = "llama-3.1-8b-instant"
-PROMPT_TEMPLATE = open("prompts/baseline.txt").read()
+PROMPT_VERSION = "baseline"
 
 
 # Experiment control
@@ -75,8 +75,15 @@ def main():
         question = row["question"]
         gold = row["answer"]
         source = row["source"]
+        type = {
+            "Open ended": "open",
+            "True or False": "true_false",
+            "Multiple-choice": "choice",
+            "temporal": "temporal",
+        }.get(row["type"])
+        prompt_template = open(f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
 
-        prompt = PROMPT_TEMPLATE.format(question=question)
+        prompt = prompt_template.format(question=question)
 
         response = client.chat.completions.create(
             model=MODEL_NAME,
