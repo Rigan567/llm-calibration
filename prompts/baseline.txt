@@ -1,8 +1,7 @@
-Determine whether the following factual statement is TRUE or FALSE.
+Answer the following Question in one line. In the next line, print a number between 0 and 1 representing your confidence in your answer. 
+Example:
+This is the answer.
+0.5
 
-If true → output "yes"
-If false → output "no"
-
-Then output a confidence on the next line.
-
-Statement: {question}
+Here is the question: 
+{question}

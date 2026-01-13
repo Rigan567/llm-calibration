@@ -1,39 +1,62 @@
-import json
-import os
+# src/process_combined.py
 
-RAW_FILE = "data/raw/combined/combined_qa_ds.jsonl"
-OUT_FILE = "data/processed/combined_clean.jsonl"
+import json
+from pathlib import Path
+
+RAW_PATH = Path("data/raw/combined/combined_qa_ds.jsonl")
+OUT_PATH = Path("data/processed/combined_clean.jsonl")
 
 def normalize_answer(ans):
-    ans = ans.strip().lower()
-    if ans in ["true", "yes"]:
+    """
+    Light normalization ONLY.
+    Do NOT force everything to yes/no.
+    """
+    if ans is None:
+        return ""
+
+    ans = str(ans).strip()
+
+    # normalize common booleans
+    if ans.lower() in ["true", "yes"]:
         return "yes"
-    if ans in ["false", "no"]:
+    if ans.lower() in ["false", "no"]:
         return "no"
+
     return ans
 
+
 def main():
-    os.makedirs("data/processed", exist_ok=True)
+    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
-    with open(RAW_FILE, "r", encoding="utf8") as fin, \
-         open(OUT_FILE, "w", encoding="utf8") as fout:
+    rows = []
+    idx = 0
 
-        for idx, line in enumerate(fin):
+    with RAW_PATH.open("r", encoding="utf-8") as fin:
+        for line in fin:
             obj = json.loads(line)
 
-            question = obj.get("question", "")
+            question = obj.get("question", "").strip()
             answer = normalize_answer(obj.get("answer", ""))
+            source = obj.get("source", "unknown")
 
-            out = {
+            if question == "":
+                continue
+
+            rows.append({
                 "id": idx,
                 "question": question,
-                "context": "",   # no context available
-                "answer": answer
-            }
+                "answer": answer,
+                "source": source   # ✅ KEEP SOURCE
+            })
 
-            fout.write(json.dumps(out) + "\n")
+            idx += 1
 
-    print(f"Saved processed dataset -> {OUT_FILE}")
+    with OUT_PATH.open("w", encoding="utf-8") as fout:
+        for r in rows:
+            fout.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+    print(f"Saved {len(rows)} examples -> {OUT_PATH}")
+
 
 if __name__ == "__main__":
     main()
