@@ -26,7 +26,7 @@ TARGET_SOURCES = {
     "Astro-QA_Judgement",   # True / False
     "HotpotQA",             # Multi-hop factoid
     "GlobalMedQA_EN",       # Medical MCQ
-    # "TORQUE",               # Event / temporal
+    "TORQUE",               # Event / temporal
     "TemporalQA"            # Temporal reasoning (if present)
 }
 
