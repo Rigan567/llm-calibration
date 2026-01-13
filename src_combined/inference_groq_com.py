@@ -8,10 +8,13 @@ from tqdm import tqdm
 
 #setup
 load_dotenv()
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-INPUT_FILE = "data/processed/combined_clean.jsonl"
-OUTPUT_CSV = "outputs/baseline_groq.csv"
+file = open("Groq_api_key.txt", "r")
+key = file.read()
+client = Groq(api_key=key)
+
+INPUT_FILE = "data/combined_qa_dataset_800.jsonl"
+OUTPUT_CSV = "outputs/baseline_groq.csv"  
 MODEL_NAME = "llama-3.1-8b-instant"
 PROMPT_TEMPLATE = open("prompts/baseline.txt").read()
 
