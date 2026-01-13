@@ -1,8 +1,8 @@
-Answer the following Question in one line. Then, calculate your confidence in your answer as a number between 0 and 1 with chain of thought reasoning. In the next line, print your answer again. In the next line, print your confidence. 
+Answer the following Question in as little words as possible. Then, calculate your confidence in your answer as a number between 0 and 1 with chain of thought reasoning. In the next line, print your answer again. In the next line, print your confidence.
 Example:
-This is the answer. 
+Answer
 Reasoning about confidence
-This is the answer. 
+Answer
 0.5
 
 Here is the question: 

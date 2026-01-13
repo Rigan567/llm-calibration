@@ -11,27 +11,16 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR.parent / ".env")
 
-# file = open("Groq_api_key.txt", "r")
-# key = file.read()
+file = open("Groq_api_key.txt", "r")
+key = file.read()
 
-<<<<<<< HEAD
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = Groq(api_key=key)
 
-
-INPUT_FILE = "dataset/combined_qa_dataset_800.jsonl"
-OUTPUT_CSV = "outputs/baseline_groq.csv"  
-MODEL_NAME = "llama-3.1-8b-instant"
-# PROMPT_TEMPLATE = open("prompts/baseline.txt").read()
-# PROMPT_TEMPLATE = (BASE_DIR / "prompts" / "baseline.txt").read_text()
-PROMPT_VERSION="baseline"
-
-=======
 PROMPT_VERSION = "scientific"
 MODEL_NAME = "llama-3.1-8b-instant"
 
 INPUT_FILE = "combined_qa_dataset_800.jsonl"
 OUTPUT_CSV = f"outputs/{PROMPT_VERSION}_{MODEL_NAME}.csv"
->>>>>>> 804d4108681ecc68f8c9547f9dc93d39f30db92e
 
 
 # Experiment control
@@ -40,10 +29,7 @@ TARGET_SOURCES = {
     "Astro-QA_Judgement",   # True / False
     "HotpotQA",             # Multi-hop factoid
     "GlobalMedQA_EN",       # Medical MCQ
-<<<<<<< HEAD
-=======
     "TORQUE",               # Event / temporal
->>>>>>> 804d4108681ecc68f8c9547f9dc93d39f30db92e
     "TemporalQA"            # Temporal reasoning (if present)
 }
 
@@ -101,7 +87,6 @@ def main():
         }.get(row["type"])
         prompt_template = open(f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
 
-<<<<<<< HEAD
         type = {
             "Open ended": "open",
             "True or False": "true_false",
@@ -110,9 +95,6 @@ def main():
         }.get(row["type"])
         prompt_template = open(BASE_DIR/f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
 
-
-=======
->>>>>>> 804d4108681ecc68f8c9547f9dc93d39f30db92e
         prompt = prompt_template.format(question=question)
 
         response = client.chat.completions.create(

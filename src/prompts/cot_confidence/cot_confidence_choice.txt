@@ -1,8 +1,8 @@
 Answer the following single choice Question in one line. Then, calculate your confidence in your answer as a number between 0 and 1 with chain of thought reasoning. In the next line, print your answer again. In the next line, print your confidence. 
 Example:
-c) Text of choice c
+C: Text of choice c
 Reasoning about confidence
-c) Text of choice c
+C: Text of choice c
 0.5
 
 Here is the question: 

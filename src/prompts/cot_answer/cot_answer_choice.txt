@@ -3,7 +3,7 @@ Example:
 Reasoning 
 More reasoning based on prior reasoning
 Additional Reasoning leading to final answer choice c)
-c) Text of choice c
+C: Text of choice c
 0.5
 
 Here is the question: 
