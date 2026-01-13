@@ -13,10 +13,11 @@ file = open("Groq_api_key.txt", "r")
 key = file.read()
 client = Groq(api_key=key)
 
-INPUT_FILE = "data/combined_qa_dataset_800.jsonl"
-OUTPUT_CSV = "outputs/baseline_groq.csv"  
+PROMPT_VERSION = "scientific"
 MODEL_NAME = "llama-3.1-8b-instant"
-PROMPT_VERSION = "baseline"
+
+INPUT_FILE = "combined_qa_dataset_800.jsonl"
+OUTPUT_CSV = f"outputs/{PROMPT_VERSION}_{MODEL_NAME}.csv"
 
 
 # Experiment control
