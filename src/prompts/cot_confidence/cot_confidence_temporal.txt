@@ -1,0 +1,9 @@
+Answer the following Question in one line. The question is about when something happened. Your answer to the question should constist only of the events (verbs or nouns) in question. Then, calculate your confidence in your answer as a number between 0 and 1 with chain of thought reasoning. In the next line, print your answer again. In the next line, print your confidence. 
+Example:
+rose; graduated; meeting; crushes
+Reasoning about confidence
+rose; graduated; meeting; crushes
+0.5
+
+Here is the question: 
+{question}

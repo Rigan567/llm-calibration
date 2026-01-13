@@ -1,0 +1,10 @@
+Your task is to answer the following question with chain of thought reasoning. First, print your reasoning. Then, print your answer in one line. The question is about when something happened. Your answer to the question should constist only of the events (verbs or nouns) in question. In the last line, print a number between 0 and 1 representing your confidence in your answer.
+Example:
+Reasoning 
+More reasoning based on prior reasoning
+Additional Reasoning leading to final answer
+This is the final answer. 
+0.5
+
+Here is the question: 
+{question}
