@@ -1,4 +1,4 @@
-# src_combined/inference_groq_com.py
+# src_combined/inference_openai.py
 
 import os
 import pandas as pd
@@ -7,40 +7,37 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 from pathlib import Path
 
-#setup
+# =====================================================
+# Setup
+# =====================================================
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR.parent / ".env")
 
-# file = open("Groq_api_key.txt", "r")
-# key = file.read()
-
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-
-
+# =====================================================
+# Files & model  🔧 CHANGED
+# =====================================================
 INPUT_FILE = "dataset/combined_qa_dataset_800.jsonl"
-OUTPUT_CSV = "outputs/baseline_groq.csv"  
-MODEL_NAME = "llama-3.1-8b-instant"
-# PROMPT_TEMPLATE = open("prompts/baseline.txt").read()
-# PROMPT_TEMPLATE = (BASE_DIR / "prompts" / "baseline.txt").read_text()
-PROMPT_VERSION="baseline"
+OUTPUT_CSV = "outputs/baseline_gpt_oss_120b.csv"   # 🔧 CHANGED
+MODEL_NAME = "openai/gpt-oss-120b"                 # 🔧 CHANGED
+PROMPT_VERSION = "baseline"
 
-
-
+# =====================================================
 # Experiment control
-# Choosing 5 categories (sources)
+# =====================================================
 TARGET_SOURCES = {
-    "Astro-QA_Judgement",   # True / False
-    "HotpotQA",             # Multi-hop factoid
-    "GlobalMedQA_EN",       # Medical MCQ
-    "TemporalQA"            # Temporal reasoning (if present)
+    "Astro-QA_Judgement",
+    "HotpotQA",
+    "GlobalMedQA_EN",
+    "TemporalQA"
 }
 
 SAMPLES_PER_SOURCE = 2
 
-
-
-
+# =====================================================
+# Output parsing (unchanged)
+# =====================================================
 def parse_model_output(text):
     lines = [line for line in text.splitlines() if line.strip() != '']
     answer = lines[-2]
@@ -50,22 +47,17 @@ def parse_model_output(text):
         confidence = None
     return answer, confidence, text
 
-
+# =====================================================
 # Main inference loop
+# =====================================================
 def main():
-    # Load processed dataset
     df = pd.read_json(INPUT_FILE, lines=True)
 
-    # Ensure source exists
     if "source" not in df.columns:
-        raise ValueError(
-            "'source' column not found. "
-        )
+        raise ValueError("'source' column not found.")
 
-    # Keep only chosen categories
     df = df[df["source"].isin(TARGET_SOURCES)]
 
-    # Sample equally from each category
     df = (
         df.groupby("source", group_keys=False)
           .apply(lambda x: x.sample(min(len(x), SAMPLES_PER_SOURCE)))
@@ -77,33 +69,32 @@ def main():
 
     rows = []
 
-    # Run inference
     for _, row in tqdm(df.iterrows(), total=len(df)):
         question = row["question"]
         gold = row["answer"]
         source = row["source"]
-        type = {
+
+        q_type = {
             "Open ended": "open",
             "True or False": "true_false",
             "Multiple-choice": "choice",
             "temporal": "temporal",
         }.get(row["type"])
-        prompt_template = open(BASE_DIR/f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
 
-        type = {
-            "Open ended": "open",
-            "True or False": "true_false",
-            "Multiple-choice": "choice",
-            "temporal": "temporal",
-        }.get(row["type"])
-        prompt_template = open(BASE_DIR/f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
+        if q_type is None:
+            continue
 
+        prompt_template = open(
+            BASE_DIR / f"prompts_openai/{PROMPT_VERSION}/{PROMPT_VERSION}_{q_type}.txt"
+        ).read()
 
         prompt = prompt_template.format(question=question)
 
         response = client.chat.completions.create(
             model=MODEL_NAME,
-            messages=[{"role": "user", "content": prompt}]
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.0,
+            max_tokens=512,
         )
 
         text = response.choices[0].message.content.strip()
@@ -118,11 +109,10 @@ def main():
             "raw_response": raw
         })
 
-    # Save results
     os.makedirs("outputs", exist_ok=True)
     pd.DataFrame(rows).to_csv(OUTPUT_CSV, index=False)
     print(f"\n✅ Saved results -> {OUTPUT_CSV}")
 
-
+# =====================================================
 if __name__ == "__main__":
     main()
