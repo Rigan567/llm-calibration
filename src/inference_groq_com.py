@@ -11,8 +11,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR.parent / ".env")
 
-# file = open("Groq_api_key.txt", "r")
-# key = file.read()
+file = open("Groq_api_key.txt", "r")
+key = file.read()
 
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
@@ -97,7 +97,6 @@ def main():
             "temporal": "temporal",
         }.get(row["type"])
         prompt_template = open(BASE_DIR/f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
-
 
         prompt = prompt_template.format(question=question)
 

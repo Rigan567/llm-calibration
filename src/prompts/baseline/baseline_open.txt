@@ -1,6 +1,6 @@
-Answer the following Question in one line. In the next line, print a number between 0 and 1 representing your confidence in your answer. 
+Answer the following Question in as little words as possible. In the next line, print a number between 0 and 1 representing your confidence in your answer.
 Example:
-This is the answer.
+Answer
 0.5
 
 Here is the question: 

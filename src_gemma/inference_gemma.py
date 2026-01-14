@@ -12,10 +12,10 @@ load_dotenv(BASE_DIR.parent / ".env")
 
 
 
-# file = open("Groq_api_key.txt", "r")
-# key = file.read()
-# client = genai(api_key=key)
-api_key= os.getenv("GEMMA_API_KEY")
+file = open("Gemma_api_key.txt", "r")
+key = file.read()
+api_key = key
+# api_key= os.getenv("GEMMA_API_KEY")
 if not api_key:
     raise RuntimeError("GEMMA_API_KEY not found in .env")
 
@@ -23,12 +23,13 @@ genai.configure(api_key=api_key)
 
 
 
-INPUT_FILE = "dataset/combined_qa_dataset_800.jsonl"
-OUTPUT_CSV = "outputs/baseline_gemma.csv"  
+INPUT_FILE = "combined_qa_dataset_800.jsonl"
 MODEL_NAME = "gemma-3-4b-it"
+
 model = genai.GenerativeModel(MODEL_NAME)
 # PROMPT_TEMPLATE = (BASE_DIR / "prompts" / "baseline.txt").read_text()
 PROMPT_VERSION="baseline"
+OUTPUT_CSV = f"outputs/{PROMPT_VERSION}_{MODEL_NAME}.csv"
 
 
 # Experiment control
