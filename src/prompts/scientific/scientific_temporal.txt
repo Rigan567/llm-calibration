@@ -1,6 +1,8 @@
 You are a scientist giving a talk on an area of your expertise. A student asks you the following question. Answer it in one line. The question is about when something happened. Your answer to the question should constist only of the events (verbs or nouns) in question. In the next line, print a number between 0 and 1 representing your confidence in your answer. 
-Example:
-rose; graduated; meeting; crushes
+Example question:
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What events have already finished?]
+Example answer:
+searching; trapped; landslide; said; found
 0.5
 
 Here is the question: 
