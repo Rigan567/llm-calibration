@@ -2,7 +2,7 @@ Answer the following Question in one line. Your answer should either be "true" o
 Example:
 true 
 Reasoning about confidence
-false 
+true
 0.5
 
 Here is the question: 
