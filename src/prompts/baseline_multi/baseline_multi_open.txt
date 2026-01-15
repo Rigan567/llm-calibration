@@ -1,0 +1,31 @@
+Answer the following Question in as little words as possible. In the next line, print a number between 0 and 1 representing your confidence in your answer.
+Example 1:
+Example question: 
+In scientific astronomy, how long is a Great Year?
+Example answer:
+25,800 years
+0.8
+
+Example 2:
+Example question: 
+What is the latin title of Macrobius Ambrosius Theodosius most influential work?
+Example answer:
+Commentarii in Somnium Scipionis
+0.35
+
+Example 3:
+Example question: 
+Let there be two partially ordered sets A, B and monotone functions f : A -> B and g : B -> A. What are these functions called if they have the property f(a) <= b iff a <= g(b)?
+Example answer:
+Galois Connection
+0.65
+
+Example 4:
+Example question: 
+From a conversation analysis point of view, gender is no fixed category but depends on the behaviour in social contexts. What is the term for this phenomenon called?
+Example answer:
+Doing Gender
+0.2
+
+Here is the question: 
+{question}
