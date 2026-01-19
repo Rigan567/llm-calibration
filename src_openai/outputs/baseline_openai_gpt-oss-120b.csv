@@ -1,0 +1,1151 @@
+question,gold,pred,confidence,source,raw_response
+The important feature of chaotic systems is that very small changes in initial conditions can lead to large differences in final states. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The core of M87 contains a massive black hole. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"Liu Yong's ""Where to Wake from the Wine Tonight, on the Willow Bank in the Morning Breeze and the Fading Moon"" describes the phase of the moon known as the waning crescent. ",True,false,0.65,Astro-QA_Judgement,"false
+0.65"
+"The apparent brightness of all stars when placed at the same standard distance is referred to as ""true brightness"". ",True,false,0.97,Astro-QA_Judgement,"false
+0.97"
+"The reason why humans speculate the existence of ""dark energy"" is that the accelerating expansion of the universe contradicts the mutual attraction of gravity, and current knowledge cannot explain the energy that drives this expansion. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The volume differences between stars are much greater than their mass differences. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"On the moon, artificial satellite phenomena can be observed. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+Galileo was the first person to use a telescope to observe celestial bodies and achieve significant results. ,True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+The phenomenon of the seasons is due to the Earth's revolution combined with the tilt of its axis of rotation. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Analyzing the composition of organic compounds in meteorites can reveal the presence of prebiotic materials in the universe. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"An astronomer passed away in a car accident, and his ashes were sent to the moon. ",True,N/A,,Astro-QA_Judgement,
+The Voyager spacecraft carried a golden record inscribed with a variety of sounds from nature and human societies on Earth. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The two discoverers of the 3K cosmic background radiation were originally satellite communication engineers. ,True,false,0.96,Astro-QA_Judgement,"false
+0.96"
+Cygnus A (A Cyg) is an explosive galaxy. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+Black holes formed from the collapse of stars are smaller in volume than neutron stars and rotate faster than 5000 rotations per second. ,False,N/A,,Astro-QA_Judgement,
+"The relationship within a scattered star cluster is relatively loose, without a regular shape. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The formation of Uranus's peculiar seasons is due to its unique rotational characteristics. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"Venus rotates ""backwards"" (clockwise). ",True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The Bullet Cluster (1E0657-56) holds significant value in astronomy as it is the first celestial system where the existence of dark matter was directly confirmed. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The constellation of the Turtle still exists. ,False,false,0.86,Astro-QA_Judgement,"false
+0.86"
+"According to ancient Chinese records, the characteristics of supernova explosions include their sudden appearance, exceptional brightness, and long duration. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"According to calculations by solar physicists, the lifespan of the Sun should be about 5 billion years. ",False,false,0.78,Astro-QA_Judgement,"false
+0.78"
+"To date, only the United States has achieved close-range exploration around Mars. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+It is estimated that there should be 1 million stellar black holes in the Milky Way. ,True,false,0.82,Astro-QA_Judgement,"false
+0.82"
+"The formation of a black hole must involve a spatial boundary where photons cannot escape, known as the event horizon. ",True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The reason why Type Ia supernovae are used as standard cosmic candles is that their brightness is constant when they explode. ,True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+The advent of artificial satellites has provided excellent opportunities for the study of cosmic rays. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Aurora is a phenomenon caused by the activity of solar wind particles. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The acceleration due to gravity is the same at different locations on Earth. ,False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+"In determining the direction of the night sky's diurnal motion, the left-handed spiral system is only effective for the starry sky observed in the Southern Hemisphere. ",False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+The Galileo probe only reached the surface of Jupiter. ,True,false,0.97,Astro-QA_Judgement,"false
+0.97"
+The sun is currently a main sequence star on the Hertzsprung-Russell diagram. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"The spectral characteristics of blackbody radiation are only related to the material of the blackbody, and are not related to temperature. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+NASA astronauts play golf on the moon. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The history of human civilization is 6 orders of magnitude shorter than the history of the Earth. ,True,false,0.86,Astro-QA_Judgement,"false
+0.86"
+The light emitted by a nebula is a type of electromagnetic radiation. ,False,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Europa may be tidally locked. ,False,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Galactic black holes are the products of stars that have evolved to the end of their lives. ,False,false,0.82,Astro-QA_Judgement,"false
+0.82"
+"In 1801, Ceres was once classified as one of the eight major planets in the solar system. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+New stars are a class of variable stars. ,True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+The horizon refers to the physical boundary of a black hole. ,False,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"In bright nebulae, the red ones are emission nebulae and the blue ones are reflection nebulae. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The Gnomon was an ancient astronomical instrument used to observe the trajectory of the moon. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The habitable zones of planetary systems around stars of different spectral types are all located at the same distance. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+There are asteroids named Tom Hanks and Meryl. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The formulas for calculating the redshift Z in both classical mechanics and special relativity are approximately interchangeable when dealing with celestial bodies whose recessional velocities are much less than the speed of light (v << c). ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The constellation of the Toad still exists today. ,False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+The annual motion of the stars is caused by the Earth's revolution around the Sun. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The asteroid belt is located between Mars and Jupiter. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Aurora can be observed on the moon. ,False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+The transit method generally tends to discover larger exoplanets more easily. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The earliest physical evidence of dragon totem was unearthed from an ancient tomb in Puyang, Henan in 1987. ",True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"The Milky Way is capable of rotation, and different parts rotate at varying speeds. ",True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The Bullet Cluster (1E0657-56) holds significant value in the field of astronomy as it is the first celestial system where the existence of dark matter was directly confirmed. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The duration of an annular eclipse cannot exceed 11 minutes. ,False,false,0.93,Astro-QA_Judgement,"false
+0.93"
+The value of Hubble's constant varies in different historical periods. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The absence of evidence for extraterrestrial life does not constitute evidence for the absence of extraterrestrial life. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Astronauts on the International Space Station become weightless because there is no gravity in space. ,False,false,0.98,Astro-QA_Judgement,"false
+0.98"
+Meteor phenomena can be observed on the moon. ,False,true,0.78,Astro-QA_Judgement,"true
+0.78"
+"Due to the harsh environment of Venus, no spacecraft has landed on its surface. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+A solar eclipse can be observed both on Earth and Mars. ,False,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"Throughout their lives, stars generate outward pressure through nuclear fusion reactions to counteract the immense gravitational force pulling inward. ",True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The discovery of cosmic background radiation is a direct negation of the Big Bang theory. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"Scientists have collected a library of sounds and images, which they have sent into space for aliens to find. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"The unity and opposition of diversity and uniformity in biology are essentially issues of gene composition, sequence, and expression. ",True,true,0.7,Astro-QA_Judgement,"true
+0.7"
+"Due to the barriers of time and space, exploring extraterrestrial civilizations is incredibly challenging. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+There are two intermittently erupting giant plumes of water on Europa. ,True,false,0.8,Astro-QA_Judgement,"false
+0.8"
+The magnitude and spectral type of Cygnus X-1 are data pertaining to the giant star in a black hole-giant binary system. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The annual apparent motion of the Sun is not an actual movement of the Sun, but a reflection of the Earth's revolution. ",True,true,0.98,Astro-QA_Judgement,"true
+0.98"
+The constellation Lyra still exists. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The Hubble relation indicates that the recessional velocity of a galaxy is directly proportional to its distance. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Free neutrons will combine with protons to directly form helium atoms. ,False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+The ability for a spacecraft to land on a planet largely depends on whether the planet has a dense atmosphere. ,True,false,0.86,Astro-QA_Judgement,"false
+0.86"
+"""Open Universe"" refers to the outcome of the universe continuing to expand indefinitely, whereas ""Closed Universe"" describes the scenario where the universe expands to a certain limit and then begins to contract again. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The term ""Big Bang Model"" was first actively conceived by people like Gamow. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"As you travel from Beijing to Guangzhou, with the decrease in latitude, the position of the North Star in the night sky rises accordingly. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"Based on the observations from Gamma-ray Spectrometers and Neutron Spectrometers, Mars may have experienced large-scale climate change. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The TESS telescope can only observe one area for 27 days. ,True,true,0.75,Astro-QA_Judgement,"true
+0.75"
+There is a celestial object named 'Oumuamua. ,True,true,1.0,Astro-QA_Judgement,"true
+1.0"
+There is a certain scientific basis for constellation fortune-telling. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The ""waxing crescent"" in the astronomical and meteorological sense appears in the evening - ""the waning moon reflects the afterglow."" ",False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"Around 21:00 at night, observe the Big Dipper with its handle pointing east, which indicates it is currently autumn. ",False,N/A,,Astro-QA_Judgement,
+Earth also has Trojan asteroids. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Zodiac constellations can only be observed in the northern hemisphere. ,False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+The Kuiper Belt objects include Pluto. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Phobos is likely to gradually approach Mars. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"Humans take pictures of galaxies, whether on the ground or in space, and there is always only one angle to shoot from. ",True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+A nova is a newly born star. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+Newton was a renowned British physicist who proposed the law of universal gravitation and Newton's laws of motion. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"Currently, the detection of black holes is still in a challenging phase. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+"In the movie ""Interstellar,"" a black hole would need to be accompanied by a white hole (if they indeed exist) in order for human spacecraft to travel back and forth. ",True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"In the painting ""The Universe is a Snake Biting Its Own Tail,"" the head and tail of the snake correspond to the scale of the universe (10^32 meters) and the scale of microscopic particles (10^(-27) meters), respectively. These two scales are closely interconnected. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+The constellation Lepus still exists today. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Astronauts grow taller in space. ,True,true,0.96,Astro-QA_Judgement,"true
+0.96"
+Sirius is the nearest star to the Sun. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+Total solar eclipses will cease to exist after 100 million years. ,False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"""The East has Venus, the West has Mercury"" - The stars referred to as the Morning Star and the Evening Star in the ""Book of Songs"" are respectively Mercury and Venus. ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+The basis for determining exoplanets through the transit method is that there is a slight decrease in the brightness of the star when the planet transits. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Can we distinguish Mare Crisium (with a diameter of 520km) on Earth with the naked eye? ,True,false,0.97,Astro-QA_Judgement,"false
+0.97"
+There is a nebula named after Pac-Man. ,True,true,0.65,Astro-QA_Judgement,"true
+0.65"
+The experiment on the Eiffel Tower demonstrated that the ionizing radiation measured at Earth's surface comes from space. ,False,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"The Moon belongs to the United States, and the U.S. has held sovereignty over it since 1969. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+Gan De is the compiler of the oldest star catalog in the world and the earliest discoverer of Jupiter's third moon. ,True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+Diffuse nebulae are made up of stars. ,False,false,0.98,Astro-QA_Judgement,"false
+0.98"
+"The world of stars is similar to that of humans, as the length of life does not necessarily correlate with size. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"Dark lines in the spectra of the Sun and stars represent the distribution, abundance, and pressure of elements in the atmosphere. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The IAU-SETI has successively conducted communication with the universe through the 21cm band and the radio band, but so far it has gained nothing. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"Among the major space telescopes, those with infrared detection and imaging capabilities include the ""Hubble"" and ""Spitzer"" telescopes. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+Sunspots can be observed on the moon. ,True,false,0.99,Astro-QA_Judgement,"false
+0.99"
+The criterion for determining whether a lunar month is a leap month is that there is no Zhongqi in this month. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The footprints of American astronauts on the moon have been erased by the wind. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"The initial ratio of matter to antimatter particles was (1 billion + 1):1 billion, with the extra ""1"" of matter particles escaping the fate of annihilation, thus constituting the material world we see today. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The retrograde motion of planets posed a significant challenge to the geocentric theory. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"Unlike lunar eclipses, the timing and degree of a solar eclipse vary by location. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"After the ionization of the Martian atmosphere, it will not be carried away from Mars by the solar wind. ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"When reaching the surface of a black hole, the degree of time dilation is 0. ",False,false,0.75,Astro-QA_Judgement,"false
+0.75"
+"During its journey to Saturn, the Cassini spacecraft underwent four accelerations at Venus, Earth, and Jupiter. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"When ""King Wu's campaign against Zhou"" embarked on their journey, a comet appeared with its head pointing east and tail pointing west. It was at dusk. ",False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"A large number of photons (energy) collide at extremely high temperatures to produce matter and antimatter particles, while matter and antimatter particles also annihilate into energy. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Positive and negative virtual particle pairs produced by vacuum phase transitions generate the effect of black hole evaporation inside and outside the event horizon. ,True,false,0.82,Astro-QA_Judgement,"false
+0.82"
+"The lunar calendar is the Chinese agricultural calendar, while the solar calendar is the foreign Gregorian calendar. ",False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"There indeed exist many extragalactic systems in the universe, similar to the Milky Way. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Cerberus is still in existence. ,False,false,0.71,Astro-QA_Judgement,"false
+0.71"
+"The latest record of a supernova occurred during the Ming Dynasty in China, and since then, no supernova has been observed in the Milky Way. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The Sun does not belong to any star cluster. ,True,true,0.96,Astro-QA_Judgement,"true
+0.96"
+The Moon rotates on its axis 90 degrees as it orbits the Earth by 90 degrees. ,True,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The space volume enclosed by the gravitational radius calculated through the Schwarzschild formula is a black hole. ,True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+The first prediction of a solar eclipse was made a long time ago. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+There are more stars in the universe than there are grains of sand on all the beaches on Earth. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"In modern times, the constellation in which the Sun is located at the vernal equinox is Aries. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The astronomical community considers Edwin Hubble to be the astronomer who made the greatest contributions from the 19th to the 20th century. ,True,false,0.82,Astro-QA_Judgement,"false
+0.82"
+"Photos of star clusters and other deep-space objects taken by large telescopes, with various pale or dazzling colors, are all visible to the human eye. ",False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+"On Venus, the Sun rises in the west and sets in the east. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Rainbows are one of the most common phenomena in nature related to the solar spectrum. ,True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+"It is not galaxies that are moving away from each other through space; rather, it is space itself that is expanding. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The annual apparent motion of the Sun shows that the Sun rotates 180° each year. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+The temperature of a star can be determined by its color. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Olympus Mons is the tallest mountain in the solar system. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The maximum number of solar and lunar eclipses that can occur in the same year is seven. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"When Neptune was first discovered, its discoverer proposed naming it George III's star. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"Can we distinguish the Moscow Sea (Mare Moscoviense, with a diameter of 275km) on Earth with the naked eye? ",False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+"After Emperor Wu of Han, the ""beginning of the year"" in traditional Chinese calendar was set to be the month where the spring equinox occurs. ",False,N/A,,Astro-QA_Judgement,
+"In the apparent annual motion of the Sun, the duration of the Sun's stay in each zodiacal constellation varies. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"On Earth, humans cannot directly observe artificial satellites with the naked eye. ",False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+Saturn is the only planet in the solar system with rings. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"The so-called singularity is the upper limit of time, and it lacks space; both temperature and density tend towards infinity. ",True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"On the moon, it is possible to observe the phenomenon of a rainbow. ",False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+"Among the planets, Neptune has the lowest density and is said to be able to float on seawater. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"The famous line by Su Dongpo, ""Entrusting the ephemeral mayfly to the universe, a mere grain in the vast sea"", the first sentence reflects the huge contrast between different scales of time, while the latter sentence reflects it in terms of space. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"In Liu Cixin's novel ""The Three-Body Problem,"" when two suns appear in the sky of the three-body world, the three-body people must dehydrate to cope. ",True,false,0.78,Astro-QA_Judgement,"false
+0.78"
+Visual binary stars are those that can be observed directly with the naked eye. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+Wilson's experiment confirmed the presence of a large amount of ionizing radiation on the surface of the Earth. ,True,true,0.75,Astro-QA_Judgement,"true
+0.75"
+Detectors for detecting dark matter particles can work in outer space or deep underground. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The constellation of Owl still exists. ,False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"Thermal nuclear reactions inside stars only have one level of ""H→He fusion"". ",False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+The sun does not have a tidal effect on the earth. ,False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+"Currently, astronomers have not yet identified the specific causes for the formation of cluster-scale black holes. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"Planets, stars, and galaxies make up only 5% of all matter in the universe. ",True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+Giordano Bruno was the first person to observe the stars with a telescope. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"It was not until 1968 that the term ""black hole"" was coined by American astrophysicist John Wheeler, sparking widespread interest in the concept. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+There is an observatory called the Very Large Telescope. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"In the structure of the human body, parts such as teeth, eyes, and limbs exhibit ""symmetry"", while tissues like the digestive system and endocrine system demonstrate ""asymmetry"". ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"Higher temperatures can cause a decrease in the signal-to-noise ratio, resulting in signal distortion. Therefore, it is necessary to maintain low temperatures for antenna facilities. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+Red giants are stars in a later stage of development compared to the Sun. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The statement ""When the sun sets, it's dusk; when the crescent moon sets, it's dawn"" contradicts the natural laws of lunar phases. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"Light is both a particle and a wave, this is the dual nature of light. ",True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The Sun contains 99.8% of the mass in the entire solar system. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The effects of length contraction and time dilation refer to the phenomenon where spatial dimensions and temporal scales are not consistent across different motion systems or in varying gravitational fields. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The asteroid belt is primarily composed of rocks and metals. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+There are a maximum of four solar eclipses that can occur in a year. ,False,N/A,,Astro-QA_Judgement,
+The primary mission of the Phoenix Mars Lander is to uncover the origin of frozen water on Mars. ,True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+The constellation of the Reindeer still exists today. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"Solar eclipses can only occur during the ""full moon,"" which is between the 15th and 16th day of the lunar calendar. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"When comparing exoplanets to Earth, the focus is generally on its mass, diameter, distance from the star, whether it is located in the habitable zone, and its orbital period. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"According to Wien's law, by conducting spectrophotometric measurements on a star, one can indirectly determine its mass. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"Kant, as a famous German philosopher, his grave site in Germany is also well protected. ",False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"Until 2007, Russian cosmonauts carried firearms into space. ",True,N/A,,Astro-QA_Judgement,
+"Titan is the only moon in the solar system with liquid on its surface, besides Earth. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"According to the generally accepted path of galaxy evolution, the formation of the Milky Way is likely to have gone through the path of quasar-Seyfert galaxy-Milky Way. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"Cepheid variable stars and RR Lyrae variables are both types of unstable stars that do not fall within the main sequence, where 90% of stars reside. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+One of the primary missions of the Kepler Space Telescope is to search for Earth-like planets. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"There is a celestial body named ""Great Wall"". ",True,false,0.92,Astro-QA_Judgement,"false
+0.92"
+Interacting galaxies are a classification of active galaxies. ,True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+Astronomical observations have discovered the existence of white holes. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"More than 100,000 meteorites fall to Earth each day. ",False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+Astronauts are sent into space to prevent a collision between an asteroid and the Earth. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The rise and fall of the tides is caused by the gravitational pull of the moon and the sun. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"A dwarf planet has been provisionally named ""Santa Claus."" ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"If you cry in space, your tears will just float upwards. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"Both Europa and Enceladus have surfaces covered by thick ice layers, beneath which there is liquid water. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The greater the value of an astronomical body's ""apparent magnitude,"" the dimmer its apparent brightness. ",True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+An astronaut flew towards the sun and disappeared. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"The mass of a star only affects the lifespan of the star, not its luminosity. ",False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+Venus is sometimes visible during the day. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"Because the main components of diffuse nebulae are gas and dust, their overall mass is large, but their density is very low. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"Astronomers believe that among various galaxies, the most active are quasars. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The synodic month is shorter than the sidereal month. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+The moon always presents the same face to the Earth. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"The sheep Dolly and the movie ""Jurassic Park"" both reflect the technology of biological cloning. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The most advanced method of measuring stellar brightness today is essentially the same principle as taking a photograph with a digital camera. ,True,true,0.7,Astro-QA_Judgement,"true
+0.7"
+"""If heaven had feelings, it would also grow old"" is a line of poetry written by Li He, a poet from the Tang Dynasty. ",True,false,0.82,Astro-QA_Judgement,"false
+0.82"
+"We can calculate the true brightness of a Cepheid variable star by measuring its period of light variation, and then use the period-luminosity relationship to determine its distance from us. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"About the unit of distance, 1 astronomical unit is larger than 1 parsec. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+Noctilucent clouds can be observed on the Moon. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"The volume of Titan is smaller than Mercury's, but it weighs more than Mercury. ",False,false,0.98,Astro-QA_Judgement,"false
+0.98"
+"Currently, there are no human-made probes that have traveled beyond the solar system. ",False,false,0.98,Astro-QA_Judgement,"false
+0.98"
+"The name ""Scorpio"" was imagined by the ancient Egyptians. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The diameter of the moon: The distance between theThe diameter of the moon: The distance between the The diameter of the sun: The distance between the moon and the earth = The diameter of the sun: The distance between the sun and the earth. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The hydrogen fusion in the Sun essentially occurs in its radiation zone. ,False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+Large moons of Jupiter and Saturn may also have volcanic and geological activity. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The greater the mass of a star, the longer its lifespan. ",False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+There is a celestial body named Gordonia. ,True,true,0.7,Astro-QA_Judgement,"true
+0.7"
+There is a celestial object named Nirn. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"Just like on Earth, astronauts aboard the International Space Station experience one sunrise and one sunset each day. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+Astronauts left 96 bags of human waste on the moon. ,True,true,0.7,Astro-QA_Judgement,"true
+0.7"
+"So far, humanity has attempted over 50 Mars exploration missions. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"The reason for adopting the ""lying down to watch the Cowherd and Weaver Girl stars"" posture is because when the two stars rise high in the sky, their altitude is quite significant, making it unsuitable for prolonged viewing while standing or sitting. ",True,false,0.82,Astro-QA_Judgement,"false
+0.82"
+"A ring galaxy is formed when two galaxies create a circular structure, perturbing each other. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+Two astronauts attempt to survive in outer space after their spacecraft is destroyed. ,False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The local group refers to the cluster of galaxies that includes the Milky Way and several surrounding galaxies. ,True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"In ancient times, people gained important insights for farming or nomadism by observing the movements of the sun, moon, and stars. ",True,true,0.98,Astro-QA_Judgement,"true
+0.98"
+"James Hopwood Jeans theoretically proved the ""Jeans Instability"". ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The most fundamental thermonuclear reaction in the Sun is the process where four helium nuclei are fused into one hydrogen nucleus under high temperature and pressure. ,False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+"In galaxies, the stars located closer to the edges tend to move at speeds that are closer to the maximum velocity, which is inconsistent with the system predicted by Kepler's laws. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The origin of earthquakes is mostly due to crustal movement. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"Saturn's moon, Pan, is the smallest known member of Saturn's satellite family. ",True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+Saturn's rings are composed of various sizes of ice particles. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"The critical density of the universe is 10×10^(-30)g/cm^3, while the currently measured average density of all visible matter in the universe is 0.25×10^(-30)g/cm^3, so the fate of the universe is definitely an open universe. ",False,false,0.93,Astro-QA_Judgement,"false
+0.93"
+"The first words sent into space were: ""Peace, Lenin, Soviet Union"". ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"In the measurement of stellar radial velocities, when the spectral lines are redshifted, this indicates that the star is moving away from the point of view. ",True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"Mars has no volcanic eruptions, which leads to the rapid dissolution of carbon dioxide in the air into water and its deposition as limestone. ",True,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The Large Magellanic Cloud is visible from the Northern Hemisphere. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The Milky Way is classified as a spiral galaxy. ,False,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"In addition to planets, dwarf planets, and satellites, all other celestial bodies that orbit the Sun are defined as ""small solar system bodies"". ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"Hawking believed that the characteristic of time, which cannot go backward but only forward, is inviolable. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+The brightness of Haumea changes rapidly over time. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"Compared to ordinary novae, supernovae have higher luminosity. ",True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"According to calculations, the current age of Earth is over 6 billion years. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+The difference in gravitational pull from Earth at the two ends of the Moon causes the Moon's rotation to gradually slow down. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"""Stellar fetuses"" - protostars are extremely hot and emit intense ultraviolet radiation. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+Planets located in the habitable zone of larger mass stars (greater than the mass of the Sun) may perish before intelligent life can emerge. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The planets of Feiyuen were discovered through direct imaging. ,True,false,0.73,Astro-QA_Judgement,"false
+0.73"
+The discovery of the Uranus rings was in 1977. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+Some solar system planets have never been approached by spacecraft. ,False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+Stars are born in nebulae. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+The constellation of Electrical Machinery still exists today. ,False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"Throughout the entire solar system, the Moon is the fifth largest satellite in terms of diameter. ",True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"Compared to planets, comets have orbits that are closer to circular. ",False,false,0.99,Astro-QA_Judgement,"false
+0.99"
+Cat constellation still exists. ,False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"Compared to Neptune, Uranus has more intense atmospheric dynamics. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+Most conservative method of root end preparation is by: [Options: A: Round bur.; B: Sonic.; C: Ultrasonic.; D: Laser.],D: Laser.,c) Ultrasonic.,0.88,GlobalMedQA_EN,"c) Ultrasonic.
+0.88"
+Acetylcholine is the neurotransmitter in the cholinergic neurons. What is the precursor that acetylcholine is derived from? [Options: A: Dicholine; B: Tyrosine; C: Cholic acid; D: Choline],D: Choline,d) Choline,0.99,GlobalMedQA_EN,"d) Choline
+0.99"
+Niacin is synthesized from- [Options: A: Arginine; B: Histidine; C: Tryptophan; D: Tyrosine],C: Tryptophan,c) Tryptophan,0.99,GlobalMedQA_EN,"c) Tryptophan
+0.99"
+The treatment of choice in a 56 years old woman with endometrial cancer is : [Options: A: Irradiation; B: Weheim's hysterectomy; C: Pan hysterectomy; D: Irradiation and later panhysterectomy],C: Pan hysterectomy,c) Pan hysterectomy,0.85,GlobalMedQA_EN,"c) Pan hysterectomy
+0.85"
+Which of the following is not found in meningococci [Options: A: Capsule; B: Lipopolysacchride; C: Plasmid; D: Pili],C: Plasmid,c) Plasmid,0.78,GlobalMedQA_EN,"c) Plasmid
+0.78"
+Contraindicated in head injury - [Options: A: Halothane; B: Ketamine; C: N2O; D: Propofol],B: Ketamine,B: Ketamine,0.7,GlobalMedQA_EN,"B: Ketamine
+0.7"
+Multifactorial causation of disease theory was proposed by [Options: A: Louis Pasteur; B: Pettenkofer; C: Robe Koch; D: Aristotle],B: Pettenkofer,b) Pettenkofer,0.97,GlobalMedQA_EN,"b) Pettenkofer
+0.97"
+Circle of Willis is not formed by: TN 11 [Options: A: Anterior choroidal aery; B: Anterior cerebral aery; C: Posterior cerebral aery; D: Anterior communicating aery],A: Anterior choroidal aery,a) Anterior choroidal artery,0.99,GlobalMedQA_EN,"a) Anterior choroidal artery
+0.99"
+Who is the founder of Electron microscope? [Options: A: Antonie Philips van Leeuwenhoek; B: Ernst Ruska; C: Robe Koch; D: Louis Pasteur],B: Ernst Ruska,b) Ernst Ruska,0.99,GlobalMedQA_EN,"b) Ernst Ruska
+0.99"
+"At the age of 9 years, the number of permanent teeth is - [Options: A: 12; B: 16; C: 20; D: 24]",B: 16,A: 12,0.85,GlobalMedQA_EN,"A: 12
+0.85"
+Missed IUD (IUCD) is recognized by [Options: A: X-Ray; B: USG; C: Barium meal; D: CT Scan],B: USG,A: X-Ray,0.85,GlobalMedQA_EN,"A: X-Ray
+0.85"
+Standarised moality rate is standardised for [Options: A: Age; B: Disease; C: Region; D: A paicular time period],A: Age,a) Age,0.97,GlobalMedQA_EN,"a) Age
+0.97"
+Microcephaly is seen in [Options: A: Autistic disorder; B: Heller's disease; C: Rett's disease; D: Asperger's syndrome],C: Rett's disease,c) Rett's disease,0.95,GlobalMedQA_EN,"c) Rett's disease
+0.95"
+Fastest acting nondepolarizing neuromuscular blocker- [Options: A: Rocuronium; B: Pancuronium; C: Succinylcholine; D: Mivacurium],A: Rocuronium,A) Rocuronium,0.97,GlobalMedQA_EN,"A) Rocuronium
+0.97"
+Time interval betwen inoculation of infection to maximum infectivity is - [Options: A: Lead time; B: Median incubation period; C: Generation time; D: Serial inverval],C: Generation time,N/A,,GlobalMedQA_EN,
+FNAC is least diagnostic in which thyroid carcinoma: [Options: A: Anaplastic; B: Papillary; C: Follicular; D: Thyroiditis],C: Follicular,c) Follicular  ,0.95,GlobalMedQA_EN,"c) Follicular  
+0.95"
+PICA is associated with poisoning of ? [Options: A: Lead; B: Arsenic; C: Mercury; D: Phosphorus],A: Lead,A) Lead,0.85,GlobalMedQA_EN,"A) Lead
+0.85"
+High air flow oxygen enriched devices [Options: A: Are variable performance devices; B: Deliver constant concentrations of oxygen; C: Require oxygen entrainment; D: Require closed face masks.],B: Deliver constant concentrations of oxygen,N/A,,GlobalMedQA_EN,
+Neuroendocrine cells in the lungs are: [Options: A: Dendritic cells; B: Type I pneumocytes; C: Type II pneumocytes; D: APUD cells],D: APUD cells,D: APUD cells,0.97,GlobalMedQA_EN,"D: APUD cells
+0.97"
+Split lacerations are due to: DNB 09 [Options: A: Blunt object; B: Sharp object; C: Sharp heavy object; D: Pointed object],A: Blunt object,c) Sharp heavy object,0.93,GlobalMedQA_EN,"c) Sharp heavy object
+0.93"
+"In hereditary spherocytosis mutation, not seen is? [Options: A: Ankyrin; B: Spectrin; C: Band-3; D: Na+  Cl- channel protein]",D: Na+  Cl- channel protein,d) Na+ Cl⁻ channel protein,0.97,GlobalMedQA_EN,"d) Na+ Cl⁻ channel protein
+0.97"
+"A 62-year-old man is brought to the emergency department because of syncope. He reports sudden onset of palpitations followed by loss of consciousness while carrying his groceries to his car. He is unable to recall any further details and does not have any chest pain or dizziness. He has a history of hypertension, type 2 diabetes mellitus, gastroparesis, and osteoarthritis of the knees. Medications include lisinopril, metformin, and ondansetron as needed for nausea. He also takes methadone daily for chronic pain. Apart from an abrasion on his forehead, he appears well. His temperature is 37.2 °C (98.9 F), heart rate is 104/min and regular, and blood pressure is 135/70 mm Hg. While he is in the emergency department, he loses consciousness again. Telemetry shows polymorphic ventricular tachycardia with cyclic alteration of the QRS axis that spontaneously resolves after 30 seconds. Results of a complete blood count, serum electrolyte concentrations, and serum thyroid studies show no abnormalities. Cardiac enzymes are within normal limits. Which of the following is the most likely underlying cause of this patient's syncope? [Options: A: Prolonged QT interval; B: Fast accessory conduction pathway; C: Prinzmetal angina; D: Brugada syndrome; E: Hypomagnesemia
+""]",A: Prolonged QT interval,A: Prolonged QT interval  ,0.97,GlobalMedQA_EN,"A: Prolonged QT interval  
+0.97"
+Acceptable noise level in hospital wards [Options: A: 20 - 35dB; B: 35 - 40 dB; C: 45-55dB; D: 50-60dB],A: 20 - 35dB,A: 20 - 35dB,0.9,GlobalMedQA_EN,"A: 20 - 35dB
+0.9"
+Upper segment: lower segment ratio in 3 year old child - [Options: A: 1[?]1:1; B: 1[?]5:1; C: 1[?]3:1; D: 1[?]7:1],C: 1[?]3:1,A) 1:1,0.97,GlobalMedQA_EN,"A) 1:1
+0.97"
+Which of the following is a component of Coenzyme A? [Options: A: 3 Alanine; B: Glycine; C: Pyrrolysine; D: Selenocysteine],A: 3 Alanine,N/A,,GlobalMedQA_EN,
+"A 35 year old female, mother of a Down's syndrome child, became pregnant. Amniocentesis is done to rule out Down's syndrome in the second child. What is the appropriate time for doing amniocentesis? [Options: A: 6-Apr; B: 12-Aug; C: 17-Dec; D: 20-28]",C: 17-Dec,N/A,,GlobalMedQA_EN,
+Amotivation syndrome caused by [Options: A: Cannabis abuse; B: Opioid abuse; C: Alcohol abuse; D: Heroin abuse],A: Cannabis abuse,A: Cannabis abuse,0.97,GlobalMedQA_EN,"A: Cannabis abuse
+0.97"
+Herpes - Zoster is caused by - [Options: A: Herpes - simplex type I; B: Herpes - simplex type II; C: Epstein - barr virus; D: Varicella],D: Varicella,d) Varicella,0.99,GlobalMedQA_EN,"d) Varicella
+0.99"
+Brown - sequard syndrome - [Options: A: Pain loss in the opposite side of lesion; B: Fine touch lost in opposite side of lesion; C: UMN paralysis in opposite side of lesion; D: LMN paralysis in opposite side of lesion],A: Pain loss in the opposite side of lesion,A) Pain loss in the opposite side of lesion  ,0.97,GlobalMedQA_EN,"A) Pain loss in the opposite side of lesion  
+0.97"
+Bicalutamide is a specific inhibitor of - [Options: A: 5-alpha reductase; B: Androgen receptors; C: Aromatase; D: Estrogen receptor],B: Androgen receptors,b) Androgen receptors,0.99,GlobalMedQA_EN,"b) Androgen receptors
+0.99"
+Enzyme needed in leucocytes for production of hypochlorite ? [Options: A: NADPH oxidase; B: Myeloperoxidase; C: Catalase; D: Superoxide dismutase],B: Myeloperoxidase,b) Myeloperoxidase,0.97,GlobalMedQA_EN,"b) Myeloperoxidase
+0.97"
+"A 7 year presented with intermittent abdominal cramps, loose stools and on stool examination ova of size 100 micrometre is seen. Which is not the cause? [Options: A: Fasciola gigantic; B: Echinostorum ileocaxnum; C: Gastrodiscoides hominis; D: Opisthorcis viverrani]",D: Opisthorcis viverrani,d) Opisthorcis viverrani,0.85,GlobalMedQA_EN,"d) Opisthorcis viverrani
+0.85"
+Therapeutic level of lithium is: [Options: A: 5-Jan; B: 10-May; C: 15-Oct; D: 15-20],C: 15-Oct,N/A,,GlobalMedQA_EN,
+Most common cause of Seizures in an elderly with Cerebrovascular Stroke is [Options: A: Alcohol withdrawal; B: Cerebrovascular stroke; C: Uremia; D: Meningitis],B: Cerebrovascular stroke,b) Cerebrovascular stroke,0.85,GlobalMedQA_EN,"b) Cerebrovascular stroke
+0.85"
+Kidney plays a role in maintaining constancy of milieu interior. Milieu interior refers to: [Options: A: ECF; B: ICF; C: Plasma; D: Serum],A: ECF,a) ECF,0.97,GlobalMedQA_EN,"a) ECF
+0.97"
+The mean of the 25 plasma volumes is 12.5 litres. Standard detion is 0.25. Calculate Variance:- [Options: A: 0.0625; B: 0.625; C: 6.25; D: 625],A: 0.0625,A) 0.0625,0.99,GlobalMedQA_EN,"A) 0.0625
+0.99"
+Topical mitomycin C is used to aid the following treatment: [Options: A: Endoscopic treatment of angiofibroma; B: Treatment of laryngotracheal stenosis; C: Skull base osteomyelitis; D: Tonsillectomy],B: Treatment of laryngotracheal stenosis,B: Treatment of laryngotracheal stenosis,0.85,GlobalMedQA_EN,"B: Treatment of laryngotracheal stenosis
+0.85"
+Antibiotics are indicated in which type of psoriasis? [Options: A: Guttate; B: Pustular; C: Chronic plaque psoriasis; D: Erythrodermic psoriasis.],A: Guttate,A: Guttate,0.9,GlobalMedQA_EN,"A: Guttate
+0.9"
+Pure gonadal dysgenesis will be diagnosed in the presence of : [Options: A: Bilateral streak gonads; B: Bilateral dysgenetic gonads; C: One side steak and other dysgenetic gonads; D: One side streak and other normal looking gonad],A: Bilateral streak gonads,A: Bilateral streak gonads,0.97,GlobalMedQA_EN,"A: Bilateral streak gonads
+0.97"
+Wolf Chaikoff effect - [Options: A: Excess iodine intake causes hypothyroidism; B: Iodine induced hyper thyroidism; C: Thyrotoxicosis due to excessive amount of iodineingestion; D: Drug induced hyperthyroidism],A: Excess iodine intake causes hypothyroidism,A: Excess iodine intake causes hypothyroidism  ,0.97,GlobalMedQA_EN,"A: Excess iodine intake causes hypothyroidism  
+0.97"
+A 19-year-old college student develops a rash. She works part-time in a pediatric AIDS clinic. Her blood is drawn and tested for specific antibody to the chicken pox virus (varicella-zoster). Which of the following antibody classes would you expect to find if she is immune to chicken pox? [Options: A: IgG; B: IgA; C: IgM; D: IgD],A: IgG,A: IgG  ,0.99,GlobalMedQA_EN,"A: IgG  
+0.99"
+Coefficient of thermal expansion of which of following is most similar to that of tooth? [Options: A: Gold inlay; B: Acrylic resin; C: Silicate cement; D: Gold foil],C: Silicate cement,c) Silicate cement,0.75,GlobalMedQA_EN,"c) Silicate cement
+0.75"
+A patient presented with ARF with complete anuria but a normal ultrasound. Next investigation is – [Options: A: IVP; B: Antegrade pyelography; C: Retrograde pyelography; D: Radiorenogram],D: Radiorenogram,c) Retrograde pyelography  ,0.78,GlobalMedQA_EN,"c) Retrograde pyelography  
+0.78"
+"A deep-seated carcinoma in the neck near the bifurcation of the common carotid artery with no evidence of primary carcinoma of the mouth, pharynx, larynx is [Options: A: Collar stud abscess.; B: Branchiogenic carcinoma.; C: Subhyoid bursal cyst.; D: Cold abscess.]",B: Branchiogenic carcinoma.,b) Branchiogenic carcinoma.,0.95,GlobalMedQA_EN,"b) Branchiogenic carcinoma.
+0.95"
+"A patient comes to a private physician and diagnosed with TB, within how many days he has to be informed to District Health officer [Options: A: 10 days; B: 15 days; C: 30 days; D: 45 days]",C: 30 days,c) 30 days,0.85,GlobalMedQA_EN,"c) 30 days
+0.85"
+"A 68-year-old woman comes to the physician because of a 3-month history of an oozing, red area above the left ankle. She does not recall any trauma to the lower extremity. She has type 2 diabetes mellitus, hypertension, atrial fibrillation, and ulcerative colitis. She had a myocardial infarction 2 years ago and a stroke 7 years ago. She has smoked 2 packs of cigarettes daily for 48 years and drinks 2 alcoholic beverages daily. Current medications include warfarin, metformin, aspirin, atorvastatin, carvedilol, and mesalamine. She is 165 cm (5 ft 4 in) tall and weighs 67 kg (148 lb); BMI is 24.6 kg/m2. Her temperature is 36.7°C (98°F), pulse is 90/min, respirations are 12/min, and blood pressure is 135/90 mm Hg. Examination shows yellow-brown spots and dilated tortuous veins over the lower extremities. The feet and the left calf are edematous. Femoral, popliteal, and pedal pulses are palpable bilaterally. There is a 3-cm (1.2-in) painless, shallow, exudative ulcer surrounded by granulation tissue above the medial left ankle. There is slight drooping of the right side of the face. Which of the following is the most likely cause of this patient's ulcer? [Options: A: Decreased arterial blood flow; B: Peripheral neuropathy; C: Venous insufficiency; D: Chronic pressure; E: Drug-induced microvascular occlusion]",C: Venous insufficiency,c) Venous insufficiency,0.97,GlobalMedQA_EN,"c) Venous insufficiency
+0.97"
+"As far as the raise of frictional heat, in using various rotary cutting instruments is concerned which one of the following is the most kind to the pulp [Options: A: Stainless steel bur; B: Diamond bur; C: carbide bur; D: Carbon steel bur]",C: carbide bur,c) Carbide bur,0.75,GlobalMedQA_EN,"c) Carbide bur
+0.75"
+"Management plan for osteogenic sarcoma of the lower end of femur must include - [Options: A: Radiotherapy, amputation, chemotherapy; B: Surgery alone; C: Chemotherapy + Limb Salvage Surgery + Chemotherapy; D: Chemotherapy + Radiotherapy]",C: Chemotherapy + Limb Salvage Surgery + Chemotherapy,c) Chemotherapy + Limb Salvage Surgery + Chemotherapy,0.95,GlobalMedQA_EN,"c) Chemotherapy + Limb Salvage Surgery + Chemotherapy
+0.95"
+One of the constituents of the commonly used metered dose inhalers in bronchial asthma which is an air pollutant & dangerous to earth's stratosphere is - [Options: A: Flurocarbons; B: Salbutamol; C: Ozone; D: Oxygen],A: Flurocarbons,a) Fluorocarbons,0.97,GlobalMedQA_EN,"a) Fluorocarbons
+0.97"
+Abdominal pain in Henoch Schonlein purpura is due to - [Options: A: Mucosal erosions and swelling of the G1 mucosa; B: Gastrointestinal hemorrhage; C: Volvulus; D: Associated pancreatic inflammation],A: Mucosal erosions and swelling of the G1 mucosa,A: Mucosal erosions and swelling of the GI mucosa,0.78,GlobalMedQA_EN,"A: Mucosal erosions and swelling of the GI mucosa
+0.78"
+"A 30-year-old lady C/O sudden onset of breathlessness, anxiety, palpitation and feeling of impending doom. Physical examination is normal. Diagnosis is: September 2012 [Options: A: Panic attack; B: Anxitey disorder; C: Conversion disorder; D: Acute psychosis]",A: Panic attack,a) Panic attack,0.97,GlobalMedQA_EN,"a) Panic attack
+0.97"
+Most sensitive test for diagnosing pheochromocytoma is : [Options: A: MRI; B: 24 hour urinary xma; C: MIBG scan; D: Plasma free metanephrines],D: Plasma free metanephrines,d) Plasma free metanephrines,0.97,GlobalMedQA_EN,"d) Plasma free metanephrines
+0.97"
+The intervillous space of the placenta contains [Options: A: Maternal blood; B: Fetal blood; C: Maternal and fetal blood; D: Amniotic fluid],A: Maternal blood,A: Maternal blood,0.97,GlobalMedQA_EN,"A: Maternal blood
+0.97"
+The normal AV nodal delay is [Options: A: 0.16 sec; B: 0.13 sec; C: 0.09 sec; D: 0.03 sec],C: 0.09 sec,c) 0.09 sec,0.95,GlobalMedQA_EN,"c) 0.09 sec
+0.95"
+Which of the following is a monoclonal antibody against IL-5 [Options: A: Omalizumab; B: Mepolizumab; C: Tocilizumab; D: Alemtuzumab],B: Mepolizumab,b) Mepolizumab,0.99,GlobalMedQA_EN,"b) Mepolizumab
+0.99"
+"A 25-year-old lady reports to you with a diffuse, non progressive and a non tender swelling of the right maxilla, approximately 2 x 1.5 cm, extending from the canine to the first molar region. The x-ray shows a ground glass appearance of the bone in the concerned area. The surgical treatment will be [Options: A: Total excision of the lesion; B: Curettage of the area with extraction of the involved teeth; C: Surgical cosmetic recontouring only; D: Surgical excision followed by radiotherapy]",C: Surgical cosmetic recontouring only,c) Surgical cosmetic recontouring only,0.96,GlobalMedQA_EN,"c) Surgical cosmetic recontouring only
+0.96"
+Dermatitis herpetiformis is associated with [Options: A: Ulcerative colitis; B: Crohn's disease; C: Irritable bowel syndrome; D: Gluten sensitive enteropathy],D: Gluten sensitive enteropathy,d) Gluten sensitive enteropathy,0.99,GlobalMedQA_EN,"d) Gluten sensitive enteropathy
+0.99"
+Which one of the following is not recommended for the immediate treatment of acute severe asthma? [Options: A: Iptratropium; B: Magnesium sulfate; C: Hydrocoisone; D: Salmeterol],D: Salmeterol,d) Salmeterol,0.96,GlobalMedQA_EN,"d) Salmeterol
+0.96"
+Water loss is severe if intestinal obstruction occurs at? [Options: A: First pa of duodenum; B: Third pa of duodenum; C: Mid jejunum; D: Ileum],A: First pa of duodenum,A) First part of duodenum  ,0.9,GlobalMedQA_EN,"A) First part of duodenum  
+0.9"
+"Not a feature of Anopheles is [Options: A: Spotted wings; B: Siphon tube seen in larvae; C: Boat shaped eggs; D: Rest at an angle, inclined to the surface]",B: Siphon tube seen in larvae,B: Siphon tube seen in larvae,0.97,GlobalMedQA_EN,"B: Siphon tube seen in larvae
+0.97"
+"In fracture neck of fibula, the following nerve is involved [Options: A: Common peroneal nerve; B: Anterior tibial nerve; C: Posterior tibial nerve; D: Medial popliteal nerve]",A: Common peroneal nerve,A) Common peroneal nerve,0.99,GlobalMedQA_EN,"A) Common peroneal nerve
+0.99"
+A cook prepares sand witches for 10 people going for picnic. Eight out of them develop servere gastroenteritis within 4-6 hrs of consumption of the sand witches. It is likely that on investigations the cook is found to be the earner of: [Options: A: Salmonella typhi.; B: Vibrio cholerae; C: Entamoeba histolytica; D: Staphylococcus aureus.],D: Staphylococcus aureus.,d) Staphylococcus aureus.,0.95,GlobalMedQA_EN,"d) Staphylococcus aureus.
+0.95"
+The complication of trauma to the danger area of the face among the following is [Options: A: Cavernous sinus infection; B: Meningitis; C: Visual loss; D: Loss of memory],A: Cavernous sinus infection,A) Cavernous sinus infection,0.95,GlobalMedQA_EN,"A) Cavernous sinus infection
+0.95"
+Oldest lens fibres are found in ? [Options: A: Capsule; B: Coex; C: Coex; D: Nucleus],D: Nucleus,d) Nucleus,0.95,GlobalMedQA_EN,"d) Nucleus
+0.95"
+Facial nerve injury during forceps delivery in labour is due to: [Options: A: Mastoid process is absent at birth; B: Parotid gland in developing stage; C: Beak of forceps engages main trunk of facial Nerve; D: Sublingual hematoma during delivery causes neuropraxia],A: Mastoid process is absent at birth,C) Beak of forceps engages main trunk of facial Nerve,0.93,GlobalMedQA_EN,"C) Beak of forceps engages main trunk of facial Nerve
+0.93"
+"A 37-year-old man comes to the physician because of a 6-month history of progressive breast enlargement. Two years ago, he was diagnosed with HIV infection and started treatment with antiretroviral medications. Examination shows a soft, non-tender, ill-defined swelling at the nape of the neck. The cheeks appear hollowed. Serum studies show increased total cholesterol and LDL concentration. Which of the following medications is the most likely cause of these findings? [Options: A: Nevirapine; B: Enfuvirtide; C: Indinavir; D: Raltegravir; E: Abacavir]",C: Indinavir,C: Indinavir,0.97,GlobalMedQA_EN,"C: Indinavir
+0.97"
+Parotid duct opens [Options: A: Opposite 1st mollar; B: Opposite 2nd molar; C: Into the papilla; D: Opposite incisor],B: Opposite 2nd molar,b) Opposite 2nd molar,0.97,GlobalMedQA_EN,"b) Opposite 2nd molar
+0.97"
+Which of the following local anaesthetic causes methemoglobinemia? [Options: A: Procaine; B: Prilocaine; C: Etidocaine; D: Ropivacaine],B: Prilocaine,b) Prilocaine,0.99,GlobalMedQA_EN,"b) Prilocaine
+0.99"
+Which of the following drug is used for mass prophylaxis for prevention of meningococcal meningitis [Options: A: Ciprofloxacin; B: Rifampicin; C: Ceftriaxone; D: Minocycline],A: Ciprofloxacin,B: Rifampicin,0.85,GlobalMedQA_EN,"B: Rifampicin
+0.85"
+Which of the following is not considered for selecting a screening test? [Options: A: Disease burden; B: Physician's Knowledge of the disease; C: Cost of the test; D: Treatment efficacy],B: Physician's Knowledge of the disease,b) Physician's Knowledge of the disease,0.93,GlobalMedQA_EN,"b) Physician's Knowledge of the disease
+0.93"
+Borelia vincenti is a [Options: A: Mycoplasma; B: Mycobacteria; C: Spirochaete; D: Chlamydia],C: Spirochaete,c) Spirochaete,0.97,GlobalMedQA_EN,"c) Spirochaete
+0.97"
+Holocrine secretion is seen in...gland- [Options: A: Salivary; B: Mammary; C: Sebaceous glands; D: Gastric],C: Sebaceous glands,c) Sebaceous glands,0.99,GlobalMedQA_EN,"c) Sebaceous glands
+0.99"
+"In semen banks, semen is preserved at low temperature using : [Options: A: Dry ice; B: Deep freeze; C: Liquid nitrogen; D: Liquid air]",C: Liquid nitrogen,c) Liquid nitrogen,0.97,GlobalMedQA_EN,"c) Liquid nitrogen
+0.97"
+Incidence rate of lung cancer among smokers is 8 per 1000 and among non smokers is 1 per 1000. Population attibutable risk is - [Options: A: 89%; B: 95%; C: 10%; D: 100%],A: 89%,A: 89%,0.88,GlobalMedQA_EN,"A: 89%
+0.88"
+Starch is considered to be less cariogenic than monosaccharides and disaccharides because it [Options: A: Does not diffuse through plaque; B: Is rapidly hydrolysed in the mouth; C: Enhances remineralisation; D: Raises the pH in the oral cavity],A: Does not diffuse through plaque,A) Does not diffuse through plaque,0.9,GlobalMedQA_EN,"A) Does not diffuse through plaque
+0.9"
+Drug of choice in postpaum hemorrhage resistant to oxytocin and Ergomterine: [Options: A: Carboprost; B: Dinoprostone; C: Dinoprost; D: Misoprostol],A: Carboprost,A: Carboprost,0.9,GlobalMedQA_EN,"A: Carboprost
+0.9"
+Mostreliable test for screening of diabetes meilitus- [Options: A: Random sugar; B: Fasting sugar; C: Glucose tolerance test; D: Urine sugar],B: Fasting sugar,b) Fasting sugar,0.85,GlobalMedQA_EN,"b) Fasting sugar
+0.85"
+"Appropriate treatment for an acute stable hematoma of the pinna of the ear includes which of the following measures? [Options: A: Ice packs and prophylactic antibiotics; B: Excision of the hematoma; C: Needle aspiration; D: Incision, drainage, and pressure bandage]","D: Incision, drainage, and pressure bandage","D: Incision, drainage, and pressure bandage",0.95,GlobalMedQA_EN,"D: Incision, drainage, and pressure bandage
+0.95"
+First investigation to be done in a patient with thrombocytopenia: September 2008 [Options: A: Platelet count; B: Bleeding time; C: Prothrombin time; D: aPTT],A: Platelet count,A: Platelet count,0.95,GlobalMedQA_EN,"A: Platelet count
+0.95"
+A 23-year-old male college student has a history of liver cirrhosis due to Kimmelstiel-Wilson syndrome (abnormality in copper metabolism). He should be treated with which of the following? [Options: A: Penicillamine as soon as the diagnosis is established; B: Penicillamine after variceal bleeding has occurred; C: A portocaval shunt; D: Sclerosis of the esophageal varices as a prophylactic measure],A: Penicillamine as soon as the diagnosis is established,A: Penicillamine as soon as the diagnosis is established  ,0.97,GlobalMedQA_EN,"A: Penicillamine as soon as the diagnosis is established  
+0.97"
+The nerve supply of Middle ear is from [Options: A: Superior auricular nerve; B: Tympanic branch of glossopharyngeal nerve; C: Pharyngeal branch of glossopharyngeal nerve; D: Great auricular nerve],B: Tympanic branch of glossopharyngeal nerve,b) Tympanic branch of glossopharyngeal nerve,0.97,GlobalMedQA_EN,"b) Tympanic branch of glossopharyngeal nerve
+0.97"
+Preformed antibiodies cause [Options: A: Hyperacute rejection; B: Acute rejection; C: Chronic rejection; D: Acute humoral rejection],A: Hyperacute rejection,A: Hyperacute rejection,0.99,GlobalMedQA_EN,"A: Hyperacute rejection
+0.99"
+Safe period in rhythms method is : (In a female with 28 days menstrual cycle) : [Options: A: Initial 14 days; B: Later 14 days; C: First and last 7 days; D: 10 to 21 days of the cycle],C: First and last 7 days,c) First and last 7 days,0.9,GlobalMedQA_EN,"c) First and last 7 days
+0.9"
+Dematome of middle finger: [Options: A: C5; B: C6; C: C7; D: C8],C: C7,c) C7,0.95,GlobalMedQA_EN,"c) C7
+0.95"
+A 35-year-old female presents with recurrent renal stone. What is not advised? [Options: A: Increase water intake; B: Restrict protein; C: Restrict salt; D: Restrict calcium],D: Restrict calcium,d) Restrict calcium,0.96,GlobalMedQA_EN,"d) Restrict calcium
+0.96"
+Glucose is absorbed from? [Options: A: Upper pa of PCT; B: Ascending limb of LOH; C: Coical Collecting duct; D: Medullary collecting duct],A: Upper pa of PCT,A: Upper part of PCT,0.95,GlobalMedQA_EN,"A: Upper part of PCT
+0.95"
+Post transplant lymphomaia most commonly associated with: [Options: A: Epstein-Barr virus; B: Cytomegalo virus; C: Herpes simplex; D: HHV-6],A: Epstein-Barr virus,A: Epstein-Barr virus,0.98,GlobalMedQA_EN,"A: Epstein-Barr virus
+0.98"
+"A 58-year-old female presents with a two-month history of intermittent non-bloody diarrhea. She reports that she has been following a raw food diet for six months to help her lose weight. The patient’s medical history is significant for anxiety, treated with fluvoxamine, and osteopenia. She reports her mother has lactose intolerance and has recently been diagnosed with osteoporosis. The patient denies any tobacco or alcohol use. When asked about recent travel, she reports she returned three months ago from a mission trip in Uganda. The patient’s temperature is 99°F (37.2°C), blood pressure is 130/78 mmHg, pulse is 70/min, and respirations are 14/min with an oxygen saturation of 98% O2 on room air. On physical exam, a new-onset systolic ejection murmur is noted and is heard loudest at the left second intercostal space. Which of the following may develop in this patient? [Options: A: Low platelet count; B: Positive hydrogen breath test; C: Decreased levels of chromogranin A; D: Vitamin D deficiency; E: Niacin deficiency]",E: Niacin deficiency,N/A,,GlobalMedQA_EN,
+Common carotid artery is palpable at: [Options: A: Upper border of thyroid cartilage; B: Upper border of cricoid cartilage; C: At hyoid bone; D: Lower border of cricoid cartilage],A: Upper border of thyroid cartilage,A) Upper border of thyroid cartilage,0.95,GlobalMedQA_EN,"A) Upper border of thyroid cartilage
+0.95"
+On radiography widened duodenal 'C' loop with irregular mucosal pattern on upper gastrointestinal barium series is most likely due to: [Options: A: Chronic pancreatitis; B: Carcinoma head of pancreas; C: Duodenal ulcer; D: Duodenal ileus],B: Carcinoma head of pancreas,b) Carcinoma head of pancreas,0.85,GlobalMedQA_EN,"b) Carcinoma head of pancreas
+0.85"
+Metabolic alkalosis leads to? [Options: A: Low potassium; B: High calcium; C: Low I2 trapping by follicular cells; D: High I2 trapping by follicular cells],A: Low potassium,A: Low potassium  ,0.85,GlobalMedQA_EN,"A: Low potassium  
+0.85"
+Which of the following poisoning gives 'Bitter almond smell'? [Options: A: Lead; B: Cyanide; C: Mercury; D: Organophosphorus],B: Cyanide,b) Cyanide,0.99,GlobalMedQA_EN,"b) Cyanide
+0.99"
+Derivative of vitelline vein? [Options: A: IVC; B: SVC; C: Ligamentum venosum; D: Ligamentum teres],A: IVC,A: IVC,0.7,GlobalMedQA_EN,"A: IVC
+0.7"
+"According to National Health Policy 2002, which of the following is to he eliminated in 2015 - [Options: A: Malaria; B: Yaws; C: Leprosy; D: Filariasis]",D: Filariasis,d) Filariasis,0.85,GlobalMedQA_EN,"d) Filariasis
+0.85"
+"A 68-year-old man presents to the physician with fever, cough, weakness, night sweats, and poor appetite for the past 6 months. Medical records suggest that he has lost 7.5 kg (16.5 lb) of weight during this period. There is no history of breathlessness, nasal discharge, nasal obstruction, palpitations, chest pain, or symptoms related to digestion. He was released from prison 9 months ago after serving a 2-year sentence. His temperature is 38.1°C (100.6°F), pulse is 84/min, respirations are 16/min, and blood pressure is 122/80 mm Hg. Physical examination shows hepatomegaly and generalized lymphadenopathy, and auscultation of the chest reveals diffuse crackles throughout the lung fields bilaterally. On direct ophthalmoscopy, three discrete, yellow-colored, 0.5 mm to 1.0 mm lesions with indistinct borders are seen in the posterior pole. A chest X-ray is shown in the image. Tuberculin skin test with purified protein derivative is negative. What is the most likely diagnosis? [Options: A: Sarcoidosis; B: Chronic histoplasmosis; C: Langerhans cell histiocytosis; D: Tuberculosis; E: Bronchoalveolar carcinoma]",D: Tuberculosis,D) Tuberculosis,0.96,GlobalMedQA_EN,"D) Tuberculosis
+0.96"
+"An obese 37-year-old woman is brought to the emergency department 2 hours after the onset of weakness in her left arm and leg. She fell from the stairs the day prior but did not have any loss of consciousness or nausea after the fall. She travels to Asia regularly on business; her last trip was 4 days ago. She has no history of serious illness. Her only medication is an oral contraceptive. Her temperature is 37.8°C (100°F), pulse is 113/min and regular, and blood pressure is 162/90 mm Hg. Examination shows decreased muscle strength on the left side. Deep tendon reflexes are 4+ on the left. Babinski sign is present on the left. The right lower leg is swollen, erythematous, and tender to palpation. Further evaluation is most likely to show which of the following? [Options: A: Ventricular septal defect; B: Carotid artery dissection; C: Atrial fibrillation; D: Patent foramen ovale; E: Atrial myxoma]",D: Patent foramen ovale,D: Patent foramen ovale,0.95,GlobalMedQA_EN,"D: Patent foramen ovale
+0.95"
+"A 34-year-old woman comes to the fertility clinic with her husband for infertility treatment. The couple has been having unprotected intercourse for the past 2 years without any pregnancies. This is their first time seeking fertility treatment. The patient’s past medical history includes asthma. She denies any menstrual irregularities, menstrual pain, abnormal bleeding or past sexually transmitted infections. The husband reports that “he would get sick easily and would always have some upper respiratory infections.” Physical examination of the wife demonstrates nasal polyps bilaterally; vaginal examination is unremarkable. Physical examination of the husband is unremarkable. Semen analysis results are shown below:
+
+Semen analysis:
+Volume: 1.9 mL (Normal > 1.5 mL)
+pH: 7.4 (Normal: > 7.2)
+Sperm concentration: 0 mil/mL (Normal: > 15 mil/mL)
+Total sperm count: 0 mil/mL (Normal: > 39 mil/mL)
+Total motility: N/A (Normal: > 40%)
+Morphology: N/A (Normal: > 4% normal forms)
+
+What is the most likely explanation for this couple’s infertility? [Options: A: Deletion of Phe508 in husband; B: Deletion of Phe508 in wife; C: Undescended testes in husband; D: XO chromosome in wife; E: XXY chromosome in husband]",A: Deletion of Phe508 in husband,A) Deletion of Phe508 in husband,0.95,GlobalMedQA_EN,"A) Deletion of Phe508 in husband
+0.95"
+Hickey-Hare test is used to diagnose - [Options: A: Congenital pyloric stenosis; B: Duodenal atresia; C: Achlasia cardia; D: Diabetes insipidus],D: Diabetes insipidus,A: Congenital pyloric stenosis,0.7,GlobalMedQA_EN,"A: Congenital pyloric stenosis
+0.7"
+Granulomatous lung disease is caused by? [Options: A: Hypersensitivity pneumonitis; B: Sarcoma; C: Bronchogenic carcinoma; D: Bronchogenic cyst],A: Hypersensitivity pneumonitis,A) Hypersensitivity pneumonitis,0.95,GlobalMedQA_EN,"A) Hypersensitivity pneumonitis
+0.95"
+"A 30 year old male patient presents with bleeding per rectum.
+He complains of Hemorrhoids which are reduced spontaneously.
+Treatment of choice Is [Options: A: Open hemorroidectomy; B: Sitz bath; C: Sclerotherapy; D: Stapled hemorroidopexy]",C: Sclerotherapy,c) Sclerotherapy,0.9,GlobalMedQA_EN,"c) Sclerotherapy
+0.9"
+"Food poisoning after 1-5 hours of consumption of ice cream, causative organism is [Options: A: Staphylococcus aureus; B: Bacillus cereus; C: Salmonella; D: Vibrio parahemolyticus]",A: Staphylococcus aureus,A: Staphylococcus aureus,0.85,GlobalMedQA_EN,"A: Staphylococcus aureus
+0.85"
+Spontaneously regressing tumours are [Options: A: Malignant melanoma; B: Neuroblastoma; C: Ewing's sarcoma; D: Wilm's tumour],A: Malignant melanoma,b) Neuroblastoma,0.85,GlobalMedQA_EN,"b) Neuroblastoma
+0.85"
+A young female presents with diminished pulses in the upper limb and hypeension. The most likely diagnosis is: [Options: A: Takayasu Aeritis; B: Coarctation of Aoa; C: Giant Cell Aeritis; D: Polyaeritis Nodosa],A: Takayasu Aeritis,A: Takayasu Aeritis,0.96,GlobalMedQA_EN,"A: Takayasu Aeritis
+0.96"
+Modified biophysical profile includes: [Options: A: Fetal tone and breathing; B: Fetal movements and tone; C: NST an AFI; D: API],C: NST an AFI,c) NST an AFI,0.97,GlobalMedQA_EN,"c) NST an AFI
+0.97"
+Yuzpe method is a type of : [Options: A: Post -- coital hormonal contraception; B: Male contraceptive method; C: Post -- coital IUCD contraception; D: Minilap sterilization],A: Post -- coital hormonal contraception,A: Post -- coital hormonal contraception,0.99,GlobalMedQA_EN,"A: Post -- coital hormonal contraception
+0.99"
+The commonest cause of intestinal obstruction and abdominal pain in children between 3 months to 6 years of age: [Options: A: Intussusception; B: Meckel's diverticulum; C: Intestinal polyp; D: Nonspecific cause],A: Intussusception,A: Intussusception,0.95,GlobalMedQA_EN,"A: Intussusception
+0.95"
+Foot eversion is caused by [Options: A: Extensor digitorum; B: Peroneus longus; C: Tibialis anterior; D: Tibialis posterior],B: Peroneus longus,b) Peroneus longus,0.97,GlobalMedQA_EN,"b) Peroneus longus
+0.97"
+Risk factors for preeclampsia:a) Chronic hypertenstionb) Obesityc) Placental ischaemiad) Multigravidae) Antiphospholipid syndrome [Options: A: acd; B: ace; C: cde; D: ade],B: ace,N/A,,GlobalMedQA_EN,
+A 65-year-old woman comes to the physician for a 18-month history of gradual enlargement of her fingertips and a 2-month history of a hoarse voice. She has had decreased appetite after a respiratory tract infection 3 months ago and a 8-kg (17.6-lb) weight loss during this period. The patient has never smoked. She was diagnosed with obstructive sleep apnea 10 years ago and uses a CPAP mask at night. She retired from her job as an administrative assistant at a local college 5 years ago. She appears tired. Her vital signs are within normal limits. Physical examination shows increased convexity of the nail fold and painful swelling of the soft tissue of her fingers and ankles. There is no discoloration of her lips and oral mucosa. There is faint wheezing in the right upper lung field. This patient's condition is most likely associated with which of the following findings? [Options: A: Increased serum ADH; B: Miosis; C: Increased serum ACE; D: Reticular opacities on chest x-ray; E: Peripheral cyanosis],B: Miosis,N/A,,GlobalMedQA_EN,
+HIAA is a metabolite of: [Options: A: Serotonin; B: Dopamine; C: Epinophrine; D: Histamine],A: Serotonin,A: Serotonin,0.99,GlobalMedQA_EN,"A: Serotonin
+0.99"
+Which of the following interactions does not cause film fog? [Options: A: Coherent scattering; B: Transient scattering; C: Photoelectric absorption; D: Compton scattering],C: Photoelectric absorption,A: Coherent scattering,0.85,GlobalMedQA_EN,"A: Coherent scattering
+0.85"
+Life span of Cu-T- 380A [Options: A: 10 years; B: 20 years; C: 1 years; D: 5 years],A: 10 years,b) 20 years,0.6,GlobalMedQA_EN,"b) 20 years
+0.6"
+Hemolytic Uremic Syndrome is characterized by -a) Microangiopathic haemolytic anaemiab) ↓ed LDHc) Thrombocytopeniad) Renal failuree) Positive Coomb's test [Options: A: abc; B: ad; C: acd; D: bde],C: acd,C) acd,0.97,GlobalMedQA_EN,"C) acd
+0.97"
+Incubation period of Hepatitis B virus [Options: A: 8-10 days; B: 30-180 days; C: 1 year; D: 2 years],B: 30-180 days,b) 30-180 days,0.95,GlobalMedQA_EN,"b) 30-180 days
+0.95"
+Which of the following is most impoant molecule for antioxidant pathway in lens? [Options: A: Glutathione; B: Superoxide dismutase; C: Catalase; D: Vitamin C],A: Glutathione,A: Glutathione,0.95,GlobalMedQA_EN,"A: Glutathione
+0.95"
+A patient presented with contralateral hemiplegia and sub-periosteal bleeding. Which of the following will be the initial investigation of choice? [Options: A: Chest x-ray; B: CT-scan; C: MRI; D: PET - scan],B: CT-scan,B: CT-scan,0.9,GlobalMedQA_EN,"B: CT-scan
+0.9"
+Pacemaker cells of respiration are located in [Options: A: Pneumotaxic centre; B: Apneustic centre; C: Dorsal Respiratory Group; D: Pre - Botzinger complex],D: Pre - Botzinger complex,d) Pre - Botzinger complex,0.97,GlobalMedQA_EN,"d) Pre - Botzinger complex
+0.97"
+Drug of choice for treatment of acute organophosphate poisoning is: [Options: A: Atropine; B: Pralidoxime; C: Neostigmine; D: d–Tubocurarine],A: Atropine,A: Atropine,0.9,GlobalMedQA_EN,"A: Atropine
+0.9"
+Grey Turner sign is seen in: [Options: A: A/c pancreatitis; B: C/c pancreatitis; C: A/c cholecystitis; D: A/c parotitis],A: A/c pancreatitis,A: A/c pancreatitis,0.96,GlobalMedQA_EN,"A: A/c pancreatitis
+0.96"
+Cherry red spot and Hollenhorst plaque are seen in: [Options: A: CRAO; B: CRVO; C: Branch RAO; D: Branch RVO],A: CRAO,a) CRAO,0.97,GlobalMedQA_EN,"a) CRAO
+0.97"
+Gastric motility decreases in - [Options: A: Diabetes; B: Upper abdominal surgery; C: Head injury; D: Hypothyroid],D: Hypothyroid,A: Diabetes,0.7,GlobalMedQA_EN,"A: Diabetes
+0.7"
+"A 58-year-old female presents to her primary care physician with a 1-month history of facial and chest flushing, as well as intermittent diarrhea and occasional difficulty breathing. On physical exam, a new-onset systolic ejection murmur is auscultated and is loudest at the left second intercostal space. Subsequent echocardiography reveals leaflet thickening secondary to fibrous plaque deposition on both the pulmonic and tricuspid valves. Which of the following laboratory abnormalities would most likely in this patient? [Options: A: Decreased serum chromogranin A; B: Elevated serum bicarbonate; C: Elevated urinary vanillylmandelic acid; D: Elevated serum potassium; E: Elevated urinary 5-hydroxyindoleacetic acid]",E: Elevated urinary 5-hydroxyindoleacetic acid,E: Elevated urinary 5-hydroxyindoleacetic acid  ,0.97,GlobalMedQA_EN,"E: Elevated urinary 5-hydroxyindoleacetic acid  
+0.97"
+Jaw tightness in proximal temporal arteries.diagnosis - [Options: A: PAN; B: Coarctation of aorta; C: Giant cell arteritis; D: Wegner's granulomatosis],C: Giant cell arteritis,c) Giant cell arteritis,0.97,GlobalMedQA_EN,"c) Giant cell arteritis
+0.97"
+'Glassblowers shakes' are seen in poisoning due to [Options: A: Lead; B: Copper; C: Mercury; D: Arsenic],C: Mercury,c) Mercury,0.96,GlobalMedQA_EN,"c) Mercury
+0.96"
+"A 51-year-old woman goes to respiratory function testing in order to evaluate her shortness of breath. She recently joined a walking program with her friends in order to lose weight; however, she noticed that she was not able to keep up with her friends during the program. She has a 60-pack-year history of smoking as well as hypertension well-controlled on medication. The following represent the parameters for this patient's respiratory anatomy and function:
+
+Vital capacity (VC): 5,000 mL
+Inspiratory reserve volume (IRV): 2,500 mL
+Functional reserve capacity (FRC): 2,700 mL
+Residual volume (RV): 1,000 mL
+Upper airway volume: 100 mL
+Conducting airway volume: 125 mL
+
+Inspired CO2 pressure (PiCO2): 1 mmHg
+Arterial CO2 pressure (PaCO2): 50 mmHg
+Expired CO2 pressure (PeCO2): 20 mmHg
+
+Which of the following best represents the total volume of gas in this patient's airways and lungs that does not participate in gas exchange? [Options: A: 225 mL; B: 480 mL; C: 600 mL; D: 800 mL; E: 1200 mL]",B: 480 mL,b) 480 mL  ,0.97,GlobalMedQA_EN,"b) 480 mL  
+0.97"
+Earliest sign of raised intracranial tension is in skull X-ray of infants is: [Options: A: Sutural diastasis; B: Erosion of dorsum sella; C: Pineal gland displacement; D: Copper beaten appearance],A: Sutural diastasis,A) Sutural diastasis,0.85,GlobalMedQA_EN,"A) Sutural diastasis
+0.85"
+"A 24-year-old male presented with following lesion on his genitalia, following intercourse with multiple sexual partners, and multiple times. Which human papilloma virus is the causative agent? [Options: A: HPV 6, 11; B: HPV 16, 18; C: HPV 31, 33; D: HPV 35, 45]","A: HPV 6, 11","A: HPV 6, 11  ",0.95,GlobalMedQA_EN,"A: HPV 6, 11  
+0.95"
+Dobutamine mainly act at this receptor: [Options: A: Beta 1; B: Beta 2; C: Alpha 1; D: Alpha 2],A: Beta 1,A: Beta 1,0.95,GlobalMedQA_EN,"A: Beta 1
+0.95"
+Phospholipase C acts as secondary messenger for [Options: A: FSH; B: IH; C: TSH; D: GnRH],D: GnRH,d) GnRH,0.85,GlobalMedQA_EN,"d) GnRH
+0.85"
+Mucopolysaccharidoses are caused by [Options: A: An increased rate of synthesis of proteoglycans; B: Defects in the degradation of proteoglycans; C: The synthesis of polysaccharides with an altered structure; D: An insufficient amount of proteolytic enzymes],B: Defects in the degradation of proteoglycans,b) Defects in the degradation of proteoglycans,0.97,GlobalMedQA_EN,"b) Defects in the degradation of proteoglycans
+0.97"
+"A 68-year-old man presents to the emergency department with palpitations. He also feels that his exercise tolerance has reduced over the previous week. His past history is positive for ischemic heart disease and he has been on multiple medications for a long time. On physical examination, his temperature is 36.9°C (98.4°F), pulse rate is 152/min and is regular, blood pressure is 114/80 mm Hg, and respiratory rate is 18/min. Auscultation of the precordial region confirms tachycardia, but there is no murmur or extra heart sounds. His ECG is obtained, which suggests a diagnosis of atrial flutter. Which of the following findings is most likely to be present on his electrocardiogram? [Options: A: Atrial rate above 400 beats per minute; B: Slurred upstroke of R wave; C: Atrioventricular block; D: No discernible P waves; E: Wenckebach phenomenon]",C: Atrioventricular block,d) No discernible P waves,0.95,GlobalMedQA_EN,"d) No discernible P waves
+0.95"
+Which among the following does not cause exaggerated jaw jerk - [Options: A: Multiple sclerosis; B: Motor neurone disease; C: Pseudobulbar palsy; D: Syringomyelia],D: Syringomyelia,D: Syringomyelia,0.85,GlobalMedQA_EN,"D: Syringomyelia
+0.85"
+Isthmus of thyroid gland lies at which level? [Options: A: C2; B: C4; C: C5; D: C7],D: C7,B: C4,0.93,GlobalMedQA_EN,"B: C4
+0.93"
+Voluntameer ram will receive a new drugin Phase 1 clinical trial. The clearance and volume of distribution of the drug in Ram are 1.386L/hr and 80L respectively. They have life of the drug in him would be approximately [Options: A: 83hr; B: 77hr; C: 40hr; D: 0.02hr],C: 40hr,c) 40hr,0.97,GlobalMedQA_EN,"c) 40hr
+0.97"
+The region where internal and external epithelia meet at the rim of the enamel organ is known as: [Options: A: Zone of reflexion.; B: Enamel Knot.; C: Dental follicle.; D: Enamel cord.],A: Zone of reflexion.,A: Zone of reflexion.,0.75,GlobalMedQA_EN,"A: Zone of reflexion.
+0.75"
+Herpes virus involves which lobe? [Options: A: Frontal; B: Parietal; C: Temporal; D: Occipital],C: Temporal,c) Temporal,0.95,GlobalMedQA_EN,"c) Temporal
+0.95"
+The most impoant risk factor for development of post paum uterine infection/sepsis is: [Options: A: Anemia; B: Route of delivery; C: Diabetes; D: Obesity],B: Route of delivery,b) Route of delivery,0.9,GlobalMedQA_EN,"b) Route of delivery
+0.9"
+The preferred bypass procedure in case of nonresctable carcinoma of head of pancreas is [Options: A: Cholecystojejunostomy; B: Cholecystogastrostomy; C: Choledochoduodenostomy; D: Choledochojejunostomy],D: Choledochojejunostomy,d) Choledochojejunostomy,0.96,GlobalMedQA_EN,"d) Choledochojejunostomy
+0.96"
+Indicated mandibular major connector for a long span edentulous ridge: [Options: A: Lingual plate; B: Lingual bar; C: Double lingual bar; D: Labial bar],A: Lingual plate,A) Lingual plate,0.92,GlobalMedQA_EN,"A) Lingual plate
+0.92"
+"Increase in cytosolic calcium from intracellular storage, during smooth muscle contraction is/are due to: (PGI Dec 2008) [Options: A: CAMP; B: CGMP; C: CCMP; D: 1P.-DAG]",D: 1P.-DAG,d) 1P.-DAG,0.93,GlobalMedQA_EN,"d) 1P.-DAG
+0.93"
+Which of the following is not a feature of autoimmune hepatitis? [Options: A: Anti-SMA antibodies; B: Anti-LKM1 anitbodies; C: Anti-mitochondrial antibodies; D: Anti-Sm antigen antibodies],D: Anti-Sm antigen antibodies,c) Anti-mitochondrial antibodies,0.85,GlobalMedQA_EN,"c) Anti-mitochondrial antibodies
+0.85"
+"A 25 year old man is paicipating in a clinical study to determine the cardiovascular response to physical exercise. Basal measurements are Respiratory rate:15,Blood pressure: 120/80,Cardiac output: 5L,Hea rate:50/min.What is his stroke volume during resting conditions (in mL/min)? [Options: A: 50; B: 75; C: 100; D: 125]",C: 100,c) 100,0.99,GlobalMedQA_EN,"c) 100
+0.99"
+Which of the following is caused by congenital 17 hydroxylase deficiency: [Options: A: Hyperkalemia; B: Hermaphroditism; C: Hypeension; D: Virilism],C: Hypeension,c) Hypertension,0.9,GlobalMedQA_EN,"c) Hypertension
+0.9"
+Chemiclave: [Options: A: Corrodes instruments; B: Solution can be recirculated; C: Sterilization is verifiable; D: Does not affect heat-sensitive materials],C: Sterilization is verifiable,d) Does not affect heat-sensitive materials,0.78,GlobalMedQA_EN,"d) Does not affect heat-sensitive materials
+0.78"
+Drug of choice for bipolar syndrome: [Options: A: Lithium; B: Imipramine; C: Phenytoin; D: Clozapine],A: Lithium,A) Lithium,0.99,GlobalMedQA_EN,"A) Lithium
+0.99"
+"A 36-year-old man was sent to the Emergency Department after a stray baseball hit him in the left eye during a game. Paramedics on sight could not perform the necessary testing and encouraged the patient to visit an ED for further testing and imaging. At the Emergency Department, the patient complains of slight pain in the orbital region and minimal diplopia that mildly increases with upward gaze. The patient’s blood pressure is 110/60 mm Hg, heart rate is 53/min, respiratory rate is 13/min, and temperature 36.6℃ (97.9℉). On physical examination, the patient is alert and responsive. There is an ecchymosis involving the lower lid and infraorbital area on the left side, with a slight downward deviation of the left globe, and conjunctival injection of the left eye. An upward gaze is limited on the left side. The visual acuity is 5/20 bilaterally. A head and neck CT shows a small (0.4 cm), nondisplaced, linear fracture of the left orbital floor. Which of the following statements about the condition the patient presents with is the most accurate? [Options: A: The patient’s condition warrants emergency surgery.; B: MRI is the best method to evaluate the patient’s condition.; C: There is a low chance of spontaneous improvement of the ocular motility.; D: The patient can be initially managed conservatively with corticosteroids and observation.; E: Surgical intervention within 3 days would allow to prevent enophthalmos in this patient.]",D: The patient can be initially managed conservatively with corticosteroids and observation.,D: The patient can be initially managed conservatively with corticosteroids and observation.  ,0.93,GlobalMedQA_EN,"D: The patient can be initially managed conservatively with corticosteroids and observation.  
+0.93"
+"A 4-year-old child is rushed to the emergency department after developing sudden abdominal pain followed by nausea, vomiting, and dark, almost black-colored stool. Prior to the onset of symptoms, he was seen playing with his mother’s purse containing a bottle of vitamin supplements, which she takes for chronic microcytic anemia. Which of the following medications is the treatment for this patient's intoxication? [Options: A: Dimercaprol; B: Penicillamine; C: Deferoxamine; D: Protamine; E: Succimer]",C: Deferoxamine,c) Deferoxamine,0.97,GlobalMedQA_EN,"c) Deferoxamine
+0.97"
+A woman has 2 kids. She presents with galactorrhea and amenorrhea for 1 year. The most probable diagnosis is: [Options: A: Pregnancy; B: Pituitary tumor; C: Sheehan's syndrome; D: Metastasis to pituitary from other carcinoma],B: Pituitary tumor,B: Pituitary tumor,0.95,GlobalMedQA_EN,"B: Pituitary tumor
+0.95"
+As per Chadah committee recommendations there should be 1 Basic Health worker per _____ population? [Options: A: 3000; B: 5000; C: 10000; D: 20000],C: 10000,b) 5000  ,0.6,GlobalMedQA_EN,"b) 5000  
+0.6"
+Acute yellow Fatty Liver is caused by which of the following poisoning? [Options: A: Aconite; B: Arsenic; C: Lead; D: Mercury],B: Arsenic,b) Arsenic,0.85,GlobalMedQA_EN,"b) Arsenic
+0.85"
+Which of the following aoic arches regress during development: [Options: A: II; B: IV; C: V; D: VI],C: V,C: V,0.9,GlobalMedQA_EN,"C: V
+0.9"
+Coicosteroids suppress: September 2009 [Options: A: GH; B: ACTH; C: FSH; D: LH],B: ACTH,b) ACTH,0.95,GlobalMedQA_EN,"b) ACTH
+0.95"
+Cholesterol is a (an) [Options: A: Ester; B: Phospholipid; C: Sterol; D: Lipoprotein],C: Sterol,c) Sterol,0.99,GlobalMedQA_EN,"c) Sterol
+0.99"
+What kind of benefit is provided under the Rajiv Gandhi Shramik Kalyan Yojana to covered employees? [Options: A: Medical benefit; B: Unemployment benefit; C: Maternity benefit; D: Dependant's benefit],B: Unemployment benefit,A: Medical benefit,0.9,GlobalMedQA_EN,"A: Medical benefit
+0.9"
+"A 27-year old male presents with low backache, that occurs early in the morning, associated with stiffness, and persists for more than 30 minutes. On examination, his chest expansion is also restricted. The most probable diagnosis is: [Options: A: Rheumatoid arthritis; B: Oteoarthritis; C: Gouty arthritis; D: Ankylosing spondylitis]",D: Ankylosing spondylitis,d) Ankylosing spondylitis,0.97,GlobalMedQA_EN,"d) Ankylosing spondylitis
+0.97"
+Sensory fiber with least conduction velocity:September. 2005 [Options: A: C- fiber; B: Alpha fiber; C: beta fiber; D: Gamma fiber],A: C- fiber,A: C- fiber,0.99,GlobalMedQA_EN,"A: C- fiber
+0.99"
+Registration of bih & death with a 6 monthly survey is done in- [Options: A: National sample survey; B: Vital statistical system; C: Census; D: Sample registration system],D: Sample registration system,d) Sample registration system,0.97,GlobalMedQA_EN,"d) Sample registration system
+0.97"
+Patient becomes symptom free after surgery in which of the following condition? [Options: A: Diffuse Esophageal Spasm; B: Achalasia Cardia; C: Nutcracker Esophagus; D: Jack hammer Esophagus],B: Achalasia Cardia,b) Achalasia Cardia,0.95,GlobalMedQA_EN,"b) Achalasia Cardia
+0.95"
+Which of the following aminoglycoside is most cochleotoxic:- [Options: A: Amikacin; B: Streptomycin; C: Gentamycin; D: Minocycline],A: Amikacin,c) Gentamycin,0.97,GlobalMedQA_EN,"c) Gentamycin
+0.97"
+In which of the following situations can air abrasion not be used? [Options: A: Caries excavation; B: Debriding pits and fissures; C: Cavity preparation; D: Stain removal],C: Cavity preparation,N/A,,GlobalMedQA_EN,
+Corneal endothelium seen by ? [Options: A: Pachymeter; B: Keratometer; C: Tonometer; D: Slit lamp bio-microscope],D: Slit lamp bio-microscope,d) Slit lamp bio-microscope,0.96,GlobalMedQA_EN,"d) Slit lamp bio-microscope
+0.96"
+Which of the following is not used in the treatment of pulmonary hypertension ? [Options: A: Calcium channel blockers; B: Alpha blockers; C: Prostacyclins; D: Endothelin receptor antagonists],B: Alpha blockers,b) Alpha blockers,0.99,GlobalMedQA_EN,"b) Alpha blockers
+0.99"
+Which of the following type of necrosis is most commonly associated with ischemic injury: [Options: A: Coagulative necrosis; B: Casseous necrosis; C: Liquifactive necrosis; D: Fat necrosis],A: Coagulative necrosis,A: Coagulative necrosis,0.97,GlobalMedQA_EN,"A: Coagulative necrosis
+0.97"
+Antiendomysial antibody is used in screening of - [Options: A: Myasthenia gravis; B: Autoimmune hepatitis; C: Coeliac diseases; D: Graves disease],C: Coeliac diseases,c) Coeliac diseases,0.99,GlobalMedQA_EN,"c) Coeliac diseases
+0.99"
+"A 31-year-old male with cirrhosis, dementia, and Parkinson-like symptoms is diagnosed with a hereditary metabolic disease resulting from the accumulation of a certain metal in various tissues. Impairment of which of the following elimination pathways is most likely responsible? [Options: A: Secretion into bile; B: Loop of Henle secretion into lumen of kidney; C: Glomerular filtration; D: Bleeding; E: Duodenal secretion]",A: Secretion into bile,A: Secretion into bile  ,0.97,GlobalMedQA_EN,"A: Secretion into bile  
+0.97"
+Surfactant in lung alveoli stas appearing at gestational age [Options: A: 12 weeks; B: 20 weeks; C: 28 weeks; D: 32 weeks],C: 28 weeks,c) 28 weeks,0.87,GlobalMedQA_EN,"c) 28 weeks
+0.87"
+"A 35-year-old woman presents to a psychiatrist for an initial consultation. She reports that for the past 3 years, she has experienced several periods of depressed mood. The episodes do not coincide with any specific life events and seem to resolve after 4-6 weeks. During these episodes, she experiences a depressed mood, sleep disturbances, and a poor appetite, but she at times is able to enjoy spending time with her children and husband but other times she is distressed and cannot enjoy time with them. Upon further questioning, she also reports experiencing occasional episodes of elevated mood over the past ten years. During these episodes, she is very productive at her work as a lawyer and requires less sleep than usual. Her past medical history is notable for obesity, type I diabetes mellitus, and rheumatoid arthritis. She is on insulin and takes methotrexate. She smokes marijuana occasionally. Her temperature is 99.2°F (37.3°C), blood pressure is 124/80 mmHg, pulse is 78/min, and respirations are 17/min. On exam, she is quiet with a flattened affect, but is cooperative and answers questions thoroughly. Which of the following is the most likely diagnosis in this patient? [Options: A: Bipolar I disorder; B: Bipolar II disorder; C: Cyclothymic disorder; D: Persistent depressive disorder; E: Schizoaffective disorder]",C: Cyclothymic disorder,B: Bipolar II disorder,0.97,GlobalMedQA_EN,"B: Bipolar II disorder
+0.97"
+A 62 years old man with carcinoma of lung presented to emergency depament with respiratory distress. His EKG showed electrical alternans. The most likely diagnosis is [Options: A: Pneumothorax.; B: Pleural effusion; C: Cardiac tamponade; D: Constrictive pericarditis.],C: Cardiac tamponade,c) Cardiac tamponade,0.97,GlobalMedQA_EN,"c) Cardiac tamponade
+0.97"
+"Vasanti, a 25-year-old-girl, presents with complaints of fever and weakness. On examination there is splenomegaly of 3 cm below the costal margin.Hb is 8 gm/dL, TLC is 3,000/mm3 , platelet count is 80,000 mm3. Which of the following is the least likely diagnosis - [Options: A: Acute lymphocytic leukemia; B: Anemia of chronic disease; C: Aplastic anemia; D: Megaloblastic anemia]",C: Aplastic anemia,N/A,,GlobalMedQA_EN,
+Vital statistics in a population include:- [Options: A: Sex ratio; B: Age composition; C: Bih rate; D: Dependency ratio],C: Bih rate,c) Bih rate,0.9,GlobalMedQA_EN,"c) Bih rate
+0.9"
+"Which of the following is wrong regarding treatment with iodine?(AIIMS Nov 2013, May 2013) [Options: A: Inhibit release of thyroxine; B: Inhibits iodotyrosine and iodothyronine synthesis; C: Can cause iodism; D: Contraindicated in hyperthyroidism]",D: Contraindicated in hyperthyroidism,d) Contraindicated in hyperthyroidism,0.95,GlobalMedQA_EN,"d) Contraindicated in hyperthyroidism
+0.95"
+"Using Mifepristone, therapeutic abortion can be effectively induced until______ weeks of gestation? [Options: A: 6 weeks; B: 7 weeks; C: 8 weeks; D: 9 weeks]",D: 9 weeks,d) 9 weeks,0.85,GlobalMedQA_EN,"d) 9 weeks
+0.85"
+Which of the following is the most impoant risk factor in the aetiology of intraventricular haemorrhage (IVH) in neonates? [Options: A: Coagulation disorder; B: Continuous Positive airway pressure; C: Pneumothorax; D: Extreme prematurity],D: Extreme prematurity,d) Extreme prematurity,0.97,GlobalMedQA_EN,"d) Extreme prematurity
+0.97"
+Drug of choice for neurocysticercosis is : [Options: A: Praziquantel; B: Albendazole; C: Levamisole; D: Piperazine],B: Albendazole,B: Albendazole,0.97,GlobalMedQA_EN,"B: Albendazole
+0.97"
+A 75-year-old male presented with chief complaint of pain in the right shoulder. CXR is shown below. Which of the following could be the cause of pain in this patient? [Options: A: Pancoast tumor; B: Sarcoidosis; C: Subclan aery aneurysm; D: Mesothelioma],A: Pancoast tumor,A: Pancoast tumor,0.85,GlobalMedQA_EN,"A: Pancoast tumor
+0.85"
+In vivo control of citric acid cycle is effected by: [Options: A: Acetyl CoA; B: Coenzyme A; C: ATP; D: Citrate],C: ATP,A: Acetyl CoA,0.9,GlobalMedQA_EN,"A: Acetyl CoA
+0.9"
+Old men with BP 210/120mmHg are classified as severe hypeension [Options: A: Categorical; B: Numerical; C: Quantiitave; D: Continuous],A: Categorical,A: Categorical,0.95,GlobalMedQA_EN,"A: Categorical
+0.95"
+Which of the following is not a postmoem change: NEET 15 [Options: A: Algor mois; B: Rigor mois; C: Atria mois; D: Livor mois],C: Atria mois,c) Atria mois,0.97,GlobalMedQA_EN,"c) Atria mois
+0.97"
+Route of transmission of HepatitisaEUR' E virus is: [Options: A: Skin; B: Faeco oral; C: Blood; D: Sexual contact],B: Faeco oral,b) Faeco oral,0.95,GlobalMedQA_EN,"b) Faeco oral
+0.95"
+A 50-year-old woman undergoes neurosurgery for resection of a well-circumscribed intracranial neoplasm attached to the dura. The tumor compressed the underlying brain parenchyma without infiltration. Which of the following is the most likely diagnosis? [Options: A: Aeriovenous malformation; B: Glioblastoma multiforme; C: Medulloblastoma; D: Meningioma],D: Meningioma,D: Meningioma,0.97,GlobalMedQA_EN,"D: Meningioma
+0.97"
+Which of the following is not steroid? [Options: A: Estrogen; B: Cholic acid; C: Leukotrians; D: Vitamin D],C: Leukotrians,c) Leukotrienes,0.99,GlobalMedQA_EN,"c) Leukotrienes
+0.99"
+The only sensory modality which does not reach the thalamus directly is: [Options: A: Proprioception; B: Taste; C: Olfaction; D: Pain and temperature],C: Olfaction,c) Olfaction,0.97,GlobalMedQA_EN,"c) Olfaction
+0.97"
+2 yrs duration in terms of leprosy is with regard to - [Options: A: Rx of paucibacillary leprosy; B: Rx of multibacillary leprosy; C: Post Rx surveillance of paucibacillary leprosy; D: Post Rx surveillance of multibacillary leprosy],C: Post Rx surveillance of paucibacillary leprosy,d) Post Rx surveillance of multibacillary leprosy,0.68,GlobalMedQA_EN,"d) Post Rx surveillance of multibacillary leprosy
+0.68"
+Most common cause of meningo encephalitis in children is: [Options: A: Arbo virus; B: Entero virus; C: HSV; D: Polio virus],B: Entero virus,B: Entero virus,0.95,GlobalMedQA_EN,"B: Entero virus
+0.95"
+Perkin's line on X-ray is used for diagnosis of - [Options: A: Perthe's disease; B: CDH; C: CTEV; D: AVN Hip],B: CDH,b) CDH,0.97,GlobalMedQA_EN,"b) CDH
+0.97"
+Glucose absorption from intestine occurs by [Options: A: Facilitated diffusion; B: Passive diffusion; C: Primary active transport; D: Secondary active transport],D: Secondary active transport,D: Secondary active transport,0.97,GlobalMedQA_EN,"D: Secondary active transport
+0.97"
+The oxygen dissociation curve of myoglobin & hemoglobin is different due to? [Options: A: Hb can bind to 2 oxygen molecules; B: Cooperative binding in Hb; C: Myogloobin has little oxygen affinity; D: Hemoglobin follows a hyperbolic curve],B: Cooperative binding in Hb,b) Cooperative binding in Hb,0.97,GlobalMedQA_EN,"b) Cooperative binding in Hb
+0.97"
+Which is an abnormal lipoprotein ? [Options: A: VLDL; B: Chylomicron; C: Lp (a); D: LDL],C: Lp (a),c) Lp (a),0.97,GlobalMedQA_EN,"c) Lp (a)
+0.97"
+Sensitivity to local anaesthetics is greater in [Options: A: Type B fibres; B: Type C fibres; C: Type A delta fibres; D: Fibres supplying the muscle spindles],B: Type C fibres,B: Type C fibres,0.95,GlobalMedQA_EN,"B: Type C fibres
+0.95"
+"A patient with a peptic ulcer was admitted to the hospital and a gastric biopsy was performed. The tissue was cultured on chocolate agar incubated in a microaerophilic environment at 37degC for 5 to 7 days. At 5 days of incubation, colonies appeared on the plate and were curved, Gram negative rods, oxidase positive. The most likely identity of this organism is [Options: A: Campylobacter jejuni; B: Vibrio parahaemolyticus; C: Haemophilus influenzae; D: Helicobacter pylori]",D: Helicobacter pylori,D: Helicobacter pylori,0.97,GlobalMedQA_EN,"D: Helicobacter pylori
+0.97"
+A dead born foetus does not have - [Options: A: Rigor mortis at birth; B: Adipocere formation; C: Maceration; D: Mummification],B: Adipocere formation,N/A,,GlobalMedQA_EN,
+Trinucleotide repeat is seen in [Options: A: Fragile X syndrome; B: Down's syndrome; C: Trisomy 13; D: Turner's syndrome],A: Fragile X syndrome,A) Fragile X syndrome,0.99,GlobalMedQA_EN,"A) Fragile X syndrome
+0.99"
+"An experimental drug, ES 62, is being studied. It prohibits the growth of vancomycin-resistant Staphylococcus aureus. It is highly lipid-soluble. The experimental design is dependent on a certain plasma concentration of the drug. The target plasma concentration is 100 mmol/dL. Which of the following factors is most important for calculating the appropriate loading dose?  [Options: A: Rate of administration; B: Clearance of the drug; C: Half-life of the drug; D: Therapeutic index; E: Volume of distribution]",E: Volume of distribution,E: Volume of distribution,0.97,GlobalMedQA_EN,"E: Volume of distribution
+0.97"
+Teen pregnancy rate as per NFHS 3 is: [Options: A: 15%; B: 10%; C: 5%; D: <1%],A: 15%,c) 5%,0.8,GlobalMedQA_EN,"c) 5%
+0.8"
+"A 35-year-old G0P0000 presents to her gynecologist with complaints of irregular menstruation. She has had only two periods in the last year. She also endorses feeling flushed without provocation and experiencing occasional dyspareunia with post-coital spotting. In addition, she has also had more frequent headaches than usual. The patient has a past medical history of Hashimoto’s thyroiditis and takes levothyroxine daily. Her mother has type I diabetes mellitus. At this visit, the patient’s temperature is 98.5°F (36.9°C), pulse is 70/min, blood pressure is 118/76 mmHg, and respirations are 13/min. Cardiopulmonary and abdominal exams are unremarkable. The patient has Tanner V breasts and pubic hair. Pelvic exam reveals a normal cervix, anteverted uterus without tenderness, and no adnexal masses. The following laboratory studies are performed:
+
+Serum:
+Thyroid stimulating hormone (TSH): 28 µIU/mL (9-30 µIU/mL)
+Cycle day 3 follicle stimulating hormone (FSH): 49 mIU/mL (4.7-21.5 mIU/mL)
+Cycle day 3 estradiol: 8 pg/mL (27-123 pg/mL)
+Prolactin: 14 ng/mL (4-23 ng/mL)
+Testosterone: 42 ng/dL (15-70 ng/dL)
+
+Which of the following is the best next step in management? [Options: A: Vaginal estradiol gel; B: Increase levothyroxine dose; C: Estradiol patch with oral medroxyprogesterone; D: Brain MRI; E: Combined oral contraceptive]",C: Estradiol patch with oral medroxyprogesterone,N/A,,GlobalMedQA_EN,
+Which cephalosporin can cause Disulfiram like reaction - [Options: A: Cefuroxime; B: Cefamendole; C: Ceftazidine; D: Ceftizoxim],B: Cefamendole,b) Cefamendole,0.95,GlobalMedQA_EN,"b) Cefamendole
+0.95"
+A patient presented with pain in the right lower quadrant of abdomen. He has history of renal stones in right kidney. He was prescribed an opioid which is agonist at kappa receptors and antagonist at mu receptors. The likely drug given was: [Options: A: Pentazocine; B: Buprenorphine; C: Tramadol; D: Fentanyl],A: Pentazocine,A: Pentazocine,0.97,GlobalMedQA_EN,"A: Pentazocine
+0.97"
+Which of the following features on mammogram would suggest malignancy – [Options: A: Well defined lesion; B: A mass of decreased density; C: Areas of speculated microcalcifications; D: Smooth borders],C: Areas of speculated microcalcifications,c) Areas of speculated microcalcifications,0.97,GlobalMedQA_EN,"c) Areas of speculated microcalcifications
+0.97"
+Cocket and Dodd's operation is for: [Options: A: Saphenofemoral flush ligation; B: Subfascial ligation; C: Deep vein thrombosis; D: Diabetic foot],B: Subfascial ligation,c) Deep vein thrombosis,0.7,GlobalMedQA_EN,"c) Deep vein thrombosis
+0.7"
+"Four days after having been admitted to the hospital for a pulmonary contusion and whiplash injury sustained in a motor vehicle collision, a 66-year-old woman complains of severe pain in her right flank and muscle spasms. She also has nausea with two episodes of vomiting and abdominal bloating. Her pain had previously been well controlled with acetaminophen every 6 hours. She underwent umbilical hernia repair surgery two years ago. She takes sertraline for depression. Her temperature is 36.5°C (97.7°F), pulse is 99/min, respirations are 17/min, and blood pressure is 102/72 mm Hg. After administration of 0.5 L of crystalloid fluids, blood pressure improves to 118/79 mm Hg. Multiple ecchymoses are present over the anterior abdominal wall in a pattern that follows the course of a seatbelt. There are ecchymoses of the flanks bilaterally. Bowel sounds are absent. There is tenderness to palpation in all four quadrants with voluntary guarding. Her hemoglobin is 7.9 g/dL, leukocyte count is 8,500/mm3, platelet count is 350,000/mm3, prothrombin time is 11 seconds, and activated partial thromboplastin time is 33 seconds. An x-ray of the abdomen shows obliteration of the right psoas shadow and uniform distribution of gas in the small bowel, colon, and rectum without air-fluid levels. Which of the following is the most likely explanation for this patient's symptoms? [Options: A: Small bowel perforation; B: Intraabdominal adhesions; C: Spinal cord injury; D: Retroperitoneal hemorrhage; E: Acute mesenteric ischemia
+""]",D: Retroperitoneal hemorrhage,D: Retroperitoneal hemorrhage,0.9,GlobalMedQA_EN,"D: Retroperitoneal hemorrhage
+0.9"
+Which of the following is a differentiating feature of anopheles from aedes mosquito ? [Options: A: Pupa has broad siphon; B: Eggs are oval shaped; C: Wings unspotted; D: Popi are sho],A: Pupa has broad siphon,N/A,,GlobalMedQA_EN,
+Anorexia nervosa can be erentiated from bulimia by- [Options: A: Intense fear of wt gain; B: Disturbance of body image; C: Adolescent age; D: Peculiar patterns of food handling],D: Peculiar patterns of food handling,d) Peculiar patterns of food handling  ,0.7,GlobalMedQA_EN,"d) Peculiar patterns of food handling  
+0.7"
+What is meant by Ca colon stage Mc ? [Options: A: Hepatic metastasis.; B: Extension upto serosa & lymph node; C: Extension upto serosa; D: Extension upto mucosa],B: Extension upto serosa & lymph node,A: Hepatic metastasis.,0.7,GlobalMedQA_EN,"A: Hepatic metastasis.
+0.7"
+Which of the following psychotropic drugs must be monitored for hematotoxic effects? [Options: A: Buspirone; B: Clozapine; C: Haloperidol; D: Lithium carbonate],B: Clozapine,b) Clozapine,0.97,GlobalMedQA_EN,"b) Clozapine
+0.97"
+Cocaine abuse is much similar to which abuse:WB 07 [Options: A: Cannabis; B: Nicotine; C: Heroin; D: Amphetamine],D: Amphetamine,d) Amphetamine,0.95,GlobalMedQA_EN,"d) Amphetamine
+0.95"
+"A 34-year-old gravida-1 at 8 weeks gestation seeks evaluation for a fever and sore throat for 3 days. She also reports generalized body pain and fatigue over this period. She was diagnosed with Graves’ disease 6 months ago. Before conception, methimazole was switched to propylthiouracil. She appears ill. The vital signs include: axillary temperature 38.0℃ (100.4℉), pulse 88/min, respiratory rate 12/min, and blood pressure 120/80 mm Hg. A 1 × 1 cm ulcer is seen on the side of the tongue. The ulcer is tender with surrounding erythema. Examination of the neck, lungs, heart, and abdomen shows no abnormalities. The laboratory studies show the following:
+Hemoglobin 13.5 g/dL
+Mean corpuscular volume 90 μm3
+Leukocyte count 2,500/mm3
+Segmented neutrophils 5%
+Lymphocytes 88%
+Platelet count 240,000/mm3
+Alanine aminotransferase 18 U/L
+Aspartate transaminase 16 U/L
+Which of the following is the most appropriate next step in management? [Options: A: Acetaminophen for fever control; B: Discontinuation of propylthiouracil; C: Oral ampicillin; D: Rectal temperature measurement; E: Termination of pregnancy]",B: Discontinuation of propylthiouracil,B: Discontinuation of propylthiouracil  ,0.93,GlobalMedQA_EN,"B: Discontinuation of propylthiouracil  
+0.93"
+Histidine load test is done for [Options: A: Histidine deficiency; B: Folic acid deficiency; C: Glutamate deficiency; D: Vitamin B12 deficiency],B: Folic acid deficiency,B: Folic acid deficiency  ,0.85,GlobalMedQA_EN,"B: Folic acid deficiency  
+0.85"
+Air crescent sign in chest X-ray is seen in: September 2010 [Options: A: Blastomycosis; B: Pneumonia; C: Invasive aspergillosis; D: Bronchiectasis],C: Invasive aspergillosis,c) Invasive aspergillosis,0.97,GlobalMedQA_EN,"c) Invasive aspergillosis
+0.97"
+Drug of choice for relapsing-remitting multiple sclerosis is: [Options: A: α IFN; B: β IFN; C: γ IFN; D: Natalizumab],B: β IFN,B: β IFN,0.97,GlobalMedQA_EN,"B: β IFN
+0.97"
+"Breakfast, Lunch and dinner sign [Options: A: Bed bug; B: Mite; C: Ant; D: Tick]",A: Bed bug,d) Tick,0.6,GlobalMedQA_EN,"d) Tick
+0.6"
+Mediastinal surface of right lung is related to [Options: A: Azygos vein; B: Right lymphatic duct; C: Aoa; D: Trachea],A: Azygos vein,N/A,,GlobalMedQA_EN,
+Precaution should be taken in case of  hepatic disease when prescribing which of these drugs? [Options: A: Amoxicillin; B: Cephalexin; C: Erythromycin; D: Augmentin],C: Erythromycin,c) Erythromycin,0.9,GlobalMedQA_EN,"c) Erythromycin
+0.9"
+A patient is brought with 6 months history of odd behavior. There is history of a family member having disappeared some years back. He seems to be talking to himself and sometimes laughing loudly. The likely diagnosis is:- [Options: A: Schizophrenia; B: Conversion disorder; C: Major depression; D: Delusional disorder],A: Schizophrenia,A: Schizophrenia  ,0.95,GlobalMedQA_EN,"A: Schizophrenia  
+0.95"
+"A 32-day-old boy is brought to the emergency department because he is found to be febrile and listless. He was born at home to a G1P1 mother without complications, and his mother has no past medical history. On presentation he is found to be febrile with a bulging tympanic membrane on otoscopic examination. Furthermore, he is found to have an abscess around his rectum that discharges a serosanguinous fluid. Finally, the remnants of the umbilical cord are found to be attached and necrotic. Which of the following processes is most likely abnormal in this patient? [Options: A: Actin remodeling; B: Antibody class switching; C: Microtubule organization; D: Neutrophil migration; E: Reactive oxygen species production]",D: Neutrophil migration,E: Reactive oxygen species production,0.95,GlobalMedQA_EN,"E: Reactive oxygen species production
+0.95"
+"According to American hea association & world hea federation 2015 criteria, low risk is defined as having An Acute Rheumatic Fever incidence <---------- per 100,000 school aged children per year? [Options: A: 1; B: 2; C: 0.1; D: 0.01]",B: 2,b) 2,0.93,GlobalMedQA_EN,"b) 2
+0.93"
+Hill sach lesion is seen in? [Options: A: Posterolateral humerus; B: Anterior dislocation of shoulder joint; C: Posterior dislocation of shoulder joint; D: Glenoid labrum tear],B: Anterior dislocation of shoulder joint,b) Anterior dislocation of shoulder joint,0.97,GlobalMedQA_EN,"b) Anterior dislocation of shoulder joint
+0.97"
+Kluver Bucy syndrome is due to the lesion in which of the following structure [Options: A: Amygdala; B: Hippocampual area; C: Hypothalamus; D: Temporal lobe],A: Amygdala,A: Amygdala,0.97,GlobalMedQA_EN,"A: Amygdala
+0.97"
+Which is a selective cyclooxygenase-2 inhibitor ? [Options: A: Ketorolac; B: Tolmetin; C: Nabumitone; D: Oxaprozin],C: Nabumitone,C: Nabumetone,0.85,GlobalMedQA_EN,"C: Nabumetone
+0.85"
+Infectious cause of Erythematous rashes are seen in [Options: A: Measles; B: Typhoid fever; C: Yellow fever; D: Malaria],A: Measles,a) Measles,0.95,GlobalMedQA_EN,"a) Measles
+0.95"
+Derivative of ventral mesogastrium - [Options: A: Greateromentum; B: Lesseromentum; C: Gastrosplenic ligament; D: Linorenal ligament],B: Lesseromentum,b) Lesseromentum,0.97,GlobalMedQA_EN,"b) Lesseromentum
+0.97"
+A 25 year old lady presented with curdy white discharge from vagina is likely to be suffering from:- [Options: A: Gonococcal vulvovaginitis; B: Candida vaginitis; C: Trichomoniasis; D: Chlamydia trachomatis],B: Candida vaginitis,b) Candida vaginitis,0.97,GlobalMedQA_EN,"b) Candida vaginitis
+0.97"
+Gamma Glutamyl Transferase is increased in [Options: A: Alcoholic hepatitis; B: Pancreatitis; C: Hepatocellular carcinoma; D: Infective hepatitis],A: Alcoholic hepatitis,a) Alcoholic hepatitis,0.85,GlobalMedQA_EN,"a) Alcoholic hepatitis
+0.85"
+Which of the following glial cells helps in myelination of CNS neurons? [Options: A: Astrocytes; B: Schwann cells; C: Microglial cells; D: Oligodendrocytes],D: Oligodendrocytes,d) Oligodendrocytes,0.99,GlobalMedQA_EN,"d) Oligodendrocytes
+0.99"
+Raindrop skull is a feature of? [Options: A: Multiple myeloma; B: Eosinophilic granuloma; C: Thalassemia; D: Sickle cell anemia],A: Multiple myeloma,A) Multiple myeloma,0.95,GlobalMedQA_EN,"A) Multiple myeloma
+0.95"
+The most oured treatment for a pelvic abscess in cul-de-sac is - [Options: A: Laparotomy; B: Colpotomy; C: External I & D; D: Antibiotics],B: Colpotomy,B: Colpotomy,0.85,GlobalMedQA_EN,"B: Colpotomy
+0.85"
+Total alveolar ventilation volume (in 1:./min) is: [Options: A: 1.5; B: 3.5; C: 4.2; D: 5],C: 4.2,c) 4.2,0.7,GlobalMedQA_EN,"c) 4.2
+0.7"
+The meal provided in mid-day meal program should supply at least - [Options: A: 1\/2 of proteins and 1\/2 of the calories required per day; B: 1\/2 of proteins and 1\/3 of the calories required per day; C: 1\/3 of proteins and 1\/3 of the calories required per day; D: 1\/3 of proteins and 1\/2 of the calories required per day],B: 1\/2 of proteins and 1\/3 of the calories required per day,c) 1/3 of proteins and 1/3 of the calories required per day,0.85,GlobalMedQA_EN,"c) 1/3 of proteins and 1/3 of the calories required per day
+0.85"
+The age of the child used in the determination of child mortality rate is: [Options: A: 0-5 years; B: 1-4 years; C: 5-8 years; D: 0-1 years],B: 1-4 years,a) 0-5 years,0.97,GlobalMedQA_EN,"a) 0-5 years
+0.97"
+"A 32-year-old man presents to the clinic with a dull low back pain radiating to the buttocks. He first noted it about 2 years ago and it has; progressed since then. He notes that it is worse in the morning and improves later in the day after physical activity. The patient also reports morning stiffness lasting up to 30 minutes and blurred vision, which started about 7 months ago. The patient’s vital signs include: blood pressure 130/80 mm Hg, heart rate 88/min, respiratory rate 16/min, and temperature 36.8°C (98.2°F). Physical examination reveals tenderness over the sacroiliac joints and limitation of the lumbar spine movements in the sagittal plane. The patient’s X-ray is shown in the picture below. Which of the following HLA variants is associated with this patient’s condition? [Options: A: HLA-DQ2; B: HLA-DR4; C: HLA-B47; D: HLA-B27; E: HLA-DR3]",D: HLA-B27,D: HLA‑B27  ,0.99,GlobalMedQA_EN,"D: HLA‑B27  
+0.99"
+Bacteriophage carries gene for which of the following ? [Options: A: Cholera toxin; B: Heat labile toxin of E. coli; C: Verocytotoxin of EHEC; D: Anthrax toxin],C: Verocytotoxin of EHEC,A: Cholera toxin  ,0.6,GlobalMedQA_EN,"A: Cholera toxin  
+0.6"
+"A 29-year-old G4P0 woman presents following a spontaneous pregnancy loss in the 18th week of her pregnancy. This is her fourth loss in the second trimester and she is concerned about her inability to have a successful pregnancy. She is otherwise healthy and has no acute complaints. Her vitals are unremarkable and exam is notable only for a firm, asymmetric uterus. Laboratory studies are ordered as seen below.
+
+Hemoglobin: 9.0 g/dL
+Hematocrit: 30%
+Leukocyte count: 6,800/mm^3 with normal differential
+Platelet count: 199,000/mm^3
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 4.3 mEq/L
+HCO3-: 25 mEq/L
+BUN: 20 mg/dL
+Glucose: 99 mg/dL
+Creatinine: 1.1 mg/dL
+
+Which of the following tests is most likely to elucidate the cause of this patient's pregnancy losses? [Options: A: Anti-cardiolipin antibodies; B: Karotyping; C: Hysterosalpingogram; D: Prolactin level; E: TSH level]",C: Hysterosalpingogram,c) Hysterosalpingogram  ,0.78,GlobalMedQA_EN,"c) Hysterosalpingogram  
+0.78"
+"""Bird of Prey"" sign is seen in the radiographic barium examination of: [Options: A: Gastric volvulus; B: Intussusception; C: Sigmoid volvulus; D: Cecal volvulus]",C: Sigmoid volvulus,N/A,,GlobalMedQA_EN,
+"A 10-month-old boy is being treated for a rare kind of anemia and is currently being evaluated for a bone marrow transplant. The patient’s mother presents to an appointment with their pediatrician after having done some online research. She has learned that the majority of patients inherit this condition as an autosomal dominant mutation. As a result of the genetic mutation, there is impaired erythropoiesis, leading to macrocytic red blood cells without hypersegmented neutrophils. She also read that children who survive will eventually present with short stature and craniofacial abnormalities. Which of the following is true about this patient’s condition? [Options: A: Splenectomy is a treatment option; B: Occurs due to an inability to convert orotic acid to uridine monophosphate (UMP); C: Fetal hemoglobin level is elevated; D: Occurs due to auto-antibodies against the parietal cells of the stomach; E: Occurs due to a defect in lymphoblasts and erythroid progenitor cells]",C: Fetal hemoglobin level is elevated,c) Fetal hemoglobin level is elevated,0.92,GlobalMedQA_EN,"c) Fetal hemoglobin level is elevated
+0.92"
+The efferent limb of the cremasteric reflex is provided the- [Options: A: Femoral branch of the genitofemoral; B: Genital branch of the genitofemoral nerve; C: Ilioinguinal nerve; D: Pudendal nerve],B: Genital branch of the genitofemoral nerve,b) Genital branch of the genitofemoral nerve,0.97,GlobalMedQA_EN,"b) Genital branch of the genitofemoral nerve
+0.97"
+"In transverse lie, the presentation is: [Options: A: Veex; B: Breech; C: Brow; D: Shoulder]",D: Shoulder,d) Shoulder,0.95,GlobalMedQA_EN,"d) Shoulder
+0.95"
+Which of the following is a long acting bronchodilator? [Options: A: Salbutamol; B: Terbutaline; C: Adrenaline; D: Formoterol],D: Formoterol,d) Formoterol,0.99,GlobalMedQA_EN,"d) Formoterol
+0.99"
+Gettler's test is done in [Options: A: Traumatic asphyxia; B: Strangulation; C: Drowning; D: Sexual asphyxia],C: Drowning,c) Drowning,0.97,GlobalMedQA_EN,"c) Drowning
+0.97"
+A 8th week pregnant women presents with mild vaginal bleeding and pain in the lower abdomen. The size of the uterus is 8 weeks. The cause is [Options: A: Threatened abortion; B: Inevitable abortion; C: Incomplete abortion; D: Induced abortion],A: Threatened abortion,A: Threatened abortion,0.97,GlobalMedQA_EN,"A: Threatened abortion
+0.97"
+Ovarian fibroma develops from [Options: A: Epithelium; B: Germ cells; C: Sex cord; D: Stroma],D: Stroma,D: Stroma,0.97,GlobalMedQA_EN,"D: Stroma
+0.97"
+TB can be easily differentiated from squamous cell carcinoma by: [Options: A: Acid positive with ziehl neelsen stain; B: Primary lesion occur on tongue; C: Biopsy can confirm the diagnosis; D: Direct smear examination],C: Biopsy can confirm the diagnosis,A: Acid positive with Ziehl‑Neelsen stain  ,0.97,GlobalMedQA_EN,"A: Acid positive with Ziehl‑Neelsen stain  
+0.97"
+Most common symptom of bronchial adenoma is: [Options: A: Chest pain; B: Weight loss; C: Recurrent hemoptysis; D: Cough],C: Recurrent hemoptysis,D: Cough  ,0.7,GlobalMedQA_EN,"D: Cough  
+0.7"
+Not a marker for hyperparathyroidism is - [Options: A: Increase in serum calcium; B: Increase in 24 hour urinary calcium excretion; C: Increase in serum calcitonin; D: Subperiosteal resorption of phalanges],C: Increase in serum calcitonin,c) Increase in serum calcitonin,0.97,GlobalMedQA_EN,"c) Increase in serum calcitonin
+0.97"
+plate endings are features of [Options: A: Nuclear chain fibres; B: Nuclear bag fibres; C: Golgi tendon; D: Extra fusal],B: Nuclear bag fibres,c) Golgi tendon,0.99,GlobalMedQA_EN,"c) Golgi tendon
+0.99"
+Aviator fracture is - [Options: A: Fracture neck of talus; B: Fracture scaphoid; C: Fracture calcaneum; D: Fracture 5 metatarsal],A: Fracture neck of talus,c) Fracture calcaneum,0.97,GlobalMedQA_EN,"c) Fracture calcaneum
+0.97"
+A 52-year-old band director suffered problems in her right arm several days after strenuous field exercises for a major athletic tournament. Examination in the orthopedic clinic reveals wrist drop and weakness of grasp but normal extension of the elbow joint. There is no loss of sensation in the affected limb. Which nerve was most likely affected? [Options: A: Ulnar; B: Anterior interosseous; C: Posterior interosseous; D: Median],C: Posterior interosseous,c) Posterior interosseous,0.97,GlobalMedQA_EN,"c) Posterior interosseous
+0.97"
+"In tuberculosis of scrotal contents, first to get affected is? [Options: A: Testis; B: Epididymis; C: Rete testis; D: Vas deferens]",B: Epididymis,b) Epididymis,0.95,GlobalMedQA_EN,"b) Epididymis
+0.95"
+What is the critical value of Shock Index which is considered abnormal in pregnancy? [Options: A: 0.9-1.1; B: 0.5 0-.7; C: 0.3-0.5; D: 0.7-0.9],A: 0.9-1.1,A: 0.9-1.1,0.9,GlobalMedQA_EN,"A: 0.9-1.1
+0.9"
+"A 44-year-old woman presents with increased thirst and frequent urination that started 6 months ago and have progressively worsened. Recently, she also notes occasional edema of the face. She has no significant past medical history or current medications. The patient is afebrile and the rest of the vital signs include: blood pressure is 120/80 mm Hg, heart rate is 61/min, respiratory rate is 14/min, and temperature is 36.6°C (97.8°F). The BMI is 35.2 kg/m2. On physical exam, there is 2+ pitting edema of the lower extremities and 1+ edema in the face. There is generalized increased deposition of adipose tissue present that is worse in the posterior neck, upper back, and shoulders. There is hyperpigmentation of the axilla and inguinal areas. The laboratory tests show the following findings:
+Blood
+Erythrocyte count 4.1 million/mm3
+Hgb 12.9 mg/dL
+Leukocyte count 7,200/mm3
+Platelet count 167,000/mm3
+Fasting blood glucose 141 mg/dL (7.8 mmol/L)
+Creatinine 1.23 mg/dL (108.7 µmol/L)
+Urea nitrogen 19 mg/dL (6.78 mmol/L)
+Urine dipstick
+Glucose +++
+Protein ++
+Bacteria Negative
+The 24-hour urine protein is 0.36 g. Which of the following medications is the best treatment for this patient’s condition? [Options: A: Enalapril; B: Insulin; C: Metoprolol; D: Furosemide; E: Mannitol]",A: Enalapril,A: Enalapril,0.95,GlobalMedQA_EN,"A: Enalapril
+0.95"
+Which one of the following does not produce cyanosis in the first year of life - [Options: A: Atrial septal defect; B: Hypoplastic left hea syndrome; C: Truncus aeriosus; D: Double outlet right ventricle],A: Atrial septal defect,A) Atrial septal defect,0.97,GlobalMedQA_EN,"A) Atrial septal defect
+0.97"
+Which vein does NOT drain into internal jugular vein? [Options: A: Lingual vein; B: Facial vein; C: Superior thyroid vein; D: Retromandibular vein],D: Retromandibular vein,N/A,,GlobalMedQA_EN,
+"""This kind of terrorist attack has to be condemned and condemned thoroughly,"" Rice said aboard the plane bringing her to Berlin, where she began a five-day European tour. ""The Palestinian Authority has done so."" [Question: What has the Palestinian Authority been doing after the terrorist attack?]",condemned; done,condemned,0.93,TORQUE,"condemned
+0.93"
+"Zaire's Prime Minister Likulia Bolongo has called on residents of Kinshasa to denounce all suspect people, saying the army can defend the city against rebels but needs public support. In a television interview late Monday, General Likulia declared that the Zairean armed forces, the FAZ, was able to hold the city against rebels who have swept across the eastern half of the country, but needed ""the support of the people"". [Question: What happened after rebels swept across the eastern half of the country?]",called; saying; interview; declared; was; hold,FAZ held city,0.9,TORQUE,"FAZ held city
+0.9"
+"Italy leads a 6,000-strong multinational force being sent to Albania to secure routes for humanitarian supplies pouring into the country wracked by weeks of anarchy. The unrest blew into a full-scale armed uprising in the south, with the port town of Vlore at its hub. [Question: What event has already finished?]",blew,unrest,0.6,TORQUE,"unrest
+0.6"
+"Amir, 27, is serving a life sentence for the November 1995 assassination of Rabin at a Tel Aviv peace rally. Newspaper reports have said Amir was infatuated with Har-Shefi and may have been trying to impress her by killing the prime minister. [Question: What happened during the assassination?]",rally; killing,shot; collapsed; died,0.97,TORQUE,"shot; collapsed; died
+0.97"
+"The dollar rose to 49.70 Philippine pesos Tuesday afternoon from 49.36 on Monday, to 9,128 Indonesian rupiah from 9,070 and to 32.68 Taiwan dollars from 32.55. The greenback rose to 930.85 South Korean won from 924.9 and to 1.546 Singapore dollars from 1.541. [Question: What event has already finished?]",rose; rose,rise,0.9,TORQUE,"rise
+0.9"
+"Soviet Foreign Ministry spokesman Yuri Gremitskikh said special ambassador Mikhail Sytenko left Tuesday for consultations with the governments of Syria, Jordan, Egypt and other Arab countries. Sytenko, a former deputy secretary-general of the United Nations, is also expected to visit Baghdad, Gremitskikh said at a regular news briefing today. [Question: What event has already happened?]",said; left; said; briefing,left,0.95,TORQUE,"left
+0.95"
+"Since 1994, China has organized 13 consecutive civil servant recruitment examinations for central and regional government bodies. Statistics show 4.13 million college students graduated this year, three quarters of a million more than last year. [Question: What did 4.13 students do after last year?]",graduated,graduated,0.9,TORQUE,"graduated
+0.9"
+"The question was raised during a meeting early Monday between Secretary of State Madeleine Albright and South African Vice President Thabo Mbeki. Sahnoun said Monday that there is ""still a small hope to concretize the meeting."" [Question: What happened before Sahnoun could have hope?]",meeting; meeting,question raised; meeting,0.9,TORQUE,"question raised; meeting
+0.9"
+"That's the best record in the AFC, one game ahead of Indianapolis for home field advantage throughout the playoffs. The Colts lost for the second week in a row, wasting another chance to clinch the AFC South title as they fell 44-17 to Jacksonville. [Question: What started before the Colts lost?]",playoffs,best record,0.78,TORQUE,"best record
+0.78"
+"Raul spoke from a table where three generations of Cuban leaders were sitting, including Jose Ramon Machado Ventura, 76, chief of the Organization Department of the Communist Party Central Committee; Vice President Carlos Lage, 55; and his 25-year-old son and FEU chairman Carlos Lage Codorniu. After the students said in a final statement that they would ""defend the martial, Marxist-Leninist, socialist and antiimperialist revolution,"" Raul replied that he was proud Cuba would be led ""by the new generations you represent."" [Question: What will take place after the students' speech?]",led; defend,Raul replied,0.85,TORQUE,"Raul replied
+0.85"
+"But some analysts questioned how much of an impact the retirement package will have, because few jobs will end up being eliminated. ""It's a cosmetic move,"" said Jonathan S. Gelles of Wertheim Schroder amp Co. [Question: What event has already finished?]",questioned,questioned,0.9,TORQUE,"questioned
+0.9"
+"""It's a good resolution,"" Rice told AFP in an exclusive interview after a revised draft resolution was submitted to the full Security Council at UN headquarters in New York earlier Monday. Rice said she was ""optimistic"" the resolution aimed at persuading Iran to suspend uranium enrichment would pass soon, though she stopped short of predicting a final vote before the end of the year. [Question: What happened before the interview with Rice?]",revised; submitted; aimed; persuading; enrichment,revised draft resolution; submitted  ,0.97,TORQUE,"revised draft resolution; submitted  
+0.97"
+"A day earlier, scores of trucks, many with Iraqi license plates, streamed north out of Aqaba to Amman and onto the desert highway bound for Iraq. The Jordanian monarch met this week with Saddam, but he told reporters he had no message from Baghdad. [Question: What started after scores of trucks began to stream north?]",out; onto; bound,Jordanian monarch met Saddam,0.78,TORQUE,"Jordanian monarch met Saddam
+0.78"
+"The commemorations began early Friday morning, as tens of thousands of Cubans marched through Havana's streets by torchlight. Similar events were held all day in the capital and across the island. [Question: What took place before the Cubans marched?]",began,commemorations began,0.97,TORQUE,"commemorations began
+0.97"
+"However, talks on such a zone have bogged down because of sharp disagreement between the United States and countries like Brazil, Argentina, Paraguay and Uruguay. President Bush has insisted that free trade is the best way to reduce poverty and create employment and he pushed for resuming such trade talks at the summit. [Question: What has started happening before the summit?]",bogged; disagreement,resuming trade talks,0.85,TORQUE,"resuming trade talks
+0.85"
+"Last year several local journalists were investigated for revealing ""national secrets in violation of Article 97 of the criminal code,"" after reporting possible mishandling of aircraft purchases by Vietnam Airlines. [Question: What happened before the reporting?]",mishandling; purchases,possible mishandling of aircraft purchases by Vietnam Airlines,0.93,TORQUE,"possible mishandling of aircraft purchases by Vietnam Airlines
+0.93"
+"The acquisition brings together the two largest competitors to Home Shopping Network Inc., which now reaches more viewers than any other company in the video shopping industry. Among them, Home Shopping, QVC and CVN already control most of that young and fast-growing market, which last year had sales of about $1.4 billion. [Question: What had started before the acquisition brings them together?]",control; Among; had,young and fast-growing market,0.9,TORQUE,"young and fast-growing market
+0.9"
+"The program also calls for coordination of economic reforms and joint improvement of social programs in the two countries, where many people have become impoverished during the chaotic post-Soviet transition to capitalism. Kuchma also planned to visit Russian gas giant Gazprom, most likely to discuss Ukraine's dlrs 1.2 billion debt to the company. [Question: What event has already happened?]",become; transition; planned; debt,people have become impoverished,0.8,TORQUE,"people have become impoverished
+0.8"
+"Pangalos said for his part that the force, due to comprise between 700 and 800 Greek troops, ""will not be tasked with disarmament."" Instead the Italian-led mission is expected to secure roads, junctions, airports and warehouses and help aid deliveries. [Question: What event has already finished?]",said,disarmament,0.6,TORQUE,"disarmament
+0.6"
+"The 8-month grand competition, to be shown on television across China through satellite transmission as of March next year, will allow Chinese audiences to vote for their favorite Kungfu exercisers through the website or mobile phone messages. The top 108 winners are expected to have the chance to play a part in a movie and TV series depicting martial arts and monks of Shaolin, according to Fu Min, general manager with the Shaolin Temple Culture Communication Co., Ltd, which is owned by the temple. [Question: What happens before the movie is finished?]",play; have; expected; are; vote; allow; shown,competition; voting; selection of winners,0.85,TORQUE,"competition; voting; selection of winners
+0.85"
+"But as the craze died, Coleco failed to come up with another winner and filed for bankruptcy-law protection in July 1988. The plan was filed jointly with unsecured creditors in federal bankruptcy court in New York and must be approved by the court. [Question: What had happened before the craze died?]",come; winner,failed to come up with another winner,0.95,TORQUE,"failed to come up with another winner
+0.95"
+"""If I were rich, I'd fill my car with petrol because gas is bad for your engine and it is not very nice carrying an 80-kilogramme container in your trunk,"" said one Yerevan resident, 37-year-old Artem. At the country's environment ministry, officials hail the benefits of increased gas use after the damage done to the environment in the 1990s. [Question: What event has begun but has not finished?]",is; is; hail; use,increased gas use,0.78,TORQUE,"increased gas use
+0.78"
+"The national statistics institute INSEE said Tuesday that the French economy should expand by 2.1 percent this year, thanks to a rebound in the fourth quarter, and appeared likely to resist a slowdown in global momentum expected in early 2007. INSEE economist Eric Dubois said the stagnation in the French economy in the third quarter was a surprise and should be corrected by growth of 0.9 percent in the final three months of the year, powered by a pickup in the manufacturing industry. [Question: What will happen in the future?]",slowdown; resist; expand; corrected,expand; resist; grow; pickup,0.93,TORQUE,"expand; resist; grow; pickup
+0.93"
+"The quake, which struck about 390 km east of the Etorofu islands, north of Japan, at 1115 GMT, could generate a tsunami of about 2 meters or more, Japan's Meteorological Agency said earlier. No injuries or damage have been reported so far. [Question: What will happen before a tsunami is generated?]",quake; struck,quake; strike,0.92,TORQUE,"quake; strike
+0.92"
+"Butinstead of providing the votes to strike it down, they chose to uphold it on the flimsy ground that because the sex of the parent and not the child made the difference under the law, the plaintiff did not have standing to bring the case. The Justice Department, which supported the statute, did not cover itself with glory either. [Question: What could have happened after the votes were provided?]",strike; have; bring; cover,uphold; strike down; enforce; repeal; challenge,0.78,TORQUE,"uphold; strike down; enforce; repeal; challenge
+0.78"
+"He sold the property to five buyers and said he'd double his money. In Hong Kong, is always belongs to the seller's market. [Question: What will happen in the future?]",double,double his money,0.78,TORQUE,"double his money
+0.78"
+"In Sunday's debate against Vacco, Spitzer attacked him for failing to enforce a court order in 1992 against anti-abortion protesters who had blocked the entrance to a clinic. It was the same clinic where Slepian worked. [Question: What failed to happen after the protesters blocked the entrance to the clinic?]",enforce,enforce court order,0.97,TORQUE,"enforce court order
+0.97"
+"This would include improving technology for delivering financial services more efficiently and at lower cost and expanding the range and quality of financial products and services ""including those for the Islamic market"", the ADB said. The bank would also work to set up public-private partnerships, including reliable business and credit information systems as well as improved, reliable and lower-cost remittance services for overseas workers. [Question: What might happen after ADB said that?]",include; improving; delivering; expanding; work; set; partnerships; remittance,technology improvement; cost reduction; financial product expansion; public‑private partnership formation; business‑credit information system development; lower‑cost remittance service enhancement,0.78,TORQUE,"technology improvement; cost reduction; financial product expansion; public‑private partnership formation; business‑credit information system development; lower‑cost remittance service enhancement
+0.78"
+"The Nikkei stock average gained 307.83 points, or 1.6 percent, from Monday in the first one hour to stand at 18,978.20 at 10 a.m. (0100 GMT). ""The upsurge in New York encouraged market participants here,"" Harushige Kobayashi of Yamaichi Securities Co. Ltd. said, adding the Tokyo market would probably hold firm for the day. [Question: What happened before Mr. Kobayashi spoke?]",gained; stand; upsurge; encouraged,Nikkei stock average gained 307.83 points  ,0.97,TORQUE,"Nikkei stock average gained 307.83 points  
+0.97"
+"""I don't often use that word but then it is not very often that you get to meet one,"" he said. A book of memoirs and photographs from the climb by Mr Lowe, which he worked on with Dr Lewis-Jones, is due to be published in May. [Question: What did happen before the book would be published in May?]",use; meet; said; climb; worked,climb; memoirs; photographs; worked  ,0.78,TORQUE,"climb; memoirs; photographs; worked  
+0.78"
+"Upstart Internet firm Livedoor launched an unusually aggressive takeover bid in February for a crucial Fuji unit, Nippon Broadcasting System radio, in a bid to win control of the television giant. Internet giant Rakuten also targetted broadcaster TBS for an aggressive takeover. [Question: What had to happen before winning control?]",bid; launched; Upstart,launching takeover bid,0.9,TORQUE,"launching takeover bid
+0.9"
+"Market turnover reached 2.1 billion worth a total value of 8 billion Australian dollars (6.15 billion U.S. dollars) with 492 stocks moving up, 677 moving down and 319 unchanged. SINGAPORE -- The shares prices in Singapore closed sharply lower on Monday with the benchmark Straits Times Index (STI) reducing 41.8 points to end at 2,771.4 points. [Question: What happened at the time when 492 stocks moved up, 677 moved down and 319 remained unchanged?]",reached,market turnover reached 2.1 billion,0.92,TORQUE,"market turnover reached 2.1 billion
+0.92"
+"""The exectuive committee, chaired by Abbas, decided to call on Abbas to hold early parliamentary and presidential elections,"" executive committee member Saleh Rafaat told AFP. [Question: What happened before the elections?]",chaired; decided; call,executive committee decided; call; hold early parliamentary and presidential elections  ,0.9,TORQUE,"executive committee decided; call; hold early parliamentary and presidential elections  
+0.9"
+A senior Palestinian official told AFP that the initiative announced by Blair would be worked out in coordination with the United States and be unveiled by US Secretary of State Condoleezza Rice during her expected visit to the region early next year. The Palestinian territories have been plunged into their deepest ever financial crisis because of a Western aid freeze imposed after Hamas came to power in March. [Question: What will have finished before the initiative is unveiled?],told; announced; worked; plunged; imposed; came; March,aid freeze,0.78,TORQUE,"aid freeze
+0.78"
+"They had earlier warned him not to assume the premiership and insisted they would not work for any government while Mobutu was president. Press reports in Kinshasa said the ""family"" of oppposition parties, the Political Conclave Force (FPC), was ready to meet Friday to decide whether to replace him. [Question: What event has already finished?]",warned; insisted; reports; said,warning,0.78,TORQUE,"warning
+0.78"
+"The number of 6,100 tons of opium is ""not acceptable and not tolerable,"" and it ""brings a bad name for the country,"" said Azam, adding Afghanistan is pushing the national anti-drug campaign led by President Hamid Karzai. However, analysts say it is a daunting task to curb opium production in Afghanistan as insecurity, official corruption and poverty there are providing fertile soil for the industry. [Question: What event has already finished?]",said; adding; say,production,0.4,TORQUE,"production
+0.4"
+"Security forces under the command of Mobutu's son, Major Mobutu Kongolo, detained Tshisekedi around midday (1000 GMT) Wednesday as he attempted to enter the prime minister's office building to begin running his new government. A few hours later in flashes on state radio and television the government announced that Mobutu had named the defense minister in the outgoing government, General Likulia Bolongo, to be prime minister. [Question: What event has begun but has not finished?]",running; be,running his new government,0.9,TORQUE,"running his new government
+0.9"
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons. Edward L. Kane succeeded Mr. Taylor as chairman. [Question: What happened after Taylor stepped down?]",succeeds; succeeded,Edward L. Kane succeeded  ,0.95,TORQUE,"Edward L. Kane succeeded  
+0.95"
+"""The local tourism scene has seen phenomenal growth in the last couple of months and we want to support this route,"" he said. The increase in the number of international visitors to Kenya has spurred a greater interest in the tourism sector with the airports registering the highest number of traffic in the last five years. [Question: What happened during the growth?]",scene; support; route; increase; interest; registering; traffic,growth; increase; spurred; registering,0.85,TORQUE,"growth; increase; spurred; registering
+0.85"
+"He said that new control measures covering 59 percent of farm payments had had a positive impact ""where properly applied,"" while checks covering 37 percent of the agricultural payments not covered by these new measures ""did not provide reasonable assurance that they comply with legislation."" Weber was particularly critical of the national authorities, who account for 80 percent of budget payments, saying ""the improvement in systems and controls at the level of the commission has not been reflected in those within the member states."" [Question: What did not happen after the new measures?]",covered; provide; assurance; comply; reflected,provide reasonable assurance,0.85,TORQUE,"provide reasonable assurance
+0.85"
+"""As Iraqis step up, the coalition forces can step back and ultimately, come home. That's what the president said from the very beginning."" [Question: What can the coalition forces do after they step back?]",come,come home,0.97,TORQUE,"come home
+0.97"
+"Thirty-two of the 159 U.N. members had filed compliance reports by Wednesday, and all were honoring the sanctions Iraq. Also Thursday, Saudi Arabia called for an emergency conference of the Organization of Petroleum Exporting Countries to discuss how much oil to pump. [Question: What will happen after something is called?]",conference; discuss; pump,emergency conference,0.78,TORQUE,"emergency conference
+0.78"
+More than 100 workers are digging a tunnel of 1.7 meter high and 1.2 meter wide to rescue the trapped workers. [Question: What will happen in the future?],rescue,workers rescued; tunnel completed; trapped workers saved,0.78,TORQUE,"workers rescued; tunnel completed; trapped workers saved
+0.78"
+"In their joint statement issued after the talks, Yeltsin and Kuchma called for the fastest possible ratification of the treaty, saying it would create a ``strong legal foundation'' for bilateral ties and help stability in Europe. Kuchma assured Yeltsin that Ukraine would not join NATO, Yeltsin's spokesman Sergei Yastrzhembsky said, according to the Interfax news agency. [Question: What might happen after ratification of the treaty?]",create; help; join,create strong legal foundation; help stability in Europe,0.92,TORQUE,"create strong legal foundation; help stability in Europe
+0.92"
+"This was despite discussions between Beijing and the Vatican aimed at normalising bilateral relations, which were broken off in the early 1950s. [Question: What happened during the 1950s?]",broken,broken off,0.93,TORQUE,"broken off
+0.93"
+"Scott Ritter led his team on a 10-hour tour of three suspected weapons sites classified as ``sensitive'' by the Iraqi authorities, U.N. spokesman Alan Dacey said. ``All sites were inspected to the satisfaction of the inspection team and with full cooperation of Iraqi authorities,'' Dacey said. [Question: What happened before Scott Ritter led his team on a tour?]",classified,sites classified as sensitive,0.7,TORQUE,"sites classified as sensitive
+0.7"
+"Vanhanen said that the leaders, in confidential talks, had agreed that there was no point in throwing away the painstakingly assembled text. ""We cannot throw out the entire text and start again from scratch,"" he said. [Question: What event has already finished?]",said; talks; agreed; assembled; said,confidential talks,0.9,TORQUE,"confidential talks
+0.9"
+"He told the reporters that his delegation has involved representatives from all Sudanese political parties of the national unity government in addition to the participation of the Darfur people through preparatory conferences which they had held on the issue. He said he was optimistic on the next peace talks despite difficulties which might be brought up by differences inside a main faction of the Darfur rebels, referring to conflicts between two leaders of the Sudan Liberation Movement (SLM). [Question: What might happen after the next peace talks?]",brought,agreement; ceasefire; renewed conflict; implementation; further negotiations,0.7,TORQUE,"agreement; ceasefire; renewed conflict; implementation; further negotiations
+0.7"
+"Dozens of Fatah members burned tires and voters lists after failing to find their names in the lists. Earlier, Palestinian sources said that the committee decided to postponed Fatah primaries in the central Gaza Strip following riots at the ballot stations in this region. [Question: What didn't happen before the tires were burned?]",find,find names in lists,0.92,TORQUE,"find names in lists
+0.92"

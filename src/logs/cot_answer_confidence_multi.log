@@ -1,0 +1,12 @@
+Total samples to process: 1000
+source
+Astro-QA_Judgement    250
+GlobalMedQA_EN        250
+TORQUE                250
+HotpotQA              250
+Name: count, dtype: int64
+  0%|          | 0/1000 [00:00<?, ?it/s]  0%|          | 0/1000 [00:00<?, ?it/s]
+
+🛑 QUOTA EXCEEDED: Groq limits reached. Stopping. Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kae6qd1zfqga1n7xyfjcfyad` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499996, Requested 884. Please try again in 2m32.064s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+✅ Saved results -> outputs/cot_answer_confidence_multi_llama-3.1-8b-instant_results.csv

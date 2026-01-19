@@ -1,0 +1,14 @@
+question,gold,pred,confidence,source,raw_response
+"On the moon, artificial satellite phenomena can be observed. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+Sunspots can be observed on the moon. ,True,false,0.0,Astro-QA_Judgement,"false
+0"
+"A 58-year-old female presents to her primary care physician with a 1-month history of facial and chest flushing, as well as intermittent diarrhea and occasional difficulty breathing. On physical exam, a new-onset systolic ejection murmur is auscultated and is loudest at the left second intercostal space. Subsequent echocardiography reveals leaflet thickening secondary to fibrous plaque deposition on both the pulmonic and tricuspid valves. Which of the following laboratory abnormalities would most likely in this patient? [Options: A: Decreased serum chromogranin A; B: Elevated serum bicarbonate; C: Elevated urinary vanillylmandelic acid; D: Elevated serum potassium; E: Elevated urinary 5-hydroxyindoleacetic acid]",E: Elevated urinary 5-hydroxyindoleacetic acid,C: Elevated serum potassium,0.7,GlobalMedQA_EN,"C: Elevated serum potassium
+0.7"
+Indicated mandibular major connector for a long span edentulous ridge: [Options: A: Lingual plate; B: Lingual bar; C: Double lingual bar; D: Labial bar],A: Lingual plate,C: Double lingual bar,0.8,GlobalMedQA_EN,"C: Double lingual bar
+0.8"
+In what county is the university at which Walter Oechel teaches located?,San Diego County,San Diego County,0.99,HotpotQA,"San Diego County
+0.99"
+What genre of music is the solo artist that contributed to Real Damage a variant of?,synth-pop,Metalcore,1.0,HotpotQA,"Metalcore
+
+1"

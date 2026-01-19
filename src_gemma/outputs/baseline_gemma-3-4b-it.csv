@@ -1,0 +1,63 @@
+question,gold,pred,confidence,source,raw_response
+The important feature of chaotic systems is that very small changes in initial conditions can lead to large differences in final states. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The core of M87 contains a massive black hole. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"Liu Yong's ""Where to Wake from the Wine Tonight, on the Willow Bank in the Morning Breeze and the Fading Moon"" describes the phase of the moon known as the waning crescent. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"The apparent brightness of all stars when placed at the same standard distance is referred to as ""true brightness"". ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"The reason why humans speculate the existence of ""dark energy"" is that the accelerating expansion of the universe contradicts the mutual attraction of gravity, and current knowledge cannot explain the energy that drives this expansion. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The volume differences between stars are much greater than their mass differences. ,True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"On the moon, artificial satellite phenomena can be observed. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Galileo was the first person to use a telescope to observe celestial bodies and achieve significant results. ,True,false,0.8,Astro-QA_Judgement,"false
+0.8"
+The phenomenon of the seasons is due to the Earth's revolution combined with the tilt of its axis of rotation. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Analyzing the composition of organic compounds in meteorites can reveal the presence of prebiotic materials in the universe. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"An astronomer passed away in a car accident, and his ashes were sent to the moon. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The Voyager spacecraft carried a golden record inscribed with a variety of sounds from nature and human societies on Earth. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The two discoverers of the 3K cosmic background radiation were originally satellite communication engineers. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Cygnus A (A Cyg) is an explosive galaxy. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+Black holes formed from the collapse of stars are smaller in volume than neutron stars and rotate faster than 5000 rotations per second. ,False,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"The relationship within a scattered star cluster is relatively loose, without a regular shape. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The formation of Uranus's peculiar seasons is due to its unique rotational characteristics. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"Venus rotates ""backwards"" (clockwise). ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The Bullet Cluster (1E0657-56) holds significant value in astronomy as it is the first celestial system where the existence of dark matter was directly confirmed. ,True,false,0.8,Astro-QA_Judgement,"false
+0.8"
+The constellation of the Turtle still exists. ,False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"According to ancient Chinese records, the characteristics of supernova explosions include their sudden appearance, exceptional brightness, and long duration. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"According to calculations by solar physicists, the lifespan of the Sun should be about 5 billion years. ",False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"To date, only the United States has achieved close-range exploration around Mars. ",False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+It is estimated that there should be 1 million stellar black holes in the Milky Way. ,True,true,0.8,Astro-QA_Judgement,"true
+0.8"
+"The formation of a black hole must involve a spatial boundary where photons cannot escape, known as the event horizon. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The reason why Type Ia supernovae are used as standard cosmic candles is that their brightness is constant when they explode. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The advent of artificial satellites has provided excellent opportunities for the study of cosmic rays. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Aurora is a phenomenon caused by the activity of solar wind particles. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The acceleration due to gravity is the same at different locations on Earth. ,False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"In determining the direction of the night sky's diurnal motion, the left-handed spiral system is only effective for the starry sky observed in the Southern Hemisphere. ",False,false,0.8,Astro-QA_Judgement,"false
+0.8"
+The Galileo probe only reached the surface of Jupiter. ,True,false,0.95,Astro-QA_Judgement,"false
+0.95"

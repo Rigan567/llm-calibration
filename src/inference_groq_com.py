@@ -1,125 +1,125 @@
-# src_combined/inference_groq_com.py
-
 import os
+import sys
 import pandas as pd
 from groq import Groq
 from dotenv import load_dotenv
 from tqdm import tqdm
 from pathlib import Path
 
-#setup
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR.parent / ".env")
 
-file = open("Groq_api_key.txt", "r")
-key = file.read()
+try:
+    with open("Groq_api_key.txt", "r") as f:
+        key = f.read().strip()
+except FileNotFoundError:
+    key = os.getenv("GROQ_API_KEY")
 
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+if not key:
+    raise RuntimeError("Groq API Key not found.")
 
+client = Groq(api_key=key)
 
+if len(sys.argv) < 2:
+    print("Usage: python inference_groq_com.py <prompt_version>")
+    sys.exit(1)
 
-INPUT_FILE = "dataset/combined_qa_dataset_800.jsonl"
-OUTPUT_CSV = "outputs/baseline_groq.csv"  
+PROMPT_VERSION = sys.argv[1]
+INPUT_FILE = "combined_qa_dataset_800.jsonl"
 MODEL_NAME = "llama-3.1-8b-instant"
-# PROMPT_TEMPLATE = open("prompts/baseline.txt").read()
-# PROMPT_TEMPLATE = (BASE_DIR / "prompts" / "baseline.txt").read_text()
-PROMPT_VERSION="baseline"
+OUTPUT_CSV = f"outputs/{PROMPT_VERSION}_{MODEL_NAME}_results.csv"
 
-
-
-# Experiment control
-# Choosing 5 categories (sources)
 TARGET_SOURCES = {
     "Astro-QA_Judgement",   # True / False
     "HotpotQA",             # Multi-hop factoid
     "GlobalMedQA_EN",       # Medical MCQ
-    "TemporalQA"            # Temporal reasoning (if present)
+    "TORQUE"            # Temporal reasoning (if present)
 }
-
-SAMPLES_PER_SOURCE = 2
-
-
-
 
 def parse_model_output(text):
     lines = [line for line in text.splitlines() if line.strip() != '']
-    answer = lines[-2]
-    try:
-        confidence = float(lines[-1].strip())
-    except ValueError:
+    if not lines:
+        return "N/A", None, text
+
+    if len(lines) == 1:
+        answer = lines[0]
         confidence = None
+    else:
+        answer = lines[-2]
+        try:
+            confidence = float(lines[-1].strip())
+        except (ValueError, IndexError):
+            confidence = None
     return answer, confidence, text
 
 
-# Main inference loop
 def main():
-    # Load processed dataset
     df = pd.read_json(INPUT_FILE, lines=True)
 
-    # Ensure source exists
     if "source" not in df.columns:
-        raise ValueError(
-            "'source' column not found. "
-        )
+        raise ValueError("'source' column not found.")
 
-    # Keep only chosen categories
     df = df[df["source"].isin(TARGET_SOURCES)]
 
-    # Sample equally from each category
-    df = (
-        df.groupby("source", group_keys=False)
-          .apply(lambda x: x.sample(min(len(x), SAMPLES_PER_SOURCE)))
-          .reset_index(drop=True)
-    )
+    processed_questions = set()
+    if os.path.exists(OUTPUT_CSV):
+        try:
+            existing_df = pd.read_csv(OUTPUT_CSV)
+            processed_questions = set(existing_df['question'].astype(str).tolist())
+            print(f"🔄 Resuming {PROMPT_VERSION}: Skipping {len(processed_questions)} samples already in CSV.")
+        except Exception as e:
+            print(f"⚠️ Could not read existing file: {e}")
 
-    print("Selected samples per category:")
-    print(df["source"].value_counts())
-
-    rows = []
-
-    # Run inference
-    for _, row in tqdm(df.iterrows(), total=len(df)):
-        question = row["question"]
-        gold = row["answer"]
-        source = row["source"]
-        type = {
-            "Open ended": "open",
-            "True or False": "true_false",
-            "Multiple-choice": "choice",
-            "temporal": "temporal",
-        }.get(row["type"])
-        prompt_template = open(BASE_DIR/f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
-
-        type = {
-            "Open ended": "open",
-            "True or False": "true_false",
-            "Multiple-choice": "choice",
-            "temporal": "temporal",
-        }.get(row["type"])
-        prompt_template = open(BASE_DIR/f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
-
-        prompt = prompt_template.format(question=question)
-
-        response = client.chat.completions.create(
-            model=MODEL_NAME,
-            messages=[{"role": "user", "content": prompt}]
-        )
-
-        text = response.choices[0].message.content.strip()
-        pred, conf, raw = parse_model_output(text)
-
-        rows.append({
-            "question": question,
-            "gold": gold,
-            "pred": pred,
-            "confidence": conf,
-            "source": source,
-            "raw_response": raw
-        })
-
-    # Save results
     os.makedirs("outputs", exist_ok=True)
-    pd.DataFrame(rows).to_csv(OUTPUT_CSV, index=False)
+
+    remaining_df = df[~df['question'].astype(str).isin(processed_questions)]
+    print(f"Total samples to process: {len(remaining_df)}")
+    print(remaining_df["source"].value_counts())
+
+    for _, row in tqdm(remaining_df.iterrows(), total=len(remaining_df)):
+        try:
+            type = {
+                "Open ended": "open",
+                "True or False": "true_false",
+                "Multiple-choice": "choice",
+                "temporal": "temporal",
+            }.get(row["type"])
+            prompt_template = open(BASE_DIR/f"prompts/{PROMPT_VERSION}/{PROMPT_VERSION}_{type}.txt").read()
+            prompt = prompt_template.format(question=row["question"])
+
+            response = client.chat.completions.create(
+                model=MODEL_NAME,
+                messages=[{"role": "user", "content": prompt}]
+            )
+
+            text = response.choices[0].message.content.strip()
+            pred, conf, raw = parse_model_output(text)
+
+            result_row = pd.DataFrame([{
+                "question": row["question"],
+                "gold": row["answer"],
+                "pred": pred,
+                "confidence": conf,
+                "source": row["source"],
+                "raw_response": raw
+            }])
+
+            result_row.to_csv(
+                OUTPUT_CSV,
+                mode='a',
+                index=False,
+                header=not os.path.exists(OUTPUT_CSV)
+            )
+        except Exception as e:
+            err_msg = str(e).lower()
+            # If we hit the 429 Rate Limit (TPD/RPM) or Quota, we stop the whole script
+            if "rate_limit" in err_msg or "quota" in err_msg or "429" in err_msg:
+                print(f"\n🛑 QUOTA EXCEEDED: Groq limits reached. Stopping. Error: {e}")
+                break
+
+            print(f"Error on question: {e}")
+            continue
+
     print(f"\n✅ Saved results -> {OUTPUT_CSV}")
 
 

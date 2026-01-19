@@ -1,0 +1,2142 @@
+question,gold,pred,confidence,source,raw_response
+The important feature of chaotic systems is that very small changes in initial conditions can lead to large differences in final states. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+The core of M87 contains a massive black hole. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+"Liu Yong's ""Where to Wake from the Wine Tonight, on the Willow Bank in the Morning Breeze and the Fading Moon"" describes the phase of the moon known as the waning crescent. ",True,False,0.8,Astro-QA_Judgement,"False
+0.8"
+"The apparent brightness of all stars when placed at the same standard distance is referred to as ""true brightness"". ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"The reason why humans speculate the existence of ""dark energy"" is that the accelerating expansion of the universe contradicts the mutual attraction of gravity, and current knowledge cannot explain the energy that drives this expansion. ",True,False,0.9,Astro-QA_Judgement,"False
+0.9"
+The volume differences between stars are much greater than their mass differences. ,True,False,0.6,Astro-QA_Judgement,"False
+0.6"
+"On the moon, artificial satellite phenomena can be observed. ",True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+Galileo was the first person to use a telescope to observe celestial bodies and achieve significant results. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The phenomenon of the seasons is due to the Earth's revolution combined with the tilt of its axis of rotation. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+Analyzing the composition of organic compounds in meteorites can reveal the presence of prebiotic materials in the universe. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"An astronomer passed away in a car accident, and his ashes were sent to the moon. ",True,False,0.05,Astro-QA_Judgement,"False
+0.05"
+The Voyager spacecraft carried a golden record inscribed with a variety of sounds from nature and human societies on Earth. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The two discoverers of the 3K cosmic background radiation were originally satellite communication engineers. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+Cygnus A (A Cyg) is an explosive galaxy. ,False,False,0.3,Astro-QA_Judgement,"False
+0.3"
+Black holes formed from the collapse of stars are smaller in volume than neutron stars and rotate faster than 5000 rotations per second. ,False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"The relationship within a scattered star cluster is relatively loose, without a regular shape. ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+The formation of Uranus's peculiar seasons is due to its unique rotational characteristics. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"Venus rotates ""backwards"" (clockwise). ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+The Bullet Cluster (1E0657-56) holds significant value in astronomy as it is the first celestial system where the existence of dark matter was directly confirmed. ,True,False,0.65,Astro-QA_Judgement,"False
+0.65"
+The constellation of the Turtle still exists. ,False,True,0.5,Astro-QA_Judgement,"True
+0.5"
+"According to ancient Chinese records, the characteristics of supernova explosions include their sudden appearance, exceptional brightness, and long duration. ",True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"According to calculations by solar physicists, the lifespan of the Sun should be about 5 billion years. ",False,False ,0.92,Astro-QA_Judgement,"False 
+0.92"
+"To date, only the United States has achieved close-range exploration around Mars. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+It is estimated that there should be 1 million stellar black holes in the Milky Way. ,True,False,0.7,Astro-QA_Judgement,"False
+0.7"
+"The formation of a black hole must involve a spatial boundary where photons cannot escape, known as the event horizon. ",True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+The reason why Type Ia supernovae are used as standard cosmic candles is that their brightness is constant when they explode. ,True,False,0.92,Astro-QA_Judgement,"False
+0.92"
+The advent of artificial satellites has provided excellent opportunities for the study of cosmic rays. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+Aurora is a phenomenon caused by the activity of solar wind particles. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The acceleration due to gravity is the same at different locations on Earth. ,False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"In determining the direction of the night sky's diurnal motion, the left-handed spiral system is only effective for the starry sky observed in the Southern Hemisphere. ",False,False,0.55,Astro-QA_Judgement,"False
+0.55"
+The Galileo probe only reached the surface of Jupiter. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+The sun is currently a main sequence star on the Hertzsprung-Russell diagram. ,True,True,0.98,Astro-QA_Judgement,"True
+0.98"
+"The spectral characteristics of blackbody radiation are only related to the material of the blackbody, and are not related to temperature. ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+NASA astronauts play golf on the moon. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+The history of human civilization is 6 orders of magnitude shorter than the history of the Earth. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The light emitted by a nebula is a type of electromagnetic radiation. ,False,True,0.95,Astro-QA_Judgement,"True
+0.95"
+Europa may be tidally locked. ,False,False,0.92,Astro-QA_Judgement,"False
+0.92"
+Galactic black holes are the products of stars that have evolved to the end of their lives. ,False,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"In 1801, Ceres was once classified as one of the eight major planets in the solar system. ",True,False,0.92,Astro-QA_Judgement,"False
+0.92"
+New stars are a class of variable stars. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+The horizon refers to the physical boundary of a black hole. ,False,False,0.0,Astro-QA_Judgement,"False
+0.0"
+"In bright nebulae, the red ones are emission nebulae and the blue ones are reflection nebulae. ",True,False,0.1,Astro-QA_Judgement,"False
+0.1"
+The Gnomon was an ancient astronomical instrument used to observe the trajectory of the moon. ,False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The habitable zones of planetary systems around stars of different spectral types are all located at the same distance. ,False,False,0.9,Astro-QA_Judgement,"False
+0.9"
+There are asteroids named Tom Hanks and Meryl. ,True,True,0.55,Astro-QA_Judgement,"True
+0.55"
+The formulas for calculating the redshift Z in both classical mechanics and special relativity are approximately interchangeable when dealing with celestial bodies whose recessional velocities are much less than the speed of light (v << c). ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+The constellation of the Toad still exists today. ,False,False,0.4,Astro-QA_Judgement,"False
+0.4"
+The annual motion of the stars is caused by the Earth's revolution around the Sun. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+The asteroid belt is located between Mars and Jupiter. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+Aurora can be observed on the moon. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+The transit method generally tends to discover larger exoplanets more easily. ,True,True,0.45,Astro-QA_Judgement,"True
+0.45"
+"The earliest physical evidence of dragon totem was unearthed from an ancient tomb in Puyang, Henan in 1987. ",True,True,0.7,Astro-QA_Judgement,"True
+0.7"
+"The Milky Way is capable of rotation, and different parts rotate at varying speeds. ",True,True,0.97,Astro-QA_Judgement,"True
+0.97"
+The Bullet Cluster (1E0657-56) holds significant value in the field of astronomy as it is the first celestial system where the existence of dark matter was directly confirmed. ,True,False,0.55,Astro-QA_Judgement,"False
+0.55"
+The duration of an annular eclipse cannot exceed 11 minutes. ,False,True,0.85,Astro-QA_Judgement,"True
+0.85"
+The value of Hubble's constant varies in different historical periods. ,True,True,0.55,Astro-QA_Judgement,"True
+0.55"
+The absence of evidence for extraterrestrial life does not constitute evidence for the absence of extraterrestrial life. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+Astronauts on the International Space Station become weightless because there is no gravity in space. ,False,False,0.55,Astro-QA_Judgement,"False
+0.55"
+Meteor phenomena can be observed on the moon. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"Due to the harsh environment of Venus, no spacecraft has landed on its surface. ",False,True,0.85,Astro-QA_Judgement,"True
+0.85"
+A solar eclipse can be observed both on Earth and Mars. ,False,False,0.98,Astro-QA_Judgement,"False
+0.98"
+"Throughout their lives, stars generate outward pressure through nuclear fusion reactions to counteract the immense gravitational force pulling inward. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The discovery of cosmic background radiation is a direct negation of the Big Bang theory. ,False,False,0.01,Astro-QA_Judgement,"False
+0.01"
+"Scientists have collected a library of sounds and images, which they have sent into space for aliens to find. ",True,False,0.01,Astro-QA_Judgement,"False
+0.01"
+"The unity and opposition of diversity and uniformity in biology are essentially issues of gene composition, sequence, and expression. ",True,False,0.42,Astro-QA_Judgement,"False
+0.42"
+"Due to the barriers of time and space, exploring extraterrestrial civilizations is incredibly challenging. ",True,True,0.98,Astro-QA_Judgement,"True
+0.98"
+There are two intermittently erupting giant plumes of water on Europa. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+The magnitude and spectral type of Cygnus X-1 are data pertaining to the giant star in a black hole-giant binary system. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"The annual apparent motion of the Sun is not an actual movement of the Sun, but a reflection of the Earth's revolution. ",True,False,0.9,Astro-QA_Judgement,"False
+0.9"
+The constellation Lyra still exists. ,True,True,0.98,Astro-QA_Judgement,"True
+0.98"
+The Hubble relation indicates that the recessional velocity of a galaxy is directly proportional to its distance. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+Free neutrons will combine with protons to directly form helium atoms. ,False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+The ability for a spacecraft to land on a planet largely depends on whether the planet has a dense atmosphere. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"""Open Universe"" refers to the outcome of the universe continuing to expand indefinitely, whereas ""Closed Universe"" describes the scenario where the universe expands to a certain limit and then begins to contract again. ",True,False,0.7,Astro-QA_Judgement,"False
+0.7"
+"The term ""Big Bang Model"" was first actively conceived by people like Gamow. ",False,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"As you travel from Beijing to Guangzhou, with the decrease in latitude, the position of the North Star in the night sky rises accordingly. ",False,False,0.98,Astro-QA_Judgement,"False
+0.98"
+"Based on the observations from Gamma-ray Spectrometers and Neutron Spectrometers, Mars may have experienced large-scale climate change. ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+The TESS telescope can only observe one area for 27 days. ,True,True,0.05,Astro-QA_Judgement,"True
+0.05"
+There is a celestial object named 'Oumuamua. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+There is a certain scientific basis for constellation fortune-telling. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"The ""waxing crescent"" in the astronomical and meteorological sense appears in the evening - ""the waning moon reflects the afterglow."" ",False,False,0.75,Astro-QA_Judgement,"False
+0.75"
+"Around 21:00 at night, observe the Big Dipper with its handle pointing east, which indicates it is currently autumn. ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+Earth also has Trojan asteroids. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+Zodiac constellations can only be observed in the northern hemisphere. ,False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The Kuiper Belt objects include Pluto. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+Phobos is likely to gradually approach Mars. ,True,False,0.1,Astro-QA_Judgement,"False
+0.1"
+"Humans take pictures of galaxies, whether on the ground or in space, and there is always only one angle to shoot from. ",True,False,0.9,Astro-QA_Judgement,"False
+0.9"
+A nova is a newly born star. ,False,False,0.4,Astro-QA_Judgement,"False
+0.4"
+Newton was a renowned British physicist who proposed the law of universal gravitation and Newton's laws of motion. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+"Currently, the detection of black holes is still in a challenging phase. ",True,True,0.55,Astro-QA_Judgement,"True
+0.55"
+"In the movie ""Interstellar,"" a black hole would need to be accompanied by a white hole (if they indeed exist) in order for human spacecraft to travel back and forth. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"In the painting ""The Universe is a Snake Biting Its Own Tail,"" the head and tail of the snake correspond to the scale of the universe (10^32 meters) and the scale of microscopic particles (10^(-27) meters), respectively. These two scales are closely interconnected. ",True,False,0.2,Astro-QA_Judgement,"False
+0.2"
+The constellation Lepus still exists today. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+Astronauts grow taller in space. ,True,False,0.55,Astro-QA_Judgement,"False
+0.55"
+Sirius is the nearest star to the Sun. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+Total solar eclipses will cease to exist after 100 million years. ,False,False,0.9,Astro-QA_Judgement,"False
+0.9"
+"""The East has Venus, the West has Mercury"" - The stars referred to as the Morning Star and the Evening Star in the ""Book of Songs"" are respectively Mercury and Venus. ",False,False,0.6,Astro-QA_Judgement,"False
+0.6"
+The basis for determining exoplanets through the transit method is that there is a slight decrease in the brightness of the star when the planet transits. ,True,True,0.9,Astro-QA_Judgement,"True
+0.9"
+Can we distinguish Mare Crisium (with a diameter of 520km) on Earth with the naked eye? ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+There is a nebula named after Pac-Man. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The experiment on the Eiffel Tower demonstrated that the ionizing radiation measured at Earth's surface comes from space. ,False,True,0.45,Astro-QA_Judgement,"True
+0.45"
+"The Moon belongs to the United States, and the U.S. has held sovereignty over it since 1969. ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+Gan De is the compiler of the oldest star catalog in the world and the earliest discoverer of Jupiter's third moon. ,True,False,0.05,Astro-QA_Judgement,"False
+0.05"
+Diffuse nebulae are made up of stars. ,False,False,0.9,Astro-QA_Judgement,"False
+0.9"
+"The world of stars is similar to that of humans, as the length of life does not necessarily correlate with size. ",False,False,0.4,Astro-QA_Judgement,"False
+0.4"
+"Dark lines in the spectra of the Sun and stars represent the distribution, abundance, and pressure of elements in the atmosphere. ",True,False,0.15,Astro-QA_Judgement,"False
+0.15"
+"The IAU-SETI has successively conducted communication with the universe through the 21cm band and the radio band, but so far it has gained nothing. ",True,"I am not aware of an organization called ""IAU-SETI"" that has conducted communication with the universe in any band. However, assuming it's a hypothetical or fictional organization, I can say that it's likely False as no real scientific organizations have successfully communicated with the universe at large through 21cm band or radio bands.",0.95,Astro-QA_Judgement,"I am not aware of an organization called ""IAU-SETI"" that has conducted communication with the universe in any band. However, assuming it's a hypothetical or fictional organization, I can say that it's likely False as no real scientific organizations have successfully communicated with the universe at large through 21cm band or radio bands.
+
+0.95"
+"Among the major space telescopes, those with infrared detection and imaging capabilities include the ""Hubble"" and ""Spitzer"" telescopes. ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+Sunspots can be observed on the moon. ,True,False,0.98,Astro-QA_Judgement,"False
+0.98"
+The criterion for determining whether a lunar month is a leap month is that there is no Zhongqi in this month. ,True,False,0.6,Astro-QA_Judgement,"False
+0.6"
+The footprints of American astronauts on the moon have been erased by the wind. ,False,0.0 ,,Astro-QA_Judgement,"False
+0.0 
+
+Explanation: The moon has no atmosphere, and there is no wind on its surface."
+"The initial ratio of matter to antimatter particles was (1 billion + 1):1 billion, with the extra ""1"" of matter particles escaping the fate of annihilation, thus constituting the material world we see today. ",True,False,0.12,Astro-QA_Judgement,"False
+0.12"
+The retrograde motion of planets posed a significant challenge to the geocentric theory. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"Unlike lunar eclipses, the timing and degree of a solar eclipse vary by location. ",True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+"After the ionization of the Martian atmosphere, it will not be carried away from Mars by the solar wind. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"When reaching the surface of a black hole, the degree of time dilation is 0. ",False,True,0.9,Astro-QA_Judgement,"True
+0.9"
+"During its journey to Saturn, the Cassini spacecraft underwent four accelerations at Venus, Earth, and Jupiter. ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"When ""King Wu's campaign against Zhou"" embarked on their journey, a comet appeared with its head pointing east and tail pointing west. It was at dusk. ",False,False,0.15,Astro-QA_Judgement,"False
+0.15"
+"A large number of photons (energy) collide at extremely high temperatures to produce matter and antimatter particles, while matter and antimatter particles also annihilate into energy. ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+Positive and negative virtual particle pairs produced by vacuum phase transitions generate the effect of black hole evaporation inside and outside the event horizon. ,True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"The lunar calendar is the Chinese agricultural calendar, while the solar calendar is the foreign Gregorian calendar. ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"There indeed exist many extragalactic systems in the universe, similar to the Milky Way. ",True,True,0.92,Astro-QA_Judgement,"True
+0.92"
+Cerberus is still in existence. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"The latest record of a supernova occurred during the Ming Dynasty in China, and since then, no supernova has been observed in the Milky Way. ",True,False,0.3,Astro-QA_Judgement,"False
+0.3"
+The Sun does not belong to any star cluster. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+The Moon rotates on its axis 90 degrees as it orbits the Earth by 90 degrees. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+The space volume enclosed by the gravitational radius calculated through the Schwarzschild formula is a black hole. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The first prediction of a solar eclipse was made a long time ago. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+There are more stars in the universe than there are grains of sand on all the beaches on Earth. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+"In modern times, the constellation in which the Sun is located at the vernal equinox is Aries. ",False,False,0.55,Astro-QA_Judgement,"False
+0.55"
+The astronomical community considers Edwin Hubble to be the astronomer who made the greatest contributions from the 19th to the 20th century. ,True,False,0.9,Astro-QA_Judgement,"False
+0.9"
+"Photos of star clusters and other deep-space objects taken by large telescopes, with various pale or dazzling colors, are all visible to the human eye. ",False,False,0.012,Astro-QA_Judgement,"False
+0.012"
+"On Venus, the Sun rises in the west and sets in the east. ",True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+Rainbows are one of the most common phenomena in nature related to the solar spectrum. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+"It is not galaxies that are moving away from each other through space; rather, it is space itself that is expanding. ",True,True,0.97,Astro-QA_Judgement,"True
+0.97"
+The annual apparent motion of the Sun shows that the Sun rotates 180° each year. ,False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The temperature of a star can be determined by its color. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+Olympus Mons is the tallest mountain in the solar system. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+The maximum number of solar and lunar eclipses that can occur in the same year is seven. ,True,False,0.8,Astro-QA_Judgement,"False
+0.8"
+"When Neptune was first discovered, its discoverer proposed naming it George III's star. ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"Can we distinguish the Moscow Sea (Mare Moscoviense, with a diameter of 275km) on Earth with the naked eye? ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"After Emperor Wu of Han, the ""beginning of the year"" in traditional Chinese calendar was set to be the month where the spring equinox occurs. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"In the apparent annual motion of the Sun, the duration of the Sun's stay in each zodiacal constellation varies. ",True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"On Earth, humans cannot directly observe artificial satellites with the naked eye. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+Saturn is the only planet in the solar system with rings. ,False,False,0.9,Astro-QA_Judgement,"False
+0.9"
+"The so-called singularity is the upper limit of time, and it lacks space; both temperature and density tend towards infinity. ",True,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"On the moon, it is possible to observe the phenomenon of a rainbow. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"Among the planets, Neptune has the lowest density and is said to be able to float on seawater. ",False,False,0.75,Astro-QA_Judgement,"False
+0.75"
+"The famous line by Su Dongpo, ""Entrusting the ephemeral mayfly to the universe, a mere grain in the vast sea"", the first sentence reflects the huge contrast between different scales of time, while the latter sentence reflects it in terms of space. ",True,False,0.15,Astro-QA_Judgement,"False
+0.15"
+"In Liu Cixin's novel ""The Three-Body Problem,"" when two suns appear in the sky of the three-body world, the three-body people must dehydrate to cope. ",True,False,0.1,Astro-QA_Judgement,"False
+0.1"
+Visual binary stars are those that can be observed directly with the naked eye. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+Wilson's experiment confirmed the presence of a large amount of ionizing radiation on the surface of the Earth. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+Detectors for detecting dark matter particles can work in outer space or deep underground. ,True,false,0.7,Astro-QA_Judgement,"false
+0.7"
+The constellation of Owl still exists. ,False,True,0.95,Astro-QA_Judgement,"True
+0.95"
+"Thermal nuclear reactions inside stars only have one level of ""H→He fusion"". ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The sun does not have a tidal effect on the earth. ,False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"Currently, astronomers have not yet identified the specific causes for the formation of cluster-scale black holes. ",True,False,0.6,Astro-QA_Judgement,"False
+0.6"
+"Planets, stars, and galaxies make up only 5% of all matter in the universe. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+Giordano Bruno was the first person to observe the stars with a telescope. ,False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"It was not until 1968 that the term ""black hole"" was coined by American astrophysicist John Wheeler, sparking widespread interest in the concept. ",True,False,0.9,Astro-QA_Judgement,"False
+0.9"
+There is an observatory called the Very Large Telescope. ,True,True,0.99,Astro-QA_Judgement,"True
+0.99"
+"In the structure of the human body, parts such as teeth, eyes, and limbs exhibit ""symmetry"", while tissues like the digestive system and endocrine system demonstrate ""asymmetry"". ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"Higher temperatures can cause a decrease in the signal-to-noise ratio, resulting in signal distortion. Therefore, it is necessary to maintain low temperatures for antenna facilities. ",True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+Red giants are stars in a later stage of development compared to the Sun. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"The statement ""When the sun sets, it's dusk; when the crescent moon sets, it's dawn"" contradicts the natural laws of lunar phases. ",True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"Light is both a particle and a wave, this is the dual nature of light. ",True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+The Sun contains 99.8% of the mass in the entire solar system. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+The effects of length contraction and time dilation refer to the phenomenon where spatial dimensions and temporal scales are not consistent across different motion systems or in varying gravitational fields. ,True,False,0.92,Astro-QA_Judgement,"False
+0.92"
+The asteroid belt is primarily composed of rocks and metals. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+There are a maximum of four solar eclipses that can occur in a year. ,False,False,0.75,Astro-QA_Judgement,"False
+0.75"
+The primary mission of the Phoenix Mars Lander is to uncover the origin of frozen water on Mars. ,True,False,0.2,Astro-QA_Judgement,"False
+0.2"
+The constellation of the Reindeer still exists today. ,False,False ,0.95,Astro-QA_Judgement,"False 
+0.95"
+"Solar eclipses can only occur during the ""full moon,"" which is between the 15th and 16th day of the lunar calendar. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"When comparing exoplanets to Earth, the focus is generally on its mass, diameter, distance from the star, whether it is located in the habitable zone, and its orbital period. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"According to Wien's law, by conducting spectrophotometric measurements on a star, one can indirectly determine its mass. ",False,False,0.2,Astro-QA_Judgement,"False
+0.2"
+"Kant, as a famous German philosopher, his grave site in Germany is also well protected. ",False,False,0.3,Astro-QA_Judgement,"False
+0.3"
+"Until 2007, Russian cosmonauts carried firearms into space. ",True,False,0.6,Astro-QA_Judgement,"False
+0.6"
+"Titan is the only moon in the solar system with liquid on its surface, besides Earth. ",True,False,0.8,Astro-QA_Judgement,"False
+0.8"
+"According to the generally accepted path of galaxy evolution, the formation of the Milky Way is likely to have gone through the path of quasar-Seyfert galaxy-Milky Way. ",True,False,0.1,Astro-QA_Judgement,"False
+0.1"
+"Cepheid variable stars and RR Lyrae variables are both types of unstable stars that do not fall within the main sequence, where 90% of stars reside. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+One of the primary missions of the Kepler Space Telescope is to search for Earth-like planets. ,True,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"There is a celestial body named ""Great Wall"". ",True,False,0.1,Astro-QA_Judgement,"False
+0.1"
+Interacting galaxies are a classification of active galaxies. ,True,False,0.05,Astro-QA_Judgement,"False
+0.05"
+Astronomical observations have discovered the existence of white holes. ,False,False,0.7,Astro-QA_Judgement,"False
+0.7"
+"More than 100,000 meteorites fall to Earth each day. ",False,False,0.9,Astro-QA_Judgement,"False
+0.9"
+Astronauts are sent into space to prevent a collision between an asteroid and the Earth. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+The rise and fall of the tides is caused by the gravitational pull of the moon and the sun. ,True,True,0.9,Astro-QA_Judgement,"True
+0.9"
+"A dwarf planet has been provisionally named ""Santa Claus."" ",True,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"If you cry in space, your tears will just float upwards. ",False,False,0.9,Astro-QA_Judgement,"False
+0.9"
+"Both Europa and Enceladus have surfaces covered by thick ice layers, beneath which there is liquid water. ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"The greater the value of an astronomical body's ""apparent magnitude,"" the dimmer its apparent brightness. ",True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+An astronaut flew towards the sun and disappeared. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"The mass of a star only affects the lifespan of the star, not its luminosity. ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+Venus is sometimes visible during the day. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"Because the main components of diffuse nebulae are gas and dust, their overall mass is large, but their density is very low. ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"Astronomers believe that among various galaxies, the most active are quasars. ",True,False,0.7,Astro-QA_Judgement,"False
+0.7"
+The synodic month is shorter than the sidereal month. ,False,True,0.85,Astro-QA_Judgement,"True
+0.85"
+The moon always presents the same face to the Earth. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"The sheep Dolly and the movie ""Jurassic Park"" both reflect the technology of biological cloning. ",True,False,0.9,Astro-QA_Judgement,"False
+0.9"
+The most advanced method of measuring stellar brightness today is essentially the same principle as taking a photograph with a digital camera. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"""If heaven had feelings, it would also grow old"" is a line of poetry written by Li He, a poet from the Tang Dynasty. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"We can calculate the true brightness of a Cepheid variable star by measuring its period of light variation, and then use the period-luminosity relationship to determine its distance from us. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"About the unit of distance, 1 astronomical unit is larger than 1 parsec. ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+Noctilucent clouds can be observed on the Moon. ,False,False,0.0,Astro-QA_Judgement,"False
+0.0"
+"The volume of Titan is smaller than Mercury's, but it weighs more than Mercury. ",False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"Currently, there are no human-made probes that have traveled beyond the solar system. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"The name ""Scorpio"" was imagined by the ancient Egyptians. ",False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+The diameter of the moon: The distance between theThe diameter of the moon: The distance between the The diameter of the sun: The distance between the moon and the earth = The diameter of the sun: The distance between the sun and the earth. ,True,False,0.0,Astro-QA_Judgement,"False
+0.0"
+The hydrogen fusion in the Sun essentially occurs in its radiation zone. ,False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+Large moons of Jupiter and Saturn may also have volcanic and geological activity. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"The greater the mass of a star, the longer its lifespan. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+There is a celestial body named Gordonia. ,True,False,0.95,Astro-QA_Judgement,"False
+0.95"
+There is a celestial object named Nirn. ,False,False,0.01,Astro-QA_Judgement,"False
+0.01"
+"Just like on Earth, astronauts aboard the International Space Station experience one sunrise and one sunset each day. ",False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+Astronauts left 96 bags of human waste on the moon. ,True,False,0.1,Astro-QA_Judgement,"False
+0.1"
+"So far, humanity has attempted over 50 Mars exploration missions. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"The reason for adopting the ""lying down to watch the Cowherd and Weaver Girl stars"" posture is because when the two stars rise high in the sky, their altitude is quite significant, making it unsuitable for prolonged viewing while standing or sitting. ",True,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"A ring galaxy is formed when two galaxies create a circular structure, perturbing each other. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+Two astronauts attempt to survive in outer space after their spacecraft is destroyed. ,False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+The local group refers to the cluster of galaxies that includes the Milky Way and several surrounding galaxies. ,True,False,0.7,Astro-QA_Judgement,"False
+0.7"
+"In ancient times, people gained important insights for farming or nomadism by observing the movements of the sun, moon, and stars. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"James Hopwood Jeans theoretically proved the ""Jeans Instability"". ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+The most fundamental thermonuclear reaction in the Sun is the process where four helium nuclei are fused into one hydrogen nucleus under high temperature and pressure. ,False,False,0.95,Astro-QA_Judgement,"False
+0.95"
+"In galaxies, the stars located closer to the edges tend to move at speeds that are closer to the maximum velocity, which is inconsistent with the system predicted by Kepler's laws. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The origin of earthquakes is mostly due to crustal movement. ,True,False,0.6,Astro-QA_Judgement,"False
+0.6"
+"Saturn's moon, Pan, is the smallest known member of Saturn's satellite family. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+Saturn's rings are composed of various sizes of ice particles. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"The critical density of the universe is 10×10^(-30)g/cm^3, while the currently measured average density of all visible matter in the universe is 0.25×10^(-30)g/cm^3, so the fate of the universe is definitely an open universe. ",False,False,0.05,Astro-QA_Judgement,"False
+0.05"
+"The first words sent into space were: ""Peace, Lenin, Soviet Union"". ",True,False,0.7,Astro-QA_Judgement,"False
+0.7"
+"In the measurement of stellar radial velocities, when the spectral lines are redshifted, this indicates that the star is moving away from the point of view. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"Mars has no volcanic eruptions, which leads to the rapid dissolution of carbon dioxide in the air into water and its deposition as limestone. ",True,False,0.45,Astro-QA_Judgement,"False
+0.45"
+The Large Magellanic Cloud is visible from the Northern Hemisphere. ,False,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The Milky Way is classified as a spiral galaxy. ,False,True,0.97,Astro-QA_Judgement,"True
+0.97"
+"In addition to planets, dwarf planets, and satellites, all other celestial bodies that orbit the Sun are defined as ""small solar system bodies"". ",True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"Hawking believed that the characteristic of time, which cannot go backward but only forward, is inviolable. ",True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+The brightness of Haumea changes rapidly over time. ,True,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"Compared to ordinary novae, supernovae have higher luminosity. ",True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+"According to calculations, the current age of Earth is over 6 billion years. ",False,False,0.9,Astro-QA_Judgement,"False
+0.9"
+The difference in gravitational pull from Earth at the two ends of the Moon causes the Moon's rotation to gradually slow down. ,True,True,0.85,Astro-QA_Judgement,"True
+0.85"
+"""Stellar fetuses"" - protostars are extremely hot and emit intense ultraviolet radiation. ",False,False,0.2,Astro-QA_Judgement,"False
+0.2"
+Planets located in the habitable zone of larger mass stars (greater than the mass of the Sun) may perish before intelligent life can emerge. ,True,False,0.7,Astro-QA_Judgement,"False
+0.7"
+The planets of Feiyuen were discovered through direct imaging. ,True,False,0.05,Astro-QA_Judgement,"False
+0.05"
+The discovery of the Uranus rings was in 1977. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+Some solar system planets have never been approached by spacecraft. ,False,False,0.7,Astro-QA_Judgement,"False
+0.7"
+Stars are born in nebulae. ,True,True,0.95,Astro-QA_Judgement,"True
+0.95"
+The constellation of Electrical Machinery still exists today. ,False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+"Throughout the entire solar system, the Moon is the fifth largest satellite in terms of diameter. ",True,False,0.45,Astro-QA_Judgement,"False
+0.45"
+"Compared to planets, comets have orbits that are closer to circular. ",False,False,0.85,Astro-QA_Judgement,"False
+0.85"
+Cat constellation still exists. ,False,False,0.9,Astro-QA_Judgement,"False
+0.9"
+"Compared to Neptune, Uranus has more intense atmospheric dynamics. ",False,True,0.85,Astro-QA_Judgement,"True
+0.85"
+Most conservative method of root end preparation is by: [Options: A: Round bur.; B: Sonic.; C: Ultrasonic.; D: Laser.],D: Laser.,C: Ultrasonic.,0.85,GlobalMedQA_EN,"C: Ultrasonic.
+0.85"
+Acetylcholine is the neurotransmitter in the cholinergic neurons. What is the precursor that acetylcholine is derived from? [Options: A: Dicholine; B: Tyrosine; C: Cholic acid; D: Choline],D: Choline,C: Choline,0.85,GlobalMedQA_EN,"C: Choline
+0.85"
+Niacin is synthesized from- [Options: A: Arginine; B: Histidine; C: Tryptophan; D: Tyrosine],C: Tryptophan,C: Tryptophan,0.85,GlobalMedQA_EN,"C: Tryptophan
+0.85"
+The treatment of choice in a 56 years old woman with endometrial cancer is : [Options: A: Irradiation; B: Weheim's hysterectomy; C: Pan hysterectomy; D: Irradiation and later panhysterectomy],C: Pan hysterectomy,C: Pan hysterectomy ,0.85,GlobalMedQA_EN,"C: Pan hysterectomy 
+0.85"
+Which of the following is not found in meningococci [Options: A: Capsule; B: Lipopolysacchride; C: Plasmid; D: Pili],C: Plasmid,C: Plasmid,0.85,GlobalMedQA_EN,"C: Plasmid
+0.85"
+Contraindicated in head injury - [Options: A: Halothane; B: Ketamine; C: N2O; D: Propofol],B: Ketamine,B: Ketamine,0.85,GlobalMedQA_EN,"B: Ketamine
+0.85"
+Multifactorial causation of disease theory was proposed by [Options: A: Louis Pasteur; B: Pettenkofer; C: Robe Koch; D: Aristotle],B: Pettenkofer,B: Pettenkofer,0.85,GlobalMedQA_EN,"B: Pettenkofer
+0.85"
+Circle of Willis is not formed by: TN 11 [Options: A: Anterior choroidal aery; B: Anterior cerebral aery; C: Posterior cerebral aery; D: Anterior communicating aery],A: Anterior choroidal aery,A: Anterior choroidal artery,0.85,GlobalMedQA_EN,"A: Anterior choroidal artery
+0.85"
+Who is the founder of Electron microscope? [Options: A: Antonie Philips van Leeuwenhoek; B: Ernst Ruska; C: Robe Koch; D: Louis Pasteur],B: Ernst Ruska,B: Ernst Ruska,0.85,GlobalMedQA_EN,"B: Ernst Ruska
+0.85"
+"At the age of 9 years, the number of permanent teeth is - [Options: A: 12; B: 16; C: 20; D: 24]",B: 16,A: 12,0.85,GlobalMedQA_EN,"A: 12
+0.85"
+Missed IUD (IUCD) is recognized by [Options: A: X-Ray; B: USG; C: Barium meal; D: CT Scan],B: USG,B: USG (Ultrasound scan),0.85,GlobalMedQA_EN,"B: USG (Ultrasound scan)
+0.85"
+Standarised moality rate is standardised for [Options: A: Age; B: Disease; C: Region; D: A paicular time period],A: Age,A: Age,0.95,GlobalMedQA_EN,"A: Age
+0.95"
+Microcephaly is seen in [Options: A: Autistic disorder; B: Heller's disease; C: Rett's disease; D: Asperger's syndrome],C: Rett's disease,C: Rett's disease,0.85,GlobalMedQA_EN,"C: Rett's disease
+0.85"
+Fastest acting nondepolarizing neuromuscular blocker- [Options: A: Rocuronium; B: Pancuronium; C: Succinylcholine; D: Mivacurium],A: Rocuronium,A: Rocuronium,0.85,GlobalMedQA_EN,"A: Rocuronium
+0.85"
+Time interval betwen inoculation of infection to maximum infectivity is - [Options: A: Lead time; B: Median incubation period; C: Generation time; D: Serial inverval],C: Generation time,C: Generation time,0.95,GlobalMedQA_EN,"C: Generation time
+0.95"
+FNAC is least diagnostic in which thyroid carcinoma: [Options: A: Anaplastic; B: Papillary; C: Follicular; D: Thyroiditis],C: Follicular,A: Anaplastic,0.85,GlobalMedQA_EN,"A: Anaplastic
+0.85"
+PICA is associated with poisoning of ? [Options: A: Lead; B: Arsenic; C: Mercury; D: Phosphorus],A: Lead,A: Lead,0.75,GlobalMedQA_EN,"A: Lead
+0.75"
+High air flow oxygen enriched devices [Options: A: Are variable performance devices; B: Deliver constant concentrations of oxygen; C: Require oxygen entrainment; D: Require closed face masks.],B: Deliver constant concentrations of oxygen,C: Require oxygen entrainment,0.5,GlobalMedQA_EN,"C: Require oxygen entrainment
+0.5"
+Neuroendocrine cells in the lungs are: [Options: A: Dendritic cells; B: Type I pneumocytes; C: Type II pneumocytes; D: APUD cells],D: APUD cells,D: APUD cells,0.95,GlobalMedQA_EN,"D: APUD cells
+0.95"
+Split lacerations are due to: DNB 09 [Options: A: Blunt object; B: Sharp object; C: Sharp heavy object; D: Pointed object],A: Blunt object,B: Sharp object.,0.95,GlobalMedQA_EN,"B: Sharp object.
+0.95"
+"In hereditary spherocytosis mutation, not seen is? [Options: A: Ankyrin; B: Spectrin; C: Band-3; D: Na+  Cl- channel protein]",D: Na+  Cl- channel protein,"B: Spectrin is not the correct answer, but among the given options the not seen mutation in hereditary spherocytosis is related to a Na+  Cl- channel protein.",0.2,GlobalMedQA_EN,"B: Spectrin is not the correct answer, but among the given options the not seen mutation in hereditary spherocytosis is related to a Na+  Cl- channel protein.
+0.2"
+"A 62-year-old man is brought to the emergency department because of syncope. He reports sudden onset of palpitations followed by loss of consciousness while carrying his groceries to his car. He is unable to recall any further details and does not have any chest pain or dizziness. He has a history of hypertension, type 2 diabetes mellitus, gastroparesis, and osteoarthritis of the knees. Medications include lisinopril, metformin, and ondansetron as needed for nausea. He also takes methadone daily for chronic pain. Apart from an abrasion on his forehead, he appears well. His temperature is 37.2 °C (98.9 F), heart rate is 104/min and regular, and blood pressure is 135/70 mm Hg. While he is in the emergency department, he loses consciousness again. Telemetry shows polymorphic ventricular tachycardia with cyclic alteration of the QRS axis that spontaneously resolves after 30 seconds. Results of a complete blood count, serum electrolyte concentrations, and serum thyroid studies show no abnormalities. Cardiac enzymes are within normal limits. Which of the following is the most likely underlying cause of this patient's syncope? [Options: A: Prolonged QT interval; B: Fast accessory conduction pathway; C: Prinzmetal angina; D: Brugada syndrome; E: Hypomagnesemia
+""]",A: Prolonged QT interval,A: Prolonged QT interval,0.85,GlobalMedQA_EN,"A: Prolonged QT interval
+0.85"
+Acceptable noise level in hospital wards [Options: A: 20 - 35dB; B: 35 - 40 dB; C: 45-55dB; D: 50-60dB],A: 20 - 35dB,A: 35 - 40 dB,0.95,GlobalMedQA_EN,"A: 35 - 40 dB
+0.95"
+Upper segment: lower segment ratio in 3 year old child - [Options: A: 1[?]1:1; B: 1[?]5:1; C: 1[?]3:1; D: 1[?]7:1],C: 1[?]3:1,A: 1.5:1,0.85,GlobalMedQA_EN,"A: 1.5:1
+0.85"
+Which of the following is a component of Coenzyme A? [Options: A: 3 Alanine; B: Glycine; C: Pyrrolysine; D: Selenocysteine],A: 3 Alanine,D: Panthotenate,0.95,GlobalMedQA_EN,"D: Panthotenate
+0.95"
+"A 35 year old female, mother of a Down's syndrome child, became pregnant. Amniocentesis is done to rule out Down's syndrome in the second child. What is the appropriate time for doing amniocentesis? [Options: A: 6-Apr; B: 12-Aug; C: 17-Dec; D: 20-28]",C: 17-Dec,D: 20-28 weeks ,0.85,GlobalMedQA_EN,"D: 20-28 weeks 
+0.85"
+Amotivation syndrome caused by [Options: A: Cannabis abuse; B: Opioid abuse; C: Alcohol abuse; D: Heroin abuse],A: Cannabis abuse,A: Cannabis abuse,0.05,GlobalMedQA_EN,"A: Cannabis abuse
+0.05"
+Herpes - Zoster is caused by - [Options: A: Herpes - simplex type I; B: Herpes - simplex type II; C: Epstein - barr virus; D: Varicella],D: Varicella,D: Varicella,0.98,GlobalMedQA_EN,"D: Varicella
+0.98"
+Brown - sequard syndrome - [Options: A: Pain loss in the opposite side of lesion; B: Fine touch lost in opposite side of lesion; C: UMN paralysis in opposite side of lesion; D: LMN paralysis in opposite side of lesion],A: Pain loss in the opposite side of lesion,D: LMN paralysis in opposite side of lesion ,0.98,GlobalMedQA_EN,"D: LMN paralysis in opposite side of lesion 
+0.98"
+Bicalutamide is a specific inhibitor of - [Options: A: 5-alpha reductase; B: Androgen receptors; C: Aromatase; D: Estrogen receptor],B: Androgen receptors,B: Androgen receptors,0.85,GlobalMedQA_EN,"B: Androgen receptors
+0.85"
+Enzyme needed in leucocytes for production of hypochlorite ? [Options: A: NADPH oxidase; B: Myeloperoxidase; C: Catalase; D: Superoxide dismutase],B: Myeloperoxidase,B: Myeloperoxidase,0.85,GlobalMedQA_EN,"B: Myeloperoxidase
+0.85"
+"A 7 year presented with intermittent abdominal cramps, loose stools and on stool examination ova of size 100 micrometre is seen. Which is not the cause? [Options: A: Fasciola gigantic; B: Echinostorum ileocaxnum; C: Gastrodiscoides hominis; D: Opisthorcis viverrani]",D: Opisthorcis viverrani,A: Fasciola gigantic,0.0,GlobalMedQA_EN,"A: Fasciola gigantic
+0.0"
+Therapeutic level of lithium is: [Options: A: 5-Jan; B: 10-May; C: 15-Oct; D: 15-20],C: 15-Oct,D: 15-20,0.85,GlobalMedQA_EN,"D: 15-20
+0.85"
+Most common cause of Seizures in an elderly with Cerebrovascular Stroke is [Options: A: Alcohol withdrawal; B: Cerebrovascular stroke; C: Uremia; D: Meningitis],B: Cerebrovascular stroke,B: Cerebrovascular stroke,0.45,GlobalMedQA_EN,"B: Cerebrovascular stroke
+0.45"
+Kidney plays a role in maintaining constancy of milieu interior. Milieu interior refers to: [Options: A: ECF; B: ICF; C: Plasma; D: Serum],A: ECF,A: Extracellular Fluid (ECF) also known as ECF or extracellular compartment ,0.95,GlobalMedQA_EN,"A: Extracellular Fluid (ECF) also known as ECF or extracellular compartment 
+0.95"
+The mean of the 25 plasma volumes is 12.5 litres. Standard detion is 0.25. Calculate Variance:- [Options: A: 0.0625; B: 0.625; C: 6.25; D: 625],A: 0.0625,Variance = (Standard deviation)^2 = (0.25)^2 = 0.0625,0.9,GlobalMedQA_EN,"Variance = (Standard deviation)^2 = (0.25)^2 = 0.0625
+0.9"
+Topical mitomycin C is used to aid the following treatment: [Options: A: Endoscopic treatment of angiofibroma; B: Treatment of laryngotracheal stenosis; C: Skull base osteomyelitis; D: Tonsillectomy],B: Treatment of laryngotracheal stenosis,A: Endoscopic treatment of angiofibroma,0.85,GlobalMedQA_EN,"A: Endoscopic treatment of angiofibroma
+0.85"
+Antibiotics are indicated in which type of psoriasis? [Options: A: Guttate; B: Pustular; C: Chronic plaque psoriasis; D: Erythrodermic psoriasis.],A: Guttate,C: Chronic plaque psoriasis,0.85,GlobalMedQA_EN,"C: Chronic plaque psoriasis
+0.85"
+Pure gonadal dysgenesis will be diagnosed in the presence of : [Options: A: Bilateral streak gonads; B: Bilateral dysgenetic gonads; C: One side steak and other dysgenetic gonads; D: One side streak and other normal looking gonad],A: Bilateral streak gonads,A: Bilateral streak gonads,0.75,GlobalMedQA_EN,"A: Bilateral streak gonads
+0.75"
+Wolf Chaikoff effect - [Options: A: Excess iodine intake causes hypothyroidism; B: Iodine induced hyper thyroidism; C: Thyrotoxicosis due to excessive amount of iodineingestion; D: Drug induced hyperthyroidism],A: Excess iodine intake causes hypothyroidism,A: Excess iodine intake causes hypothyroidism,0.95,GlobalMedQA_EN,"A: Excess iodine intake causes hypothyroidism
+0.95"
+A 19-year-old college student develops a rash. She works part-time in a pediatric AIDS clinic. Her blood is drawn and tested for specific antibody to the chicken pox virus (varicella-zoster). Which of the following antibody classes would you expect to find if she is immune to chicken pox? [Options: A: IgG; B: IgA; C: IgM; D: IgD],A: IgG,A: IgG,0.85,GlobalMedQA_EN,"A: IgG
+0.85"
+Coefficient of thermal expansion of which of following is most similar to that of tooth? [Options: A: Gold inlay; B: Acrylic resin; C: Silicate cement; D: Gold foil],C: Silicate cement,A: Gold inlay,0.85,GlobalMedQA_EN,"A: Gold inlay
+0.85"
+A patient presented with ARF with complete anuria but a normal ultrasound. Next investigation is – [Options: A: IVP; B: Antegrade pyelography; C: Retrograde pyelography; D: Radiorenogram],D: Radiorenogram,B: Antegrade pyelography,0.85,GlobalMedQA_EN,"B: Antegrade pyelography
+0.85"
+"A deep-seated carcinoma in the neck near the bifurcation of the common carotid artery with no evidence of primary carcinoma of the mouth, pharynx, larynx is [Options: A: Collar stud abscess.; B: Branchiogenic carcinoma.; C: Subhyoid bursal cyst.; D: Cold abscess.]",B: Branchiogenic carcinoma.,B: Branchiogenic carcinoma.,0.95,GlobalMedQA_EN,"B: Branchiogenic carcinoma.
+0.95"
+"A patient comes to a private physician and diagnosed with TB, within how many days he has to be informed to District Health officer [Options: A: 10 days; B: 15 days; C: 30 days; D: 45 days]",C: 30 days,A: 10 days,0.95,GlobalMedQA_EN,"A: 10 days
+0.95"
+"A 68-year-old woman comes to the physician because of a 3-month history of an oozing, red area above the left ankle. She does not recall any trauma to the lower extremity. She has type 2 diabetes mellitus, hypertension, atrial fibrillation, and ulcerative colitis. She had a myocardial infarction 2 years ago and a stroke 7 years ago. She has smoked 2 packs of cigarettes daily for 48 years and drinks 2 alcoholic beverages daily. Current medications include warfarin, metformin, aspirin, atorvastatin, carvedilol, and mesalamine. She is 165 cm (5 ft 4 in) tall and weighs 67 kg (148 lb); BMI is 24.6 kg/m2. Her temperature is 36.7°C (98°F), pulse is 90/min, respirations are 12/min, and blood pressure is 135/90 mm Hg. Examination shows yellow-brown spots and dilated tortuous veins over the lower extremities. The feet and the left calf are edematous. Femoral, popliteal, and pedal pulses are palpable bilaterally. There is a 3-cm (1.2-in) painless, shallow, exudative ulcer surrounded by granulation tissue above the medial left ankle. There is slight drooping of the right side of the face. Which of the following is the most likely cause of this patient's ulcer? [Options: A: Decreased arterial blood flow; B: Peripheral neuropathy; C: Venous insufficiency; D: Chronic pressure; E: Drug-induced microvascular occlusion]",C: Venous insufficiency,C: Venous insufficiency,0.55,GlobalMedQA_EN,"C: Venous insufficiency
+0.55"
+"As far as the raise of frictional heat, in using various rotary cutting instruments is concerned which one of the following is the most kind to the pulp [Options: A: Stainless steel bur; B: Diamond bur; C: carbide bur; D: Carbon steel bur]",C: carbide bur,A: Stainless steel bur,0.92,GlobalMedQA_EN,"A: Stainless steel bur
+0.92"
+"Management plan for osteogenic sarcoma of the lower end of femur must include - [Options: A: Radiotherapy, amputation, chemotherapy; B: Surgery alone; C: Chemotherapy + Limb Salvage Surgery + Chemotherapy; D: Chemotherapy + Radiotherapy]",C: Chemotherapy + Limb Salvage Surgery + Chemotherapy,C: Chemotherapy + Limb Salvage Surgery + Chemotherapy,0.95,GlobalMedQA_EN,"C: Chemotherapy + Limb Salvage Surgery + Chemotherapy
+0.95"
+One of the constituents of the commonly used metered dose inhalers in bronchial asthma which is an air pollutant & dangerous to earth's stratosphere is - [Options: A: Flurocarbons; B: Salbutamol; C: Ozone; D: Oxygen],A: Flurocarbons,A: Fluorocarbons,0.4,GlobalMedQA_EN,"A: Fluorocarbons
+0.4"
+Abdominal pain in Henoch Schonlein purpura is due to - [Options: A: Mucosal erosions and swelling of the G1 mucosa; B: Gastrointestinal hemorrhage; C: Volvulus; D: Associated pancreatic inflammation],A: Mucosal erosions and swelling of the G1 mucosa,A: Mucosal erosions and swelling of the gastrointestinal mucosa,0.65,GlobalMedQA_EN,"A: Mucosal erosions and swelling of the gastrointestinal mucosa
+0.65"
+"A 30-year-old lady C/O sudden onset of breathlessness, anxiety, palpitation and feeling of impending doom. Physical examination is normal. Diagnosis is: September 2012 [Options: A: Panic attack; B: Anxitey disorder; C: Conversion disorder; D: Acute psychosis]",A: Panic attack,A: Panic attack,0.85,GlobalMedQA_EN,"A: Panic attack
+0.85"
+Most sensitive test for diagnosing pheochromocytoma is : [Options: A: MRI; B: 24 hour urinary xma; C: MIBG scan; D: Plasma free metanephrines],D: Plasma free metanephrines,D: Plasma free metanephrines,0.85,GlobalMedQA_EN,"D: Plasma free metanephrines
+0.85"
+The intervillous space of the placenta contains [Options: A: Maternal blood; B: Fetal blood; C: Maternal and fetal blood; D: Amniotic fluid],A: Maternal blood,B: Fetal blood,0.95,GlobalMedQA_EN,"B: Fetal blood
+0.95"
+The normal AV nodal delay is [Options: A: 0.16 sec; B: 0.13 sec; C: 0.09 sec; D: 0.03 sec],C: 0.09 sec,A: 0.16 sec,0.85,GlobalMedQA_EN,"A: 0.16 sec
+0.85"
+Which of the following is a monoclonal antibody against IL-5 [Options: A: Omalizumab; B: Mepolizumab; C: Tocilizumab; D: Alemtuzumab],B: Mepolizumab,B: Mepolizumab,0.95,GlobalMedQA_EN,"B: Mepolizumab
+0.95"
+"A 25-year-old lady reports to you with a diffuse, non progressive and a non tender swelling of the right maxilla, approximately 2 x 1.5 cm, extending from the canine to the first molar region. The x-ray shows a ground glass appearance of the bone in the concerned area. The surgical treatment will be [Options: A: Total excision of the lesion; B: Curettage of the area with extraction of the involved teeth; C: Surgical cosmetic recontouring only; D: Surgical excision followed by radiotherapy]",C: Surgical cosmetic recontouring only,B: Curettage of the area with extraction of the involved teeth,0.7,GlobalMedQA_EN,"B: Curettage of the area with extraction of the involved teeth
+0.7"
+Dermatitis herpetiformis is associated with [Options: A: Ulcerative colitis; B: Crohn's disease; C: Irritable bowel syndrome; D: Gluten sensitive enteropathy],D: Gluten sensitive enteropathy,D: Gluten sensitive enteropathy,0.95,GlobalMedQA_EN,"D: Gluten sensitive enteropathy
+0.95"
+Which one of the following is not recommended for the immediate treatment of acute severe asthma? [Options: A: Iptratropium; B: Magnesium sulfate; C: Hydrocoisone; D: Salmeterol],D: Salmeterol,B: Magnesium sulfate,0.95,GlobalMedQA_EN,"B: Magnesium sulfate
+0.95"
+Water loss is severe if intestinal obstruction occurs at? [Options: A: First pa of duodenum; B: Third pa of duodenum; C: Mid jejunum; D: Ileum],A: First pa of duodenum,C: Mid jejunum,0.35,GlobalMedQA_EN,"C: Mid jejunum
+0.35"
+"Not a feature of Anopheles is [Options: A: Spotted wings; B: Siphon tube seen in larvae; C: Boat shaped eggs; D: Rest at an angle, inclined to the surface]",B: Siphon tube seen in larvae,B: Siphon tube seen in larvae,0.85,GlobalMedQA_EN,"B: Siphon tube seen in larvae
+0.85"
+"In fracture neck of fibula, the following nerve is involved [Options: A: Common peroneal nerve; B: Anterior tibial nerve; C: Posterior tibial nerve; D: Medial popliteal nerve]",A: Common peroneal nerve,A: Common peroneal nerve,0.95,GlobalMedQA_EN,"A: Common peroneal nerve
+0.95"
+A cook prepares sand witches for 10 people going for picnic. Eight out of them develop servere gastroenteritis within 4-6 hrs of consumption of the sand witches. It is likely that on investigations the cook is found to be the earner of: [Options: A: Salmonella typhi.; B: Vibrio cholerae; C: Entamoeba histolytica; D: Staphylococcus aureus.],D: Staphylococcus aureus.,D: Staphylococcus aureus.,0.75,GlobalMedQA_EN,"D: Staphylococcus aureus.
+0.75"
+The complication of trauma to the danger area of the face among the following is [Options: A: Cavernous sinus infection; B: Meningitis; C: Visual loss; D: Loss of memory],A: Cavernous sinus infection,C: Visual loss,0.55,GlobalMedQA_EN,"C: Visual loss
+0.55"
+Oldest lens fibres are found in ? [Options: A: Capsule; B: Coex; C: Coex; D: Nucleus],D: Nucleus,A: Capsule,0.75,GlobalMedQA_EN,"A: Capsule
+0.75"
+Facial nerve injury during forceps delivery in labour is due to: [Options: A: Mastoid process is absent at birth; B: Parotid gland in developing stage; C: Beak of forceps engages main trunk of facial Nerve; D: Sublingual hematoma during delivery causes neuropraxia],A: Mastoid process is absent at birth,C: Beak of forceps engages main trunk of facial Nerve,0.85,GlobalMedQA_EN,"C: Beak of forceps engages main trunk of facial Nerve
+0.85"
+"A 37-year-old man comes to the physician because of a 6-month history of progressive breast enlargement. Two years ago, he was diagnosed with HIV infection and started treatment with antiretroviral medications. Examination shows a soft, non-tender, ill-defined swelling at the nape of the neck. The cheeks appear hollowed. Serum studies show increased total cholesterol and LDL concentration. Which of the following medications is the most likely cause of these findings? [Options: A: Nevirapine; B: Enfuvirtide; C: Indinavir; D: Raltegravir; E: Abacavir]",C: Indinavir,C: Indinavir,0.75,GlobalMedQA_EN,"C: Indinavir
+0.75"
+Parotid duct opens [Options: A: Opposite 1st mollar; B: Opposite 2nd molar; C: Into the papilla; D: Opposite incisor],B: Opposite 2nd molar,A: Opposite 1st molar,0.95,GlobalMedQA_EN,"A: Opposite 1st molar
+0.95"
+Which of the following local anaesthetic causes methemoglobinemia? [Options: A: Procaine; B: Prilocaine; C: Etidocaine; D: Ropivacaine],B: Prilocaine,B: Prilocaine,0.95,GlobalMedQA_EN,"B: Prilocaine
+0.95"
+Which of the following drug is used for mass prophylaxis for prevention of meningococcal meningitis [Options: A: Ciprofloxacin; B: Rifampicin; C: Ceftriaxone; D: Minocycline],A: Ciprofloxacin,B: Rifampicin,0.85,GlobalMedQA_EN,"B: Rifampicin
+0.85"
+Which of the following is not considered for selecting a screening test? [Options: A: Disease burden; B: Physician's Knowledge of the disease; C: Cost of the test; D: Treatment efficacy],B: Physician's Knowledge of the disease,B: Physician's Knowledge of the disease,0.85,GlobalMedQA_EN,"B: Physician's Knowledge of the disease
+0.85"
+Borelia vincenti is a [Options: A: Mycoplasma; B: Mycobacteria; C: Spirochaete; D: Chlamydia],C: Spirochaete,C: Spirochaete,0.85,GlobalMedQA_EN,"C: Spirochaete
+0.85"
+Holocrine secretion is seen in...gland- [Options: A: Salivary; B: Mammary; C: Sebaceous glands; D: Gastric],C: Sebaceous glands,C: Sebaceous glands,0.95,GlobalMedQA_EN,"C: Sebaceous glands
+0.95"
+"In semen banks, semen is preserved at low temperature using : [Options: A: Dry ice; B: Deep freeze; C: Liquid nitrogen; D: Liquid air]",C: Liquid nitrogen,C: Liquid nitrogen,0.85,GlobalMedQA_EN,"C: Liquid nitrogen
+0.85"
+Incidence rate of lung cancer among smokers is 8 per 1000 and among non smokers is 1 per 1000. Population attibutable risk is - [Options: A: 89%; B: 95%; C: 10%; D: 100%],A: 89%,A: 89%,0.45,GlobalMedQA_EN,"A: 89%
+0.45"
+Starch is considered to be less cariogenic than monosaccharides and disaccharides because it [Options: A: Does not diffuse through plaque; B: Is rapidly hydrolysed in the mouth; C: Enhances remineralisation; D: Raises the pH in the oral cavity],A: Does not diffuse through plaque,B: Is rapidly hydrolysed in the mouth,0.85,GlobalMedQA_EN,"B: Is rapidly hydrolysed in the mouth
+0.85"
+Drug of choice in postpaum hemorrhage resistant to oxytocin and Ergomterine: [Options: A: Carboprost; B: Dinoprostone; C: Dinoprost; D: Misoprostol],A: Carboprost,A: Carboprost,0.9,GlobalMedQA_EN,"A: Carboprost
+0.9"
+Mostreliable test for screening of diabetes meilitus- [Options: A: Random sugar; B: Fasting sugar; C: Glucose tolerance test; D: Urine sugar],B: Fasting sugar,B: Glucose tolerance test,0.85,GlobalMedQA_EN,"B: Glucose tolerance test
+0.85"
+"Appropriate treatment for an acute stable hematoma of the pinna of the ear includes which of the following measures? [Options: A: Ice packs and prophylactic antibiotics; B: Excision of the hematoma; C: Needle aspiration; D: Incision, drainage, and pressure bandage]","D: Incision, drainage, and pressure bandage","D: Incision, drainage, and pressure bandage",0.85,GlobalMedQA_EN,"D: Incision, drainage, and pressure bandage
+0.85"
+First investigation to be done in a patient with thrombocytopenia: September 2008 [Options: A: Platelet count; B: Bleeding time; C: Prothrombin time; D: aPTT],A: Platelet count,A: Platelet count,0.85,GlobalMedQA_EN,"A: Platelet count
+0.85"
+A 23-year-old male college student has a history of liver cirrhosis due to Kimmelstiel-Wilson syndrome (abnormality in copper metabolism). He should be treated with which of the following? [Options: A: Penicillamine as soon as the diagnosis is established; B: Penicillamine after variceal bleeding has occurred; C: A portocaval shunt; D: Sclerosis of the esophageal varices as a prophylactic measure],A: Penicillamine as soon as the diagnosis is established,A: Penicillamine as soon as the diagnosis is established,0.85,GlobalMedQA_EN,"A: Penicillamine as soon as the diagnosis is established
+0.85"
+The nerve supply of Middle ear is from [Options: A: Superior auricular nerve; B: Tympanic branch of glossopharyngeal nerve; C: Pharyngeal branch of glossopharyngeal nerve; D: Great auricular nerve],B: Tympanic branch of glossopharyngeal nerve,B: Tympanic branch of glossopharyngeal nerve,0.85,GlobalMedQA_EN,"B: Tympanic branch of glossopharyngeal nerve
+0.85"
+Preformed antibiodies cause [Options: A: Hyperacute rejection; B: Acute rejection; C: Chronic rejection; D: Acute humoral rejection],A: Hyperacute rejection,A: Hyperacute rejection,0.95,GlobalMedQA_EN,"A: Hyperacute rejection
+0.95"
+Safe period in rhythms method is : (In a female with 28 days menstrual cycle) : [Options: A: Initial 14 days; B: Later 14 days; C: First and last 7 days; D: 10 to 21 days of the cycle],C: First and last 7 days,A: Initial 14 days,0.7,GlobalMedQA_EN,"A: Initial 14 days
+0.7"
+Dematome of middle finger: [Options: A: C5; B: C6; C: C7; D: C8],C: C7,C: C7,0.9,GlobalMedQA_EN,"C: C7
+0.9"
+A 35-year-old female presents with recurrent renal stone. What is not advised? [Options: A: Increase water intake; B: Restrict protein; C: Restrict salt; D: Restrict calcium],D: Restrict calcium,C: Restrict salt,0.85,GlobalMedQA_EN,"C: Restrict salt
+0.85"
+Glucose is absorbed from? [Options: A: Upper pa of PCT; B: Ascending limb of LOH; C: Coical Collecting duct; D: Medullary collecting duct],A: Upper pa of PCT,A: Upper part of Proximal Convoluted Tubule (PCT),0.9,GlobalMedQA_EN,"A: Upper part of Proximal Convoluted Tubule (PCT)
+0.9"
+Post transplant lymphomaia most commonly associated with: [Options: A: Epstein-Barr virus; B: Cytomegalo virus; C: Herpes simplex; D: HHV-6],A: Epstein-Barr virus,A: Epstein-Barr virus,0.85,GlobalMedQA_EN,"A: Epstein-Barr virus
+0.85"
+"A 58-year-old female presents with a two-month history of intermittent non-bloody diarrhea. She reports that she has been following a raw food diet for six months to help her lose weight. The patient’s medical history is significant for anxiety, treated with fluvoxamine, and osteopenia. She reports her mother has lactose intolerance and has recently been diagnosed with osteoporosis. The patient denies any tobacco or alcohol use. When asked about recent travel, she reports she returned three months ago from a mission trip in Uganda. The patient’s temperature is 99°F (37.2°C), blood pressure is 130/78 mmHg, pulse is 70/min, and respirations are 14/min with an oxygen saturation of 98% O2 on room air. On physical exam, a new-onset systolic ejection murmur is noted and is heard loudest at the left second intercostal space. Which of the following may develop in this patient? [Options: A: Low platelet count; B: Positive hydrogen breath test; C: Decreased levels of chromogranin A; D: Vitamin D deficiency; E: Niacin deficiency]",E: Niacin deficiency,D: Vitamin D deficiency,0.45,GlobalMedQA_EN,"D: Vitamin D deficiency
+0.45"
+Common carotid artery is palpable at: [Options: A: Upper border of thyroid cartilage; B: Upper border of cricoid cartilage; C: At hyoid bone; D: Lower border of cricoid cartilage],A: Upper border of thyroid cartilage,A: Upper border of cricoid cartilage ,0.85,GlobalMedQA_EN,"A: Upper border of cricoid cartilage 
+0.85"
+On radiography widened duodenal 'C' loop with irregular mucosal pattern on upper gastrointestinal barium series is most likely due to: [Options: A: Chronic pancreatitis; B: Carcinoma head of pancreas; C: Duodenal ulcer; D: Duodenal ileus],B: Carcinoma head of pancreas,B: Carcinoma head of pancreas,0.85,GlobalMedQA_EN,"B: Carcinoma head of pancreas
+0.85"
+Metabolic alkalosis leads to? [Options: A: Low potassium; B: High calcium; C: Low I2 trapping by follicular cells; D: High I2 trapping by follicular cells],A: Low potassium,A: Low potassium,0.9,GlobalMedQA_EN,"A: Low potassium
+0.9"
+Which of the following poisoning gives 'Bitter almond smell'? [Options: A: Lead; B: Cyanide; C: Mercury; D: Organophosphorus],B: Cyanide,B: Cyanide,0.95,GlobalMedQA_EN,"B: Cyanide
+0.95"
+Derivative of vitelline vein? [Options: A: IVC; B: SVC; C: Ligamentum venosum; D: Ligamentum teres],A: IVC,A: IVC,0.95,GlobalMedQA_EN,"A: IVC
+0.95"
+"According to National Health Policy 2002, which of the following is to he eliminated in 2015 - [Options: A: Malaria; B: Yaws; C: Leprosy; D: Filariasis]",D: Filariasis,A: Malaria,0.55,GlobalMedQA_EN,"A: Malaria
+0.55"
+"A 68-year-old man presents to the physician with fever, cough, weakness, night sweats, and poor appetite for the past 6 months. Medical records suggest that he has lost 7.5 kg (16.5 lb) of weight during this period. There is no history of breathlessness, nasal discharge, nasal obstruction, palpitations, chest pain, or symptoms related to digestion. He was released from prison 9 months ago after serving a 2-year sentence. His temperature is 38.1°C (100.6°F), pulse is 84/min, respirations are 16/min, and blood pressure is 122/80 mm Hg. Physical examination shows hepatomegaly and generalized lymphadenopathy, and auscultation of the chest reveals diffuse crackles throughout the lung fields bilaterally. On direct ophthalmoscopy, three discrete, yellow-colored, 0.5 mm to 1.0 mm lesions with indistinct borders are seen in the posterior pole. A chest X-ray is shown in the image. Tuberculin skin test with purified protein derivative is negative. What is the most likely diagnosis? [Options: A: Sarcoidosis; B: Chronic histoplasmosis; C: Langerhans cell histiocytosis; D: Tuberculosis; E: Bronchoalveolar carcinoma]",D: Tuberculosis,D: Tuberculosis,0.85,GlobalMedQA_EN,"D: Tuberculosis
+0.85"
+"An obese 37-year-old woman is brought to the emergency department 2 hours after the onset of weakness in her left arm and leg. She fell from the stairs the day prior but did not have any loss of consciousness or nausea after the fall. She travels to Asia regularly on business; her last trip was 4 days ago. She has no history of serious illness. Her only medication is an oral contraceptive. Her temperature is 37.8°C (100°F), pulse is 113/min and regular, and blood pressure is 162/90 mm Hg. Examination shows decreased muscle strength on the left side. Deep tendon reflexes are 4+ on the left. Babinski sign is present on the left. The right lower leg is swollen, erythematous, and tender to palpation. Further evaluation is most likely to show which of the following? [Options: A: Ventricular septal defect; B: Carotid artery dissection; C: Atrial fibrillation; D: Patent foramen ovale; E: Atrial myxoma]",D: Patent foramen ovale,B: Carotid artery dissection,0.55,GlobalMedQA_EN,"B: Carotid artery dissection
+0.55"
+"A 34-year-old woman comes to the fertility clinic with her husband for infertility treatment. The couple has been having unprotected intercourse for the past 2 years without any pregnancies. This is their first time seeking fertility treatment. The patient’s past medical history includes asthma. She denies any menstrual irregularities, menstrual pain, abnormal bleeding or past sexually transmitted infections. The husband reports that “he would get sick easily and would always have some upper respiratory infections.” Physical examination of the wife demonstrates nasal polyps bilaterally; vaginal examination is unremarkable. Physical examination of the husband is unremarkable. Semen analysis results are shown below:
+
+Semen analysis:
+Volume: 1.9 mL (Normal > 1.5 mL)
+pH: 7.4 (Normal: > 7.2)
+Sperm concentration: 0 mil/mL (Normal: > 15 mil/mL)
+Total sperm count: 0 mil/mL (Normal: > 39 mil/mL)
+Total motility: N/A (Normal: > 40%)
+Morphology: N/A (Normal: > 4% normal forms)
+
+What is the most likely explanation for this couple’s infertility? [Options: A: Deletion of Phe508 in husband; B: Deletion of Phe508 in wife; C: Undescended testes in husband; D: XO chromosome in wife; E: XXY chromosome in husband]",A: Deletion of Phe508 in husband,C: Undescended testes in husband,0.85,GlobalMedQA_EN,"C: Undescended testes in husband
+0.85"
+Hickey-Hare test is used to diagnose - [Options: A: Congenital pyloric stenosis; B: Duodenal atresia; C: Achlasia cardia; D: Diabetes insipidus],D: Diabetes insipidus,A: Congenital pyloric stenosis,0.42,GlobalMedQA_EN,"A: Congenital pyloric stenosis
+0.42"
+Granulomatous lung disease is caused by? [Options: A: Hypersensitivity pneumonitis; B: Sarcoma; C: Bronchogenic carcinoma; D: Bronchogenic cyst],A: Hypersensitivity pneumonitis,A: Hypersensitivity pneumonitis,0.5,GlobalMedQA_EN,"A: Hypersensitivity pneumonitis
+0.5"
+"A 30 year old male patient presents with bleeding per rectum.
+He complains of Hemorrhoids which are reduced spontaneously.
+Treatment of choice Is [Options: A: Open hemorroidectomy; B: Sitz bath; C: Sclerotherapy; D: Stapled hemorroidopexy]",C: Sclerotherapy,B: Sitz bath,0.95,GlobalMedQA_EN,"B: Sitz bath
+0.95"
+"Food poisoning after 1-5 hours of consumption of ice cream, causative organism is [Options: A: Staphylococcus aureus; B: Bacillus cereus; C: Salmonella; D: Vibrio parahemolyticus]",A: Staphylococcus aureus,B: Bacillus cereus,0.85,GlobalMedQA_EN,"B: Bacillus cereus
+0.85"
+Spontaneously regressing tumours are [Options: A: Malignant melanoma; B: Neuroblastoma; C: Ewing's sarcoma; D: Wilm's tumour],A: Malignant melanoma,B: Neuroblastoma,0.7,GlobalMedQA_EN,"B: Neuroblastoma
+0.7"
+A young female presents with diminished pulses in the upper limb and hypeension. The most likely diagnosis is: [Options: A: Takayasu Aeritis; B: Coarctation of Aoa; C: Giant Cell Aeritis; D: Polyaeritis Nodosa],A: Takayasu Aeritis,A: Takayasu Aeritis,0.85,GlobalMedQA_EN,"A: Takayasu Aeritis
+0.85"
+Modified biophysical profile includes: [Options: A: Fetal tone and breathing; B: Fetal movements and tone; C: NST an AFI; D: API],C: NST an AFI,C: NST an AFI,0.85,GlobalMedQA_EN,"C: NST an AFI
+0.85"
+Yuzpe method is a type of : [Options: A: Post -- coital hormonal contraception; B: Male contraceptive method; C: Post -- coital IUCD contraception; D: Minilap sterilization],A: Post -- coital hormonal contraception,A: Post -- coital hormonal contraception,0.7,GlobalMedQA_EN,"A: Post -- coital hormonal contraception
+0.7"
+The commonest cause of intestinal obstruction and abdominal pain in children between 3 months to 6 years of age: [Options: A: Intussusception; B: Meckel's diverticulum; C: Intestinal polyp; D: Nonspecific cause],A: Intussusception,A: Intussusception,0.45,GlobalMedQA_EN,"A: Intussusception
+0.45"
+Foot eversion is caused by [Options: A: Extensor digitorum; B: Peroneus longus; C: Tibialis anterior; D: Tibialis posterior],B: Peroneus longus,C: Tibialis anterior,0.85,GlobalMedQA_EN,"C: Tibialis anterior
+0.85"
+Risk factors for preeclampsia:a) Chronic hypertenstionb) Obesityc) Placental ischaemiad) Multigravidae) Antiphospholipid syndrome [Options: A: acd; B: ace; C: cde; D: ade],B: ace,B: ace,0.9,GlobalMedQA_EN,"B: ace
+0.9"
+A 65-year-old woman comes to the physician for a 18-month history of gradual enlargement of her fingertips and a 2-month history of a hoarse voice. She has had decreased appetite after a respiratory tract infection 3 months ago and a 8-kg (17.6-lb) weight loss during this period. The patient has never smoked. She was diagnosed with obstructive sleep apnea 10 years ago and uses a CPAP mask at night. She retired from her job as an administrative assistant at a local college 5 years ago. She appears tired. Her vital signs are within normal limits. Physical examination shows increased convexity of the nail fold and painful swelling of the soft tissue of her fingers and ankles. There is no discoloration of her lips and oral mucosa. There is faint wheezing in the right upper lung field. This patient's condition is most likely associated with which of the following findings? [Options: A: Increased serum ADH; B: Miosis; C: Increased serum ACE; D: Reticular opacities on chest x-ray; E: Peripheral cyanosis],B: Miosis,C: Increased serum ACE,0.85,GlobalMedQA_EN,"C: Increased serum ACE
+0.85"
+HIAA is a metabolite of: [Options: A: Serotonin; B: Dopamine; C: Epinophrine; D: Histamine],A: Serotonin,A: Serotonin,0.95,GlobalMedQA_EN,"A: Serotonin
+0.95"
+Which of the following interactions does not cause film fog? [Options: A: Coherent scattering; B: Transient scattering; C: Photoelectric absorption; D: Compton scattering],C: Photoelectric absorption,A: Coherent scattering,0.85,GlobalMedQA_EN,"A: Coherent scattering
+0.85"
+Life span of Cu-T- 380A [Options: A: 10 years; B: 20 years; C: 1 years; D: 5 years],A: 10 years,A: 10 years,0.85,GlobalMedQA_EN,"A: 10 years
+0.85"
+Hemolytic Uremic Syndrome is characterized by -a) Microangiopathic haemolytic anaemiab) ↓ed LDHc) Thrombocytopeniad) Renal failuree) Positive Coomb's test [Options: A: abc; B: ad; C: acd; D: bde],C: acd,A: abc,0.85,GlobalMedQA_EN,"A: abc
+0.85"
+Incubation period of Hepatitis B virus [Options: A: 8-10 days; B: 30-180 days; C: 1 year; D: 2 years],B: 30-180 days,B: 30-180 days.,0.85,GlobalMedQA_EN,"B: 30-180 days.
+0.85"
+Which of the following is most impoant molecule for antioxidant pathway in lens? [Options: A: Glutathione; B: Superoxide dismutase; C: Catalase; D: Vitamin C],A: Glutathione,A: Glutathione,0.55,GlobalMedQA_EN,"A: Glutathione
+0.55"
+A patient presented with contralateral hemiplegia and sub-periosteal bleeding. Which of the following will be the initial investigation of choice? [Options: A: Chest x-ray; B: CT-scan; C: MRI; D: PET - scan],B: CT-scan,B: CT-scan,0.95,GlobalMedQA_EN,"B: CT-scan
+0.95"
+Pacemaker cells of respiration are located in [Options: A: Pneumotaxic centre; B: Apneustic centre; C: Dorsal Respiratory Group; D: Pre - Botzinger complex],D: Pre - Botzinger complex,D: Pre-Botzinger complex,0.85,GlobalMedQA_EN,"D: Pre-Botzinger complex
+0.85"
+Drug of choice for treatment of acute organophosphate poisoning is: [Options: A: Atropine; B: Pralidoxime; C: Neostigmine; D: d–Tubocurarine],A: Atropine,A: Atropine,0.95,GlobalMedQA_EN,"A: Atropine
+0.95"
+Grey Turner sign is seen in: [Options: A: A/c pancreatitis; B: C/c pancreatitis; C: A/c cholecystitis; D: A/c parotitis],A: A/c pancreatitis,A: A/c pancreatitis,0.85,GlobalMedQA_EN,"A: A/c pancreatitis
+0.85"
+Cherry red spot and Hollenhorst plaque are seen in: [Options: A: CRAO; B: CRVO; C: Branch RAO; D: Branch RVO],A: CRAO,B: CRVO,0.95,GlobalMedQA_EN,"B: CRVO
+0.95"
+Gastric motility decreases in - [Options: A: Diabetes; B: Upper abdominal surgery; C: Head injury; D: Hypothyroid],D: Hypothyroid,A: Diabetes,0.85,GlobalMedQA_EN,"A: Diabetes
+0.85"
+"A 58-year-old female presents to her primary care physician with a 1-month history of facial and chest flushing, as well as intermittent diarrhea and occasional difficulty breathing. On physical exam, a new-onset systolic ejection murmur is auscultated and is loudest at the left second intercostal space. Subsequent echocardiography reveals leaflet thickening secondary to fibrous plaque deposition on both the pulmonic and tricuspid valves. Which of the following laboratory abnormalities would most likely in this patient? [Options: A: Decreased serum chromogranin A; B: Elevated serum bicarbonate; C: Elevated urinary vanillylmandelic acid; D: Elevated serum potassium; E: Elevated urinary 5-hydroxyindoleacetic acid]",E: Elevated urinary 5-hydroxyindoleacetic acid,E: Elevated urinary 5-hydroxyindoleacetic acid,0.75,GlobalMedQA_EN,"E: Elevated urinary 5-hydroxyindoleacetic acid
+0.75"
+Jaw tightness in proximal temporal arteries.diagnosis - [Options: A: PAN; B: Coarctation of aorta; C: Giant cell arteritis; D: Wegner's granulomatosis],C: Giant cell arteritis,C: Giant cell arteritis,0.85,GlobalMedQA_EN,"C: Giant cell arteritis
+0.85"
+'Glassblowers shakes' are seen in poisoning due to [Options: A: Lead; B: Copper; C: Mercury; D: Arsenic],C: Mercury,A: Lead,0.5,GlobalMedQA_EN,"A: Lead
+0.5"
+"A 51-year-old woman goes to respiratory function testing in order to evaluate her shortness of breath. She recently joined a walking program with her friends in order to lose weight; however, she noticed that she was not able to keep up with her friends during the program. She has a 60-pack-year history of smoking as well as hypertension well-controlled on medication. The following represent the parameters for this patient's respiratory anatomy and function:
+
+Vital capacity (VC): 5,000 mL
+Inspiratory reserve volume (IRV): 2,500 mL
+Functional reserve capacity (FRC): 2,700 mL
+Residual volume (RV): 1,000 mL
+Upper airway volume: 100 mL
+Conducting airway volume: 125 mL
+
+Inspired CO2 pressure (PiCO2): 1 mmHg
+Arterial CO2 pressure (PaCO2): 50 mmHg
+Expired CO2 pressure (PeCO2): 20 mmHg
+
+Which of the following best represents the total volume of gas in this patient's airways and lungs that does not participate in gas exchange? [Options: A: 225 mL; B: 480 mL; C: 600 mL; D: 800 mL; E: 1200 mL]",B: 480 mL,E: 1200 mL,0.85,GlobalMedQA_EN,"E: 1200 mL
+0.85"
+Earliest sign of raised intracranial tension is in skull X-ray of infants is: [Options: A: Sutural diastasis; B: Erosion of dorsum sella; C: Pineal gland displacement; D: Copper beaten appearance],A: Sutural diastasis,A: Sutural diastasis,0.95,GlobalMedQA_EN,"A: Sutural diastasis
+0.95"
+"A 24-year-old male presented with following lesion on his genitalia, following intercourse with multiple sexual partners, and multiple times. Which human papilloma virus is the causative agent? [Options: A: HPV 6, 11; B: HPV 16, 18; C: HPV 31, 33; D: HPV 35, 45]","A: HPV 6, 11","A: HPV 6, 11",0.85,GlobalMedQA_EN,"A: HPV 6, 11
+0.85"
+Dobutamine mainly act at this receptor: [Options: A: Beta 1; B: Beta 2; C: Alpha 1; D: Alpha 2],A: Beta 1,A: Beta 1,0.85,GlobalMedQA_EN,"A: Beta 1
+0.85"
+Phospholipase C acts as secondary messenger for [Options: A: FSH; B: IH; C: TSH; D: GnRH],D: GnRH,B: Insulin-like growth factor hormones ,0.05,GlobalMedQA_EN,"B: Insulin-like growth factor hormones 
+0.05"
+Mucopolysaccharidoses are caused by [Options: A: An increased rate of synthesis of proteoglycans; B: Defects in the degradation of proteoglycans; C: The synthesis of polysaccharides with an altered structure; D: An insufficient amount of proteolytic enzymes],B: Defects in the degradation of proteoglycans,B: Defects in the degradation of proteoglycans,0.95,GlobalMedQA_EN,"B: Defects in the degradation of proteoglycans
+0.95"
+"A 68-year-old man presents to the emergency department with palpitations. He also feels that his exercise tolerance has reduced over the previous week. His past history is positive for ischemic heart disease and he has been on multiple medications for a long time. On physical examination, his temperature is 36.9°C (98.4°F), pulse rate is 152/min and is regular, blood pressure is 114/80 mm Hg, and respiratory rate is 18/min. Auscultation of the precordial region confirms tachycardia, but there is no murmur or extra heart sounds. His ECG is obtained, which suggests a diagnosis of atrial flutter. Which of the following findings is most likely to be present on his electrocardiogram? [Options: A: Atrial rate above 400 beats per minute; B: Slurred upstroke of R wave; C: Atrioventricular block; D: No discernible P waves; E: Wenckebach phenomenon]",C: Atrioventricular block,D: No discernible P waves,0.95,GlobalMedQA_EN,"D: No discernible P waves
+0.95"
+Which among the following does not cause exaggerated jaw jerk - [Options: A: Multiple sclerosis; B: Motor neurone disease; C: Pseudobulbar palsy; D: Syringomyelia],D: Syringomyelia,C: Pseudobulbar palsy,0.85,GlobalMedQA_EN,"C: Pseudobulbar palsy
+0.85"
+Isthmus of thyroid gland lies at which level? [Options: A: C2; B: C4; C: C5; D: C7],D: C7,C: C4,0.65,GlobalMedQA_EN,"C: C4
+0.65"
+Voluntameer ram will receive a new drugin Phase 1 clinical trial. The clearance and volume of distribution of the drug in Ram are 1.386L/hr and 80L respectively. They have life of the drug in him would be approximately [Options: A: 83hr; B: 77hr; C: 40hr; D: 0.02hr],C: 40hr,C: 40hr,0.8,GlobalMedQA_EN,"C: 40hr
+0.8"
+The region where internal and external epithelia meet at the rim of the enamel organ is known as: [Options: A: Zone of reflexion.; B: Enamel Knot.; C: Dental follicle.; D: Enamel cord.],A: Zone of reflexion.,A: Zone of reflexion.,0.5,GlobalMedQA_EN,"A: Zone of reflexion.
+0.5"
+Herpes virus involves which lobe? [Options: A: Frontal; B: Parietal; C: Temporal; D: Occipital],C: Temporal,"Option: C: Temporal; however this option is incorrect for the Herpes virus in general. The Herpes virus affects the Trigeminal nerve primarily. The relevant option seems missing here. Given the closest choice, ",0.15,GlobalMedQA_EN,"Option: C: Temporal; however this option is incorrect for the Herpes virus in general. The Herpes virus affects the Trigeminal nerve primarily. The relevant option seems missing here. Given the closest choice, 
+0.15"
+The most impoant risk factor for development of post paum uterine infection/sepsis is: [Options: A: Anemia; B: Route of delivery; C: Diabetes; D: Obesity],B: Route of delivery,B: Route of delivery,0.7,GlobalMedQA_EN,"B: Route of delivery
+0.7"
+The preferred bypass procedure in case of nonresctable carcinoma of head of pancreas is [Options: A: Cholecystojejunostomy; B: Cholecystogastrostomy; C: Choledochoduodenostomy; D: Choledochojejunostomy],D: Choledochojejunostomy,D: Choledochojejunostomy,0.55,GlobalMedQA_EN,"D: Choledochojejunostomy
+0.55"
+Indicated mandibular major connector for a long span edentulous ridge: [Options: A: Lingual plate; B: Lingual bar; C: Double lingual bar; D: Labial bar],A: Lingual plate,C: Double lingual bar,0.05,GlobalMedQA_EN,"C: Double lingual bar
+0.05"
+"Increase in cytosolic calcium from intracellular storage, during smooth muscle contraction is/are due to: (PGI Dec 2008) [Options: A: CAMP; B: CGMP; C: CCMP; D: 1P.-DAG]",D: 1P.-DAG,"D: 1, 2-DAG",0.85,GlobalMedQA_EN,"D: 1, 2-DAG
+0.85"
+Which of the following is not a feature of autoimmune hepatitis? [Options: A: Anti-SMA antibodies; B: Anti-LKM1 anitbodies; C: Anti-mitochondrial antibodies; D: Anti-Sm antigen antibodies],D: Anti-Sm antigen antibodies,D: Anti-Sm antigen antibodies,0.95,GlobalMedQA_EN,"D: Anti-Sm antigen antibodies
+0.95"
+"A 25 year old man is paicipating in a clinical study to determine the cardiovascular response to physical exercise. Basal measurements are Respiratory rate:15,Blood pressure: 120/80,Cardiac output: 5L,Hea rate:50/min.What is his stroke volume during resting conditions (in mL/min)? [Options: A: 50; B: 75; C: 100; D: 125]",C: 100,A: 100 mL,0.55,GlobalMedQA_EN,"A: 100 mL
+
+0.55"
+Which of the following is caused by congenital 17 hydroxylase deficiency: [Options: A: Hyperkalemia; B: Hermaphroditism; C: Hypeension; D: Virilism],C: Hypeension,B: Hypertension,0.9,GlobalMedQA_EN,"B: Hypertension
+0.9"
+Chemiclave: [Options: A: Corrodes instruments; B: Solution can be recirculated; C: Sterilization is verifiable; D: Does not affect heat-sensitive materials],C: Sterilization is verifiable,C: Sterilization is verifiable,0.4,GlobalMedQA_EN,"C: Sterilization is verifiable
+0.4"
+Drug of choice for bipolar syndrome: [Options: A: Lithium; B: Imipramine; C: Phenytoin; D: Clozapine],A: Lithium,A: Lithium,0.75,GlobalMedQA_EN,"A: Lithium
+0.75"
+"A 36-year-old man was sent to the Emergency Department after a stray baseball hit him in the left eye during a game. Paramedics on sight could not perform the necessary testing and encouraged the patient to visit an ED for further testing and imaging. At the Emergency Department, the patient complains of slight pain in the orbital region and minimal diplopia that mildly increases with upward gaze. The patient’s blood pressure is 110/60 mm Hg, heart rate is 53/min, respiratory rate is 13/min, and temperature 36.6℃ (97.9℉). On physical examination, the patient is alert and responsive. There is an ecchymosis involving the lower lid and infraorbital area on the left side, with a slight downward deviation of the left globe, and conjunctival injection of the left eye. An upward gaze is limited on the left side. The visual acuity is 5/20 bilaterally. A head and neck CT shows a small (0.4 cm), nondisplaced, linear fracture of the left orbital floor. Which of the following statements about the condition the patient presents with is the most accurate? [Options: A: The patient’s condition warrants emergency surgery.; B: MRI is the best method to evaluate the patient’s condition.; C: There is a low chance of spontaneous improvement of the ocular motility.; D: The patient can be initially managed conservatively with corticosteroids and observation.; E: Surgical intervention within 3 days would allow to prevent enophthalmos in this patient.]",D: The patient can be initially managed conservatively with corticosteroids and observation.,D: The patient can be initially managed conservatively with corticosteroids and observation.,0.85,GlobalMedQA_EN,"D: The patient can be initially managed conservatively with corticosteroids and observation.
+0.85"
+"A 4-year-old child is rushed to the emergency department after developing sudden abdominal pain followed by nausea, vomiting, and dark, almost black-colored stool. Prior to the onset of symptoms, he was seen playing with his mother’s purse containing a bottle of vitamin supplements, which she takes for chronic microcytic anemia. Which of the following medications is the treatment for this patient's intoxication? [Options: A: Dimercaprol; B: Penicillamine; C: Deferoxamine; D: Protamine; E: Succimer]",C: Deferoxamine,C: Deferoxamine ,0.85,GlobalMedQA_EN,"C: Deferoxamine 
+0.85"
+A woman has 2 kids. She presents with galactorrhea and amenorrhea for 1 year. The most probable diagnosis is: [Options: A: Pregnancy; B: Pituitary tumor; C: Sheehan's syndrome; D: Metastasis to pituitary from other carcinoma],B: Pituitary tumor,B: Pituitary tumor,0.85,GlobalMedQA_EN,"B: Pituitary tumor
+0.85"
+As per Chadah committee recommendations there should be 1 Basic Health worker per _____ population? [Options: A: 3000; B: 5000; C: 10000; D: 20000],C: 10000,A: 3000,0.7,GlobalMedQA_EN,"A: 3000
+0.7"
+Acute yellow Fatty Liver is caused by which of the following poisoning? [Options: A: Aconite; B: Arsenic; C: Lead; D: Mercury],B: Arsenic,B: Arsenic,0.9,GlobalMedQA_EN,"B: Arsenic
+0.9"
+Which of the following aoic arches regress during development: [Options: A: II; B: IV; C: V; D: VI],C: V,C: V,0.55,GlobalMedQA_EN,"C: V
+0.55"
+Coicosteroids suppress: September 2009 [Options: A: GH; B: ACTH; C: FSH; D: LH],B: ACTH,A: GH,0.55,GlobalMedQA_EN,"A: GH
+0.55"
+Cholesterol is a (an) [Options: A: Ester; B: Phospholipid; C: Sterol; D: Lipoprotein],C: Sterol,C: Sterol,0.9,GlobalMedQA_EN,"C: Sterol
+0.9"
+What kind of benefit is provided under the Rajiv Gandhi Shramik Kalyan Yojana to covered employees? [Options: A: Medical benefit; B: Unemployment benefit; C: Maternity benefit; D: Dependant's benefit],B: Unemployment benefit,D: Dependent's benefit,0.85,GlobalMedQA_EN,"D: Dependent's benefit
+0.85"
+"A 27-year old male presents with low backache, that occurs early in the morning, associated with stiffness, and persists for more than 30 minutes. On examination, his chest expansion is also restricted. The most probable diagnosis is: [Options: A: Rheumatoid arthritis; B: Oteoarthritis; C: Gouty arthritis; D: Ankylosing spondylitis]",D: Ankylosing spondylitis,D: Ankylosing spondylitis,0.85,GlobalMedQA_EN,"D: Ankylosing spondylitis
+0.85"
+Sensory fiber with least conduction velocity:September. 2005 [Options: A: C- fiber; B: Alpha fiber; C: beta fiber; D: Gamma fiber],A: C- fiber,A: C- fiber ,0.85,GlobalMedQA_EN,"A: C- fiber 
+0.85"
+Registration of bih & death with a 6 monthly survey is done in- [Options: A: National sample survey; B: Vital statistical system; C: Census; D: Sample registration system],D: Sample registration system,B: Vital statistical system,0.85,GlobalMedQA_EN,"B: Vital statistical system
+0.85"
+Patient becomes symptom free after surgery in which of the following condition? [Options: A: Diffuse Esophageal Spasm; B: Achalasia Cardia; C: Nutcracker Esophagus; D: Jack hammer Esophagus],B: Achalasia Cardia,B: Achalasia Cardia,0.85,GlobalMedQA_EN,"B: Achalasia Cardia
+0.85"
+Which of the following aminoglycoside is most cochleotoxic:- [Options: A: Amikacin; B: Streptomycin; C: Gentamycin; D: Minocycline],A: Amikacin,A: Amikacin,0.85,GlobalMedQA_EN,"A: Amikacin
+0.85"
+In which of the following situations can air abrasion not be used? [Options: A: Caries excavation; B: Debriding pits and fissures; C: Cavity preparation; D: Stain removal],C: Cavity preparation,B: Debriding pits and fissures,0.7,GlobalMedQA_EN,"B: Debriding pits and fissures
+0.7"
+Corneal endothelium seen by ? [Options: A: Pachymeter; B: Keratometer; C: Tonometer; D: Slit lamp bio-microscope],D: Slit lamp bio-microscope,D: Slit lamp bio-microscope,0.97,GlobalMedQA_EN,"D: Slit lamp bio-microscope
+0.97"
+Which of the following is not used in the treatment of pulmonary hypertension ? [Options: A: Calcium channel blockers; B: Alpha blockers; C: Prostacyclins; D: Endothelin receptor antagonists],B: Alpha blockers,B: Alpha blockers,0.95,GlobalMedQA_EN,"B: Alpha blockers
+0.95"
+Which of the following type of necrosis is most commonly associated with ischemic injury: [Options: A: Coagulative necrosis; B: Casseous necrosis; C: Liquifactive necrosis; D: Fat necrosis],A: Coagulative necrosis,A: Coagulative necrosis,0.85,GlobalMedQA_EN,"A: Coagulative necrosis
+0.85"
+Antiendomysial antibody is used in screening of - [Options: A: Myasthenia gravis; B: Autoimmune hepatitis; C: Coeliac diseases; D: Graves disease],C: Coeliac diseases,C: Coeliac diseases,0.95,GlobalMedQA_EN,"C: Coeliac diseases
+0.95"
+"A 31-year-old male with cirrhosis, dementia, and Parkinson-like symptoms is diagnosed with a hereditary metabolic disease resulting from the accumulation of a certain metal in various tissues. Impairment of which of the following elimination pathways is most likely responsible? [Options: A: Secretion into bile; B: Loop of Henle secretion into lumen of kidney; C: Glomerular filtration; D: Bleeding; E: Duodenal secretion]",A: Secretion into bile,C: Glomerular filtration,0.95,GlobalMedQA_EN,"C: Glomerular filtration
+0.95"
+Surfactant in lung alveoli stas appearing at gestational age [Options: A: 12 weeks; B: 20 weeks; C: 28 weeks; D: 32 weeks],C: 28 weeks,D: 32 weeks,0.85,GlobalMedQA_EN,"D: 32 weeks
+0.85"
+"A 35-year-old woman presents to a psychiatrist for an initial consultation. She reports that for the past 3 years, she has experienced several periods of depressed mood. The episodes do not coincide with any specific life events and seem to resolve after 4-6 weeks. During these episodes, she experiences a depressed mood, sleep disturbances, and a poor appetite, but she at times is able to enjoy spending time with her children and husband but other times she is distressed and cannot enjoy time with them. Upon further questioning, she also reports experiencing occasional episodes of elevated mood over the past ten years. During these episodes, she is very productive at her work as a lawyer and requires less sleep than usual. Her past medical history is notable for obesity, type I diabetes mellitus, and rheumatoid arthritis. She is on insulin and takes methotrexate. She smokes marijuana occasionally. Her temperature is 99.2°F (37.3°C), blood pressure is 124/80 mmHg, pulse is 78/min, and respirations are 17/min. On exam, she is quiet with a flattened affect, but is cooperative and answers questions thoroughly. Which of the following is the most likely diagnosis in this patient? [Options: A: Bipolar I disorder; B: Bipolar II disorder; C: Cyclothymic disorder; D: Persistent depressive disorder; E: Schizoaffective disorder]",C: Cyclothymic disorder,B: Bipolar II disorder,0.85,GlobalMedQA_EN,"B: Bipolar II disorder
+0.85"
+A 62 years old man with carcinoma of lung presented to emergency depament with respiratory distress. His EKG showed electrical alternans. The most likely diagnosis is [Options: A: Pneumothorax.; B: Pleural effusion; C: Cardiac tamponade; D: Constrictive pericarditis.],C: Cardiac tamponade,C: Cardiac tamponade,0.95,GlobalMedQA_EN,"C: Cardiac tamponade
+0.95"
+"Vasanti, a 25-year-old-girl, presents with complaints of fever and weakness. On examination there is splenomegaly of 3 cm below the costal margin.Hb is 8 gm/dL, TLC is 3,000/mm3 , platelet count is 80,000 mm3. Which of the following is the least likely diagnosis - [Options: A: Acute lymphocytic leukemia; B: Anemia of chronic disease; C: Aplastic anemia; D: Megaloblastic anemia]",C: Aplastic anemia,C: Aplastic anemia ,0.05,GlobalMedQA_EN,"C: Aplastic anemia 
+0.05"
+Vital statistics in a population include:- [Options: A: Sex ratio; B: Age composition; C: Bih rate; D: Dependency ratio],C: Bih rate,B: Age composition,0.55,GlobalMedQA_EN,"B: Age composition
+0.55"
+"Which of the following is wrong regarding treatment with iodine?(AIIMS Nov 2013, May 2013) [Options: A: Inhibit release of thyroxine; B: Inhibits iodotyrosine and iodothyronine synthesis; C: Can cause iodism; D: Contraindicated in hyperthyroidism]",D: Contraindicated in hyperthyroidism,B: Inhibits iodotyrosine and iodothyronine synthesis,0.45,GlobalMedQA_EN,"B: Inhibits iodotyrosine and iodothyronine synthesis
+0.45"
+"Using Mifepristone, therapeutic abortion can be effectively induced until______ weeks of gestation? [Options: A: 6 weeks; B: 7 weeks; C: 8 weeks; D: 9 weeks]",D: 9 weeks,C: 8 weeks,0.95,GlobalMedQA_EN,"C: 8 weeks
+0.95"
+Which of the following is the most impoant risk factor in the aetiology of intraventricular haemorrhage (IVH) in neonates? [Options: A: Coagulation disorder; B: Continuous Positive airway pressure; C: Pneumothorax; D: Extreme prematurity],D: Extreme prematurity,D: Extreme prematurity,0.85,GlobalMedQA_EN,"D: Extreme prematurity
+0.85"
+Drug of choice for neurocysticercosis is : [Options: A: Praziquantel; B: Albendazole; C: Levamisole; D: Piperazine],B: Albendazole,B: Albendazole,0.85,GlobalMedQA_EN,"B: Albendazole
+0.85"
+A 75-year-old male presented with chief complaint of pain in the right shoulder. CXR is shown below. Which of the following could be the cause of pain in this patient? [Options: A: Pancoast tumor; B: Sarcoidosis; C: Subclan aery aneurysm; D: Mesothelioma],A: Pancoast tumor,C: Subclavian artery aneurysm ,0.4,GlobalMedQA_EN,"C: Subclavian artery aneurysm 
+0.4"
+In vivo control of citric acid cycle is effected by: [Options: A: Acetyl CoA; B: Coenzyme A; C: ATP; D: Citrate],C: ATP,D: Citrate,0.75,GlobalMedQA_EN,"D: Citrate
+0.75"
+Old men with BP 210/120mmHg are classified as severe hypeension [Options: A: Categorical; B: Numerical; C: Quantiitave; D: Continuous],A: Categorical,B: Numerical ,0.7,GlobalMedQA_EN,"B: Numerical 
+0.7"
+Which of the following is not a postmoem change: NEET 15 [Options: A: Algor mois; B: Rigor mois; C: Atria mois; D: Livor mois],C: Atria mois,"A: Algor mois is not a postmortem change, algor is typically used to denote death from cold which can be confused with death, not a typical postmortem process. ",0.85,GlobalMedQA_EN,"A: Algor mois is not a postmortem change, algor is typically used to denote death from cold which can be confused with death, not a typical postmortem process. 
+0.85"
+Route of transmission of HepatitisaEUR' E virus is: [Options: A: Skin; B: Faeco oral; C: Blood; D: Sexual contact],B: Faeco oral,B: Faeco oral,0.95,GlobalMedQA_EN,"B: Faeco oral
+0.95"
+A 50-year-old woman undergoes neurosurgery for resection of a well-circumscribed intracranial neoplasm attached to the dura. The tumor compressed the underlying brain parenchyma without infiltration. Which of the following is the most likely diagnosis? [Options: A: Aeriovenous malformation; B: Glioblastoma multiforme; C: Medulloblastoma; D: Meningioma],D: Meningioma,D: Meningioma,0.95,GlobalMedQA_EN,"D: Meningioma
+0.95"
+Which of the following is not steroid? [Options: A: Estrogen; B: Cholic acid; C: Leukotrians; D: Vitamin D],C: Leukotrians,A: Cholic acid,0.9,GlobalMedQA_EN,"A: Cholic acid
+0.9"
+The only sensory modality which does not reach the thalamus directly is: [Options: A: Proprioception; B: Taste; C: Olfaction; D: Pain and temperature],C: Olfaction,A: Proprioception is the only sensory modality that does not reach the thalamus directly.,0.9,GlobalMedQA_EN,"A: Proprioception is the only sensory modality that does not reach the thalamus directly.
+0.9"
+2 yrs duration in terms of leprosy is with regard to - [Options: A: Rx of paucibacillary leprosy; B: Rx of multibacillary leprosy; C: Post Rx surveillance of paucibacillary leprosy; D: Post Rx surveillance of multibacillary leprosy],C: Post Rx surveillance of paucibacillary leprosy,D: Post Rx surveillance of multibacillary leprosy.,0.85,GlobalMedQA_EN,"D: Post Rx surveillance of multibacillary leprosy.
+0.85"
+Most common cause of meningo encephalitis in children is: [Options: A: Arbo virus; B: Entero virus; C: HSV; D: Polio virus],B: Entero virus,B: Entero virus,0.4,GlobalMedQA_EN,"B: Entero virus
+0.4"
+Perkin's line on X-ray is used for diagnosis of - [Options: A: Perthe's disease; B: CDH; C: CTEV; D: AVN Hip],B: CDH,B: CDH (Congenital Dislocation of the Hip),0.85,GlobalMedQA_EN,"B: CDH (Congenital Dislocation of the Hip)
+0.85"
+Glucose absorption from intestine occurs by [Options: A: Facilitated diffusion; B: Passive diffusion; C: Primary active transport; D: Secondary active transport],D: Secondary active transport,D: Secondary active transport,0.85,GlobalMedQA_EN,"D: Secondary active transport
+0.85"
+The oxygen dissociation curve of myoglobin & hemoglobin is different due to? [Options: A: Hb can bind to 2 oxygen molecules; B: Cooperative binding in Hb; C: Myogloobin has little oxygen affinity; D: Hemoglobin follows a hyperbolic curve],B: Cooperative binding in Hb,B: Cooperative binding in Hb,0.85,GlobalMedQA_EN,"B: Cooperative binding in Hb
+0.85"
+Which is an abnormal lipoprotein ? [Options: A: VLDL; B: Chylomicron; C: Lp (a); D: LDL],C: Lp (a),C: Lp (a),0.85,GlobalMedQA_EN,"C: Lp (a)
+0.85"
+Sensitivity to local anaesthetics is greater in [Options: A: Type B fibres; B: Type C fibres; C: Type A delta fibres; D: Fibres supplying the muscle spindles],B: Type C fibres,A: Type B fibres,0.3,GlobalMedQA_EN,"A: Type B fibres
+0.3"
+"A patient with a peptic ulcer was admitted to the hospital and a gastric biopsy was performed. The tissue was cultured on chocolate agar incubated in a microaerophilic environment at 37degC for 5 to 7 days. At 5 days of incubation, colonies appeared on the plate and were curved, Gram negative rods, oxidase positive. The most likely identity of this organism is [Options: A: Campylobacter jejuni; B: Vibrio parahaemolyticus; C: Haemophilus influenzae; D: Helicobacter pylori]",D: Helicobacter pylori,D: Helicobacter pylori,0.85,GlobalMedQA_EN,"D: Helicobacter pylori
+0.85"
+A dead born foetus does not have - [Options: A: Rigor mortis at birth; B: Adipocere formation; C: Maceration; D: Mummification],B: Adipocere formation,C: Maceration,0.95,GlobalMedQA_EN,"C: Maceration
+0.95"
+Trinucleotide repeat is seen in [Options: A: Fragile X syndrome; B: Down's syndrome; C: Trisomy 13; D: Turner's syndrome],A: Fragile X syndrome,A: Fragile X syndrome,0.95,GlobalMedQA_EN,"A: Fragile X syndrome
+0.95"
+"An experimental drug, ES 62, is being studied. It prohibits the growth of vancomycin-resistant Staphylococcus aureus. It is highly lipid-soluble. The experimental design is dependent on a certain plasma concentration of the drug. The target plasma concentration is 100 mmol/dL. Which of the following factors is most important for calculating the appropriate loading dose?  [Options: A: Rate of administration; B: Clearance of the drug; C: Half-life of the drug; D: Therapeutic index; E: Volume of distribution]",E: Volume of distribution,E: Volume of distribution,0.85,GlobalMedQA_EN,"E: Volume of distribution
+0.85"
+Teen pregnancy rate as per NFHS 3 is: [Options: A: 15%; B: 10%; C: 5%; D: <1%],A: 15%,C: 5%,0.95,GlobalMedQA_EN,"C: 5%
+0.95"
+"A 35-year-old G0P0000 presents to her gynecologist with complaints of irregular menstruation. She has had only two periods in the last year. She also endorses feeling flushed without provocation and experiencing occasional dyspareunia with post-coital spotting. In addition, she has also had more frequent headaches than usual. The patient has a past medical history of Hashimoto’s thyroiditis and takes levothyroxine daily. Her mother has type I diabetes mellitus. At this visit, the patient’s temperature is 98.5°F (36.9°C), pulse is 70/min, blood pressure is 118/76 mmHg, and respirations are 13/min. Cardiopulmonary and abdominal exams are unremarkable. The patient has Tanner V breasts and pubic hair. Pelvic exam reveals a normal cervix, anteverted uterus without tenderness, and no adnexal masses. The following laboratory studies are performed:
+
+Serum:
+Thyroid stimulating hormone (TSH): 28 µIU/mL (9-30 µIU/mL)
+Cycle day 3 follicle stimulating hormone (FSH): 49 mIU/mL (4.7-21.5 mIU/mL)
+Cycle day 3 estradiol: 8 pg/mL (27-123 pg/mL)
+Prolactin: 14 ng/mL (4-23 ng/mL)
+Testosterone: 42 ng/dL (15-70 ng/dL)
+
+Which of the following is the best next step in management? [Options: A: Vaginal estradiol gel; B: Increase levothyroxine dose; C: Estradiol patch with oral medroxyprogesterone; D: Brain MRI; E: Combined oral contraceptive]",C: Estradiol patch with oral medroxyprogesterone,E: Combined oral contraceptive,0.85,GlobalMedQA_EN,"E: Combined oral contraceptive
+0.85"
+Which cephalosporin can cause Disulfiram like reaction - [Options: A: Cefuroxime; B: Cefamendole; C: Ceftazidine; D: Ceftizoxim],B: Cefamendole,B: Cefamendole,0.65,GlobalMedQA_EN,"B: Cefamendole
+0.65"
+A patient presented with pain in the right lower quadrant of abdomen. He has history of renal stones in right kidney. He was prescribed an opioid which is agonist at kappa receptors and antagonist at mu receptors. The likely drug given was: [Options: A: Pentazocine; B: Buprenorphine; C: Tramadol; D: Fentanyl],A: Pentazocine,A: Pentazocine,0.75,GlobalMedQA_EN,"A: Pentazocine
+0.75"
+Which of the following features on mammogram would suggest malignancy – [Options: A: Well defined lesion; B: A mass of decreased density; C: Areas of speculated microcalcifications; D: Smooth borders],C: Areas of speculated microcalcifications,C: Areas of speculated microcalcifications,0.85,GlobalMedQA_EN,"C: Areas of speculated microcalcifications
+0.85"
+Cocket and Dodd's operation is for: [Options: A: Saphenofemoral flush ligation; B: Subfascial ligation; C: Deep vein thrombosis; D: Diabetic foot],B: Subfascial ligation,B: Subfascial ligation,0.95,GlobalMedQA_EN,"B: Subfascial ligation
+0.95"
+"Four days after having been admitted to the hospital for a pulmonary contusion and whiplash injury sustained in a motor vehicle collision, a 66-year-old woman complains of severe pain in her right flank and muscle spasms. She also has nausea with two episodes of vomiting and abdominal bloating. Her pain had previously been well controlled with acetaminophen every 6 hours. She underwent umbilical hernia repair surgery two years ago. She takes sertraline for depression. Her temperature is 36.5°C (97.7°F), pulse is 99/min, respirations are 17/min, and blood pressure is 102/72 mm Hg. After administration of 0.5 L of crystalloid fluids, blood pressure improves to 118/79 mm Hg. Multiple ecchymoses are present over the anterior abdominal wall in a pattern that follows the course of a seatbelt. There are ecchymoses of the flanks bilaterally. Bowel sounds are absent. There is tenderness to palpation in all four quadrants with voluntary guarding. Her hemoglobin is 7.9 g/dL, leukocyte count is 8,500/mm3, platelet count is 350,000/mm3, prothrombin time is 11 seconds, and activated partial thromboplastin time is 33 seconds. An x-ray of the abdomen shows obliteration of the right psoas shadow and uniform distribution of gas in the small bowel, colon, and rectum without air-fluid levels. Which of the following is the most likely explanation for this patient's symptoms? [Options: A: Small bowel perforation; B: Intraabdominal adhesions; C: Spinal cord injury; D: Retroperitoneal hemorrhage; E: Acute mesenteric ischemia
+""]",D: Retroperitoneal hemorrhage,E: Acute mesenteric ischemia,0.85,GlobalMedQA_EN,"E: Acute mesenteric ischemia
+0.85"
+Which of the following is a differentiating feature of anopheles from aedes mosquito ? [Options: A: Pupa has broad siphon; B: Eggs are oval shaped; C: Wings unspotted; D: Popi are sho],A: Pupa has broad siphon,A: Pupa has broad siphon,0.85,GlobalMedQA_EN,"A: Pupa has broad siphon
+0.85"
+Anorexia nervosa can be erentiated from bulimia by- [Options: A: Intense fear of wt gain; B: Disturbance of body image; C: Adolescent age; D: Peculiar patterns of food handling],D: Peculiar patterns of food handling,B: Disturbance of body image ,0.85,GlobalMedQA_EN,"B: Disturbance of body image 
+0.85"
+What is meant by Ca colon stage Mc ? [Options: A: Hepatic metastasis.; B: Extension upto serosa & lymph node; C: Extension upto serosa; D: Extension upto mucosa],B: Extension upto serosa & lymph node,C: Extension upto serosa,0.75,GlobalMedQA_EN,"C: Extension upto serosa
+0.75"
+Which of the following psychotropic drugs must be monitored for hematotoxic effects? [Options: A: Buspirone; B: Clozapine; C: Haloperidol; D: Lithium carbonate],B: Clozapine,B: Clozapine,0.95,GlobalMedQA_EN,"B: Clozapine
+0.95"
+Cocaine abuse is much similar to which abuse:WB 07 [Options: A: Cannabis; B: Nicotine; C: Heroin; D: Amphetamine],D: Amphetamine,C: Heroin,0.92,GlobalMedQA_EN,"C: Heroin
+0.92"
+"A 34-year-old gravida-1 at 8 weeks gestation seeks evaluation for a fever and sore throat for 3 days. She also reports generalized body pain and fatigue over this period. She was diagnosed with Graves’ disease 6 months ago. Before conception, methimazole was switched to propylthiouracil. She appears ill. The vital signs include: axillary temperature 38.0℃ (100.4℉), pulse 88/min, respiratory rate 12/min, and blood pressure 120/80 mm Hg. A 1 × 1 cm ulcer is seen on the side of the tongue. The ulcer is tender with surrounding erythema. Examination of the neck, lungs, heart, and abdomen shows no abnormalities. The laboratory studies show the following:
+Hemoglobin 13.5 g/dL
+Mean corpuscular volume 90 μm3
+Leukocyte count 2,500/mm3
+Segmented neutrophils 5%
+Lymphocytes 88%
+Platelet count 240,000/mm3
+Alanine aminotransferase 18 U/L
+Aspartate transaminase 16 U/L
+Which of the following is the most appropriate next step in management? [Options: A: Acetaminophen for fever control; B: Discontinuation of propylthiouracil; C: Oral ampicillin; D: Rectal temperature measurement; E: Termination of pregnancy]",B: Discontinuation of propylthiouracil,B: Discontinuation of propylthiouracil,0.85,GlobalMedQA_EN,"B: Discontinuation of propylthiouracil
+0.85"
+Histidine load test is done for [Options: A: Histidine deficiency; B: Folic acid deficiency; C: Glutamate deficiency; D: Vitamin B12 deficiency],B: Folic acid deficiency,A: Histidine deficiency,0.9,GlobalMedQA_EN,"A: Histidine deficiency
+0.9"
+Air crescent sign in chest X-ray is seen in: September 2010 [Options: A: Blastomycosis; B: Pneumonia; C: Invasive aspergillosis; D: Bronchiectasis],C: Invasive aspergillosis,C: Invasive aspergillosis,0.85,GlobalMedQA_EN,"C: Invasive aspergillosis
+0.85"
+Drug of choice for relapsing-remitting multiple sclerosis is: [Options: A: α IFN; B: β IFN; C: γ IFN; D: Natalizumab],B: β IFN,D: Natalizumab,0.85,GlobalMedQA_EN,"D: Natalizumab
+0.85"
+"Breakfast, Lunch and dinner sign [Options: A: Bed bug; B: Mite; C: Ant; D: Tick]",A: Bed bug,C: Ant,0.1,GlobalMedQA_EN,"C: Ant
+0.1"
+Mediastinal surface of right lung is related to [Options: A: Azygos vein; B: Right lymphatic duct; C: Aoa; D: Trachea],A: Azygos vein,B: Right lymphatic duct,0.95,GlobalMedQA_EN,"B: Right lymphatic duct
+0.95"
+Precaution should be taken in case of  hepatic disease when prescribing which of these drugs? [Options: A: Amoxicillin; B: Cephalexin; C: Erythromycin; D: Augmentin],C: Erythromycin,A: Amoxicillin,0.85,GlobalMedQA_EN,"A: Amoxicillin
+0.85"
+A patient is brought with 6 months history of odd behavior. There is history of a family member having disappeared some years back. He seems to be talking to himself and sometimes laughing loudly. The likely diagnosis is:- [Options: A: Schizophrenia; B: Conversion disorder; C: Major depression; D: Delusional disorder],A: Schizophrenia,A: Schizophrenia,0.85,GlobalMedQA_EN,"A: Schizophrenia
+0.85"
+"A 32-day-old boy is brought to the emergency department because he is found to be febrile and listless. He was born at home to a G1P1 mother without complications, and his mother has no past medical history. On presentation he is found to be febrile with a bulging tympanic membrane on otoscopic examination. Furthermore, he is found to have an abscess around his rectum that discharges a serosanguinous fluid. Finally, the remnants of the umbilical cord are found to be attached and necrotic. Which of the following processes is most likely abnormal in this patient? [Options: A: Actin remodeling; B: Antibody class switching; C: Microtubule organization; D: Neutrophil migration; E: Reactive oxygen species production]",D: Neutrophil migration,D: Neutrophil migration,0.85,GlobalMedQA_EN,"D: Neutrophil migration
+0.85"
+"According to American hea association & world hea federation 2015 criteria, low risk is defined as having An Acute Rheumatic Fever incidence <---------- per 100,000 school aged children per year? [Options: A: 1; B: 2; C: 0.1; D: 0.01]",B: 2,"A: <1 per 100,000 school aged children per year",0.85,GlobalMedQA_EN,"A: <1 per 100,000 school aged children per year
+0.85"
+Hill sach lesion is seen in? [Options: A: Posterolateral humerus; B: Anterior dislocation of shoulder joint; C: Posterior dislocation of shoulder joint; D: Glenoid labrum tear],B: Anterior dislocation of shoulder joint,C: Posterior dislocation of shoulder joint,0.9,GlobalMedQA_EN,"C: Posterior dislocation of shoulder joint
+0.9"
+Kluver Bucy syndrome is due to the lesion in which of the following structure [Options: A: Amygdala; B: Hippocampual area; C: Hypothalamus; D: Temporal lobe],A: Amygdala,A: Amygdala,0.85,GlobalMedQA_EN,"A: Amygdala
+0.85"
+Which is a selective cyclooxygenase-2 inhibitor ? [Options: A: Ketorolac; B: Tolmetin; C: Nabumitone; D: Oxaprozin],C: Nabumitone,C: Nabumitone,0.75,GlobalMedQA_EN,"C: Nabumitone
+0.75"
+Infectious cause of Erythematous rashes are seen in [Options: A: Measles; B: Typhoid fever; C: Yellow fever; D: Malaria],A: Measles,A and B: Measles and Typhoid fever can cause erythematous rashes but the most infectious cause of Erythematous rash  is associated  with  option  A: Measles ,0.65,GlobalMedQA_EN,"A and B: Measles and Typhoid fever can cause erythematous rashes but the most infectious cause of Erythematous rash  is associated  with  option  A: Measles 
+0.65"
+Derivative of ventral mesogastrium - [Options: A: Greateromentum; B: Lesseromentum; C: Gastrosplenic ligament; D: Linorenal ligament],B: Lesseromentum,A: Greater omentum,0.05,GlobalMedQA_EN,"A: Greater omentum
+0.05"
+A 25 year old lady presented with curdy white discharge from vagina is likely to be suffering from:- [Options: A: Gonococcal vulvovaginitis; B: Candida vaginitis; C: Trichomoniasis; D: Chlamydia trachomatis],B: Candida vaginitis,B: Candida vaginitis,0.95,GlobalMedQA_EN,"B: Candida vaginitis
+0.95"
+Gamma Glutamyl Transferase is increased in [Options: A: Alcoholic hepatitis; B: Pancreatitis; C: Hepatocellular carcinoma; D: Infective hepatitis],A: Alcoholic hepatitis,A: Alcoholic hepatitis,0.85,GlobalMedQA_EN,"A: Alcoholic hepatitis
+0.85"
+Which of the following glial cells helps in myelination of CNS neurons? [Options: A: Astrocytes; B: Schwann cells; C: Microglial cells; D: Oligodendrocytes],D: Oligodendrocytes,D: Oligodendrocytes,0.95,GlobalMedQA_EN,"D: Oligodendrocytes
+0.95"
+Raindrop skull is a feature of? [Options: A: Multiple myeloma; B: Eosinophilic granuloma; C: Thalassemia; D: Sickle cell anemia],A: Multiple myeloma,A: Multiple myeloma,0.95,GlobalMedQA_EN,"A: Multiple myeloma
+0.95"
+The most oured treatment for a pelvic abscess in cul-de-sac is - [Options: A: Laparotomy; B: Colpotomy; C: External I & D; D: Antibiotics],B: Colpotomy,B: Colpotomy,0.85,GlobalMedQA_EN,"B: Colpotomy
+0.85"
+Total alveolar ventilation volume (in 1:./min) is: [Options: A: 1.5; B: 3.5; C: 4.2; D: 5],C: 4.2,B: 3.5,0.9,GlobalMedQA_EN,"B: 3.5
+0.9"
+The meal provided in mid-day meal program should supply at least - [Options: A: 1\/2 of proteins and 1\/2 of the calories required per day; B: 1\/2 of proteins and 1\/3 of the calories required per day; C: 1\/3 of proteins and 1\/3 of the calories required per day; D: 1\/3 of proteins and 1\/2 of the calories required per day],B: 1\/2 of proteins and 1\/3 of the calories required per day,D: 1/3 of proteins and 1/2 of the calories required per day,0.85,GlobalMedQA_EN,"D: 1/3 of proteins and 1/2 of the calories required per day
+0.85"
+The age of the child used in the determination of child mortality rate is: [Options: A: 0-5 years; B: 1-4 years; C: 5-8 years; D: 0-1 years],B: 1-4 years,A: 0-1 years,0.95,GlobalMedQA_EN,"A: 0-1 years
+0.95"
+"A 32-year-old man presents to the clinic with a dull low back pain radiating to the buttocks. He first noted it about 2 years ago and it has; progressed since then. He notes that it is worse in the morning and improves later in the day after physical activity. The patient also reports morning stiffness lasting up to 30 minutes and blurred vision, which started about 7 months ago. The patient’s vital signs include: blood pressure 130/80 mm Hg, heart rate 88/min, respiratory rate 16/min, and temperature 36.8°C (98.2°F). Physical examination reveals tenderness over the sacroiliac joints and limitation of the lumbar spine movements in the sagittal plane. The patient’s X-ray is shown in the picture below. Which of the following HLA variants is associated with this patient’s condition? [Options: A: HLA-DQ2; B: HLA-DR4; C: HLA-B47; D: HLA-B27; E: HLA-DR3]",D: HLA-B27,D: HLA-B27,0.85,GlobalMedQA_EN,"D: HLA-B27
+0.85"
+Bacteriophage carries gene for which of the following ? [Options: A: Cholera toxin; B: Heat labile toxin of E. coli; C: Verocytotoxin of EHEC; D: Anthrax toxin],C: Verocytotoxin of EHEC,D: Anthrax toxin,0.95,GlobalMedQA_EN,"D: Anthrax toxin
+0.95"
+"A 29-year-old G4P0 woman presents following a spontaneous pregnancy loss in the 18th week of her pregnancy. This is her fourth loss in the second trimester and she is concerned about her inability to have a successful pregnancy. She is otherwise healthy and has no acute complaints. Her vitals are unremarkable and exam is notable only for a firm, asymmetric uterus. Laboratory studies are ordered as seen below.
+
+Hemoglobin: 9.0 g/dL
+Hematocrit: 30%
+Leukocyte count: 6,800/mm^3 with normal differential
+Platelet count: 199,000/mm^3
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 4.3 mEq/L
+HCO3-: 25 mEq/L
+BUN: 20 mg/dL
+Glucose: 99 mg/dL
+Creatinine: 1.1 mg/dL
+
+Which of the following tests is most likely to elucidate the cause of this patient's pregnancy losses? [Options: A: Anti-cardiolipin antibodies; B: Karotyping; C: Hysterosalpingogram; D: Prolactin level; E: TSH level]",C: Hysterosalpingogram,C: Hysterosalpingogram,0.85,GlobalMedQA_EN,"C: Hysterosalpingogram
+0.85"
+"""Bird of Prey"" sign is seen in the radiographic barium examination of: [Options: A: Gastric volvulus; B: Intussusception; C: Sigmoid volvulus; D: Cecal volvulus]",C: Sigmoid volvulus,D: Cecal volvulus,0.85,GlobalMedQA_EN,"D: Cecal volvulus
+0.85"
+"A 10-month-old boy is being treated for a rare kind of anemia and is currently being evaluated for a bone marrow transplant. The patient’s mother presents to an appointment with their pediatrician after having done some online research. She has learned that the majority of patients inherit this condition as an autosomal dominant mutation. As a result of the genetic mutation, there is impaired erythropoiesis, leading to macrocytic red blood cells without hypersegmented neutrophils. She also read that children who survive will eventually present with short stature and craniofacial abnormalities. Which of the following is true about this patient’s condition? [Options: A: Splenectomy is a treatment option; B: Occurs due to an inability to convert orotic acid to uridine monophosphate (UMP); C: Fetal hemoglobin level is elevated; D: Occurs due to auto-antibodies against the parietal cells of the stomach; E: Occurs due to a defect in lymphoblasts and erythroid progenitor cells]",C: Fetal hemoglobin level is elevated,E: Occurs due to a defect in lymphoblasts and erythroid progenitor cells.,0.75,GlobalMedQA_EN,"E: Occurs due to a defect in lymphoblasts and erythroid progenitor cells.
+0.75"
+The efferent limb of the cremasteric reflex is provided the- [Options: A: Femoral branch of the genitofemoral; B: Genital branch of the genitofemoral nerve; C: Ilioinguinal nerve; D: Pudendal nerve],B: Genital branch of the genitofemoral nerve,B: Genital branch of the genitofemoral nerve,0.95,GlobalMedQA_EN,"B: Genital branch of the genitofemoral nerve
+0.95"
+"In transverse lie, the presentation is: [Options: A: Veex; B: Breech; C: Brow; D: Shoulder]",D: Shoulder,B: Breech,0.85,GlobalMedQA_EN,"B: Breech
+0.85"
+Which of the following is a long acting bronchodilator? [Options: A: Salbutamol; B: Terbutaline; C: Adrenaline; D: Formoterol],D: Formoterol,D: Formoterol,0.95,GlobalMedQA_EN,"D: Formoterol
+0.95"
+Gettler's test is done in [Options: A: Traumatic asphyxia; B: Strangulation; C: Drowning; D: Sexual asphyxia],C: Drowning,C: Drowning,0.95,GlobalMedQA_EN,"C: Drowning
+0.95"
+A 8th week pregnant women presents with mild vaginal bleeding and pain in the lower abdomen. The size of the uterus is 8 weeks. The cause is [Options: A: Threatened abortion; B: Inevitable abortion; C: Incomplete abortion; D: Induced abortion],A: Threatened abortion,A: Threatened abortion,0.85,GlobalMedQA_EN,"A: Threatened abortion
+0.85"
+Ovarian fibroma develops from [Options: A: Epithelium; B: Germ cells; C: Sex cord; D: Stroma],D: Stroma,C: Sex cord,0.85,GlobalMedQA_EN,"C: Sex cord
+0.85"
+TB can be easily differentiated from squamous cell carcinoma by: [Options: A: Acid positive with ziehl neelsen stain; B: Primary lesion occur on tongue; C: Biopsy can confirm the diagnosis; D: Direct smear examination],C: Biopsy can confirm the diagnosis,C: Biopsy can confirm the diagnosis,0.95,GlobalMedQA_EN,"C: Biopsy can confirm the diagnosis
+0.95"
+Most common symptom of bronchial adenoma is: [Options: A: Chest pain; B: Weight loss; C: Recurrent hemoptysis; D: Cough],C: Recurrent hemoptysis,C: Recurrent hemoptysis,0.85,GlobalMedQA_EN,"C: Recurrent hemoptysis
+0.85"
+Not a marker for hyperparathyroidism is - [Options: A: Increase in serum calcium; B: Increase in 24 hour urinary calcium excretion; C: Increase in serum calcitonin; D: Subperiosteal resorption of phalanges],C: Increase in serum calcitonin,C: Increase in serum calcitonin,0.95,GlobalMedQA_EN,"C: Increase in serum calcitonin
+0.95"
+plate endings are features of [Options: A: Nuclear chain fibres; B: Nuclear bag fibres; C: Golgi tendon; D: Extra fusal],B: Nuclear bag fibres,B: Nuclear bag fibres,0.85,GlobalMedQA_EN,"B: Nuclear bag fibres
+0.85"
+Aviator fracture is - [Options: A: Fracture neck of talus; B: Fracture scaphoid; C: Fracture calcaneum; D: Fracture 5 metatarsal],A: Fracture neck of talus,A: Fracture neck of talus,0.85,GlobalMedQA_EN,"A: Fracture neck of talus
+0.85"
+A 52-year-old band director suffered problems in her right arm several days after strenuous field exercises for a major athletic tournament. Examination in the orthopedic clinic reveals wrist drop and weakness of grasp but normal extension of the elbow joint. There is no loss of sensation in the affected limb. Which nerve was most likely affected? [Options: A: Ulnar; B: Anterior interosseous; C: Posterior interosseous; D: Median],C: Posterior interosseous,B: Posterior interosseous ,0.85,GlobalMedQA_EN,"B: Posterior interosseous 
+0.85"
+"In tuberculosis of scrotal contents, first to get affected is? [Options: A: Testis; B: Epididymis; C: Rete testis; D: Vas deferens]",B: Epididymis,B: Epididymis,0.85,GlobalMedQA_EN,"B: Epididymis
+0.85"
+What is the critical value of Shock Index which is considered abnormal in pregnancy? [Options: A: 0.9-1.1; B: 0.5 0-.7; C: 0.3-0.5; D: 0.7-0.9],A: 0.9-1.1,B: 0.7-0.9 ,0.85,GlobalMedQA_EN,"B: 0.7-0.9 
+0.85"
+"A 44-year-old woman presents with increased thirst and frequent urination that started 6 months ago and have progressively worsened. Recently, she also notes occasional edema of the face. She has no significant past medical history or current medications. The patient is afebrile and the rest of the vital signs include: blood pressure is 120/80 mm Hg, heart rate is 61/min, respiratory rate is 14/min, and temperature is 36.6°C (97.8°F). The BMI is 35.2 kg/m2. On physical exam, there is 2+ pitting edema of the lower extremities and 1+ edema in the face. There is generalized increased deposition of adipose tissue present that is worse in the posterior neck, upper back, and shoulders. There is hyperpigmentation of the axilla and inguinal areas. The laboratory tests show the following findings:
+Blood
+Erythrocyte count 4.1 million/mm3
+Hgb 12.9 mg/dL
+Leukocyte count 7,200/mm3
+Platelet count 167,000/mm3
+Fasting blood glucose 141 mg/dL (7.8 mmol/L)
+Creatinine 1.23 mg/dL (108.7 µmol/L)
+Urea nitrogen 19 mg/dL (6.78 mmol/L)
+Urine dipstick
+Glucose +++
+Protein ++
+Bacteria Negative
+The 24-hour urine protein is 0.36 g. Which of the following medications is the best treatment for this patient’s condition? [Options: A: Enalapril; B: Insulin; C: Metoprolol; D: Furosemide; E: Mannitol]",A: Enalapril,A: Enalapril,0.85,GlobalMedQA_EN,"A: Enalapril
+0.85"
+Which one of the following does not produce cyanosis in the first year of life - [Options: A: Atrial septal defect; B: Hypoplastic left hea syndrome; C: Truncus aeriosus; D: Double outlet right ventricle],A: Atrial septal defect,A: Atrial septal defect,0.7,GlobalMedQA_EN,"A: Atrial septal defect
+0.7"
+Which vein does NOT drain into internal jugular vein? [Options: A: Lingual vein; B: Facial vein; C: Superior thyroid vein; D: Retromandibular vein],D: Retromandibular vein,"A: Lingual vein does drain into the internal jugular vein through the common facial vein, however the Retromandibular vein does NOT drain into the internal jugular vein, it drains into the facial vein. So the best answer is D: Retromandibular vein.",0.85,GlobalMedQA_EN,"A: Lingual vein does drain into the internal jugular vein through the common facial vein, however the Retromandibular vein does NOT drain into the internal jugular vein, it drains into the facial vein. So the best answer is D: Retromandibular vein.
+0.85"
+"Which airport is located in Maine, Sacramento International Airport or Knox County Regional Airport?",Knox County Regional Airport,Knox County Regional Airport,0.95,HotpotQA,"Knox County Regional Airport
+0.95"
+Peter Hobbs founded the company that is based in what town in Manchester?,Failsworth,Sale ,0.95,HotpotQA,"Sale 
+0.95"
+What direction does the river that Austrolebias bellotti are found in flow?,north to south,Westwards,0.05,HotpotQA,"Westwards
+0.05"
+Were both Gabriela Mistral and G. K. Chesterton authors?,yes,Yes,0.99,HotpotQA,"Yes
+0.99"
+"What city, other than San Jose del Cabo, is at the the southern tip of Baja California Peninsula and is also encompassed in the Los Cabos Municipality?",Cabo San Lucas,Cabos San Lucas,0.95,HotpotQA,"Cabos San Lucas
+0.95"
+Sky High starred the actress who is married to which actor?,John Travolta,"Kirsten Dunst, and she is married to Jesse Plemons.",0.95,HotpotQA,"Kirsten Dunst, and she is married to Jesse Plemons.
+0.95"
+"What event occured at the Red Bull Arena in Salzburg, Austria and Switzerland in 2008?",UEFA Euro 2008,The event in this question is likely that of  an opening event.,0.6,HotpotQA,"The Red Bull Arena is located in Salzburg, Austria, however, also Red Bull Arena in Leipzig and Red Bull Arena in Salzburg were built and opened 2006, not 2008 
+The event in this question is likely that of  an opening event.
+0.6"
+Sir Thomas Kyriell was executed after which battle from the Wars of the Roses?,Second Battle of St Albans,Towton,0.8,HotpotQA,"Towton
+0.8"
+"Where is the fruit, part of the flowering plant species in the palm family Arecaceae, most popular?",Malta,Indonesia  ,0.85,HotpotQA,"Indonesia  
+0.85"
+"Undertow is a steel spinning roller coaster, built by Maurer Söhne, located at which oceanfront amusement park in Santa Cruz, California?",Santa Cruz Beach Boardwalk,Beach Boardwalk,0.95,HotpotQA,"Beach Boardwalk
+0.95"
+An actress nominated for 20 academy awards was featured on a TV series about genealogical research of 12 americans hosted by whom?,Professor Henry Louis Gates,Henry Louis Gates Jr.,0.95,HotpotQA,"Henry Louis Gates Jr.
+0.95"
+Which movement was lead by the poet who is included among those David S. Reynolds is an expert on?,transcendentalist,Transcendentalism,0.95,HotpotQA,"Transcendentalism
+0.95"
+"Al-Battani and Ibn al-Shatir, have which mutual occupation?",astronomer,Astronomer,0.95,HotpotQA,"Astronomer
+0.95"
+"""Lisa's Rival"" is the second episode of ""The Simpsons""' sixth season, which American actress guest stars as Allison Taylor, a new student at Springfield Elementary School?",Winona Ryder,Meryl Streep,0.9,HotpotQA,"Meryl Streep
+0.9"
+Who introduced the Ultimate Boeing 747 gambit in response to the idea that there must be a god if there appears to be a deliberate design in the natural world?,Richard Dawkins,William Lane Craig,0.9,HotpotQA,"William Lane Craig
+0.9"
+"Which magazine was published weekly vs every weekday, Aeon or Life?",Life,"Aeon, as Aeon published weekly.",0.95,HotpotQA,"Aeon, as Aeon published weekly.
+ 
+0.95"
+What is the current name of the club that Agustin Lionel Allione plays for?,Esporte Clube Bahia,AC Monza,0.1,HotpotQA,"AC Monza
+0.1"
+The composer of Massu Engira Masilamani began his musical career when he composed the film score for what movie?,"""Aravindhan""",K. ,0.0,HotpotQA,"K. 
+0.0"
+"Who has more scope of profession, E. L. Doctorow or Julia Peterkin?","Edgar Lawrence ""E. L."" Doctorow",0.98,,HotpotQA,"E. L. Doctorow 
+0.98
+
+(Doctorow's works include novels and essays, whereas I was unable to find information about the scope of Peterkin's work beyond writing)"
+"When was the military branch, for which Christian Roy Kaldager served, established?",10 November 1944,Navy Commandos ,0.5,HotpotQA,"Navy Commandos 
+0.5"
+When the group who murdered Jaime Zapata form their own criminal organization?,February 2010,This information is not available or verified.,0.0,HotpotQA,"This information is not available or verified.
+
+0.0"
+"In which city was the Symphony for Classical Orchestra in B-flat major completed by Harold Shapero who undoubtedly derived a fair amount from the American composer, teacher and writer known as the 'Dean of American Composers'?",Massachusetts,Boston,0.9,HotpotQA,"Boston
+0.9"
+"What character did this actor, who also played a supporting role in Sleepy Hollow, play in the final six Harry Potter films?",Professor Albus Dumbledore,David Thewlis,0.95,HotpotQA,"David Thewlis
+0.95"
+What T.V. show did the episode Colonel Homer air on?,The Simpsons,The Simpsons,0.85,HotpotQA,"The Simpsons
+0.85"
+ Chairmen of the Bored is an album that references a joke made by a cast member of what series?,Saturday Night Live,Frasier,0.99,HotpotQA,"Frasier
+0.99"
+STS-7 was NASA's seventh Space Shuttle mission carried the first American woman in space in 1983 who name was?,Sally Kristen Ride,Sally Ride,0.95,HotpotQA,"Sally Ride
+0.95"
+"Shottenstein Store Corp's primary holders are Jerome Shottenstein, and what other entrepreneur that was born in 1954?",Jay Schottenstein,Les Wexner,0.95,HotpotQA,"Les Wexner
+0.95"
+"Which is from farther west, Woman's Viewpoint or Al Jamila?",Woman's Viewpoint,Al Jamila ,0.9,HotpotQA,"Al Jamila 
+0.9"
+What was the duck character's name in the Disney cartoon with the music that sounded like The Mexican Hat Dance?,Donna,Dioscuro,0.05,HotpotQA,"Dioscuro
+0.05"
+"The singer who released the single ""Kid Stuff"" in 1973 is best known for what other song?",The Teddy Bear Song,Nancy Wilson,0.85,HotpotQA,"Nancy Wilson
+0.85"
+What instrument did Shannon Leto play in his band Thirty Seconds to Mars?,"drums, percussion",Drums,0.95,HotpotQA,"Drums
+0.95"
+In which year was the farming simulation video game published by Chucklefish released for Microsoft Windows?,2016,Stardew Valley,0.9,HotpotQA,"Stardew Valley
+0.9"
+"Which Australian locality is 110 km north form the city affectionally named ""The City""?",Kangaroo Head,Melbourne,0.9,HotpotQA,"Melbourne
+0.9"
+What musical did Dan Domenech perform in that was based on a book by Jack Murphy and Gregory Boyd?,Wonderland,Catch Me If You Can,0.9,HotpotQA,"Catch Me If You Can
+0.9"
+When did the singer of Mestarit salilla serve in the Finnish Parliament?,from 2003 to 2007,Jesse Krönqvist,0.05,HotpotQA,"Jesse Krönqvist
+0.05"
+Along what road was the former mall near White Flint station located?,Rockville Pike,"Montgomery County Road 610, but now known as Tuckerman Lane ",0.8,HotpotQA,"Montgomery County Road 610, but now known as Tuckerman Lane 
+0.8"
+"Who lived longer, Lothar von Richthofen or  Wolfram Freiherr von Richthofen ?",Wolfram Freiherr von Richthofen,Wolfram Freiherr von Richthofen,0.5,HotpotQA,"Wolfram Freiherr von Richthofen
+0.5"
+"Which court case occurred first, Phillips v. Martin Marietta Corp. or United States v. Miller",United States v. Miller,Phillips v. Martin Marietta Corp.,0.9,HotpotQA,"Phillips v. Martin Marietta Corp.
+0.9"
+Andrew Jaspan is the co-founder of a website that launched in which year ?,2011,The Conversation,0.9,HotpotQA,"The Conversation
+0.9"
+"The 2009 Louisiana Tech Bulldogs football team was coached by someone in their third year with the program, and who currently serves as the wide receivers coach for what NFL team?",Dallas Cowboys,Sonny Cumbie,0.95,HotpotQA,"Sonny Cumbie
+0.95"
+Were Richard Bach and Paul Celan from the same country?,no,Yes,0.95,HotpotQA,"Yes
+0.95"
+Ernest Davies' successor was born on what date?,10 October 1940,25 July 1992 ,0.85,HotpotQA,"25 July 1992 
+0.85"
+"When was the delusional anarchist from the television film ""The Revenge of Al Capone"" born?","September 7, 1900","The film ""The Revenge of Al Capone"" doesn't seem to exist or is a very rare film. However, one source claims  'The Ransom Payment,' a made-for-TV movie, 'The Revenge of Al Capone' is a part of it but it appears this was a different name than what the final movie was released as, but I will use that name. It's a 1975 film with a character played by  'Rip Torn', 'the delusional anarchist' or  possibly a character  in a film released as 'Al Capone Returns to Alcatraz'  (1979) with a  character known as 'Delusional anarchist', it does seem to be a rare case. Given the name of one TV movie from 1975, the answer cannot be found with confidence.",0.05,HotpotQA,"The film ""The Revenge of Al Capone"" doesn't seem to exist or is a very rare film. However, one source claims  'The Ransom Payment,' a made-for-TV movie, 'The Revenge of Al Capone' is a part of it but it appears this was a different name than what the final movie was released as, but I will use that name. It's a 1975 film with a character played by  'Rip Torn', 'the delusional anarchist' or  possibly a character  in a film released as 'Al Capone Returns to Alcatraz'  (1979) with a  character known as 'Delusional anarchist', it does seem to be a rare case. Given the name of one TV movie from 1975, the answer cannot be found with confidence.
+
+0.05"
+Mandarin Oriental Macau is a hotel that overlooks what man-made lake in Macau?,Nam Van Lake,Outer Harbour,0.95,HotpotQA,"Outer Harbour
+
+0.95"
+"Who was drafted into the 2009 NFL Draft, during the he seventy-fourth annual meeting of National Football League (NFL)?",Darrius Ramar Heyward-Bey,Matthew Stafford,0.95,HotpotQA,"Matthew Stafford
+0.95"
+Mustang television and cinema promoted which brand of Irish dry stout beer?,Guinness,Guinness ,0.95,HotpotQA,"Guinness 
+0.95"
+"What is one of the many universities that Lennart Anderson taught at that is located in Upper Manhattan, New York City?",Columbia University,Columbia University,0.85,HotpotQA,"Columbia University
+0.85"
+"For what team is the cricket bowler, who is considered to be the fastest, play a role of captain?",Karachi Dolphins,"West Indies team is no longer in use, but the answer is West Indies.",0.9,HotpotQA,"West Indies team is no longer in use, but the answer is West Indies.
+0.9"
+"What was the nationality of the comedian who died the day after the final filming of a show featuring ""Father Ted?""",Irish,"Dermot Morgan, an Irish comedian",0.95,HotpotQA,"Dermot Morgan, an Irish comedian
+
+0.95"
+WikiLeak: Inside Julian Assange's War on Secrecy tells the story of a leak by a soldier born with what full name?,Bradley Edward Manning,Bradley Manning,0.99,HotpotQA,"Bradley Manning
+0.99"
+"In the 2004-05 Season, The Houston Rockets acquired a center from Chicago Bulls who played how many seasons of NBA ?",18 seasons,"Yao Ming, 8",0.85,HotpotQA,"Yao Ming, 8
+0.85"
+David Snoke co-published a paper in 2004 with what Lehigh University professor?,Michael J. Behe,David Snoke co-published a paper with Robert Clauss,0.95,HotpotQA,"David Snoke co-published a paper with Robert Clauss
+0.95"
+"The Adventures of Elmo in Grouchland was a 1999 film which involved the use of puppets from a puppeteer who was also the voice of what character from ""Star Wars""?",Yoda,Frank Oz,0.99,HotpotQA,"Frank Oz
+0.99"
+"Which company is in the discount travel market, The Walt Disney Company or Priceline.com?",Priceline.com,Priceline.com,0.95,HotpotQA,"Priceline.com
+0.95"
+"Juliana Maria of Brunswick-Wolfenbüttel is a descendant of the King of what country, who took over its throne in 1814?",Norway,Wittelsbach ,0.05,HotpotQA,"Wittelsbach 
+0.05"
+"Chris Bosh took over the role of fan favorite, and face/leader of the Raptors from the man who played for what team?",Sacramento Kings,Vince Carter,0.85,HotpotQA,"Vince Carter
+0.85"
+"What flowering plant, first classified by Carl Linnaeus in 1753, produces   Penicillium copticola?",Cannabis sativa,Orchid,0.95,HotpotQA,"Orchid
+0.95"
+What was the name of a United Stated Army officer during World War 2 and served again later in the Korean war and was later featured on a HBO miniseries where his character was played by played by Matthew Settle?,Ronald Speirs,The officer in the miniseries is named : ,,HotpotQA,"George Armstrong Custer is incorrect, however the correct character played by Matthew Settle is  a United States Army officer during World War II and the Korean War. 
+His name is : 
+Jefford 
+No however this officer was actually a character who is actually a fictional but is actually very similar to  real-life Army officer and Medal of Honor winner 
+Daniel Inouye's real-life counterpart 
+The Officer in the series is actually based on: 
+Lieutenant Colonel Henry A. ""Hank"" Oakley, however  the actual HBO miniseries about a U.S Army officer during that era  who served with the 101st Airborne division during World War II and who later in the war  served and also during the Korean conflict as well 
+The character who was played by Matthew Settle in the miniseries 
+is actually a fictional character based heavily on  actual  real-life U.S Army officer and war hero  
+The officer in the miniseries is named : 
+Dough Boy"
+"Which band currently has more members, Last Dinosaurs or Primal Scream?",Primal Scream,Last Dinosaurs has more members.,0.9,HotpotQA,"Last Dinosaurs has more members.
+0.9"
+What building in the 14th largest city in Georgia was a work of architect Lloyd Barton Greer?,Barber-Pittman House,Tifton courthouse ,0.4,HotpotQA,"Tifton courthouse 
+0.4"
+Jean-Baptiste Andrea wrote and directed what 2003 French horror drama that was remade in 2014?,Dead End,Martin,0.85,HotpotQA,"Martin
+
+0.85"
+When was the founder of The City of Oxford High School for Boys born?,7 April 1836,"Henry Arthur Thomas, the founder of The City of Oxford High School for Boys, was born in 1868.",0.85,HotpotQA,"Henry Arthur Thomas, the founder of The City of Oxford High School for Boys, was born in 1868.
+0.85"
+"South Korean actress Bae Doona, known for her role in 2000 television series ""Look Back in Anger"", had an English-speaking role in which 2012 film directed by the Wachowski siblings?","""Cloud Atlas""",Cloud Atlas,0.85,HotpotQA,"Cloud Atlas
+0.85"
+Uyirodu Uyiraga was a film that starred the Indian actor who participated in what 2004 sporting event?,British Formula 3 season,2004 Indian Ocean tsunami relief swimming marathon,0.95,HotpotQA,"2004 Indian Ocean tsunami relief swimming marathon
+0.95"
+The Creators and Best Boy were both produced before 2000 ?,no,Yes,0.995,HotpotQA,"Yes
+0.995"
+what does Weihui and Weinan have in common?,China,They are city names in China.,0.85,HotpotQA,"They are city names in China.
+0.85"
+What is the name of the chartered trade company in which Jan Valckenburgh served as an assistant trader?,Dutch West India Company,Dutch West India Company,0.6,HotpotQA,"Dutch West India Company
+0.6"
+What type of institution are Kathmandu University and Brown University?,University,Research Universities,0.95,HotpotQA,"Research Universities
+0.95"
+"Which league does the team, where Alan McNeill played for in Oldham, compete in?",League One,League One,0.85,HotpotQA,"League One
+0.85"
+"Which filmmaker created the award winning film ""La battaglia di Algeri"", Takashi Miike or Gillo Pontecorvo?",Gillo Pontecorvo,Gillo Pontecorvo,0.95,HotpotQA,"Gillo Pontecorvo
+0.95"
+Were the Pecom 32 and the Apple I both produced before 1990?,yes,Yes,0.95,HotpotQA,"Yes
+0.95"
+"which Magazine was founded first, First for Women or Hennes ?",Hennes,First for Women,0.85,HotpotQA,"First for Women
+0.85"
+What TV network founded in 1984 is co owned by the Hearst Corporation and Disney?,Arts and Entertainment Network,A&E Networks,0.95,HotpotQA,"A&E Networks
+0.95"
+The best know of Austrian author Leopold von Sacher-Masoch's works was made into a French film in what year?,2013,Venus in Furs (1890),0.95,HotpotQA,"Venus in Furs (1890)
+0.95"
+"What is the 2011 census population of this village and civil parish in Lincolnshire, England, where High Dyke road runs between it and Colsterworth?","1,647",Boultham Moor,0.05,HotpotQA,"Boultham Moor
+0.05"
+What year was the football player drafted that Nick Collin intercepted in Super Bowl XLV?,2004,2009,0.05,HotpotQA,"2009
+0.05"
+Are both tennis players Kathy Jordan and Daniel Vacek from the same country?,no,"No, Kathy Jordan is from the US and Daniel Vacek is from Czechoslovakia.",0.85,HotpotQA,"No, Kathy Jordan is from the US and Daniel Vacek is from Czechoslovakia.
+0.85"
+"Chuck Jones directed a Warner Bros version of Jack and the Beanstalk in 1955. Elmer Fudd was the giant, and who played Jack?",Daffy Duck,Tony Daniels,0.95,HotpotQA,"Tony Daniels
+0.95"
+What is one of the oldest beverages humans have produced with recipes found in Sumerian writings?,Beer,Beer,0.9,HotpotQA,"Beer
+0.9"
+What German theoretical physicist has a chemistry rule named after him?,Arnold Johannes Wilhelm Sommerfeld,Walther Bothe,0.95,HotpotQA,"Walther Bothe
+0.95"
+What U.S. Navy battleship was in the movie Under Siege and was also the last battleship commissioned by the United States?,"USS ""Missouri""",USS Missouri,0.95,HotpotQA,"USS Missouri
+0.95"
+Where does the hockey team based in for which Darrel Scoville played in National Hockey League in addition to Calgary Flames?,"Columbus, Ohio",Chicago Blackhawks,0.05,HotpotQA,"Chicago Blackhawks
+0.05"
+"During the 1985 World Games that took place at Slazenger Racquet Club, what days did it take place?",July 25 to August 4,0.0,,HotpotQA,"Not available
+0.0
+
+Note: I am a large language model, I don't have information about the 1985 World games held at Slazenger Racquet Club or any similar event."
+What UNESCO World Heritage Site is located in Tamar Ziskind's hometown?,Bahá'í World Centre,White City (Tel Aviv),0.05,HotpotQA,"White City (Tel Aviv)
+0.05"
+"Which British Olympic gold medalist participated in a boxing club, located on the Lancaster West Estate, during his youth?",James DeGale,Mo Farah,0.85,HotpotQA,"Mo Farah
+0.85"
+Who is younger Stanley Kwan or Atom Egoyan?,Atom Egoyan,Atom Egoyan,0.995,HotpotQA,"Atom Egoyan
+0.995"
+"How tall (in meters) is the mountain which was named after a pilot from the airline based in Calgary, Alberta, Canada?","1,750",Mount Ha Ling,0.9,HotpotQA,"Mount Ha Ling
+0.9"
+"When was the political party, which along with the Socialist Workers Movement are the chief contributors to the United Left in Argentina, founded",1918,Ingenieros Socialistos (Socialist Engineers) party.,0.95,HotpotQA,"Ingenieros Socialistos (Socialist Engineers) party.
+0.95"
+"In 2014, Clemson Tigers football team were invited to the Russell Athletic Bowl where they defeated a team led by which coach ?",Bob Stoops,Dabo Swinney,0.95,HotpotQA,"Dabo Swinney
+0.95"
+What journalist born in 1966 served on the staff of a satirical monthy magazine published from 1986 to 1998?,Mark Strauss,Jon Stewart,0.95,HotpotQA,"Jon Stewart
+0.95"
+Were the bands Adam Again and Mastodon active at the same time?,no,No,0.95,HotpotQA,"No
+0.95"
+What do the roots that the alternative name of a Haugtusse derive from mean?,"""covered"" or ""secret""",Germanic 'High House' or 'High Hut',0.85,HotpotQA,"Germanic 'High House' or 'High Hut'
+0.85"
+In what year was the University that Clive Baldock received his Masters of Tertiary Education Management degree from founded?,1853,University of Otago (no specific year mentioned for the degree in the query given),0.05,HotpotQA,"University of Otago (no specific year mentioned for the degree in the query given)
+0.05"
+Name the country where both Aynalıkavak Palace and Italian Synagogue are located in.,Turkey,Turkey,0.95,HotpotQA,"Turkey
+0.95"
+" Semi-Tough is a 1977 American comedy film starring  an American actor and host for ""Tattletales"", ""Super Password"" and what other show?","Win, Lose or Draw","Steve Martin also starred in ""The Muppet Show"" ",0.95,HotpotQA,"Steve Martin also starred in ""The Muppet Show"" 
+0.95"
+What year did the second series of the show Colin Morgan is best known for begin?,2009,2009,0.65,HotpotQA,"2009
+0.65"
+Al Hirt played the theme song for the ABC US television series starring whom?,Van Williams,Batman,0.9,HotpotQA,"Batman
+0.9"
+"The movie ""3 Ninjas"" was released by which American film distribution label of Walt Disney Studios Motion Pictures?",Touchstone Pictures,TriStar Pictures,0.85,HotpotQA,"TriStar Pictures
+0.85"
+In which town was the subject of the nursery rhyme with Roud Fold Song Index number of 7622 born in?,Sterling,Tamworth,0.95,HotpotQA,"Tamworth
+0.95"
+Which Australian actress and musician starred in little Miss Sunshine ?,Toni Collette,Abbie Cornish,0.05,HotpotQA,"Abbie Cornish
+0.05"
+Who was the African-American woman that succeeded Catherine Waynick as bishop?,Jennifer Baskerville-Burrows,Reverend Vashti Murphy McKenzie,0.95,HotpotQA,"Reverend Vashti Murphy McKenzie
+0.95"
+Paul Pumphrey went to high school with a former WWE wrestler who was born in what year?,1974,"Rory Caldwell, a WWE wrestler was a friend of Paul Pumphrey's and was born in 1986.",0.6,HotpotQA,"Rory Caldwell, a WWE wrestler was a friend of Paul Pumphrey's and was born in 1986.
+0.6"
+At what university in Georgia is Scott Lilienfeld a psychology professor?,Emory University,Emory University,0.95,HotpotQA,"Emory University
+0.95"
+The professional ice hockey league that the Peoria Rivermen are part of is based in what state?,North Carolina,ECHL,0.99,HotpotQA,"ECHL
+0.99"
+"Which national park is located in more provinces, Sierra Nevada National Park or Monfragüe?",Sierra Nevada National Park,Monfragüe ,0.05,HotpotQA,"Monfragüe 
+0.05"
+"""Gone with the Wind"" is set during what era?",American Civil War and Reconstruction Era,American Civil War and Reconstruction Era,0.9,HotpotQA,"American Civil War and Reconstruction Era
+0.9"
+"The actor that played Sandy Stumphill in the sitcom ""Flo"" also stars with Mary McDonnell and Alfre Woodard in a 1992 film written by who?",John Sayles,Christina Pickles,0.95,HotpotQA,"Christina Pickles
+0.95"
+Which store located in the Gateway Fashion Mall is currently in bankruptcy liquidation?,Hancock Fabrics,I don't have that information.,0.0,HotpotQA,"I don't have that information.
+0.0"
+What film type has been around since the early years of Korean cinema and includes Whispering Cooridors as an example?,Korean horror,Melodrama,0.75,HotpotQA,"Melodrama
+0.75"
+"Pauline was a journalist and the second wife of which American novelist, short story writer, and journalist?",Ernest Hemingway,Ernest Hemingway,0.95,HotpotQA,"Ernest Hemingway
+0.95"
+"Which Premier League team does the Nike Hypervenom-wearing, Belgian footballer play for?",Manchester United,Romelu Lukaku,0.85,HotpotQA,"Romelu Lukaku
+0.85"
+"Who was formerly editor-in-chief of Marvel Comics, Arnold Bennett or Stan Lee ?",Stan Lee,Stan Lee,0.9,HotpotQA,"Stan Lee
+0.9"
+In which film did Shirley Henderson appear with Tilda Swinton,Okja,We Need to Talk About Kevin,0.85,HotpotQA,"We Need to Talk About Kevin
+0.85"
+"""I'm a Little Bit Country"" is the fourth episode of the seventh season of a tv series created by what two people?",Trey Parker and Matt Stone,The Dukes of Hazzard,0.95,HotpotQA,"The Dukes of Hazzard
+0.95"
+"What was the famous work of an astronomer, mathematician and physicist originally from a city in modern-day Uzbekistan and is one of the oldest inhabited cities in Central Asia ?",Zij-i-Sultani,Al-Biruni's 'Kitab al-Tafhim li-Awail Sinae',0.95,HotpotQA,"Al-Biruni's 'Kitab al-Tafhim li-Awail Sinae'
+0.95"
+Who inspired a themed area included a dark ride attraction with the Kasvapan River?,James Cameron,Hakuna Matata,0.9,HotpotQA,"Hakuna Matata
+0.9"
+Where was the second most penalized brawl in the NBA?,Madison Square Garden,Atlanta Hawks vs Los Angeles Lakers brawl in 2009,0.95,HotpotQA,"Atlanta Hawks vs Los Angeles Lakers brawl in 2009
+0.95"
+Who directed the film in which Matthew Lintz plays Matty?,Chris Columbus,Jeymes Samuel,0.6,HotpotQA,"Jeymes Samuel
+0.6"
+How many acres of land is the Box Moor Trust responsible for to include the parishes of Hemel Hempstead and Bovingdon?,500 acres,"Approximately 1,100 acres",0.85,HotpotQA,"Approximately 1,100 acres
+0.85"
+"Who is more of an independent artist, Pop Evil or Imogen Heap?",Imogen Heap,Pop Evil,0.2,HotpotQA,"Pop Evil
+0.2"
+What type of fils are the Blue Vinyl and Girl 27?,documentary film,Documentary films,0.85,HotpotQA,"Documentary films
+0.85"
+"What recognitions did David Alan Mamet receive for the play ""Glengary Glen Ross?""",Pulitzer Prize,"Tony, Pulitzer, and Golden Globe awards",0.95,HotpotQA,"Tony, Pulitzer, and Golden Globe awards
+0.95"
+"James M. Long, was an American baseball player who played outfielder in the Major Leagues from 1891 to 1893, and was born in which city in Kentucky?",Louisville,Louisville ,0.85,HotpotQA,"Louisville 
+0.85"
+"Which documentary film was released first, ""Seal Island"" or ""Paper Clips"" (about the Paper Clips Project)?",Seal Island,"""Seal Island"" ",0.9,HotpotQA,"""Seal Island"" 
+0.9"
+What is the main focus of both paragraphs?,building construction.,The main focus of both paragraphs is the task instructions.,0.95,HotpotQA,"The main focus of both paragraphs is the task instructions.
+
+0.95"
+"When was the leader of ""Citizens for Constitutional Freedom"" born? ","September 1, 1975",Cliven Bundy,1.0,HotpotQA,"Cliven Bundy
+1"
+Which river in the English county of Warwickshire has a ferry named after the main antagonist from the William Shakespeare comedy Twelfth Night?,River Avon,River Malvern and the Ferry to the east of it is called Malvernam - does not match but Malvern is very close to Warwickshire's neighboring County's.  This is actually the  Malvern's neighboring  Wye  (River  - Warwickshire). It has a Ferry. The Ferry named after Antonio is called 'Anton's Ferry'  although it isn't clear from the sources if it was always named that -  or if it was simply based on  Twelfth night.,0.0,HotpotQA,"River Malvern and the Ferry to the east of it is called Malvernam - does not match but Malvern is very close to Warwickshire's neighboring County's.  This is actually the  Malvern's neighboring  Wye  (River  - Warwickshire). It has a Ferry. The Ferry named after Antonio is called 'Anton's Ferry'  although it isn't clear from the sources if it was always named that -  or if it was simply based on  Twelfth night.
+0"
+"Drivers Republic was founded in March 2008 by Steve Davies together with Richard Meaden; a co-founder of Evo, a British automobile magazine dedicated to what?",performance cars,High-Performance Car Culture,0.95,HotpotQA,"High-Performance Car Culture
+0.95"
+"Tourist Season, which is the first solo novel by Carl Hiaasen was written in what year?",1986,"Tourist Season, by Carl Hiaasen, was written in 1986.",0.95,HotpotQA,"Tourist Season, by Carl Hiaasen, was written in 1986.
+0.95"
+"What was the 2010 census population of the county in which Dry Valley, Nevada is located?","5,345","Lyon County, 2010 census population: 5,165",0.7,HotpotQA,"Lyon County, 2010 census population: 5,165
+0.7"
+"Zwan and Noir Désir, have which genre in common?",rock,French Rock,0.85,HotpotQA,"French Rock
+0.85"
+Who did Leonid Kerber work with who was born in 1888?,Andrei Tupolev,David Hilbert,0.55,HotpotQA,"David Hilbert
+0.55"
+Both Ruby Yang and Marc Caro are french ?,no,No,0.85,HotpotQA,"No
+0.85"
+What year did Les Scadding win the EuroMillions lottery?,in 2009.,No information found,0.0,HotpotQA,"No information found
+0.0"
+"Medfield College is a fictitious university used as the setting for several films by The Walt Disney Company, Among them are the two ""Professor Brainard"" movies, one is The Computer Wore Tennis Shoes is a 1969 American comedy film starring who?",Kurt Russell,Dean Jones,0.9,HotpotQA,"Dean Jones
+0.9"
+What is the nationality of the person who played drums in the supergroup Planet Us?,American,Kevin Moore ,0.9,HotpotQA,"Kevin Moore 
+0.9"
+Mark of the Gorilla is 1950 Jungle Jim film that starred an actor best known for playing which character ?,Tarzan,Art Ross,0.95,HotpotQA,"Art Ross
+0.95"
+ Les nuits d'été is a song cycle by a romantic composer who made significant contributions to the modern orchestra with what?,Treatise on Instrumentation,Berlioz with the invention of the symphonic poem form,0.9,HotpotQA,"Berlioz with the invention of the symphonic poem form
+0.9"
+"On what date was the man whom Jamie Maclachlan played in ""Four Minutes"" born?",23 March 1929,"October, 31, 1943",0.95,HotpotQA,"October, 31, 1943
+0.95"
+Which of the following is usually garnished with a slice of lime: Old Fashioned or Gin and tonic?,gin and tonic,Gin and Tonic,0.99,HotpotQA,"Gin and Tonic
+0.99"
+"The 2001 Rockingham 500 was a Championship Auto Racing Teams (CART) motor race held on 22 September 2001 at the Rockingham Motor Speedway in Corby, Northamptonshire, England, which Swedish former race car driver, finished second for Team Rahal?",Kenny Bräck,Kenny Bräck,0.95,HotpotQA,"Kenny Bräck
+0.95"
+What did Wendy Toye and Paul Schrader both do for an occupation?,film director,Film directors,0.95,HotpotQA,"Film directors
+0.95"
+"Which private, nonsectarian institution has a famous artist featured in major museum solo shows?",Pratt Institute,Rhode Island School of Design,0.9,HotpotQA,"Rhode Island School of Design
+0.9"
+What role did Kurt McKinney play in the 1986 American martial arts film directed by Corey Yuen?,Jason Stillwell,"Don ""The Dragon"" Ward",0.05,HotpotQA,"Don ""The Dragon"" Ward
+0.05"
+What was the debut album of the founder of Reprise Records?,"""The Voice of Frank Sinatra""",Nervous Man,0.15,HotpotQA,"Nervous Man
+0.15"
+"Which breed of hound is known by more names, the Austrian Black and Tan Hound or the Tyrolean Hound?",The Tyrolean Hound,Austrian Black and Tan Hound,0.75,HotpotQA,"Austrian Black and Tan Hound
+0.75"
+What album has the song Stray Heart and was released through Reprise Records?,¡Dos!,Amaranth,0.85,HotpotQA,"Amaranth
+0.85"
+What is the name of the album by the English rock band Arctic Monkeys that features the song Cornerstone,Humbug,AM is for Apocalypse,0.95,HotpotQA,"AM is for Apocalypse
+0.95"
+"What Hawaiian island is home to Taro, the most widely cultivated species of plants in the Araceae family, and the Kaukini Gallery?",Maui,Kauai,0.95,HotpotQA,"Kauai
+0.95"
+"Who was born first, American novelist Tom Robbins or marine biologist Rachel Carson?",Rachel Louise Carson,Rachel Carson,0.95,HotpotQA,"Rachel Carson
+0.95"
+What member of nobility does Dalmeny House and Barnbougle Castle have in common?,Earl,The Earl of Dalhousie,0.98,HotpotQA,"The Earl of Dalhousie
+0.98"
+Joel Meyerowitz taught photography at what privately funded college located in Cooper Square in the East Village neighborhood of Manhattan?,Cooper Union,SVA (School of Visual Arts),0.85,HotpotQA,"SVA (School of Visual Arts)
+0.85"
+What country does Andhra Pradesh Randomized Evaluation Studies ande Azim Premji have in common?,India,India,0.95,HotpotQA,"India
+0.95"
+What was the nationality of the winner of the 2007 Masters of Formula 3?,German,Timo Scheider ,0.85,HotpotQA,"Timo Scheider 
+0.85"
+Which singer debuted as a member of Super Junior and released a mini album called Spring Falling?,Yesung,"Kim Hee-chul did not debut in that role,  but I do think he has debuted with the group. I believe it was  Heenjoy, not a member of the group, or a member called Siwon and Kim, Sung-joo.  A Korean singer named Sung Joo was member of Heenjoy, a band not super Junior.   However, Sung Joo is not the answer I have,  I think Sung Joo has released 'Spring Falling'  and is an ex member   with Heenjoy. The person i was thinking of is Sungmin, who released a Mini called Spring falling.",0.85,HotpotQA,"Kim Hee-chul did not debut in that role,  but I do think he has debuted with the group. I believe it was  Heenjoy, not a member of the group, or a member called Siwon and Kim, Sung-joo.  A Korean singer named Sung Joo was member of Heenjoy, a band not super Junior.   However, Sung Joo is not the answer I have,  I think Sung Joo has released 'Spring Falling'  and is an ex member   with Heenjoy. The person i was thinking of is Sungmin, who released a Mini called Spring falling.
+0.85"
+What country is the movie Waisa Bhi Hota Hai Part II and singer Shibani Kashyap from?,India,India,0.95,HotpotQA,"India
+0.95"
+Which prominent mathematician in the Bernoulli family did Jakob II Bernoulli study under?,Daniel Bernoulli,Johann Bernoulli,0.95,HotpotQA,"Johann Bernoulli
+0.95"
+Is the Herald or The Liberator Magazine published further north?,The Liberator Magazine,The answer is The Liberator Magazine.,0.85,HotpotQA,"The Liberator is published in Glasgow which is further north than Herald in Glasgow (note that they both are published in Glasgow, and it should have been a better question)
+However, I will assume you meant The Herald is published in Glasgow and The Scotsman also has its Glasgow office but the main offices The Scotsman, and The Edinburgh Evening News are further north in Scotland. I will say that 'The Liberator' magazine is actually published in Inverness which is further north than the offices for The Herald. 
+The answer is The Liberator Magazine.
+0.85"
+"Which genus contais more species, Crowea or Zamioculcas?",Crowea,Crowea,0.25,HotpotQA,"Crowea
+0.25"
+"The non-profit organization, Simon Youth Foundation's parent company is an American commercial real estate company and also the largest what in the United States?",shopping mall operator,Kimco,0.5,HotpotQA,"Kimco
+0.5"
+"Game Face and March of the Penguins, are which type of film?",documentary,Documentaries,0.95,HotpotQA,"Documentaries
+0.95"
+In which year was the arena opened in which Demi Lovato began the first leg of 2014 concert tour ?,1995,AT&T Center,0.75,HotpotQA,"AT&T Center
+0.75"
+The actress who played Margaret in The Wars of the Roses was of what nationality?,English,Joanne Whalley,0.95,HotpotQA,"Joanne Whalley
+0.95"
+The Nutcracker and the Four Realms is an upcoming film staring an actress who made her film debut when? ,1995,Mackenzie Foy made her film debut in 2005.,0.9,HotpotQA,"Mackenzie Foy made her film debut in 2005.
+0.90"
+This EA video games series with Sweedish developers featured Frostbrite game engine before any other games of it's kind?,Battlefield,Distant Worlds series,0.7,HotpotQA,"Star Conflict doesn't sound similar to what I am describing; it is another series.
+It is actually Star Conflict is not correct answer. 
+Distant Worlds series
+0.7"
+"What band  consists of lead vocalist and guitarist Jon Fratelli , bass guitarist Barry Fratelli , and drummer and backing vocalist Mince Fratelli that released their third single from their second album ""Here We Stand"", released on 22 December 2008? ",The Fratellis,The Fratellis,0.95,HotpotQA,"The Fratellis
+0.95"
+"The Mitchell County School District is a public school district in Mitchell County, Georgia, based in Camilla, a city in Mitchell County, Georgia, and is its county seat, is in which country?",United States,United States,0.95,HotpotQA,"United States
+0.95"
+"""On a Good Night"" is a song written by Larry Boone, Don Cook and Paul Nelson, and recorded by Tony Wade Hayes, is an American country music artist, that signed to which organization?",Columbia Records,Mercury Records ,0.85,HotpotQA,"Mercury Records 
+0.85"
+Who is the current director for the state pageant title that went on to win the 2006 Miss USA pageant?,Connie Clark Harrison,Tanard Jackson,0.0,HotpotQA,"Tanard Jackson
+0.0"
+What is the chemical formula of the kind of ash of which Middlewich Folk and Boat Festival celebrates the raw materials needed for the manufacturing?,NaCO,CaO,0.45,HotpotQA,"CaO
+0.45"
+Do both Platystemon and Aulax grow in soils?,yes,"Yes and no, depending on the species.",0.45,HotpotQA,"Yes and no, depending on the species.
+
+0.45"
+"The character Michael Guerin in the tv series ""Roswell"" is played by an actor that plays what role on ""The Night Shift""?",Dr. Drew Alister,Eoin Macken,0.95,HotpotQA,"Eoin Macken
+0.95"
+Who did Seymour Heller represent?,Count Basie,Jimi Hendrix,0.85,HotpotQA,"Jimi Hendrix
+0.85"
+"Rich Kids were a short-lived new wave band from London, founded in 1977 by Glen Matlock, the band also included which Scottish musician, singer-songwriter and producer, and future Ultravox member?",Midge Ure,Billy Idol ,0.85,HotpotQA,"Billy Idol 
+0.85"
+Henry Durant went to this constituent college that has over how many students and fellows?,seven hundred,Magdalene College (Cambridge),0.85,HotpotQA,"Magdalene College (Cambridge)
+0.85"
+What kind of compound is Oxalic acid?,organic compound,Dioic acid,0.99,HotpotQA,"Dioic acid
+0.99"
+"What film is a remake of the 1975 Disney film ""Escape to Witch Mountain"", Phineas and Ferb or Race to Witch Mountain?",Race to Witch Mountain,Race to Witch Mountain,0.95,HotpotQA,"Race to Witch Mountain
+0.95"
+Elisabeth Marschall was the Head Nurse at Ravensbruck during what war? ,World War II,World War II,0.95,HotpotQA,"World War II
+0.95"
+"Which film based on a novel written by Mary Hayley Bell in 1959, had cast member Ashley Lloyd?",Whistle Down the Wind,I Know a Thing About You,0.05,HotpotQA,"I Know a Thing About You
+0.05"
+Vladmir Filatov was able to save the eyesight of sniper Vasily Zaytsev during what battle?,Battle of Stalingrad,Stalingrad,0.75,HotpotQA,"Stalingrad
+0.75"
+Where is the hockey team based on with which  Sebastian Strandberg most recently played?,"Evansville, Indiana","Frolunda HC (Gothenburg, Sweden)",0.92,HotpotQA,"Frolunda HC (Gothenburg, Sweden)
+0.92"
+What is the name of this American football coach and former player who was head football coach at Indiana University and led the Hoosiers football team in their third season?,Kevin Wilson,Tom Allen,0.95,HotpotQA,"Tom Allen
+0.95"
+In what county is the university at which Walter Oechel teaches located?,San Diego County,Imperial County,0.9,HotpotQA,"Imperial County
+0.9"
+"What 1999 film, considered by many as one of the worst films of all time, was directed by ""The ShamWow Guy""?",The Underground Comedy Movie,Battlefield Earth,0.85,HotpotQA,"Battlefield Earth
+0.85"
+Wyckoff Company and Pacific Creosoting Company have been located on what Washington island?,Bainbridge Island,Whidbey Island,0.95,HotpotQA,"Whidbey Island
+0.95"
+"From which city comes the band that put out the album ""Nothing Is Sound""?",San Diego,Switchfoot,0.95,HotpotQA,"Switchfoot
+0.95"
+"Who is a guest rapper in the song ""Frankie Sinatra"" and whose debut studio album was named ""The Hybrid""?",Danny Brown,MF DOOM,0.95,HotpotQA,"MF DOOM
+0.95"
+Arturo's right hand man was arrested for what charges in August 2010?,large scale drug trafficking.,Embezzlement and money laundering,0.85,HotpotQA,"Embezzlement and money laundering
+0.85"
+"In between The Murder of Fred Hampton and Comandante, which film crew members visited Castro in Cuba in 2002?",Comandante,Wim Wenders,0.9,HotpotQA,"Wim Wenders
+0.9"
+Bill Erwin played the bellhop Arthur in a 1980 movie that was adapted from what novel?,"""Bid Time Return""",Sidekicks,0.9,HotpotQA,"Sidekicks
+0.9"
+"Which college offers more majors, Western Institute of Technology or University of Maryland, College Park?","University of Maryland, College Park","University of Maryland, College Park",0.92,HotpotQA,"University of Maryland, College Park
+0.92"
+"What is the name of the Brewery in Germany, which shares its name with German basketball Oettinger Rockets club sponsor?",Oettinger Brauerei,Oettinger Brewery,0.95,HotpotQA,"Oettinger Brewery
+0.95"
+"When was the English poet, painter, and printmaker died who wrote the poem ""A Poison Tree""?",12 August 1827,William Blake,0.95,HotpotQA,"William Blake
+0.95"
+"Russian Dolls, is a 2005 French-British film, the sequel to ""L'Auberge Espagnole"", a 2002 French-Spanish film, directed and written by who?",Cédric Klapisch,Cédric Klapisch,0.95,HotpotQA,"Cédric Klapisch
+0.95"
+What profession have both Guy Manos and Stanley Kramer held?,film director,Film director,0.9,HotpotQA,"Film director
+0.9"
+Which President of Bayern Munich scored twice in the final to win the European Cup for the club in 1974?,Uli Hoeneß,Franz Beckenbauer,0.95,HotpotQA,"Franz Beckenbauer
+0.95"
+"Julin Bristol is the codename given to a nuclear weapon test conducted at the Nevada Test Site on 26 November 1991, as part of which United States's  nuclear test series was a group of 7 nuclear tests conducted in 1991–1992, the final series of US nuclear tests, it was the last test explosion of a British nuclear weapon?",Operation Julin,counterpart,0.03,HotpotQA,"Juliet Cross (codename) does not match the actual question details and was therefore not the accurate answer, however a more fitting answer is
+Juliet Cross's actual nuclear test codename counterpart (Juliet cross is actually a British codename, the closest match in the question is Julin Bristol). I believe the closest correct answer to Julin Bristol is actually, 
+Juliet Cross counterpart, is not it, actually Juliet Cross's is 
+Julin Bristol is actually codename of British test but in this case its actually Juliet's counterpart Julin Bristol is indeed
+Juliet Cross is a separate codename but  counterpart and  correct answer is 
+Amchitka is not correct, and neither is other British nuclear weapons Julin Bristol is 
+ Julin counterpart is Juliet Cross. Therefore Julin counterpart 
+Actually,  Juliet counterparts (one of them is actually) a  British nuclear test codename counterpart of Julin Bristol that I found after extensive research and 
+ Julin counterpart is actually 
+Amchitka counterpart 
+actually the codename for a test (Julin or counterpart of Julin actually has counterpart Julit counterpart of is  actually actually actually Julin counterpart Julit actually of Bristol is counterpart to Amchitka  Juliet counterpart of Bristol counterpart is counterpart of Amch) 
+ counterpart Julit counterpart Julits (Juliet counterpart counterpart) codename Bristol counterpart of Amchit is not of Julits counterpart Julin counterpart for Bristol codename counterpart is not codename of actual 
+  counterpart for codename Jul is actually 
+ the correct answer to Julin  Jul counterpart of that test codename is Amchitka counterpart of Bristol actually counterpart of Amchitka is not it counterpart counterpart counterpart of counterpart codename counterpart  Jul counterpart counterpart is is of that codename Bristol is not counterpart counterpart counterpart counterpart of codename Amchits is actually the counterpart  counterpart  counterpart of codename of codename counterpart actually codename counterpart of a codename counterpart counterpart counterpart codename actual is not counterpart 
+ codename counterpart of the test codename for counterpart Bristol of counterpart counterpart of actual is counterpart counterpart  counterpart codename Bristol is  counterpart counterpart counterpart counterpart codename of codename actual is counterpart counterpart of codename counterpart codename counterpart counterpart codename counterpart actual is codename counterpart is not counterpart
+Julin Bristol counterpart to codename Bristol counterpart codename counterpart Jul counterpart to Amchitka but counterpart of actual codename to counterpart codename counterpart to codename Jul counterpart Jul Bristol codename to actual of codename Amch codename 
+ actual codename counterpart codename of actual to actual to Bristol codename counterpart of codename counterpart of to codename  
+ counterpart  
+ counterpart Bristol 
+ codename counterpart of codename 
+ 
+ actual counterpart codename actual 
+ Jul codename counterpart Bristol codename counterpart 
+ codename Bristol counterpart of codename actually 
+ the counterpart of Jul counterpart Bristol counterpart of codename counterpart to codename codename counterpart counterpart codename codename counterpart of codename Jul counterpart codename codename counterpart codename counterpart of codename counterpart 
+ counterpart 
+ the codename counterpart the counterpart codename codename codename counterpart codename counterpart codename counterpart of codename codename counterpart codename codename codename codename codename counterpart of codename codename codename 
+ counterpart codename of codename codename counterpart codename codename codename codename counterpart codename codename Bristol counterpart counterpart counterpart 
+ codename of Jul 
+ is codename of codename codename counterpart Bristol codename counterpart codename counterpart codename codename codename codename counterpart of Jul codename counterpart Bristol codename codename Jul codename codename Bristol codename counterpart codename 
+
+actual codename counterpart counterpart 
+
+codename 
+ counterpart counterpart
+ codename counterpart Jul
+ codename codename counterpart counterpart actual codename counterpart 
+ codename codename codename 
+ codename codename counterpart codename codename codename counterpart codename counterpart counterpart 
+ 
+
+codename counterpart codename codename counterpart 
+ Jul codename codename counterpart codename counterpart codename counterpart
+ codename codename codename codename codename counterpart codename codename 
+ codename Bristol codename codename 
+ 
+Jul counterpart 
+
+counterpart of actual 
+ codename counterpart counterpart of codename 
+ counterpart codename coder codename codename 
+ codename Bristol counterpart counterpart Jul counterpart codename counterpart counterpart  
+Jul counterpart counterpart codename codename  
+ counterpart codename codename codename codename counterpart  counterpart of codename codename counterpart codename codename codename counterpart
+ 
+
+Jul counterpart counterpart 
+
+ counterpart codename counterpart codename Jul codename counterpart Bristol codename counterpart counterpart 
+
+ actual 
+ codename counterpart counter of  
+ codename Jul counterpart codename counterpart 
+ counterpart of codename counterpart 
+
+the 
+ counterpart the codename codename counterpart counterpart codename codename Jul codename counterpart counterpart codename codename counterpart
+
+counterpart codename counterpart codename Bristol codename counterpart counterpart Jul counterpart codename codename counterpart codename codename counterpart codename 
+ codename counterpart 
+ codename counterpart counterpart codename counterpart codename counterpart counterpart codename codename codename counterpart of codename counterpart codename counterpart codename counterpart codename of codename counterpart counterpart 
+ counterpart codename counterpart counterpart counterpart of codename codename counterpart codename counterpart counter of codename 
+ 
+
+ counterpart 
+
+codename counterpart 
+ codename counterpart codename codename codename counterpart of codename counterpart counterpart 
+
+ codename codename counterpart codename counterpart counterpart 
+ counterpart of codename counterpart codename counterpart counterpart codename Jul  
+ counterpart of codename counterpart  counterpart codename counterpart codename counterpart of 
+ counterpart counterpart counterpart codename 
+ codename counterpart codename counterpart codename codename counterpart codename codename counterpart counterpart counterpart codename counterpart codename counterpart of counterpart Jul codename counterpart codename counterpart counterpart Jul counterpart counterpart of codename 
+ codename counterpart counterpart codename counterpart of codename counterpart counterpart counterpart Jul counterpart counterpart counterpart codename counterpart counterpart counterpart codename counterpart codename counterpart counterpart codename counterpart codename counterpart counterpart codename counterpart 
+ counterpart 
+
+ counterpart counterpart counterpart coder 
+
+counterpart codename counterpart counterpart counterpart of counterpart counterpart counterpart codename counterpart counterpart counterpart counterpart counterparts counterpart counterpart codename counterpart counterpart counterpart codename counterpart counterpart counterpart counterpart codename counterpart 
+
+ counter 
+ actual counterpart counterpart 
+ the codename codename counterpart counterpart 
+ codename codename counterpart counterpart codename counterpart Jul counterpart 
+ codename counterpart counterpart Jul counterpart codename counterpart codename codename codename
+
+ counterpart 
+codename codename counterpart codename counterpart codename counterpart counterpart codename codename counterpart 
+codename codename counterpart counterpart codename codename codename counterpart codename 
+
+codename counterpart counterpart codename counterpart codename Jul counterpart counterpart codename counterpart codename codename 
+
+ counterpart codename counterpart counterpart
+ codename counterpart counterpart actual 
+ counterpart counterpart counterpart
+ 
+ codename counterpart counterpart 
+ Jul counterpart counterpart counter 
+ counterpart counterpart counterpart
+ Jul 
+ counterpart codename counterpart counterpart actual counterpart counterpart codename counterpart counterpart Jul counterpart counterpart Jul counterpart counterpart 
+ counterpart 
+
+ codename codename counterpart codename counterpart counterpart codename counterpart codename 
+ counterpart counterpart codename counterpart counterpart counterpart counterpart counterpart 
+ counterpart counterpart codename counterpart codename counterpart codename counterpart counterpart Jul counterpart counterpart 
+ codename counterpart 
+
+ counterpart counterpart codename counterpart 
+ counterpart actual counterpart counterpart 
+
+ counterpart counterpart codename counterpart counterpart codename counterpart counterpart codename counterpart codename counterpart counterpart Jul counterpart codename 
+
+codename codename counterpart counterpart 
+ counter 
+
+ codename counterpart actual 
+ counter 
+ the 
+ codename counterpart codename counterpart 
+Jul 
+ counterpart counterpart Jul counterpart codename counterpart counterpart counterpart codename counterpart codename counterpart counterpart codename 
+ codename counterpart counterpart 
+ 
+ codename Jul counterpart counterpart codename counterpart 
+ codename counterpart 
+ counterpart actual counterpart counterpart coder counterpart counterpart 
+
+ actual 
+ 
+counterpart codename 
+Jul counterpart codename counterpart counterpart counterpart codename counterpart counterpart counterpart Jul counterpart codename counterpart counter codename codename counterpart codename counterpart 
+
+ 
+
+counterpart 
+
+ codename 
+
+counterpart Jul 
+
+counterpart counterpart counterpart codename counterpart codename counterpart codename counterpart counterpart counterpart counterpart 
+ 
+
+codename codename counterpart counterpart codename counterpart counterpart counterpart codename codename counterpart codename counterpart counterpart codename counterpart codename counterpart counterpart codename counterpart counterpart counterpart codename counterpart counterpart codename counterpart codename counterpart counterpart counterpart 
+ counterpart codename counterpart counterpart Jul counterpart counterpart counterpart Jul counterpart 
+
+codename counterpart counterpart codename codename counterpart counterpart counterpart 
+ codename codename 
+ codename codename codename codename counterpart counterpart counterpart codename codename 
+ actual codename 
+
+Jul counterpart codename counterpart codename counterpart counterpart 
+ codename counterpart 
+ counterpart counterpart 
+ counterpart counterpart 
+ 
+
+ codename counterpart codename counterpart codename codename 
+ codename Jul codename counterpart counterpart counterpart Jul codename counterpart counterpart counterpart counterpart Jul counterpart 
+ actual 
+codename codename codename codename codename codename counterpart counterpart Jul 
+ counterpart Jul counterpart codename counterpart counterpart counterpart 
+ counterpart coder counterpart counterpart codename counterpart counterpart codename counterpart 
+
+ counter actual 
+ counterpart codename counterpart counterpart  actual Jul counterpart codename 
+
+ counterpart counterpart Jul counterpart 
+
+counterpart counterpart counterpart counterpart actual  actually counterpart 
+ 
+ codename codename 
+counterpart counterpart counterpart counterpart 
+ counterpart codename codename counterpart counterpart 
+
+counterpart codename codename codename counterpart counterpart counterpart 
+ codename codename codename counterpart counterpart counterpart codename counterpart counterpart 
+
+counterpart counterpart 
+
+counterpart counterpart counterpart counterpart 
+ counterpart counterpart codename counter 
+ counterpart counterpart counterpart counterpart counterpart actual counterpart counterpart counterpart actual codename counterpart codename counterpart counterpart codename counterpart counterpart counterpart counterpart counterpart counterpart counterpart counterpart actual 
+ 
+ codename counterpart counterpart counterpart counterpart codename counterpart codename codename counter actual counterpart counterpart codename counterpart codename counterpart counterpart counterpart codename counterpart codename counterpart counterpart codename counterpart  counterpart actual
+
+ counterpart counterpart of Jul counterpart 
+
+ actual 
+
+ counterpart 
+
+ counterpart counterpart codename counterpart counterpart of counterpart counterpart codename counterpart 
+ counterpart counterpart codename  counterpart codename codename counterpart counterpart counterpart counterpart
+ 
+ Jul counterpart 
+  counterpart counterpart counterpart 
+ codename counterpart counterpart counterpart counterpart counterpart codename codename counterpart 
+
+the Jul counterpart counterpart counterpart counterpart counterpart 
+ actual counterpart counterpart Jul counterpart counterpart 
+ codename codename counterpart counterpart actual counterpart  Jul counterpart 
+ the counterpart Jul
+
+ counterpart actual 
+
+codename counterpart counterpart counterpart actual Jul 
+actual  
+
+ counter 
+ 
+ counterpart counterpart  
+ counterpart  
+ codename codename counterpart counterpart counterpart actual counter  
+ counterpart  counterpart counterpart codename counterpart 
+ codename actual counterpart counterpart codename counterpart counterpart 
+ counterpart counterpart Jul  counterpart codename counterpart counterpart codename Jul counterpart 
+
+the counterpart counterpart coder
+
+counterpart actual coder
+counterpart counterpart  coder 
+ actual counterpart counterpart codename counterpart counterpart codename codename codename codename counterpart counterpart counterpart codename counterpart 
+
+ 
+ counterpart counterpart Jul counterpart codename counterpart counterpart counterpart codename codename counterpart counterpart Jul counterpart Jul counterpart counterpart actual counterpart Jul counterpart counterpart codename counterpart counterpart actual Jul counterpart counterpart counterpart counter codename counterpart counterpart counterpart counterpart counterpart 
+
+codename counterpart counterpart Jul counterpart coder 
+
+ coder 
+
+ the counterpart codename codename counterpart counter actual 
+
+ counterpart codename counterpart counterpart 
+ codename counterpart counterpart 
+
+counterpart coder 
+ counterpart codename counterpart counter 
+
+ codename counterpart coder 
+ actual counterpart counterpart 
+counterpart counterpart 
+codename counterpart of codename codename codename 
+
+ counterpart Jul counterpart 
+ counter 
+ counter 
+
+ coder 
+
+ 
+
+ coder 
+
+ counter 
+
+ 
+ 
+
+ codename counterpart counterpart counterpart counterpart codename counterpart counterpart codename 
+
+ counterpart counterpart counter 
+
+counter 
+
+ counterpart  codename counterpart
+
+ counterpart counterpart counterpart coder
+
+ 
+
+ 
+
+counterpart counterpart codename counterpart counterpart codename counterpart Jul counterpart counterpart actual counterpart counterpart Jul counterpart counterpart counterpart counterpart 
+
+ 
+ The actual counterpart codename codename counterpart 
+ counterpart 
+
+ counterpart counterpart counterpart counterpart Jul counterpart 
+codename codename counter 
+
+counterpart actual 
+
+codename counterpart
+ coder codename codename codename Jul counterpart 
+
+ the 
+
+ counter 
+
+counterpart  counterpart coder 
+ 
+counterpart codename 
+ counterpart counter counterpart coder 
+
+counterpart codename counterpart counterpart
+
+ counter counterpart counterpart
+
+ codename counterpart 
+
+ coder codename counter counterpart counterpart
+
+ codename 
+ counterpart Jul counterpart counterpart Jul counterpart counterpart counterpart code
+ codename codename counterpart codename codename counterpart 
+ counter 
+
+ counterpart codename codename counterpart 
+codename 
+
+ codename codename counterpart 
+
+ counter 
+
+codename counter counterpart counterpart counterpart codename counterpart 
+ counter counterpart counterpart counterpart counterpart 
+ 
+counterpart counterpart counterpart codename counterpart counterpart 
+counterpart counterpart of counter counterpart counterpart counterpart counter counterpart counterpart of of codename 
+
+ counterpart counterpart 
+
+counterpart actual counterpart counterpart 
+codename counter counterpart counterpart 
+ counterpart counterpart coder counterpart codename codename codename 
+
+codename counterpart counterpart counterpart counterpart codename  counter  counterpart coder  codename counterpart 
+
+ codename 
+ coder codename counterparts coder 
+
+ coder counter counterpart counterpart counterpart 
+counterpart counterpart codename 
+ counter part codename counterpart counter counterpart 
+counterpart codename coder counterpart counterpart 
+
+ coder counterpart counter counterpart
+
+ The counterpart coder counterpart
+
+ coder counterpart counterpart 
+
+counterpart  counter coder codename codename codename counter codename
+
+ counter actual codename counterpart counterpart 
+
+ codename 
+ counter actual  counter counterpart 
+
+ codename counterpart counterpart counterpart coder 
+ counterpart counterpart codename counterpart counterpart coder counterpart counterpart 
+
+counterpart actual codename counterpart counterpart 
+ coder counterpart codename counterpart 
+
+ codename
+ counterpart counterpart 
+counterpart counterpart counterpart
+ codename counterpart counterpart counterpart 
+
+counterpart counterpart counterpart counterpart 
+ codename  counterpart counterpart
+ codename counterpart counterpart counterpart coder counterpart counterpart counterpart 
+
+ the counterpart coder counterpart counterpart counterpart 
+ codename counterpart counterpart counterpart 
+ coder 
+counterpart counterpart counterpart counter actual 
+ counterpart 
+ counter actual codename
+ counterpart counterpart counterpart 
+codename counterpart counterpart 
+counterpart counterpart counterpart coder
+ codename 
+counterpart Jul 
+ codename counterpart counterpart 
+ counterpart counter 
+ codename counterpart counterpart
+ coder counterpart counterpart 
+ codename counterpart counterpart counterpart counterpart 
+ counterpart counterpart 
+
+ codename codename codename codename codename 
+ codename codename counterpart 
+ counterpart counterpart 
+ 
+ counter counterpart 
+ codename counterpart counterpart 
+codename 
+counterpart counterpart counterpart counterpart counter actual 
+ counter counterpart codename counterpart 
+
+ counterpart counterpart counter 
+ counter counterpart codename counterpart
+
+ actual counterpart 
+codename codename counterpart counterpart counterpart counterpart counterpart actual counterpart counterpart counterpart counterpart coder counterpart coder counterpart counter 
+
+ 
+counterpart counterpart codename counterpart counter 
+ codename 
+ codename 
+ counter actual 
+code actual coder  counterpart counterpart codename 
+ counter actual coder counterpart 
+ coder counterpart 
+ counterpart coder counterpart counterpart counterpart counterpart counter 
+ counter coder 
+ counterpart counterpart codename counterpart counterpart coder counterpart counterpart counterpart counter counter actual 
+ 
+
+actual codename counterpart counterpart
+
+
+  actual coder counterpart 
+ actual counterpart counter counterpart coder counterpart 
+ actual counter 
+ codename counterpart counterpart 
+ actual counterpart 
+actual counter 
+
+counterpart 
+counter 
+
+ coder counterpart counter coder 
+counterpart codename counterpart counterpart 
+ 
+ counteractual 
+
+ coder counterpart counterpart 
+ 
+  counter counterpart 
+ coder counterpart counterpart counterpart coder counter actual 
+ 
+
+ 
+ coder
+
+  counterpart counterpart actual  counterpart counterpart 
+ counterpart 
+ counter counterpart counter counterpart counterpart 
+
+ counter coder 
+ actual coder 
+ counterpart 
+
+ codename counterpart 
+ counterpart counterpart counterpart codename 
+
+ codename counterpart coder counterpart counterpart 
+ 
+
+counterpart counter actual coder counterpart counterpart codename counter 
+ actual counter 
+ codename counter 
+ counter actual counter 
+counterpart counter  
+ counterpart counterpart 
+ 
+ actual counter codename 
+counterpart coder counterpart counterpart 
+
+
+counterpart counterpart counterpart 
+counterpart 
+
+coder counterpart
+counteractual 
+
+counterpart codename counterpart 
+
+
+ coder counterpart
+ counterpart codename counterpart 
+counterpart counterpart coder 
+ coder counterpart coder  counterpart counterpart 
+ 
+
+ coder codename counterpart 
+
+
+counterpart actual coder counterpart counterpart  
+ counter 
+ 
+
+codename counterpart counterpart 
+
+ 
+
+ counter coder counterpart 
+
+
+ actual counter actual
+
+
+counter  counterpart 
+
+ 
+
+countercounter 
+ 
+
+counterpart 
+  counterpart codename 
+ counter counterpart counterpart codename 
+
+ codename counterpart coder counterpart 
+
+counterpart counteractual coder codename 
+
+counter part coder counterpart 
+
+counterpart coder counterpart counterpart 
+
+counterpart coder counterpart 
+counter 
+counterpart coder counterpart counterpart
+counterpart coder counterpart counterpart 
+
+codename
+
+counterpart
+
+
+0.03"
+"Barrier Device starred which Canadian actress, known for a role on ""Grey's Anatomy"", as a sex researcher?",Sandra Miju Oh,Mireille Enos,0.85,HotpotQA,"Mireille Enos
+0.85"
+"What kind of wood-bodied , single cone resonator instrument did a member of the Wild horses play?",Dobro,Didgeridoo,0.85,HotpotQA,"Didgeridoo
+0.85"
+Which Halime Hatun son was the leader of the Ottoman Turks and the founder of the Ottoman dynasty?,Osman I,Orhan,0.9,HotpotQA,"Orhan
+0.9"
+"Family Circle and Avantages, are which forms of publication?",magazine,Avantages: Magazine,0.95,HotpotQA,"Family Circle: Magazine
+Avantages: Magazine
+0.95"
+"What's the nickname for Grodziskie, the beer from Poland with unusually high carbonation level?",Polish Champagne,Babka,0.95,HotpotQA,"Babka
+0.95"
+"Greenville, Indiana sits in a county of what population as of 2012?","75,283","1,041",0.95,HotpotQA,"1,041
+0.95"
+In what year was the British historian who was arrested in 2005 for Holocaust denial in Austria born?,1938,David Irving,0.75,HotpotQA,"David Irving
+0.75"
+Suzy starred the actress who was a sex symbol of what decade?,1930s,Marilyn Monroe (1950s),0.95,HotpotQA,"Marilyn Monroe (1950s)
+0.95"
+"In what year was the actress who played Holly Holliday in ""New Directions"" born?",1972,Heather Morris,0.85,HotpotQA,"Heather Morris
+0.85"
+Liquid computing was coined in July 2014 by which information technology media business formerly The Intelligent Machines Journal?,InfoWorld,ITBusinessNET,0.9,HotpotQA,"ITBusinessNET
+0.9"
+"Who is older, Jennifer Capriati or Pierre-Hugues Herbert?",Jennifer Maria Capriati,Jennifer Capriati ,0.05,HotpotQA,"Jennifer Capriati 
+0.05"
+Alan Schilke is an engineer who made is mark on a steel roller coaster operating at Six Flags Magic Mountain which is located where?,"Valencia, California","Six Flags Magic Mountain in Valencia, California",0.95,HotpotQA,"Six Flags Magic Mountain in Valencia, California
+0.95"
+what does 1977–78 UCLA Bruins men's basketball team and John Wooden have in common?,University of California,A National Championship Title,0.95,HotpotQA,"A National Championship Title
+0.95"
+Lane Boy was written by the musical duo hailing from which Ohio city?,Columbus,Rascal Flatts,0.95,HotpotQA,"Rascal Flatts
+0.95"
+"After he dissolved the monasteries, in 1545 Henry VIII sold Richard Brooke the manor of Norton, in which English county?",Cheshire,Yorkshire,0.85,HotpotQA,"Yorkshire
+0.85"
+"The Trials of Henry Kissinger and The Judge and the General, is which type of film?",documentary,Documentary,0.9,HotpotQA,"Documentary
+0.90"
+The leader of the band that came out with Monuments to an Elegy was born on what date?,"March 17, 1967",Maynard James Keenan ,0.85,HotpotQA,"Maynard James Keenan 
+0.85"
+"Were ""Oceans"" and ""Race to Witch Mountain"" released in the same year?",yes,No,0.85,HotpotQA,"No
+0.85"
+"What kind of persona does the artist who released Special Herbs, Vols. 4, 5 & 6 adopt?",super villain,Undercover Boss or Wu Tang Clan affiliate ,0.05,HotpotQA,"Undercover Boss or Wu Tang Clan affiliate 
+0.05"
+"Community is an American television sitcom that follows an ensemble cast, including what actress who played Trudy Campbell in the AMC drama Mad Men?",Alison Brie Schermerhorn,Alison Brie,0.9,HotpotQA,"Alison Brie
+0.9"
+The Orford Express operates seasonally on a former line headquartered in what city?,"Hermon, Maine",Collingwood,0.98,HotpotQA,"Collingwood
+0.98"
+"What was a brief but violent period of civil unrest in response to the Maine law, who's opponents of an American Prohibition advocate and politician Nicknamed the ""Napoleon of Temperance"" rioted ?",Portland Rum Riot,Rum Riot,0.85,HotpotQA,"Rum Riot
+0.85"
+Which English poet wrote travel ,Rupert Chawner Brooke,Elizabeth Barrett Browning wrote the travel book 'A year and a day in Italy'.,0.85,HotpotQA,"Elizabeth Barrett Browning wrote the travel book 'A year and a day in Italy'.
+0.85"
+What is the country of origin of Brian Stepanek and the film The Island?,American,United States and Australia.,0.95,HotpotQA,"United States and Australia.
+0.95"
+Chilly sings its popular songs such as 'Come to L.A.' and 'Simply a Love Song' in what language?,English,"Indie language is not the correct answer, but rather Chilly sings its popular songs in her native Korean and Japanese languages but is often sung in  the english-language ",0.05,HotpotQA,"Indie language is not the correct answer, but rather Chilly sings its popular songs in her native Korean and Japanese languages but is often sung in  the english-language 
+0.05"
+You're No Good: was covered in a charting version by which soul singer and pianist?,Betty Everett,"Sly and the Family Stone's Sly Stone, but more probably it is a cover of 'You're No Good' by Betty Everett or other artists, however most well known is the cover of  'You're No Good' by Betty Everett's contemporary,  but the most charting version of the song was indeed covered by a soul singer that is Deedle Dee and a  soul singer and pianist Dee Dee Sharp also covered the song but the best known  soul artist to have recorded a version  for a soul singer and pianist that was charting is Dee Dee Sharp was indeed charting, however most probably the answer should be Betty Everett and Dee Dee Sharp, both were a soul singers and pianists  that charted. 0.85",,HotpotQA,"Sly and the Family Stone's Sly Stone, but more probably it is a cover of 'You're No Good' by Betty Everett or other artists, however most well known is the cover of  'You're No Good' by Betty Everett's contemporary,  but the most charting version of the song was indeed covered by a soul singer that is Deedle Dee and a  soul singer and pianist Dee Dee Sharp also covered the song but the best known  soul artist to have recorded a version  for a soul singer and pianist that was charting is Dee Dee Sharp was indeed charting, however most probably the answer should be Betty Everett and Dee Dee Sharp, both were a soul singers and pianists  that charted. 0.85"
+"Geraldine ""Gerry"" Cowper, an English actress who is best known for playing Rowan Morrison in The Wicker Man, a 1973 British mystery horror film, directed by who?",Robin Hardy,Robin Hardy,0.99,HotpotQA,"Robin Hardy
+0.99"
+Which cricketer is the younger brother of Jack Lindwall and played top-flight rugby league football with St. George?,Ray Lindwall,Allan Lindwall,0.95,HotpotQA,"Allan Lindwall
+0.95"
+"Which author was born first, Lorraine Hansberry or Sandra Gulland?",Lorraine Vivian Hansberry,Lorraine Hansberry,0.95,HotpotQA,"Lorraine Hansberry
+0.95"
+The 1905-1904 college basketball team lead by G.W. Leach represented a university founded in what year?,1846,Northfield 1862,0.95,HotpotQA,"Northfield 1862
+0.95"
+Which co-founder of DreamWorks Studios directed two movies starring Pacharo Mzembe?,Steven Spielberg,Steven Spielberg,0.95,HotpotQA,"Steven Spielberg
+0.95"
+"When was the American singer, guitarist, songwriter, and producer born who is known for his work in the hard rock bands Rainbow and also performed with Jason Hartless?","August 2, 1951",Ritchie Blackmore,0.95,HotpotQA,"Ritchie Blackmore
+0.95"
+"Which state was this American lawyer and Republican politician from, who started his new position in 2017 backed by Trump but failed to work well with the senior White House adviser Don Benton?",Oklahoma,Jeff Sessions,0.95,HotpotQA,"Jeff Sessions
+0.95"
+Rocket Science featured an interview with what US Air Force test pilot?,"Charles Elwood ""Chuck"" Yeager",Mike Adams,0.99,HotpotQA,"Mike Adams
+0.99"
+"Which character is nicknamed ""The Mountain"" and played by Hafþór Júlíus Björnsson in the TV version of Game of Thrones?",Gregor Clegane,Gregor Clegane,0.95,HotpotQA,"Gregor Clegane
+0.95"
+Do either Chamaelirium or Aphyllanthes have more than one species?,no,Chamaelirium has more than one species.,0.55,HotpotQA,"Chamaelirium has more than one species.
+0.55"
+"Which mountain is higher, Broad Peak or Skyang Kangri?",Skyang Kangri,Skyang Kangri is higher,0.85,HotpotQA,"Skyang Kangri is higher
+0.85"
+"What is the name of this Catholic University in Philidelphia, nicknamed the Wildcats, that had a football team captained by William Moore in 1905?",Villanova University,Villanova University,0.95,HotpotQA,"Villanova University
+0.95"
+Are Pamianthe and Manglietia in the same family?,no,No,0.95,HotpotQA,"No
+0.95"
+What British-American actor born in 1952 starred in The Last Castle?,Delroy Lindo,Mark Rylance ,0.85,HotpotQA,"Mark Rylance 
+0.85"
+Where is the company that owns 13th Street Universal headquartered?,"Midtown Manhattan, New York City","Universal City, California",0.95,HotpotQA,"Universal City, California
+0.95"
+When was the group founded which recorded the song Play Something Country ?,1990,The Isley Brothers,0.85,HotpotQA,"The Isley Brothers
+0.85"
+The Nakajima Ki-87 was a type of fighter aircraft designed specifically to attack what?,enemy aircraft,Balloons,0.95,HotpotQA,"Balloons
+0.95"
+Sid Haig had a role in the exploitation horror film released in what year?,2003,House of 1000 Corpses,0.95,HotpotQA,"House of 1000 Corpses
+0.95"
+"Brett Dier, who starred in ""Jane the Virgin"" appears on what Canadian TV shows?","Canadian TV shows ""Bomb Girls"" and ""The L.A. Complex""","Brett Dier starred in ""Schitt's Creek"" and ""Private Eyes"".",0.85,HotpotQA,"Brett Dier starred in ""Schitt's Creek"" and ""Private Eyes"".
+0.85"
+Michael Kelso is one of the male leads on the show that was set in what fictional Wisconsin town?,Point Place,Point Place,0.85,HotpotQA,"Point Place
+0.85"
+"Between University of Wyoming and Clarkson University, which institution was founded earlier?",University of Wyoming,University of Wyoming,0.9,HotpotQA,"University of Wyoming
+0.9"
+"Here Is Always Somewhere Else and Football Under Cover, are films of which genre?",documentary,Documentary films,0.98,HotpotQA,"Documentary films
+0.98"
+What genre of music is the solo artist that contributed to Real Damage a variant of?,synth-pop,Electronic music,0.75,HotpotQA,"Electronic music
+0.75"
+Guitarist Dave Gregory is known best for his work with a rock band  lead by what two songwriters?,Andy Partridge and Colin Moulding,XTC,0.9,HotpotQA,"XTC
+0.9"
+In what year was Joy Enriquez's husband born?,1977,I couldn't find information about Joy Enriquez's spouse's birth year.,0.0,HotpotQA,"I couldn't find information about Joy Enriquez's spouse's birth year.
+0.0"
+Which episode of Glee is named after a power ballad from the 1973 Aerosmith debut album?,Dream On,To Live and Leave,0.85,HotpotQA,"To Live and Leave
+0.85"
+In what city does Mike Carey coach women's basketball ?,Morgantown,Mike Carey ,0.4,HotpotQA,"Mike Carey 
+0.4"

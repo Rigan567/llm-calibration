@@ -1,0 +1,43 @@
+/home/webi/grebsbu/llm-calibration/src_gemma/inference_gemma.py:4: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+
+✅ Saved results -> outputs/baseline_gemma-3-4b-it.csv
+Total samples to process: 1000
+source
+Astro-QA_Judgement    250
+GlobalMedQA_EN        250
+TORQUE                250
+HotpotQA              250
+Name: count, dtype: int64
+  0%|          | 0/1000 [00:00<?, ?it/s]  0%|          | 1/1000 [00:01<20:35,  1.24s/it]  0%|          | 2/1000 [00:02<21:45,  1.31s/it]  0%|          | 3/1000 [00:03<20:18,  1.22s/it]  0%|          | 4/1000 [00:04<19:39,  1.18s/it]  0%|          | 5/1000 [00:06<24:38,  1.49s/it]  1%|          | 6/1000 [00:07<21:57,  1.33s/it]  1%|          | 7/1000 [00:09<21:36,  1.31s/it]  1%|          | 8/1000 [00:10<19:34,  1.18s/it]  1%|          | 9/1000 [00:10<18:10,  1.10s/it]  1%|          | 10/1000 [00:12<17:46,  1.08s/it]  1%|          | 11/1000 [00:13<18:30,  1.12s/it]  1%|          | 12/1000 [00:14<19:02,  1.16s/it]  1%|▏         | 13/1000 [00:15<20:24,  1.24s/it]  1%|▏         | 14/1000 [00:17<20:49,  1.27s/it]  2%|▏         | 15/1000 [00:18<21:30,  1.31s/it]  2%|▏         | 16/1000 [00:20<23:44,  1.45s/it]  2%|▏         | 17/1000 [00:21<21:37,  1.32s/it]  2%|▏         | 18/1000 [00:22<20:09,  1.23s/it]  2%|▏         | 19/1000 [00:23<18:35,  1.14s/it]  2%|▏         | 20/1000 [00:24<17:40,  1.08s/it]  2%|▏         | 21/1000 [00:25<18:14,  1.12s/it]  2%|▏         | 22/1000 [00:26<18:18,  1.12s/it]  2%|▏         | 23/1000 [00:27<18:20,  1.13s/it]  2%|▏         | 24/1000 [00:28<18:14,  1.12s/it]  2%|▎         | 25/1000 [00:30<18:14,  1.12s/it]  3%|▎         | 26/1000 [00:31<18:05,  1.11s/it]  3%|▎         | 27/1000 [00:32<17:17,  1.07s/it]  3%|▎         | 28/1000 [00:33<17:40,  1.09s/it]  3%|▎         | 29/1000 [00:34<18:42,  1.16s/it]  3%|▎         | 30/1000 [00:35<19:32,  1.21s/it]  3%|▎         | 31/1000 [00:37<20:36,  1.28s/it]  3%|▎         | 31/1000 [00:37<19:29,  1.21s/it]
+
+🛑 QUOTA EXCEEDED: Groq limits reached. Stopping. Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 30, model: gemma-3-4b
+Please retry in 12.509027238s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemma-3-4b"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, retry_delay {
+  seconds: 12
+}
+]
