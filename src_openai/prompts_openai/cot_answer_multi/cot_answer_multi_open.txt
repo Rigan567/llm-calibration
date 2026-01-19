@@ -1,0 +1,35 @@
+Your task is to answer the following question with chain of thought reasoning. First, print your reasoning. Then, print your answer in as little words as possible. In the last line, print a number between 0 and 1 representing your confidence in your answer.
+Example 1:
+Example question: 
+In scientific astronomy, how long is a Great Year?
+Example answer:
+The term “Great Year” in scientific astronomy is commonly associated with the precession of the equinoxes, which describes the slow wobble of Earth’s rotational axis. Astronomical observations and models estimate the full precessional cycle to be just under 26,000 years. Based on these sources, a value of approximately 25,800 years is a reasonable estimate.
+25,800 years
+0.8
+
+Example 2:
+Example question: 
+What is the latin title of Macrobius Ambrosius Theodosius most influential work?
+Example answer:
+Macrobius Ambrosius Theodosius is best known for his commentary on Cicero’s Dream of Scipio, which is widely cited as his most influential and enduring work. The Latin title Commentarii in Somnium Scipionis appears frequently in classical scholarship when discussing his contributions. Based on its prominence and impact, this title is the most plausible answer.
+Commentarii in Somnium Scipionis
+0.35
+
+Example 3:
+Example question: 
+Let there be two partially ordered sets A, B and monotone functions f : A -> B and g : B -> A. What are these functions called if they have the property f(a) <= b iff a <= g(b)?
+Example answer:
+In order theory, a pair of monotone functions between partially ordered sets that satisfy the condition f(a) <= b if and only if a <= g(b) form a well-known adjoint relationship. This exact equivalence is the defining property of a Galois connection between two posets. Therefore, the functions are identified as forming a Galois connection.
+Galois Connection
+0.65
+
+Example 4:
+Example question: 
+From a conversation analysis point of view, gender is no fixed category but depends on the behaviour in social contexts. What is the term for this phenomenon called?
+Example answer:
+In conversation analysis and sociological theory, gender is often understood as something enacted through interaction rather than as a fixed attribute. The concept that captures this idea emphasizes how individuals continually produce and reproduce gender through everyday behavior. This aligns with the term Doing Gender, which is commonly used to describe gender as an ongoing social practice.
+Doing Gender
+0.2
+
+Here is the question: 
+{question}

@@ -61,3 +61,67 @@ The acceleration due to gravity is the same at different locations on Earth. ,Fa
 0.8"
 The Galileo probe only reached the surface of Jupiter. ,True,false,0.95,Astro-QA_Judgement,"false
 0.95"
+The sun is currently a main sequence star on the Hertzsprung-Russell diagram. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"The spectral characteristics of blackbody radiation are only related to the material of the blackbody, and are not related to temperature. ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+NASA astronauts play golf on the moon. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The history of human civilization is 6 orders of magnitude shorter than the history of the Earth. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The light emitted by a nebula is a type of electromagnetic radiation. ,False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Europa may be tidally locked. ,False,true,0.9,Astro-QA_Judgement,"true
+0.9"
+Galactic black holes are the products of stars that have evolved to the end of their lives. ,False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"In 1801, Ceres was once classified as one of the eight major planets in the solar system. ",True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+New stars are a class of variable stars. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The horizon refers to the physical boundary of a black hole. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"In bright nebulae, the red ones are emission nebulae and the blue ones are reflection nebulae. ",True,false,0.8,Astro-QA_Judgement,"false
+0.8"
+The Gnomon was an ancient astronomical instrument used to observe the trajectory of the moon. ,False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The habitable zones of planetary systems around stars of different spectral types are all located at the same distance. ,False,false,0.8,Astro-QA_Judgement,"false
+0.8"
+There are asteroids named Tom Hanks and Meryl. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The formulas for calculating the redshift Z in both classical mechanics and special relativity are approximately interchangeable when dealing with celestial bodies whose recessional velocities are much less than the speed of light (v << c). ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The constellation of the Toad still exists today. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+The annual motion of the stars is caused by the Earth's revolution around the Sun. ,True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+The asteroid belt is located between Mars and Jupiter. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Aurora can be observed on the moon. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+The transit method generally tends to discover larger exoplanets more easily. ,True,true,0.8,Astro-QA_Judgement,"true
+0.8"
+"The earliest physical evidence of dragon totem was unearthed from an ancient tomb in Puyang, Henan in 1987. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"The Milky Way is capable of rotation, and different parts rotate at varying speeds. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The Bullet Cluster (1E0657-56) holds significant value in the field of astronomy as it is the first celestial system where the existence of dark matter was directly confirmed. ,True,false,0.8,Astro-QA_Judgement,"false
+0.8"
+The duration of an annular eclipse cannot exceed 11 minutes. ,False,false,0.8,Astro-QA_Judgement,"false
+0.8"
+The value of Hubble's constant varies in different historical periods. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The absence of evidence for extraterrestrial life does not constitute evidence for the absence of extraterrestrial life. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Astronauts on the International Space Station become weightless because there is no gravity in space. ,False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+Meteor phenomena can be observed on the moon. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"Due to the harsh environment of Venus, no spacecraft has landed on its surface. ",False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+A solar eclipse can be observed both on Earth and Mars. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"Throughout their lives, stars generate outward pressure through nuclear fusion reactions to counteract the immense gravitational force pulling inward. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The discovery of cosmic background radiation is a direct negation of the Big Bang theory. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"

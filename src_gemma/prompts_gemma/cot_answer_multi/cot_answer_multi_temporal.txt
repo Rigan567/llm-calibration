@@ -1,0 +1,35 @@
+Your task is to answer the following question with chain of thought reasoning. First, print your reasoning. Then, print your answer in one line. The question is about when something happened. Your answer to the question should constist only of the events (verbs or nouns) in question. In the last line, print a number between 0 and 1 representing your confidence in your answer.
+Example 1:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What events have already finished?]
+Example answer:
+The passage describes multiple events happening during a snow and rainfall crisis. The rescuers “searching” for a woman, the woman being “trapped”, the “landslide” occurring, the rescuers “said” something, and that they “found” a body are all events that have already happened or reached a conclusion by the time the report was written. In contrast, events like “causing” heavy snow or “bringing” flooding describe ongoing conditions and are not completed. Therefore, the events that have finished are searching; trapped; landslide; said; found.
+searching; trapped; landslide; said; found
+0.8
+
+Example 2:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What events have begun but not finished?]
+Example answer:
+The passage mentions conditions that are currently ongoing: heavy snow is causing disruption, heavy rainfall is bringing flooding, and there is flooding happening in the south-west. These events appear to have started but are not yet complete at the time of reporting. I include snow; causing; disruption; rainfall; bringing; flooding as the events that have begun but not finished. There is some ambiguity because terms like “causing” and “bringing” could also describe broader processes, and some events might be considered ongoing or already partially complete, which lowers certainty.
+snow; causing; disruption; rainfall; bringing; flooding
+0.35
+
+Example 3:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What happened before a woman was trapped?]
+Example answer:
+The passage states that a woman was trapped in a landslide at her home. Since the trapping occurred as a result of the landslide, the landslide must have happened first. There is little information about other events that clearly precede her being trapped, so landslide is the most reasonable event to select. Some ambiguity remains because the passage does not explicitly describe the exact timing of other events like snowfall or rainfall relative to the trapping, which lowers certainty somewhat.
+landslide
+0.65
+
+Example 4:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What had happened after a woman was trapped?]
+Example answer:
+After the woman was trapped, the passage describes rescuers searching for her, reporting that they said something, and that they found a body. These events clearly follow the trapping. However, ongoing conditions like snow and rainfall were also still happening at this time, so it’s possible that someone could consider snow as another event that “happened” after she was trapped. Because of this ambiguity, it’s not completely certain which events should be included.
+searching; said; found
+0.2
+
+Here is the question: 
+{question}

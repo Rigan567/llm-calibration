@@ -1,0 +1,31 @@
+Answer the following Question in one line. The question is about when something happened. Your answer to the question should constist only of the events (verbs or nouns) in question. In the next line, print a number between 0 and 1 representing your confidence in your answer. 
+Example 1:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What events have already finished?]
+Example answer:
+searching; trapped; landslide; said; found
+0.8
+
+Example 2:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What events have begun but not finished?]
+Example answer:
+snow; causing; disruption; rainfall; bringing; flooding
+0.35
+
+Example 3:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What happened before a woman was trapped?]
+Example answer:
+landslide
+0.65
+
+Example 4:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What had happened after a woman was trapped?]
+Example answer:
+searching; said; found
+0.2
+
+Here is the question: 
+{question}

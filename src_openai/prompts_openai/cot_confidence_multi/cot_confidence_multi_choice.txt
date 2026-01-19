@@ -1,0 +1,39 @@
+Answer the following single choice Question in one line. Then, calculate your confidence in your answer as a number between 0 and 1 with chain of thought reasoning. In the next line, print your answer again. In the next line, print your confidence. 
+Example 1:
+Example question: 
+In scientific astronomy, how long is a Great Year? [Options: A: 25,800 Years; B: 37,650 Years; C: 611,00 Years; D: 1,454,4250 Years]
+Example answer:
+A: 25,800 years
+he concept of a Great Year as the precessional cycle is well-established, and 25,800 years falls within the standard range cited in scientific literature. The other options are far outside any realistic estimates, which makes the choice fairly reliable. Therefore, a high confidence of 0.8 is appropriate.
+A: 25,800 years
+0.8
+
+Example 2:
+Example question: 
+What is the latin title of Macrobius Ambrosius Theodosius most influential work? [Options: A: Somnia sub Caelo; B: Tractatus de Anno Platonico; C: Apparitus Scipionis Africani coram nepote suo; D: Commentarii in Somnium Scipionis]
+Example answer:
+D: Commentarii in Somnium Scipionis
+D is clearly Macrobius’s most widely recognized and cited work, and the other options do not correspond to his major writings. Given the strong consensus in scholarship, a high confidence of 0.9 is justified.
+D: Commentarii in Somnium Scipionis
+0.9
+
+Example 3:
+Example question: 
+Let there be two partially ordered sets A, B and monotone functions f : A -> B and g : B -> A. What are these functions called if they have the property f(a) <= b iff a <= g(b)? [Options: A: Antitone Connection; B: Galois Connection; C: Partially Ordered Set; D: Lattice]
+Example answer:
+B: Galois Connection
+The property given matches the standard definition of a Galois connection, but related terms like “adjoint” or less common terminology could cause slight ambiguity in interpretation. This warrants a moderately high confidence of 0.65.
+B: Galois Connection
+0.65
+
+Example 4:
+Example question: 
+From a conversation analysis point of view, gender is no fixed category but depends on the behaviour in social contexts. What is the term for this phenomenon called? [Options: A: Transsexuality; B: Omnirelevance of Gender; C: Doing Gender; D: Code Switching]
+Example answer:
+C: Doing Gender
+There is a lot of ambiguity in the phrasing, and the other options could reasonably be chosen if the question is interpreted differently. Because of this uncertainty and the potential overlap with other concepts, the confidence in this answer is very low, around 0.2.
+C: Doing Gender
+0.2
+
+Here is the question: 
+{question}
