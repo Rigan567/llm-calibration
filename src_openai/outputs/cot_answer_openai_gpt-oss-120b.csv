@@ -1,0 +1,11 @@
+question,gold,pred,confidence,source,raw_response
+The important feature of chaotic systems is that very small changes in initial conditions can lead to large differences in final states. ,True,true  ,0.98,Astro-QA_Judgement,"Reasoning  
+Chaotic systems are characterized by sensitive dependence on initial conditions, meaning that arbitrarily small variations in the starting state of the system can cause trajectories to diverge exponentially over time, leading to markedly different outcomes. This property is widely recognized as a defining feature of chaos in dynamical systems theory.  
+
+true  
+0.98"
+The core of M87 contains a massive black hole. ,True,true  ,0.99,Astro-QA_Judgement,"Reasoning  
+M87 (Messier 87) is a giant elliptical galaxy in the Virgo Cluster. Astronomical observations, including stellar dynamics and gas motions near its nucleus, have long indicated the presence of a supermassive black hole at its center. This was definitively confirmed in 2019 when the Event Horizon Telescope produced the first direct image of the black hole’s shadow in M87’s core. The black hole’s mass is estimated to be several billion solar masses, making it one of the most massive known. Therefore, the statement that the core of M87 contains a massive black hole is consistent with well‑established scientific evidence.  
+
+true  
+0.99"

@@ -1399,3 +1399,687 @@ Reporters also were allowed inside for the first time since the explosion and fo
 0.85"
 "The attack forced around 2,000 villagers to flee, Captain Noel Detoyato told AFP. The military deployed a Marine battalion and a ""Rapid Deployment Force"" of the Army in the area on Wednesday, he added. [Question: What event has already finished?]",attack; forced; flee; told; Wednesday; added,attack,0.93,TORQUE,"attack
 0.93"
+"A 62-year-old man is brought to the emergency department because of syncope. He reports sudden onset of palpitations followed by loss of consciousness while carrying his groceries to his car. He is unable to recall any further details and does not have any chest pain or dizziness. He has a history of hypertension, type 2 diabetes mellitus, gastroparesis, and osteoarthritis of the knees. Medications include lisinopril, metformin, and ondansetron as needed for nausea. He also takes methadone daily for chronic pain. Apart from an abrasion on his forehead, he appears well. His temperature is 37.2 °C (98.9 F), heart rate is 104/min and regular, and blood pressure is 135/70 mm Hg. While he is in the emergency department, he loses consciousness again. Telemetry shows polymorphic ventricular tachycardia with cyclic alteration of the QRS axis that spontaneously resolves after 30 seconds. Results of a complete blood count, serum electrolyte concentrations, and serum thyroid studies show no abnormalities. Cardiac enzymes are within normal limits. Which of the following is the most likely underlying cause of this patient's syncope? [Options: A: Prolonged QT interval; B: Fast accessory conduction pathway; C: Prinzmetal angina; D: Brugada syndrome; E: Hypomagnesemia
+""]",A: Prolonged QT interval,A: Prolonged QT interval,0.97,GlobalMedQA_EN,"A: Prolonged QT interval
+0.97"
+"A 34-year-old woman comes to the fertility clinic with her husband for infertility treatment. The couple has been having unprotected intercourse for the past 2 years without any pregnancies. This is their first time seeking fertility treatment. The patient’s past medical history includes asthma. She denies any menstrual irregularities, menstrual pain, abnormal bleeding or past sexually transmitted infections. The husband reports that “he would get sick easily and would always have some upper respiratory infections.” Physical examination of the wife demonstrates nasal polyps bilaterally; vaginal examination is unremarkable. Physical examination of the husband is unremarkable. Semen analysis results are shown below:
+
+Semen analysis:
+Volume: 1.9 mL (Normal > 1.5 mL)
+pH: 7.4 (Normal: > 7.2)
+Sperm concentration: 0 mil/mL (Normal: > 15 mil/mL)
+Total sperm count: 0 mil/mL (Normal: > 39 mil/mL)
+Total motility: N/A (Normal: > 40%)
+Morphology: N/A (Normal: > 4% normal forms)
+
+What is the most likely explanation for this couple’s infertility? [Options: A: Deletion of Phe508 in husband; B: Deletion of Phe508 in wife; C: Undescended testes in husband; D: XO chromosome in wife; E: XXY chromosome in husband]",A: Deletion of Phe508 in husband,A: Deletion of Phe508 in husband,0.9,GlobalMedQA_EN,"A: Deletion of Phe508 in husband
+0.9"
+"A 30 year old male patient presents with bleeding per rectum.
+He complains of Hemorrhoids which are reduced spontaneously.
+Treatment of choice Is [Options: A: Open hemorroidectomy; B: Sitz bath; C: Sclerotherapy; D: Stapled hemorroidopexy]",C: Sclerotherapy,c) Sclerotherapy,0.85,GlobalMedQA_EN,"c) Sclerotherapy
+0.85"
+"A 51-year-old woman goes to respiratory function testing in order to evaluate her shortness of breath. She recently joined a walking program with her friends in order to lose weight; however, she noticed that she was not able to keep up with her friends during the program. She has a 60-pack-year history of smoking as well as hypertension well-controlled on medication. The following represent the parameters for this patient's respiratory anatomy and function:
+
+Vital capacity (VC): 5,000 mL
+Inspiratory reserve volume (IRV): 2,500 mL
+Functional reserve capacity (FRC): 2,700 mL
+Residual volume (RV): 1,000 mL
+Upper airway volume: 100 mL
+Conducting airway volume: 125 mL
+
+Inspired CO2 pressure (PiCO2): 1 mmHg
+Arterial CO2 pressure (PaCO2): 50 mmHg
+Expired CO2 pressure (PeCO2): 20 mmHg
+
+Which of the following best represents the total volume of gas in this patient's airways and lungs that does not participate in gas exchange? [Options: A: 225 mL; B: 480 mL; C: 600 mL; D: 800 mL; E: 1200 mL]",B: 480 mL,N/A,,GlobalMedQA_EN,
+"A 35-year-old G0P0000 presents to her gynecologist with complaints of irregular menstruation. She has had only two periods in the last year. She also endorses feeling flushed without provocation and experiencing occasional dyspareunia with post-coital spotting. In addition, she has also had more frequent headaches than usual. The patient has a past medical history of Hashimoto’s thyroiditis and takes levothyroxine daily. Her mother has type I diabetes mellitus. At this visit, the patient’s temperature is 98.5°F (36.9°C), pulse is 70/min, blood pressure is 118/76 mmHg, and respirations are 13/min. Cardiopulmonary and abdominal exams are unremarkable. The patient has Tanner V breasts and pubic hair. Pelvic exam reveals a normal cervix, anteverted uterus without tenderness, and no adnexal masses. The following laboratory studies are performed:
+
+Serum:
+Thyroid stimulating hormone (TSH): 28 µIU/mL (9-30 µIU/mL)
+Cycle day 3 follicle stimulating hormone (FSH): 49 mIU/mL (4.7-21.5 mIU/mL)
+Cycle day 3 estradiol: 8 pg/mL (27-123 pg/mL)
+Prolactin: 14 ng/mL (4-23 ng/mL)
+Testosterone: 42 ng/dL (15-70 ng/dL)
+
+Which of the following is the best next step in management? [Options: A: Vaginal estradiol gel; B: Increase levothyroxine dose; C: Estradiol patch with oral medroxyprogesterone; D: Brain MRI; E: Combined oral contraceptive]",C: Estradiol patch with oral medroxyprogesterone,C: Estradiol patch with oral medroxyprogesterone  ,0.9,GlobalMedQA_EN,"C: Estradiol patch with oral medroxyprogesterone  
+0.9"
+"Four days after having been admitted to the hospital for a pulmonary contusion and whiplash injury sustained in a motor vehicle collision, a 66-year-old woman complains of severe pain in her right flank and muscle spasms. She also has nausea with two episodes of vomiting and abdominal bloating. Her pain had previously been well controlled with acetaminophen every 6 hours. She underwent umbilical hernia repair surgery two years ago. She takes sertraline for depression. Her temperature is 36.5°C (97.7°F), pulse is 99/min, respirations are 17/min, and blood pressure is 102/72 mm Hg. After administration of 0.5 L of crystalloid fluids, blood pressure improves to 118/79 mm Hg. Multiple ecchymoses are present over the anterior abdominal wall in a pattern that follows the course of a seatbelt. There are ecchymoses of the flanks bilaterally. Bowel sounds are absent. There is tenderness to palpation in all four quadrants with voluntary guarding. Her hemoglobin is 7.9 g/dL, leukocyte count is 8,500/mm3, platelet count is 350,000/mm3, prothrombin time is 11 seconds, and activated partial thromboplastin time is 33 seconds. An x-ray of the abdomen shows obliteration of the right psoas shadow and uniform distribution of gas in the small bowel, colon, and rectum without air-fluid levels. Which of the following is the most likely explanation for this patient's symptoms? [Options: A: Small bowel perforation; B: Intraabdominal adhesions; C: Spinal cord injury; D: Retroperitoneal hemorrhage; E: Acute mesenteric ischemia
+""]",D: Retroperitoneal hemorrhage,D: Retroperitoneal hemorrhage,0.93,GlobalMedQA_EN,"D: Retroperitoneal hemorrhage
+0.93"
+"A 34-year-old gravida-1 at 8 weeks gestation seeks evaluation for a fever and sore throat for 3 days. She also reports generalized body pain and fatigue over this period. She was diagnosed with Graves’ disease 6 months ago. Before conception, methimazole was switched to propylthiouracil. She appears ill. The vital signs include: axillary temperature 38.0℃ (100.4℉), pulse 88/min, respiratory rate 12/min, and blood pressure 120/80 mm Hg. A 1 × 1 cm ulcer is seen on the side of the tongue. The ulcer is tender with surrounding erythema. Examination of the neck, lungs, heart, and abdomen shows no abnormalities. The laboratory studies show the following:
+Hemoglobin 13.5 g/dL
+Mean corpuscular volume 90 μm3
+Leukocyte count 2,500/mm3
+Segmented neutrophils 5%
+Lymphocytes 88%
+Platelet count 240,000/mm3
+Alanine aminotransferase 18 U/L
+Aspartate transaminase 16 U/L
+Which of the following is the most appropriate next step in management? [Options: A: Acetaminophen for fever control; B: Discontinuation of propylthiouracil; C: Oral ampicillin; D: Rectal temperature measurement; E: Termination of pregnancy]",B: Discontinuation of propylthiouracil,B: Discontinuation of propylthiouracil  ,0.95,GlobalMedQA_EN,"B: Discontinuation of propylthiouracil  
+0.95"
+"A 29-year-old G4P0 woman presents following a spontaneous pregnancy loss in the 18th week of her pregnancy. This is her fourth loss in the second trimester and she is concerned about her inability to have a successful pregnancy. She is otherwise healthy and has no acute complaints. Her vitals are unremarkable and exam is notable only for a firm, asymmetric uterus. Laboratory studies are ordered as seen below.
+
+Hemoglobin: 9.0 g/dL
+Hematocrit: 30%
+Leukocyte count: 6,800/mm^3 with normal differential
+Platelet count: 199,000/mm^3
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 4.3 mEq/L
+HCO3-: 25 mEq/L
+BUN: 20 mg/dL
+Glucose: 99 mg/dL
+Creatinine: 1.1 mg/dL
+
+Which of the following tests is most likely to elucidate the cause of this patient's pregnancy losses? [Options: A: Anti-cardiolipin antibodies; B: Karotyping; C: Hysterosalpingogram; D: Prolactin level; E: TSH level]",C: Hysterosalpingogram,C: Hysterosalpingogram  ,0.78,GlobalMedQA_EN,"C: Hysterosalpingogram  
+0.78"
+"A 44-year-old woman presents with increased thirst and frequent urination that started 6 months ago and have progressively worsened. Recently, she also notes occasional edema of the face. She has no significant past medical history or current medications. The patient is afebrile and the rest of the vital signs include: blood pressure is 120/80 mm Hg, heart rate is 61/min, respiratory rate is 14/min, and temperature is 36.6°C (97.8°F). The BMI is 35.2 kg/m2. On physical exam, there is 2+ pitting edema of the lower extremities and 1+ edema in the face. There is generalized increased deposition of adipose tissue present that is worse in the posterior neck, upper back, and shoulders. There is hyperpigmentation of the axilla and inguinal areas. The laboratory tests show the following findings:
+Blood
+Erythrocyte count 4.1 million/mm3
+Hgb 12.9 mg/dL
+Leukocyte count 7,200/mm3
+Platelet count 167,000/mm3
+Fasting blood glucose 141 mg/dL (7.8 mmol/L)
+Creatinine 1.23 mg/dL (108.7 µmol/L)
+Urea nitrogen 19 mg/dL (6.78 mmol/L)
+Urine dipstick
+Glucose +++
+Protein ++
+Bacteria Negative
+The 24-hour urine protein is 0.36 g. Which of the following medications is the best treatment for this patient’s condition? [Options: A: Enalapril; B: Insulin; C: Metoprolol; D: Furosemide; E: Mannitol]",A: Enalapril,A: Enalapril  ,0.92,GlobalMedQA_EN,"A: Enalapril  
+0.92"
+"Tanzania was one of the 18 poorest countries on the planet that saw their debts cancelled by the Group of Eight (G8) leading industrial countries in June 2005. ARMED FORCES: Estimated at 27,000 soldiers, according to the International Institute of Strategic Studies (2004/2005). [Question: What began after Tanzania was one of the poorest 18 countries?]",saw; cancelled,debt cancellation,0.9,TORQUE,"debt cancellation
+0.9"
+"Japan had shown initial enthusiasm when India ended five decades of rigid protectionism in 1991. Singh, who as finance minister fathered the reforms, secured Japanese loans to end a balance-of-payments crisis. [Question: What event has already finished?]",protectionism; shown; fathered; secured; end; crisis,rigid protectionism,0.9,TORQUE,"rigid protectionism
+0.9"
+"Paul said Dar worked as a sales representative for Johnson and Johnson in Srinagar. Dar had obtained a bachelor's degree in chemistry in 1995 and also wrote for the ""Mount Valley Magazine"" in Srinagar. [Question: What happened before Paul spoke?]",worked; obtained; wrote,obtained bachelor's degree; wrote for Mount Valley Magazine,0.95,TORQUE,"obtained bachelor's degree; wrote for Mount Valley Magazine
+0.95"
+"Much of the abuse is blamed on Khartoum's proxy militias -- the so-called ""Janjaweed"" -- but in its report, HRW placed responsibility higher, citing witness accounts from refugees and interviews with Sudanese soldiers and officials. Based on those accounts, HRW said: ""the looting and destruction of villages was not just condoned by government officials, it was methodically organized, with troops and militia members permitted to take land, livestock and other civilian property."" [Question: What events happened after the interviews with Sudanese soldiers and officials?]",blamed; placed; citing; Based; said,looting; destruction of villages; organized looting; seizure of land; seizure of livestock; seizure of civilian property  ,0.92,TORQUE,"looting; destruction of villages; organized looting; seizure of land; seizure of livestock; seizure of civilian property  
+0.92"
+All-rounder Jacques Kallis struck two crucial blows for South Africa on either side of tea when he claimed the crucial wickets of Sachin Tendulkar and Rahul Dravid after India's most experienced pair had staged a painstaking recovery following the early loss of both their opening batsman. Tendulkar was caught at second slip for 44 after he and Dravid put on 61 for the third wicket. [Question: What happened after Tendulkar put on 61?],caught,caught; second slip; 44,0.97,TORQUE,"caught; second slip; 44
+0.97"
+"``We have covered the entire list of questions and discussed how we will be tackling them,'' Yeltsin was quoted as saying by the ITAR-Tass news agency. ``I must say there are no unsettled problems any more. [Question: What will happen in the future?]",tackling,tackle; resolve; implement,0.7,TORQUE,"tackle; resolve; implement
+0.7"
+"During that conflict, Angola was one of three countries to send troops to support Kinshasa against rebels backed by Rwanda and Uganda. The refugees are being flown either to Mbanza Kongo or to Uige in northern Angola and the UNHCR allows them to take 40 kilograms (88 pounds) of luggage, and gives them either cash subsidies or assistance packages of food and items like cooking utensils, depending on their destination. [Question: What happened after Rwanda and Uganda backed rebels in the region?]",conflict; was; send; support; flown; allows; take; gives,Angola sent troops; refugees flown to Mbanza Kongo or Uige,0.85,TORQUE,"Angola sent troops; refugees flown to Mbanza Kongo or Uige
+0.85"
+"""We are delighted that he is sworn in after such a long wait,"" Burns commented. ""He is a terrific choice,"" he added, stressing his experience as a prisoner of war. [Question: What happened before Burns commented?]",are; is; sworn; wait; experience,sworn in,0.97,TORQUE,"sworn in
+0.97"
+"""It's better with a permanent ceasefire than when bombs go off as was happening a year ago,"" the Socialist prime minister commented. ""It's also better than four or five years ago when we had tragic lethal attacks."" [Question: What happened after the ceasefire began?]",commented,bombs stopped; violence decreased; peace,0.7,TORQUE,"bombs stopped; violence decreased; peace
+0.7"
+"The summit is an annual event that gives business leaders from the Asia-Pacific region to participate in highly interactive discussions on regional and global economic and trade issues with APEC Economic Leaders, economists, policy makers and fellow business leaders. The theme of this year's APEC CEO Summit is: ""Entrepreneurship and Prosperity: Building a Successful Partnership in the Asia-Pacific Region."" [Question: What started happening before the leaders participate in the discussions?]",issues; is,summit; giving,0.7,TORQUE,"summit; giving
+0.7"
+"""Drugs are not only a threat to public security, but also to society as a whole,"" Tao said, pointing out that between 60 and 70 percent of HIV carriers in China had contracted the virus from sharing needles. Meanwhile, a report carried by the Xinhua news agency on Thursday demonstrated the pandemic nature of China's drug problem, which only five years ago was almost exclusively restricted to the southwestern province of Yunnan, bordering the heroin-producing Golden Triangle region. [Question: What happened before Tao said and still going on?]",threat; problem,sharing needles; HIV infection,0.85,TORQUE,"sharing needles; HIV infection
+0.85"
+"For the most part, people on both sides of the abortion issue expressed outrage at the shooting. But one abortion opponent, the Rev. [Question: What event has begun but has not finished?]",abortion; shooting,investigation,0.7,TORQUE,"investigation
+0.7"
+"We have the luxury of time to implement these measures while the economy is still strong,"" Fong said. ""The fate of the economy and the banking sector is intertwined. [Question: What event has begun but has not finished?]",is,implementing measures,0.78,TORQUE,"implementing measures
+0.78"
+"Chinese film ""The Road"", directed by Zhang Jiarui, will be among the films for competition. Three Egyptian films and two Mexican films will also be shown at the festival. [Question: What happened before the festival?]",directed,selection; announcement; programming,0.7,TORQUE,"selection; announcement; programming
+0.7"
+"It also emerged that he was forced in 1983 to repay more than 6,000 dollars misclaimed for charter air travel from a company owned by his wife, and in 1982 repaid nearly 4,200 in misclaimed travel expenses. The Labor opposition and centrist Democrats, who along with a handful of independents hold the balance of power in the Senate, want Colston to resign from politics altogether -- which would rob Howard of his upper house majority. [Question: What happened after he misclaimed more than 6,000 dollars for charter air travel from a company owned by his wife?]",repay; emerged; forced; want,forced to repay; repayment,0.97,TORQUE,"forced to repay; repayment
+0.97"
+"The agreement, which was signed by the two governments Thursday, ""demonstrates USAID/Nepal's continuing commitment to development activities in agriculture and forestry,"" it said in a press release. ""These two sectors provide income and employment opportunities for almost 80 percent of Nepal's population,"" it added. [Question: As per the press release, what is demonstrated after the signing of the agreement?]",commitment,continuing commitment to development activities in agriculture and forestry,0.97,TORQUE,"continuing commitment to development activities in agriculture and forestry
+0.97"
+"The tourism industry in Kenya has been troubled for years _ in part because of the opening of new safari destinations in South Africa, in part because of Nairobi's well-deserved reputation for street crime. Tourism industry revenues reportedly dropped to $300 million last year, down from $450 million the year before. [Question: What happened after new safari destinations were opened?]",been; years; revenues; dropped; year; year,tourism industry revenues dropped,0.93,TORQUE,"tourism industry revenues dropped
+0.93"
+"The divested Courtaulds textile operations had operating profit of #50 million on #980 million in revenue in the year ended March 31. Some analysts have said Courtaulds' moves could boost the company's value by 5% to 10%, because the two entities separately will carry a higher price earnings multiple than they did combined. [Question: What happened after Courtaulds textile operations were divested?]",had; profit; revenue; ended; said,value boost; higher price‑earnings multiple,0.78,TORQUE,"value boost; higher price‑earnings multiple
+0.78"
+In its twice-yearly forecast late last month the Organisation for Economic Cooperation and Development foresaw growth in France this year of 2.1 percent. [Question: What will happen in the future?],growth,growth,0.9,TORQUE,"growth
+0.9"
+"The import option is being pushed in addition to the captive coal mining to ensure that shortage does not lead to unutilized power generation capacity, which was witnessed last year. ""This year with 14 million tons of coal imports, as of now we will not be losing generation due to coal shortage,"" the official said. [Question: What took place last year before import option is being pushed?]",witnessed,unutilized power generation capacity,0.9,TORQUE,"unutilized power generation capacity
+0.9"
+"Israel's policy of nuclear ambiguity dates back to the early 1960s, to an agreement struck with the United States and France. Under this policy, the Jewish state would not carry out any nuclear tests and would stay silent on the issue in order to prevent a nuclear arms race in the Middle East. [Question: What happened after the agreement struck?]",policy,no nuclear tests; silence; prevent nuclear arms race,0.9,TORQUE,"no nuclear tests; silence; prevent nuclear arms race
+0.9"
+"She birdied 10 and 15 but bogeyed four of the last five in a demoralising finish. Meanwhile Kiyoshi Miyazato fired five birdies against a lone bogey to tie with Imano and Yokoo, who shot a 64 and 70 respectively. [Question: What happened before the golfer bogeyed four of the last five?]",birdied,birdied 10; birdied 15,0.97,TORQUE,"birdied 10; birdied 15
+0.97"
+"Under the deal, APL, the number two US firm, will retain its name and brand in the marketplace and will continue operations headed by its existing management in Oakland, California. ""This merger in no way lessens APL's commitment to the US flag and American seafaring labor,"" said APL president Timothy Rhein. [Question: What will begin following the deal?]",retain; continue,merger,0.6,TORQUE,"merger
+0.6"
+The Czech Republic is now aiming to join the euro in 2012 and Hungary in 2013. [Question: What event has started?],aiming,aiming,0.8,TORQUE,"aiming
+0.8"
+"Huge golden Christmas decorations remained on display outside the Dah Sing Financial Centre, watched by a large contingent of security guards. ""No one's worried about the locals -- Hong Kong people are very peaceful and have shown they can protest in a non-violent way,"" expatriate British bar owner Ken Cheshire told AFP. [Question: What have Hong Kong people been doing since display of the Christmas decorations?]",are; shown,protesting,0.9,TORQUE,"protesting
+0.9"
+"``There has been a lot of pressure, and he feels this is a family affair.'' After weeks of high-profile public sparring _ with charges of abuse, spying and treachery flying back and forth across the Florida Straits _ it would seem the chances are slim that the Gonzalez family could ever heal the wounds created by the Elian saga. [Question: What event has already finished?]",sparring; been; abuse; spying; treachery; flying; created,public sparring,0.85,TORQUE,"public sparring
+0.85"
+"More recently it has followed the growth of the militia movement and church groups that preach a message of white supremacy and anti-semitism. The new study written by Mark Potach, who edits the Southern Poverty Law Center's Intelligence Report, warns that such groups grew rapidly last year, mostly by recruiting younger members. [Question: What might continue to happen after the growth of the militia movement?]",preach,recruiting; radicalizing; violent attacks; hate propaganda; extremist networking,0.78,TORQUE,"recruiting; radicalizing; violent attacks; hate propaganda; extremist networking
+0.78"
+"Third-period sales were $2.49 billion, up from last year's $2.34 billion. Anheuser said its new strategy -- started in some markets last month and expected to be applied soon in selected markets nationwide -- will mean lower-than-anticipated earnings for the last half of 1989 and for 1990. [Question: What might happen after the new strategy started?]",expected; applied; lower-than-anticipated; earnings,lower earnings; reduced profits; earnings decline,0.85,TORQUE,"lower earnings; reduced profits; earnings decline
+0.85"
+"Then, a week or so ago, Gen. Schwarzkopf secretly picked Saturday night as the optimal time to start the offensive. The date was unaffected by the last-ditch Soviet peace initiative. [Question: What will happen in the future?]",offensive; start,start offensive,0.9,TORQUE,"start offensive
+0.9"
+"Geo TV reported that around 50 people were traveling in the coaster when the accident happened at Chalbani town, some 8 kilometers from Muzaffarabad, the capital of Pakistan-controlled Kashmir. The TV earlier reported that 10 people died in the hospital. [Question: What happened after the accident?]",reported; reported; died,10 people died in the hospital,0.9,TORQUE,"10 people died in the hospital
+0.9"
+"In fiscal 1989, Elco earned $7.8 million, or $1.65 a share. The company's stock fell $1.125 to $13.625 in over-the-counter trading yesterday. [Question: What happened before the company's stock fell?]",earned,earned $7.8 million; $1.65 a share,0.93,TORQUE,"earned $7.8 million; $1.65 a share
+0.93"
+"Olmert's spokeswoman Miri Eisin told AFP that Rome too was expected to rally behind moves by Israel and the United States to try to bring Iran into line. Iranian President Mahmud Ahmadinejad, who has threatened to wipe Israel off the map, says his country's nuclear programme is aimed at purely civilian use. [Question: What happened before Miri Eisin told AFP?]",threatened; aimed; expected,N/A,,TORQUE,
+The predominantly Moslem nation of Bangladesh said today its troops would join multinational forces in Saudi Arabia. The size of the contingent was not disclosed. [Question: What event has already happened?],said,said,0.95,TORQUE,"said
+0.95"
+"A total of about 3,000 Americans, 3,000 Britons and more than 450 Japanese are in Iraq and Kuwait. Overall, more than 2 million foreigners are in both countries. [Question: What is happening while 450 Japanese are in Iraq?]",in,are in Iraq,0.9,TORQUE,"are in Iraq
+0.9"
+"""Agents failure to respond has resulted in delays to this inquiry,"" he said. ""We will be providing the Premier League with a number of incidences where mandated processes have not been followed. [Question: What event has begun but has not finished?]",inquiry,delays,0.78,TORQUE,"delays
+0.78"
+"Four years ago in Busan, South Korea, Thai weightlifters returned with three silver medals, including one from Pawina in the women's 69kg category. ""It's hard to say that the gold medal is a lock. [Question: What event has already finished?]",returned,Asian Games,0.78,TORQUE,"Asian Games
+0.78"
+"The elderly ex-dictator, who has been under house arrest off and on for the past few years, was again placed under house arrest last week by a judge investigating the disappearance of two of the thousands of people who went missing under his regime. Pinochet ruled Chile for 17 years after seizing power in a 1973 military coup. [Question: what happened before the investigation started?]",disappearance; missing; ruled; seizing; coup; been,seized power; military coup; ruled Chile,0.93,TORQUE,"seized power; military coup; ruled Chile
+0.93"
+"""The Air Force Office of Special Investigations and base officials are assisting in the investigation with the Okinawa City Police,"" the statement said. No further details are available, it said, adding: ""The incident is still under investigation."" [Question: What event has already finished?]",said; said,incident,0.95,TORQUE,"incident
+0.95"
+"Milton Roy recently fended off unsolicited overtures from Thermo Electron Corp., a Waltham, Mass., maker of biomedical products. Milton Roy disclosed in May that it was approached for a possible acquisition by Thermo Electron, which agreed to purchase Milton Roy's liquid-chromatography line for $22 million in February. [Question: What happened before the agreement?]",approached,approached for possible acquisition,0.93,TORQUE,"approached for possible acquisition
+0.93"
+"``First Fruits of the Monstrousness,'' read the full-page editorial on the front of Friday's edition of the Communist Party daily Granma. It offered more details and criticisms of the perceived treatment that Elian's grandmothers, Mariela Quintana and Raquel Rodriguez, received from O'Laughlin, the Miami relatives and other anti-Castro Cubans during the encounter. [Question: What began during the encounter?]",treatment; received,criticism,0.6,TORQUE,"criticism
+0.6"
+"She also said the bombings would not prevent the United States from building ""a strong new relationship with a new Africa."" Egyptian Ambassador Ahmed Maher el-Sayed, on behalf of the African envoys, condemned the ""cowardly, criminal and tragic"" bombings. [Question: What happened after the African envoys?]",said; building; condemned,condemned,0.9,TORQUE,"condemned
+0.9"
+"Memorial director Arseny Roginsky, quoted by the Russian news website Vesti, said it was ""a complete check on everything concerned with our sources of funding"". He insisted that the NGO law ""will not change our position at all"". [Question: What event has already finished?]",quoted; said; was; check; insisted,check,0.85,TORQUE,"check
+0.85"
+"``If the Lebanese government will cooperate with us in making appropriate security arrangements in south Lebanon, we will be happy to get out of Lebanon in the framework of implementation of U.N. Resolution 425,'' Netanyahu told his ministers. [Question: What does Netanyahu say will occur after the Lebanese cooperates?]",be; get; implementation,get out of Lebanon,0.93,TORQUE,"get out of Lebanon
+0.93"
+"U.S. Secretary of State Madeleine Albright headed Tuesday to East Africa, seeking to demonstrate American support after the bombings that targeted U.S. embassies, but mostly claimed African lives. ``To America's embassy personnel in Nairobi and Dar es Salaam, I will bring a message of solidarity in their sorrow, admiration for their courage and support for their continued efforts on behalf of our country,'' Albright said Monday before leaving Andrews Air Force Base, Maryland . [Question: What happened during Tuesday?]",headed; seeking,headed,0.9,TORQUE,"headed
+0.9"
+Ministers also agreed to increase their budget payments for space research by 2.5 percent per year until 2010 to take account of inflation. The ESA budget for space research is 500 million euros and is paid for by all member states of ESA. [Question: What will continue after 2010?],research; payments; inflation; paid,budget payments for space research,0.9,TORQUE,"budget payments for space research
+0.9"
+"The company has five other U.S. plants, including a modern facility at its Battle Creek headquarters known as Building 100, which is to add bran-processing and rice-processing capacity next year. General Mills, meanwhile, finds itself constrained from boosting sales further because its plants are operating at capacity. [Question: What will happen in the future?]",bran-processing; add; rice-processing,add bran‑processing capacity; add rice‑processing capacity,0.93,TORQUE,"add bran‑processing capacity; add rice‑processing capacity
+0.93"
+"Alarcon, former Cuban ambassador to the United Nations, dismissed suggestions by some U.S. politicians and Elian's relatives in Miami that Elian's father travel from Cardenas, Cuba, to Miami to pick up the boy. He said Cuba has not prohibited Gonzalez from going to Miami to retrieve Elian, American attorneys -- and even American officials -- have counseled against it. [Question: What event has begun but has not finished?]",prohibited,legal battle,0.6,TORQUE,"legal battle
+0.6"
+"The Rules and Administration Committee angered Democrats by voting Thursday to appoint a top Republican lawyer as head of an expanded investigation into Senator Mary Landrieu's narrow victory last November. Landrieu won by a mere 5,788 votes over Republican rival Louis ""Woody"" Jenkins, who has charged that the local Democratic machine committed widespread fraud, including paying voters in impoverished New Orleans neighborhoods to vote more than once. [Question: What event has already finished?]",angered; voting; appoint; victory; won; charged; committed; fraud; paying; vote,Landrieu's narrow victory,0.85,TORQUE,"Landrieu's narrow victory
+0.85"
+"In the summons, known as a ""beit din,"" World Council members accuse Bronfman of ""misrepresenting"" the Jewish community and demand that he cease all current negotiations until their grievances are resolved. ""We are dealing with the spoils of the war, the ashes of our forefathers,"" Stauber said. [Question: What must happen until grievances are resolved?]",cease,cease negotiations,0.97,TORQUE,"cease negotiations
+0.97"
+"A senior law enforcement source tells CNN, there is a lot of circumstantial evidence and it would be extraordinary to have all these bits and pieces and there not be a connection. And law enforcement sources say they can't ignore letters penned under the name army of god. [Question: What happened before a senior law enforcement spoke to CNN?]",penned,law enforcement sources said; letters penned under the name army of god  ,0.78,TORQUE,"law enforcement sources said; letters penned under the name army of god  
+0.78"
+"Reno said the state court had no jurisdiction in the case, but that the Miami relatives should be able to make their case in federal court. Elian's paternal great-uncle, Lazaro Gonzalez, is fighting to keep the boy with him in Miami, saying he can give the child a better life outside Cuba. [Question: What event has already finished?]",said,state court jurisdiction  ,0.7,TORQUE,"state court jurisdiction  
+0.7"
+Four years of talks have largely stalled over the degree to which rich countries offer financial support to their agriculture sectors. France is the biggest recipient of EU farm subsidies. [Question: What event has already finished?],stalled,talks,0.9,TORQUE,"talks
+0.9"
+"Yadav, a wily politician, Monday refused to step down after the CBI on Sunday implicated him and 55 other politicians and bureaucrats in the 271-million-dollar financial corruption scandal. Reports Tuesday said the Indian home ministry will rush federal troops to the crime-prone eastern state because of fears of a backlash. [Question: What started before the reports came out?]",implicated; scandal; refused,implicated,0.78,TORQUE,"implicated
+0.78"
+"Hariri was to have traveled to Edmonton Saturday for a meeting with the provincial premier, Ralph Klein, and other meetings with business leaders. Canadian officials said Hariri had a hectic schedule following his arrival here Thursday directly from Moscow. [Question: What happened after Hariri's arrival in Moscow?]",said,arrival; hectic schedule,0.9,TORQUE,"arrival; hectic schedule
+0.9"
+"Armco shares closed unchanged at $10.625 in composite trading on the New York Stock Exchange. National Intergroup, which owns 50% of the nation's sixth largest steelmaker -- National Steel Corp. -- posted net income for the fiscal second-quarter of $8.6 million, or 33 cents a share, compared with a net loss of $50.3 million. [Question: What is happening now?]",owns,closed; posted,0.9,TORQUE,"closed; posted
+0.9"
+"``Stopping clinic violence is going to be a major theme of our campaign from now to Election Day.'' In Sunday's debate against Vacco, Spitzer attacked him for failing to enforce a court order in 1992 against anti-abortion protesters who had blocked the entrance to a clinic. [Question: What event has already finished?]",debate; failing; attacked; order; blocked,court order,0.8,TORQUE,"court order
+0.8"
+"The long-term goal in energy conservation is to halt the growth of total primary energy consumption and to bring about a falling trend. In the strategy, the government promises to invest in renewable energy sources, save energy and reduce greenhouse gas emissions. [Question: What will happen before the goal is reached?]",halt; growth; consumption; falling; promises; invest; save; reduce,invest; save; reduce,0.97,TORQUE,"invest; save; reduce
+0.97"
+"According to the police, a ""top-level VIP membership"" sold at 3,999 yuan (500 U.S. dollars). Commercial space on the website sold for 1,000 to 3,000 yuan (125 to 375 U.S. dollars) per month. [Question: What event has begun but has not finished?]",membership,investigation,0.78,TORQUE,"investigation
+0.78"
+"Most of the 20 industrial parks inspected had failed to carry out environmental assessments before construction. Central departments would send more inspectors this month to investigate local environmental protection, but Lu declined to identify the areas to be investigated. [Question: What will Central departments do after the construction of the industrial parks?]",send; investigate; investigated,send more inspectors; investigate local environmental protection,0.9,TORQUE,"send more inspectors; investigate local environmental protection
+0.9"
+"At the time, government scientists had studied the brains of 444 hunting hounds that had died after showing signs of distress associated with BSE, and found abnormalities called fibrils, tiny fibres first noticed by scientists studying scrapie, a spongiform encephalopathy in sheep. The presence of fibrils, said the scientists, confirmed that some of the brains showed signs of a canine equivalent of mad cow disease. [Question: What event has already finished?]",time; studied; died; showing; distress; found; abnormalities; noticed; studying; said; confirmed; showed; associated,studied; died,0.78,TORQUE,"studied; died
+0.78"
+"On Tuesday, he inspected a site in southern France that is to host a future experimental nuclear reactor which China is participating in. On Wednesday, he was to tour a satellite facility in Cannes, on the French Riviera, belonging to Alcatel. [Question: What happened before the proposed tour on Wednesday?]",inspected,inspected a site,0.97,TORQUE,"inspected a site
+0.97"
+"The British troops on display Tuesday admitted they would miss Hong Kong, one of the choice postings in the shrinking foreign circuit of the British Army. ""It's a historical event and a great honour to be the last ones here. [Question: What event has already finished?]",admitted,British deployment; Hong Kong posting,0.92,TORQUE,"British deployment; Hong Kong posting
+0.92"
+"The six-nation nuclear talks are set to resume in Beijing on Monday, 13 months after the North walked out. They involve the two Koreas, the United States, China, Japan and Russia. [Question: What event has begun but has not finished?]",talks; involve,six-nation nuclear talks,0.93,TORQUE,"six-nation nuclear talks
+0.93"
+"BAGHDAD, Iraq (AP)_ An American leader of a U.N. weapons inspection team resumed work in Iraq Friday, nearly two months after his team was effectively blocked. Scott Ritter led his team on a 10-hour tour of three suspected weapons sites classified as ``sensitive'' by the Iraqi authorities, U.N. spokesman Alan Dacey said. [Question: What happened after the team was blocked?]",resumed; led; tour; said,resumed work,0.93,TORQUE,"resumed work
+0.93"
+"First of America, which now has 45 banks and $12.5 billion in assets, announced an agreement to acquire the Peoria, Ill., bank holding company in January. Midwest Financial has $2.3 billion in assets and eight banks. [Question: What will happen in the future?]",acquire,acquire,0.85,TORQUE,"acquire
+0.85"
+"Elsewhere in the NFC East, both the New York Giants and Philadelphia improved to 7-6, the Giants with a 27-13 victory over Carolina and Philadelphia with a 21-19 victory over Washington. For the Eagles the game was the first of a tough three-game road trip against division rivals. [Question: What will the Eagles continue doing after their 21-19 victory?]",trip,road trip,0.78,TORQUE,"road trip
+0.78"
+"The Financial Times 100-share index shed 47.3 points to close at 2082.1, down 4.5% from the previous Friday and 6.8% from Oct. 13, when Wall Street's plunge helped spark the current weakness in London. The 30-share index settled 42.0 points lower at 1678.5. [Question: What happened before the close?]",shed; plunge; helped; spark,shed; settled,0.9,TORQUE,"shed; settled
+0.9"
+"They also agreed on the recommendations of the cross-sectoral APEC Symposium on Response to Outbreak of Avian Influenza and Preparedness for a Human Health Emergency held in San Francisco in this July, which sought to minimize the threats to animal and human health, including the threat of transmission from animal to human, as well as the economic consequences of avian and other pandemic influenza. The ministers also instructed all APEC fora to continue to work cooperatively with APEC's Health Task Force and Task force on Emergency Preparedness to achieve this goal. [Question: What has happened after the outbreak of avian influenza?]",agreed; Symposium; held; sought; instructed,agreed on recommendations; sought to minimize threats; instructed cooperative work,0.92,TORQUE,"agreed on recommendations; sought to minimize threats; instructed cooperative work
+0.92"
+"``The mother was practically kidnapped along with the boy'' to make the late-November trip, Castro said. The Cuban leader said Elian had been especially loved by his parents because the mother had earlier suffered seven miscarriages. [Question: What event has already finished?]",miscarriages; suffered; loved; said; said; trip; make; kidnapped,kidnapped,0.78,TORQUE,"kidnapped
+0.78"
+"Shen reiterated China's hopes for a peaceful reunification with Taiwan, but warned: ""If the question of independence arises on the island or a foreign force interferes in Taiwan issues, we will be forced to adopt other necessary measures."" He also attacked Washington for its continued arms sales to Taipei. [Question: What was taking place after Shen reiterated China's hopes?]",warned; attacked,warning; criticism of Washington's arms sales,0.78,TORQUE,"warning; criticism of Washington's arms sales
+0.78"
+"Even as Saddam Hussein was searching for a ploy to ease his isolation, though, the international pressure against him clicked up another notch. The White House yesterday disclosed that Kuwait's ousted government has formally asked the U.S. to enforce the total trade embargo the United Nations has imposed on Iraq, allowing the U.S. and other nations to immediately begin stopping ships carrying Iraqi goods. [Question: What was happening while there was international pressure against Saddam Hussein?]",searching; isolation,searching; ploy; isolation,0.9,TORQUE,"searching; ploy; isolation
+0.9"
+"Treviso, promoted from Serie B last season, could drop to bottom of the table on Sunday if fellow strugglers Lecce take at least a point from their fixture away to Udinese. Fiorentina were awarded a penalty on the half hour when Alberto Giuliatto fouled Alessandro Gamberini as a free-kick came into the area. [Question: What could happen after Lecce take a point?]",drop,drop to bottom of the table,0.97,TORQUE,"drop to bottom of the table
+0.97"
+"""Our intention is to begin ongoing negotiations in order to advance the peace process that we want so much,"" Olmert said Sunday at the opening of a weekly cabinet meeting. In a phone call with Egyptian President Hosni Mubarak, also on Sunday, Olmert said his meeting with Abbas ""could mark an opening for a better future,"" his office said. [Question: What happened after the process?]",opening; meeting; call; said; meeting; said,meeting; opening,0.7,TORQUE,"meeting; opening
+0.7"
+"Speculative investors, betting on an imminent clash between Ford and GM, pushed up Jaguar's share price five pence (eight U.S. cents) to a near-record 720 pence ($11.60) in late trading on London's stock exchange yesterday. Since Tuesday, the shares have gained nearly 4%. [Question: What event has already finished?]",pushed; near-record; trading; gained,late trading,0.9,TORQUE,"late trading
+0.9"
+"In 1993 the cost was put at 8.9 billion marks -- with 5.6 billion marks of this coming from the federal state. Meanwhile, the expected returns have been revised downward. [Question: What event has already finished?]",revised; cost; put; coming,cost estimation,0.7,TORQUE,"cost estimation
+0.7"
+"Which airport is located in Maine, Sacramento International Airport or Knox County Regional Airport?",Knox County Regional Airport,Knox County Regional Airport.  ,0.99,HotpotQA,"Knox County Regional Airport.  
+0.99"
+Peter Hobbs founded the company that is based in what town in Manchester?,Failsworth,N/A,,HotpotQA,
+What direction does the river that Austrolebias bellotti are found in flow?,north to south,The river flows southward.  ,0.6,HotpotQA,"The river flows southward.  
+0.6"
+Were both Gabriela Mistral and G. K. Chesterton authors?,yes,"Yes, both Gabriela Mistral and G. K. Chesterton were authors.  ",0.99,HotpotQA,"Yes, both Gabriela Mistral and G. K. Chesterton were authors.  
+0.99"
+"What city, other than San Jose del Cabo, is at the the southern tip of Baja California Peninsula and is also encompassed in the Los Cabos Municipality?",Cabo San Lucas,Cabo San Lucas  ,0.97,HotpotQA,"Cabo San Lucas  
+0.97"
+Sky High starred the actress who is married to which actor?,John Travolta,N/A,,HotpotQA,
+"What event occured at the Red Bull Arena in Salzburg, Austria and Switzerland in 2008?",UEFA Euro 2008,UEFA Euro 2008 football tournament matches were held at the Red Bull Arena in Salzburg (Austria),,HotpotQA,UEFA Euro 2008 football tournament matches were held at the Red Bull Arena in Salzburg (Austria)
+Sir Thomas Kyriell was executed after which battle from the Wars of the Roses?,Second Battle of St Albans,The Battle of Tewkesbury.  ,0.78,HotpotQA,"The Battle of Tewkesbury.  
+0.78"
+"Where is the fruit, part of the flowering plant species in the palm family Arecaceae, most popular?",Malta,In tropical coastal regions of Southeast Asia and the Pacific.  ,0.6,HotpotQA,"In tropical coastal regions of Southeast Asia and the Pacific.  
+0.6"
+"Undertow is a steel spinning roller coaster, built by Maurer Söhne, located at which oceanfront amusement park in Santa Cruz, California?",Santa Cruz Beach Boardwalk,Santa Cruz Beach Boardwalk  ,0.99,HotpotQA,"Santa Cruz Beach Boardwalk  
+0.99"
+An actress nominated for 20 academy awards was featured on a TV series about genealogical research of 12 americans hosted by whom?,Professor Henry Louis Gates,Henry Louis Gates Jr.  ,0.71,HotpotQA,"Henry Louis Gates Jr.  
+0.71"
+Which movement was lead by the poet who is included among those David S. Reynolds is an expert on?,transcendentalist,The free‑verse movement.  ,0.62,HotpotQA,"The free‑verse movement.  
+0.62"
+"Al-Battani and Ibn al-Shatir, have which mutual occupation?",astronomer,They were both astronomers.  ,0.97,HotpotQA,"They were both astronomers.  
+0.97"
+"""Lisa's Rival"" is the second episode of ""The Simpsons""' sixth season, which American actress guest stars as Allison Taylor, a new student at Springfield Elementary School?",Winona Ryder,Winona Ryder,0.97,HotpotQA,"Winona Ryder
+0.97"
+Who introduced the Ultimate Boeing 747 gambit in response to the idea that there must be a god if there appears to be a deliberate design in the natural world?,Richard Dawkins,Michael Ruse.  ,0.7,HotpotQA,"Michael Ruse.  
+0.7"
+"Which magazine was published weekly vs every weekday, Aeon or Life?",Life,N/A,,HotpotQA,
+What is the current name of the club that Agustin Lionel Allione plays for?,Esporte Clube Bahia,Club Atlético Tigre,,HotpotQA,Club Atlético Tigre
+The composer of Massu Engira Masilamani began his musical career when he composed the film score for what movie?,"""Aravindhan""",Aravindhan  ,0.9,HotpotQA,"Aravindhan  
+0.9"
+"Who has more scope of profession, E. L. Doctorow or Julia Peterkin?","Edgar Lawrence ""E. L."" Doctorow",E. L. Doctorow  ,0.8,HotpotQA,"E. L. Doctorow  
+0.8"
+"When was the military branch, for which Christian Roy Kaldager served, established?",10 November 1944,10 November 1944  ,0.85,HotpotQA,"10 November 1944  
+0.85"
+When the group who murdered Jaime Zapata form their own criminal organization?,February 2010,2010  ,0.6,HotpotQA,"2010  
+0.6"
+"In which city was the Symphony for Classical Orchestra in B-flat major completed by Harold Shapero who undoubtedly derived a fair amount from the American composer, teacher and writer known as the 'Dean of American Composers'?",Massachusetts,"Cambridge, Massachusetts.  ",0.78,HotpotQA,"Cambridge, Massachusetts.  
+0.78"
+"What character did this actor, who also played a supporting role in Sleepy Hollow, play in the final six Harry Potter films?",Professor Albus Dumbledore,Albus Dumbledore.  ,0.93,HotpotQA,"Albus Dumbledore.  
+0.93"
+What T.V. show did the episode Colonel Homer air on?,The Simpsons,The Simpsons.  ,0.99,HotpotQA,"The Simpsons.  
+0.99"
+ Chairmen of the Bored is an album that references a joke made by a cast member of what series?,Saturday Night Live,N/A,,HotpotQA,
+STS-7 was NASA's seventh Space Shuttle mission carried the first American woman in space in 1983 who name was?,Sally Kristen Ride,Sally Ride,0.99,HotpotQA,"Sally Ride
+0.99"
+"Shottenstein Store Corp's primary holders are Jerome Shottenstein, and what other entrepreneur that was born in 1954?",Jay Schottenstein,N/A,,HotpotQA,
+"Which is from farther west, Woman's Viewpoint or Al Jamila?",Woman's Viewpoint,Woman's Viewpoint  ,0.7,HotpotQA,"Woman's Viewpoint  
+0.7"
+What was the duck character's name in the Disney cartoon with the music that sounded like The Mexican Hat Dance?,Donna,Donald Duck  ,0.62,HotpotQA,"Donald Duck  
+0.62"
+"The singer who released the single ""Kid Stuff"" in 1973 is best known for what other song?",The Teddy Bear Song,N/A,,HotpotQA,
+What instrument did Shannon Leto play in his band Thirty Seconds to Mars?,"drums, percussion","He was the drummer, playing drums.  ",0.99,HotpotQA,"He was the drummer, playing drums.  
+0.99"
+In which year was the farming simulation video game published by Chucklefish released for Microsoft Windows?,2016,2016  ,0.78,HotpotQA,"2016  
+0.78"
+"Which Australian locality is 110 km north form the city affectionally named ""The City""?",Kangaroo Head,N/A,,HotpotQA,
+What musical did Dan Domenech perform in that was based on a book by Jack Murphy and Gregory Boyd?,Wonderland,N/A,,HotpotQA,
+When did the singer of Mestarit salilla serve in the Finnish Parliament?,from 2003 to 2007,N/A,,HotpotQA,
+Along what road was the former mall near White Flint station located?,Rockville Pike,It was located along Rockville Pike.  ,0.93,HotpotQA,"It was located along Rockville Pike.  
+0.93"
+"Who lived longer, Lothar von Richthofen or  Wolfram Freiherr von Richthofen ?",Wolfram Freiherr von Richthofen,Wolfram Freiherr von Richthofen lived longer.  ,0.97,HotpotQA,"Wolfram Freiherr von Richthofen lived longer.  
+0.97"
+"Which court case occurred first, Phillips v. Martin Marietta Corp. or United States v. Miller",United States v. Miller,United States v. Miller  ,0.99,HotpotQA,"United States v. Miller  
+0.99"
+Andrew Jaspan is the co-founder of a website that launched in which year ?,2011,2011  ,0.9,HotpotQA,"2011  
+0.9"
+"The 2009 Louisiana Tech Bulldogs football team was coached by someone in their third year with the program, and who currently serves as the wide receivers coach for what NFL team?",Dallas Cowboys,N/A,,HotpotQA,
+Were Richard Bach and Paul Celan from the same country?,no,No.,0.97,HotpotQA,"No.
+0.97"
+Ernest Davies' successor was born on what date?,10 October 1940,30 June 1910  ,0.6,HotpotQA,"30 June 1910  
+0.6"
+"When was the delusional anarchist from the television film ""The Revenge of Al Capone"" born?","September 7, 1900",June 12 1945  ,0.25,HotpotQA,"June 12 1945  
+0.25"
+Mandarin Oriental Macau is a hotel that overlooks what man-made lake in Macau?,Nam Van Lake,Nam Van Lake  ,0.93,HotpotQA,"Nam Van Lake  
+0.93"
+"Who was drafted into the 2009 NFL Draft, during the he seventy-fourth annual meeting of National Football League (NFL)?",Darrius Ramar Heyward-Bey,Matthew Stafford  ,0.97,HotpotQA,"Matthew Stafford  
+0.97"
+Mustang television and cinema promoted which brand of Irish dry stout beer?,Guinness,Guinness  ,0.86,HotpotQA,"Guinness  
+0.86"
+"What is one of the many universities that Lennart Anderson taught at that is located in Upper Manhattan, New York City?",Columbia University,Columbia University  ,0.97,HotpotQA,"Columbia University  
+0.97"
+"For what team is the cricket bowler, who is considered to be the fastest, play a role of captain?",Karachi Dolphins,N/A,,HotpotQA,
+"What was the nationality of the comedian who died the day after the final filming of a show featuring ""Father Ted?""",Irish,Irish  ,0.86,HotpotQA,"Irish  
+0.86"
+WikiLeak: Inside Julian Assange's War on Secrecy tells the story of a leak by a soldier born with what full name?,Bradley Edward Manning,Bradley Edward Manning  ,0.78,HotpotQA,"Bradley Edward Manning  
+0.78"
+"In the 2004-05 Season, The Houston Rockets acquired a center from Chicago Bulls who played how many seasons of NBA ?",18 seasons,N/A,,HotpotQA,
+David Snoke co-published a paper in 2004 with what Lehigh University professor?,Michael J. Behe,N/A,,HotpotQA,
+"The Adventures of Elmo in Grouchland was a 1999 film which involved the use of puppets from a puppeteer who was also the voice of what character from ""Star Wars""?",Yoda,Yoda  ,0.85,HotpotQA,"Yoda  
+0.85"
+"Which company is in the discount travel market, The Walt Disney Company or Priceline.com?",Priceline.com,Priceline.com  ,0.99,HotpotQA,"Priceline.com  
+0.99"
+"Juliana Maria of Brunswick-Wolfenbüttel is a descendant of the King of what country, who took over its throne in 1814?",Norway,N/A,,HotpotQA,
+"Chris Bosh took over the role of fan favorite, and face/leader of the Raptors from the man who played for what team?",Sacramento Kings,Toronto Raptors  ,0.92,HotpotQA,"Toronto Raptors  
+0.92"
+"What flowering plant, first classified by Carl Linnaeus in 1753, produces   Penicillium copticola?",Cannabis sativa,Coptis trifolia  ,0.78,HotpotQA,"Coptis trifolia  
+0.78"
+What was the name of a United Stated Army officer during World War 2 and served again later in the Korean war and was later featured on a HBO miniseries where his character was played by played by Matthew Settle?,Ronald Speirs,N/A,,HotpotQA,
+"Which band currently has more members, Last Dinosaurs or Primal Scream?",Primal Scream,They have the same number of members (both bands currently have four members).  ,0.85,HotpotQA,"They have the same number of members (both bands currently have four members).  
+0.85"
+What building in the 14th largest city in Georgia was a work of architect Lloyd Barton Greer?,Barber-Pittman House,N/A,,HotpotQA,
+Jean-Baptiste Andrea wrote and directed what 2003 French horror drama that was remade in 2014?,Dead End,N/A,,HotpotQA,
+When was the founder of The City of Oxford High School for Boys born?,7 April 1836,1845  ,0.22,HotpotQA,"1845  
+0.22"
+"South Korean actress Bae Doona, known for her role in 2000 television series ""Look Back in Anger"", had an English-speaking role in which 2012 film directed by the Wachowski siblings?","""Cloud Atlas""",Cloud Atlas  ,0.97,HotpotQA,"Cloud Atlas  
+0.97"
+Uyirodu Uyiraga was a film that starred the Indian actor who participated in what 2004 sporting event?,British Formula 3 season,N/A,,HotpotQA,
+The Creators and Best Boy were both produced before 2000 ?,no,No,0.0,HotpotQA,"No
+0."
+what does Weihui and Weinan have in common?,China,Both Weihui and Weinan are cities located in China.  ,0.9,HotpotQA,"Both Weihui and Weinan are cities located in China.  
+0.9"
+What is the name of the chartered trade company in which Jan Valckenburgh served as an assistant trader?,Dutch West India Company,Dutch West India Company  ,0.92,HotpotQA,"Dutch West India Company  
+0.92"
+What type of institution are Kathmandu University and Brown University?,University,Both are universities (higher education institutions).  ,0.99,HotpotQA,"Both are universities (higher education institutions).  
+0.99"
+"Which league does the team, where Alan McNeill played for in Oldham, compete in?",League One,Oldham Athletic competes in the English Football League Two (EFL League Two).  ,0.78,HotpotQA,"Oldham Athletic competes in the English Football League Two (EFL League Two).  
+0.78"
+"Which filmmaker created the award winning film ""La battaglia di Algeri"", Takashi Miike or Gillo Pontecorvo?",Gillo Pontecorvo,Gillo Pontecorvo  ,0.99,HotpotQA,"Gillo Pontecorvo  
+0.99"
+Were the Pecom 32 and the Apple I both produced before 1990?,yes,Yes,0.97,HotpotQA,"Yes
+0.97"
+"which Magazine was founded first, First for Women or Hennes ?",Hennes,First for Women was founded before Hennes.  ,0.4,HotpotQA,"First for Women was founded before Hennes.  
+0.4"
+What TV network founded in 1984 is co owned by the Hearst Corporation and Disney?,Arts and Entertainment Network,A&E  ,0.97,HotpotQA,"A&E  
+0.97"
+The best know of Austrian author Leopold von Sacher-Masoch's works was made into a French film in what year?,2013,1969  ,0.78,HotpotQA,"1969  
+0.78"
+"What is the 2011 census population of this village and civil parish in Lincolnshire, England, where High Dyke road runs between it and Colsterworth?","1,647",N/A,,HotpotQA,
+What year was the football player drafted that Nick Collin intercepted in Super Bowl XLV?,2004,2004,0.85,HotpotQA,"2004
+0.85"
+Are both tennis players Kathy Jordan and Daniel Vacek from the same country?,no,"No, they are from different countries.  ",0.97,HotpotQA,"No, they are from different countries.  
+0.97"
+"Chuck Jones directed a Warner Bros version of Jack and the Beanstalk in 1955. Elmer Fudd was the giant, and who played Jack?",Daffy Duck,Bugs Bunny  ,0.97,HotpotQA,"Bugs Bunny  
+0.97"
+What is one of the oldest beverages humans have produced with recipes found in Sumerian writings?,Beer,Beer  ,0.99,HotpotQA,"Beer  
+0.99"
+What German theoretical physicist has a chemistry rule named after him?,Arnold Johannes Wilhelm Sommerfeld,Friedrich Hund.  ,0.96,HotpotQA,"Friedrich Hund.  
+0.96"
+What U.S. Navy battleship was in the movie Under Siege and was also the last battleship commissioned by the United States?,"USS ""Missouri""",USS Missouri (BB‑63)  ,0.93,HotpotQA,"USS Missouri (BB‑63)  
+0.93"
+Where does the hockey team based in for which Darrel Scoville played in National Hockey League in addition to Calgary Flames?,"Columbus, Ohio","New York (Long Island, New York)  ",0.78,HotpotQA,"New York (Long Island, New York)  
+0.78"
+"During the 1985 World Games that took place at Slazenger Racquet Club, what days did it take place?",July 25 to August 4,"July 20 – July 30, 1985.  ",0.73,HotpotQA,"July 20 – July 30, 1985.  
+0.73"
+What UNESCO World Heritage Site is located in Tamar Ziskind's hometown?,Bahá'í World Centre,Old City of Jerusalem and its Walls.  ,0.55,HotpotQA,"Old City of Jerusalem and its Walls.  
+0.55"
+"Which British Olympic gold medalist participated in a boxing club, located on the Lancaster West Estate, during his youth?",James DeGale,N/A,,HotpotQA,
+Who is younger Stanley Kwan or Atom Egoyan?,Atom Egoyan,Atom Egoyan  ,0.93,HotpotQA,"Atom Egoyan  
+0.93"
+"How tall (in meters) is the mountain which was named after a pilot from the airline based in Calgary, Alberta, Canada?","1,750",N/A,,HotpotQA,
+"When was the political party, which along with the Socialist Workers Movement are the chief contributors to the United Left in Argentina, founded",1918,N/A,,HotpotQA,
+"In 2014, Clemson Tigers football team were invited to the Russell Athletic Bowl where they defeated a team led by which coach ?",Bob Stoops,Bob Stoops  ,0.9,HotpotQA,"Bob Stoops  
+0.9"
+What journalist born in 1966 served on the staff of a satirical monthy magazine published from 1986 to 1998?,Mark Strauss,N/A,,HotpotQA,
+Were the bands Adam Again and Mastodon active at the same time?,no,"Yes, both bands were active in the year 2000.  ",0.73,HotpotQA,"Yes, both bands were active in the year 2000.  
+0.73"
+What do the roots that the alternative name of a Haugtusse derive from mean?,"""covered"" or ""secret""","The alternative name “Haugfrøken” comes from the roots haug (“mound, barrow”) and frøken (“miss/maiden”), meaning “mound maiden.”  ",0.78,HotpotQA,"The alternative name “Haugfrøken” comes from the roots haug (“mound, barrow”) and frøken (“miss/maiden”), meaning “mound maiden.”  
+0.78"
+In what year was the University that Clive Baldock received his Masters of Tertiary Education Management degree from founded?,1853,1991  ,0.7,HotpotQA,"1991  
+0.7"
+Name the country where both Aynalıkavak Palace and Italian Synagogue are located in.,Turkey,Turkey,0.99,HotpotQA,"Turkey
+0.99"
+" Semi-Tough is a 1977 American comedy film starring  an American actor and host for ""Tattletales"", ""Super Password"" and what other show?","Win, Lose or Draw",N/A,,HotpotQA,
+What year did the second series of the show Colin Morgan is best known for begin?,2009,2009  ,0.97,HotpotQA,"2009  
+0.97"
+Al Hirt played the theme song for the ABC US television series starring whom?,Van Williams,N/A,,HotpotQA,
+"The movie ""3 Ninjas"" was released by which American film distribution label of Walt Disney Studios Motion Pictures?",Touchstone Pictures,Buena Vista Pictures Distribution.  ,0.96,HotpotQA,"Buena Vista Pictures Distribution.  
+0.96"
+In which town was the subject of the nursery rhyme with Roud Fold Song Index number of 7622 born in?,Sterling,N/A,,HotpotQA,
+Which Australian actress and musician starred in little Miss Sunshine ?,Toni Collette,Toni Collette  ,0.97,HotpotQA,"Toni Collette  
+0.97"
+Who was the African-American woman that succeeded Catherine Waynick as bishop?,Jennifer Baskerville-Burrows,N/A,,HotpotQA,
+Paul Pumphrey went to high school with a former WWE wrestler who was born in what year?,1974,N/A,,HotpotQA,
+At what university in Georgia is Scott Lilienfeld a psychology professor?,Emory University,Emory University.  ,0.97,HotpotQA,"Emory University.  
+0.97"
+The professional ice hockey league that the Peoria Rivermen are part of is based in what state?,North Carolina,North Carolina  ,0.71,HotpotQA,"North Carolina  
+0.71"
+"Which national park is located in more provinces, Sierra Nevada National Park or Monfragüe?",Sierra Nevada National Park,Sierra Nevada National Park.  ,0.85,HotpotQA,"Sierra Nevada National Park.  
+0.85"
+"""Gone with the Wind"" is set during what era?",American Civil War and Reconstruction Era,The story takes place during the American Civil War era (the 1860s).  ,0.99,HotpotQA,"The story takes place during the American Civil War era (the 1860s).  
+0.99"
+"The actor that played Sandy Stumphill in the sitcom ""Flo"" also stars with Mary McDonnell and Alfre Woodard in a 1992 film written by who?",John Sayles,N/A,,HotpotQA,
+Which store located in the Gateway Fashion Mall is currently in bankruptcy liquidation?,Hancock Fabrics,Sears  ,0.55,HotpotQA,"Sears  
+0.55"
+What film type has been around since the early years of Korean cinema and includes Whispering Cooridors as an example?,Korean horror,Horror film.  ,0.78,HotpotQA,"Horror film.  
+0.78"
+"Pauline was a journalist and the second wife of which American novelist, short story writer, and journalist?",Ernest Hemingway,Ernest Hemingway  ,0.99,HotpotQA,"Ernest Hemingway  
+0.99"
+"Which Premier League team does the Nike Hypervenom-wearing, Belgian footballer play for?",Manchester United,Aston Villa  ,0.55,HotpotQA,"Aston Villa  
+0.55"
+"Who was formerly editor-in-chief of Marvel Comics, Arnold Bennett or Stan Lee ?",Stan Lee,Stan Lee  ,0.99,HotpotQA,"Stan Lee  
+0.99"
+In which film did Shirley Henderson appear with Tilda Swinton,Okja,N/A,,HotpotQA,
+"""I'm a Little Bit Country"" is the fourth episode of the seventh season of a tv series created by what two people?",Trey Parker and Matt Stone,N/A,,HotpotQA,
+"What was the famous work of an astronomer, mathematician and physicist originally from a city in modern-day Uzbekistan and is one of the oldest inhabited cities in Central Asia ?",Zij-i-Sultani,The famous work is the astronomical star catalogue “Zij‑i Sultani” (also known as the Zij‑i Ulugh Beg).  ,0.93,HotpotQA,"The famous work is the astronomical star catalogue “Zij‑i Sultani” (also known as the Zij‑i Ulugh Beg).  
+0.93"
+Who inspired a themed area included a dark ride attraction with the Kasvapan River?,James Cameron,N/A,,HotpotQA,
+Where was the second most penalized brawl in the NBA?,Madison Square Garden,Madison Square Garden in New York City.  ,0.62,HotpotQA,"Madison Square Garden in New York City.  
+0.62"
+Who directed the film in which Matthew Lintz plays Matty?,Chris Columbus,William Bindley  ,0.7,HotpotQA,"William Bindley  
+0.7"
+How many acres of land is the Box Moor Trust responsible for to include the parishes of Hemel Hempstead and Bovingdon?,500 acres,800 acres  ,0.6,HotpotQA,"800 acres  
+0.6"
+"Who is more of an independent artist, Pop Evil or Imogen Heap?",Imogen Heap,Imogen Heap  ,0.85,HotpotQA,"Imogen Heap  
+0.85"
+What type of fils are the Blue Vinyl and Girl 27?,documentary film,They are documentary films.  ,0.85,HotpotQA,"They are documentary films.  
+0.85"
+"What recognitions did David Alan Mamet receive for the play ""Glengary Glen Ross?""",Pulitzer Prize,"David Alan Mamet’s “Glengarry Glen Ross” earned him a Pulitzer Prize nomination, a New York Drama Critics’ Circle Award for Best Play, a Drama Desk Award for Outstanding New Play, and a Tony nomination for Best Play.  ",0.78,HotpotQA,"David Alan Mamet’s “Glengarry Glen Ross” earned him a Pulitzer Prize nomination, a New York Drama Critics’ Circle Award for Best Play, a Drama Desk Award for Outstanding New Play, and a Tony nomination for Best Play.  
+0.78"
+"James M. Long, was an American baseball player who played outfielder in the Major Leagues from 1891 to 1893, and was born in which city in Kentucky?",Louisville,"Louisville, Kentucky.  ",0.71,HotpotQA,"Louisville, Kentucky.  
+0.71"
+"Which documentary film was released first, ""Seal Island"" or ""Paper Clips"" (about the Paper Clips Project)?",Seal Island,Seal Island was released first.  ,0.85,HotpotQA,"Seal Island was released first.  
+0.85"
+What is the main focus of both paragraphs?,building construction.,Insufficient information to determine the main focus of the paragraphs.  ,0.2,HotpotQA,"Insufficient information to determine the main focus of the paragraphs.  
+0.2"
+"When was the leader of ""Citizens for Constitutional Freedom"" born? ","September 1, 1975",April 1 1975  ,0.93,HotpotQA,"April 1 1975  
+0.93"
+Which river in the English county of Warwickshire has a ferry named after the main antagonist from the William Shakespeare comedy Twelfth Night?,River Avon,River Avon  ,0.6,HotpotQA,"River Avon  
+0.6"
+"Drivers Republic was founded in March 2008 by Steve Davies together with Richard Meaden; a co-founder of Evo, a British automobile magazine dedicated to what?",performance cars,Performance cars.  ,0.93,HotpotQA,"Performance cars.  
+0.93"
+"Tourist Season, which is the first solo novel by Carl Hiaasen was written in what year?",1986,1986  ,0.99,HotpotQA,"1986  
+0.99"
+"What was the 2010 census population of the county in which Dry Valley, Nevada is located?","5,345","10,030",0.85,HotpotQA,"10,030
+0.85"
+"Zwan and Noir Désir, have which genre in common?",rock,Alternative rock  ,0.9,HotpotQA,"Alternative rock  
+0.9"
+Who did Leonid Kerber work with who was born in 1888?,Andrei Tupolev,Andrei Tupolev  ,0.87,HotpotQA,"Andrei Tupolev  
+0.87"
+Both Ruby Yang and Marc Caro are french ?,no,"No, only Marc Caro is French; Ruby Yang is not.  ",0.9,HotpotQA,"No, only Marc Caro is French; Ruby Yang is not.  
+0.9"
+What year did Les Scadding win the EuroMillions lottery?,in 2009.,2009  ,0.95,HotpotQA,"2009  
+0.95"
+"Medfield College is a fictitious university used as the setting for several films by The Walt Disney Company, Among them are the two ""Professor Brainard"" movies, one is The Computer Wore Tennis Shoes is a 1969 American comedy film starring who?",Kurt Russell,Kurt Russell  ,0.97,HotpotQA,"Kurt Russell  
+0.97"
+What is the nationality of the person who played drums in the supergroup Planet Us?,American,American  ,0.9,HotpotQA,"American  
+0.9"
+Mark of the Gorilla is 1950 Jungle Jim film that starred an actor best known for playing which character ?,Tarzan,Tarzan.  ,0.78,HotpotQA,"Tarzan.  
+0.78"
+ Les nuits d'été is a song cycle by a romantic composer who made significant contributions to the modern orchestra with what?,Treatise on Instrumentation,His groundbreaking “Treatise on Instrumentation and Orchestration” (Grand traité d’instrumentation et d’orchestration modernes).  ,0.93,HotpotQA,"His groundbreaking “Treatise on Instrumentation and Orchestration” (Grand traité d’instrumentation et d’orchestration modernes).  
+0.93"
+"On what date was the man whom Jamie Maclachlan played in ""Four Minutes"" born?",23 March 1929,"May 29, 1917  ",0.45,HotpotQA,"May 29, 1917  
+0.45"
+Which of the following is usually garnished with a slice of lime: Old Fashioned or Gin and tonic?,gin and tonic,Gin and tonic  ,0.99,HotpotQA,"Gin and tonic  
+0.99"
+"The 2001 Rockingham 500 was a Championship Auto Racing Teams (CART) motor race held on 22 September 2001 at the Rockingham Motor Speedway in Corby, Northamptonshire, England, which Swedish former race car driver, finished second for Team Rahal?",Kenny Bräck,Kenny Bräck  ,0.92,HotpotQA,"Kenny Bräck  
+0.92"
+What did Wendy Toye and Paul Schrader both do for an occupation?,film director,They were both film directors.  ,0.96,HotpotQA,"They were both film directors.  
+0.96"
+"Which private, nonsectarian institution has a famous artist featured in major museum solo shows?",Pratt Institute,The Museum of Modern Art (MoMA).  ,0.71,HotpotQA,"The Museum of Modern Art (MoMA).  
+0.71"
+What role did Kurt McKinney play in the 1986 American martial arts film directed by Corey Yuen?,Jason Stillwell,Jason Stillwell  ,0.97,HotpotQA,"Jason Stillwell  
+0.97"
+What was the debut album of the founder of Reprise Records?,"""The Voice of Frank Sinatra""",The Voice of Frank Sinatra  ,0.86,HotpotQA,"The Voice of Frank Sinatra  
+0.86"
+"Which breed of hound is known by more names, the Austrian Black and Tan Hound or the Tyrolean Hound?",The Tyrolean Hound,Austrian Black and Tan Hound  ,0.71,HotpotQA,"Austrian Black and Tan Hound  
+0.71"
+What album has the song Stray Heart and was released through Reprise Records?,¡Dos!,¡Uno!  ,0.93,HotpotQA,"¡Uno!  
+0.93"
+What is the name of the album by the English rock band Arctic Monkeys that features the song Cornerstone,Humbug,Humbug  ,0.97,HotpotQA,"Humbug  
+0.97"
+"What Hawaiian island is home to Taro, the most widely cultivated species of plants in the Araceae family, and the Kaukini Gallery?",Maui,Hawaii (the Big Island)  ,0.9,HotpotQA,"Hawaii (the Big Island)  
+0.9"
+"Who was born first, American novelist Tom Robbins or marine biologist Rachel Carson?",Rachel Louise Carson,Rachel Carson was born first.  ,0.99,HotpotQA,"Rachel Carson was born first.  
+0.99"
+What member of nobility does Dalmeny House and Barnbougle Castle have in common?,Earl,The Earl of Rosebery.  ,0.93,HotpotQA,"The Earl of Rosebery.  
+0.93"
+Joel Meyerowitz taught photography at what privately funded college located in Cooper Square in the East Village neighborhood of Manhattan?,Cooper Union,Cooper Union  ,0.97,HotpotQA,"Cooper Union  
+0.97"
+What country does Andhra Pradesh Randomized Evaluation Studies ande Azim Premji have in common?,India,India  ,0.99,HotpotQA,"India  
+0.99"
+What was the nationality of the winner of the 2007 Masters of Formula 3?,German,French,0.85,HotpotQA,"French
+0.85"
+Which singer debuted as a member of Super Junior and released a mini album called Spring Falling?,Yesung,N/A,,HotpotQA,
+What country is the movie Waisa Bhi Hota Hai Part II and singer Shibani Kashyap from?,India,India  ,0.97,HotpotQA,"India  
+0.97"
+Which prominent mathematician in the Bernoulli family did Jakob II Bernoulli study under?,Daniel Bernoulli,N/A,,HotpotQA,
+Is the Herald or The Liberator Magazine published further north?,The Liberator Magazine,The Herald is published further north.  ,0.73,HotpotQA,"The Herald is published further north.  
+0.73"
+"Which genus contais more species, Crowea or Zamioculcas?",Crowea,Crowea  ,0.85,HotpotQA,"Crowea  
+0.85"
+"The non-profit organization, Simon Youth Foundation's parent company is an American commercial real estate company and also the largest what in the United States?",shopping mall operator,It is the largest shopping‑mall operator in the United States.  ,0.93,HotpotQA,"It is the largest shopping‑mall operator in the United States.  
+0.93"
+"Game Face and March of the Penguins, are which type of film?",documentary,Both Game Face and March of the Penguins are documentary films.  ,0.92,HotpotQA,"Both Game Face and March of the Penguins are documentary films.  
+0.92"
+In which year was the arena opened in which Demi Lovato began the first leg of 2014 concert tour ?,1995,2002  ,0.7,HotpotQA,"2002  
+0.7"
+The actress who played Margaret in The Wars of the Roses was of what nationality?,English,Scottish  ,0.62,HotpotQA,"Scottish  
+0.62"
+The Nutcracker and the Four Realms is an upcoming film staring an actress who made her film debut when? ,1995,N/A,,HotpotQA,
+This EA video games series with Sweedish developers featured Frostbrite game engine before any other games of it's kind?,Battlefield,Battlefield series.  ,0.92,HotpotQA,"Battlefield series.  
+0.92"
+"What band  consists of lead vocalist and guitarist Jon Fratelli , bass guitarist Barry Fratelli , and drummer and backing vocalist Mince Fratelli that released their third single from their second album ""Here We Stand"", released on 22 December 2008? ",The Fratellis,The Fratellis  ,0.97,HotpotQA,"The Fratellis  
+0.97"
+"The Mitchell County School District is a public school district in Mitchell County, Georgia, based in Camilla, a city in Mitchell County, Georgia, and is its county seat, is in which country?",United States,United States,0.99,HotpotQA,"United States
+0.99"
+"""On a Good Night"" is a song written by Larry Boone, Don Cook and Paul Nelson, and recorded by Tony Wade Hayes, is an American country music artist, that signed to which organization?",Columbia Records,Columbia Records  ,0.85,HotpotQA,"Columbia Records  
+0.85"
+Who is the current director for the state pageant title that went on to win the 2006 Miss USA pageant?,Connie Clark Harrison,Melissa Proctor  ,0.62,HotpotQA,"Melissa Proctor  
+0.62"
+What is the chemical formula of the kind of ash of which Middlewich Folk and Boat Festival celebrates the raw materials needed for the manufacturing?,NaCO,Na₂CO₃  ,0.62,HotpotQA,"Na₂CO₃  
+0.62"
+Do both Platystemon and Aulax grow in soils?,yes,"Yes, both Platystemon and Aulax grow in soils.  ",0.85,HotpotQA,"Yes, both Platystemon and Aulax grow in soils.  
+0.85"
+"The character Michael Guerin in the tv series ""Roswell"" is played by an actor that plays what role on ""The Night Shift""?",Dr. Drew Alister,He plays Dr. Drew Alister on “The Night Shift.”  ,0.93,HotpotQA,"He plays Dr. Drew Alister on “The Night Shift.”  
+0.93"
+Who did Seymour Heller represent?,Count Basie,Liberace.  ,0.92,HotpotQA,"Liberace.  
+0.92"
+"Rich Kids were a short-lived new wave band from London, founded in 1977 by Glen Matlock, the band also included which Scottish musician, singer-songwriter and producer, and future Ultravox member?",Midge Ure,Midge Ure  ,0.95,HotpotQA,"Midge Ure  
+0.95"
+Henry Durant went to this constituent college that has over how many students and fellows?,seven hundred,N/A,,HotpotQA,
+What kind of compound is Oxalic acid?,organic compound,"Oxalic acid is a simple dicarboxylic (diprotic) organic acid, also known as ethanedioic acid.  ",0.99,HotpotQA,"Oxalic acid is a simple dicarboxylic (diprotic) organic acid, also known as ethanedioic acid.  
+0.99"
+"What film is a remake of the 1975 Disney film ""Escape to Witch Mountain"", Phineas and Ferb or Race to Witch Mountain?",Race to Witch Mountain,Race to Witch Mountain  ,0.99,HotpotQA,"Race to Witch Mountain  
+0.99"
+Elisabeth Marschall was the Head Nurse at Ravensbruck during what war? ,World War II,World War II  ,0.97,HotpotQA,"World War II  
+0.97"
+"Which film based on a novel written by Mary Hayley Bell in 1959, had cast member Ashley Lloyd?",Whistle Down the Wind,The Young Ones  ,0.68,HotpotQA,"The Young Ones  
+0.68"
+Vladmir Filatov was able to save the eyesight of sniper Vasily Zaytsev during what battle?,Battle of Stalingrad,Battle of Stalingrad.  ,0.9,HotpotQA,"Battle of Stalingrad.  
+0.9"
+Where is the hockey team based on with which  Sebastian Strandberg most recently played?,"Evansville, Indiana","Växjö, Sweden  ",0.62,HotpotQA,"Växjö, Sweden  
+0.62"
+What is the name of this American football coach and former player who was head football coach at Indiana University and led the Hoosiers football team in their third season?,Kevin Wilson,N/A,,HotpotQA,
+In what county is the university at which Walter Oechel teaches located?,San Diego County,Yolo County  ,0.78,HotpotQA,"Yolo County  
+0.78"
+"What 1999 film, considered by many as one of the worst films of all time, was directed by ""The ShamWow Guy""?",The Underground Comedy Movie,The Underground Comedy Movie.  ,0.97,HotpotQA,"The Underground Comedy Movie.  
+0.97"
+Wyckoff Company and Pacific Creosoting Company have been located on what Washington island?,Bainbridge Island,Vashon Island.  ,0.68,HotpotQA,"Vashon Island.  
+0.68"
+"From which city comes the band that put out the album ""Nothing Is Sound""?",San Diego,San Diego  ,0.97,HotpotQA,"San Diego  
+0.97"
+"Who is a guest rapper in the song ""Frankie Sinatra"" and whose debut studio album was named ""The Hybrid""?",Danny Brown,N/A,,HotpotQA,
+Arturo's right hand man was arrested for what charges in August 2010?,large scale drug trafficking.,N/A,,HotpotQA,
+"In between The Murder of Fred Hampton and Comandante, which film crew members visited Castro in Cuba in 2002?",Comandante,N/A,,HotpotQA,
+Bill Erwin played the bellhop Arthur in a 1980 movie that was adapted from what novel?,"""Bid Time Return""",N/A,,HotpotQA,
+"Which college offers more majors, Western Institute of Technology or University of Maryland, College Park?","University of Maryland, College Park","University of Maryland, College Park offers more majors.  ",0.73,HotpotQA,"University of Maryland, College Park offers more majors.  
+0.73"
+"What is the name of the Brewery in Germany, which shares its name with German basketball Oettinger Rockets club sponsor?",Oettinger Brauerei,Oettinger Brewery  ,0.95,HotpotQA,"Oettinger Brewery  
+0.95"
+"When was the English poet, painter, and printmaker died who wrote the poem ""A Poison Tree""?",12 August 1827,12 August 1827,0.99,HotpotQA,"12 August 1827
+0.99"
+"Russian Dolls, is a 2005 French-British film, the sequel to ""L'Auberge Espagnole"", a 2002 French-Spanish film, directed and written by who?",Cédric Klapisch,Cédric Klapisch  ,0.99,HotpotQA,"Cédric Klapisch  
+0.99"
+What profession have both Guy Manos and Stanley Kramer held?,film director,N/A,,HotpotQA,
+Which President of Bayern Munich scored twice in the final to win the European Cup for the club in 1974?,Uli Hoeneß,N/A,,HotpotQA,
+"Julin Bristol is the codename given to a nuclear weapon test conducted at the Nevada Test Site on 26 November 1991, as part of which United States's  nuclear test series was a group of 7 nuclear tests conducted in 1991–1992, the final series of US nuclear tests, it was the last test explosion of a British nuclear weapon?",Operation Julin,Operation Julin  ,0.97,HotpotQA,"Operation Julin  
+0.97"
+"Barrier Device starred which Canadian actress, known for a role on ""Grey's Anatomy"", as a sex researcher?",Sandra Miju Oh,N/A,,HotpotQA,
+"What kind of wood-bodied , single cone resonator instrument did a member of the Wild horses play?",Dobro,A Dobro resonator guitar.  ,0.78,HotpotQA,"A Dobro resonator guitar.  
+0.78"
+Which Halime Hatun son was the leader of the Ottoman Turks and the founder of the Ottoman dynasty?,Osman I,Osman I  ,0.99,HotpotQA,"Osman I  
+0.99"
+"Family Circle and Avantages, are which forms of publication?",magazine,Family Circle and Avantages are both magazines (periodical publications).  ,0.92,HotpotQA,"Family Circle and Avantages are both magazines (periodical publications).  
+0.92"
+"What's the nickname for Grodziskie, the beer from Poland with unusually high carbonation level?",Polish Champagne,Polish Champagne  ,0.93,HotpotQA,"Polish Champagne  
+0.93"
+"Greenville, Indiana sits in a county of what population as of 2012?","75,283","Approximately 73,000 people.  ",0.6,HotpotQA,"Approximately 73,000 people.  
+0.6"
+In what year was the British historian who was arrested in 2005 for Holocaust denial in Austria born?,1938,1938,0.93,HotpotQA,"1938
+0.93"
+Suzy starred the actress who was a sex symbol of what decade?,1930s,N/A,,HotpotQA,
+"In what year was the actress who played Holly Holliday in ""New Directions"" born?",1972,1972  ,0.99,HotpotQA,"1972  
+0.99"
+Liquid computing was coined in July 2014 by which information technology media business formerly The Intelligent Machines Journal?,InfoWorld,The Register  ,0.78,HotpotQA,"The Register  
+0.78"
+"Who is older, Jennifer Capriati or Pierre-Hugues Herbert?",Jennifer Maria Capriati,Jennifer Capriati is older.  ,0.99,HotpotQA,"Jennifer Capriati is older.  
+0.99"
+Alan Schilke is an engineer who made is mark on a steel roller coaster operating at Six Flags Magic Mountain which is located where?,"Valencia, California","Valencia, California, USA  ",0.92,HotpotQA,"Valencia, California, USA  
+0.92"
+what does 1977–78 UCLA Bruins men's basketball team and John Wooden have in common?,University of California,Both the 1977–78 UCLA Bruins and John Wooden are NCAA championship‑winning figures in UCLA men’s basketball history.  ,0.93,HotpotQA,"Both the 1977–78 UCLA Bruins and John Wooden are NCAA championship‑winning figures in UCLA men’s basketball history.  
+0.93"
+Lane Boy was written by the musical duo hailing from which Ohio city?,Columbus,N/A,,HotpotQA,
+"After he dissolved the monasteries, in 1545 Henry VIII sold Richard Brooke the manor of Norton, in which English county?",Cheshire,Cheshire  ,0.73,HotpotQA,"Cheshire  
+0.73"
+"The Trials of Henry Kissinger and The Judge and the General, is which type of film?",documentary,They are documentary films.  ,0.93,HotpotQA,"They are documentary films.  
+0.93"
+The leader of the band that came out with Monuments to an Elegy was born on what date?,"March 17, 1967",N/A,,HotpotQA,
+"Were ""Oceans"" and ""Race to Witch Mountain"" released in the same year?",yes,"Yes, they were released in the same year.  ",0.85,HotpotQA,"Yes, they were released in the same year.  
+0.85"
+"What kind of persona does the artist who released Special Herbs, Vols. 4, 5 & 6 adopt?",super villain,He adopts the “Metal Fingers” producer persona.  ,0.78,HotpotQA,"He adopts the “Metal Fingers” producer persona.  
+0.78"
+"Community is an American television sitcom that follows an ensemble cast, including what actress who played Trudy Campbell in the AMC drama Mad Men?",Alison Brie Schermerhorn,N/A,,HotpotQA,
+The Orford Express operates seasonally on a former line headquartered in what city?,"Hermon, Maine",Calgary  ,0.71,HotpotQA,"Calgary  
+0.71"
+"What was a brief but violent period of civil unrest in response to the Maine law, who's opponents of an American Prohibition advocate and politician Nicknamed the ""Napoleon of Temperance"" rioted ?",Portland Rum Riot,The Portland Rum Riot.  ,0.85,HotpotQA,"The Portland Rum Riot.  
+0.85"
+Which English poet wrote travel ,Rupert Chawner Brooke,William Wordsworth  ,0.45,HotpotQA,"William Wordsworth  
+0.45"
+What is the country of origin of Brian Stepanek and the film The Island?,American,Both Brian Stepanek and the film *The Island* originate from the United States.  ,0.97,HotpotQA,"Both Brian Stepanek and the film *The Island* originate from the United States.  
+0.97"
+Chilly sings its popular songs such as 'Come to L.A.' and 'Simply a Love Song' in what language?,English,English  ,0.6,HotpotQA,"English  
+0.6"
+You're No Good: was covered in a charting version by which soul singer and pianist?,Betty Everett,N/A,,HotpotQA,
+"Geraldine ""Gerry"" Cowper, an English actress who is best known for playing Rowan Morrison in The Wicker Man, a 1973 British mystery horror film, directed by who?",Robin Hardy,Robin Hardy  ,0.99,HotpotQA,"Robin Hardy  
+0.99"
+Which cricketer is the younger brother of Jack Lindwall and played top-flight rugby league football with St. George?,Ray Lindwall,Ray Lindwall  ,0.97,HotpotQA,"Ray Lindwall  
+0.97"
+"Which author was born first, Lorraine Hansberry or Sandra Gulland?",Lorraine Vivian Hansberry,Lorraine Hansberry  ,0.99,HotpotQA,"Lorraine Hansberry  
+0.99"
+The 1905-1904 college basketball team lead by G.W. Leach represented a university founded in what year?,1846,N/A,,HotpotQA,
+Which co-founder of DreamWorks Studios directed two movies starring Pacharo Mzembe?,Steven Spielberg,Steven Spielberg  ,0.55,HotpotQA,"Steven Spielberg  
+0.55"
+"When was the American singer, guitarist, songwriter, and producer born who is known for his work in the hard rock bands Rainbow and also performed with Jason Hartless?","August 2, 1951",August 2 1951  ,0.7,HotpotQA,"August 2 1951  
+0.7"
+"Which state was this American lawyer and Republican politician from, who started his new position in 2017 backed by Trump but failed to work well with the senior White House adviser Don Benton?",Oklahoma,N/A,,HotpotQA,
+Rocket Science featured an interview with what US Air Force test pilot?,"Charles Elwood ""Chuck"" Yeager",Chuck Yeager.  ,0.6,HotpotQA,"Chuck Yeager.  
+0.6"
+"Which character is nicknamed ""The Mountain"" and played by Hafþór Júlíus Björnsson in the TV version of Game of Thrones?",Gregor Clegane,Gregor Clegane,0.99,HotpotQA,"Gregor Clegane
+0.99"
+Do either Chamaelirium or Aphyllanthes have more than one species?,no,"No, both Chamaelirium and Aphyllanthes are monotypic genera, each containing only a single species.  ",0.9,HotpotQA,"No, both Chamaelirium and Aphyllanthes are monotypic genera, each containing only a single species.  
+0.9"
+"Which mountain is higher, Broad Peak or Skyang Kangri?",Skyang Kangri,Broad Peak is higher.  ,0.99,HotpotQA,"Broad Peak is higher.  
+0.99"
+"What is the name of this Catholic University in Philidelphia, nicknamed the Wildcats, that had a football team captained by William Moore in 1905?",Villanova University,Villanova University.  ,0.85,HotpotQA,"Villanova University.  
+0.85"
+Are Pamianthe and Manglietia in the same family?,no,"No, they belong to different families (Pamianthe is in Amaryllidaceae, Manglietia is in Magnoliaceae).  ",0.92,HotpotQA,"No, they belong to different families (Pamianthe is in Amaryllidaceae, Manglietia is in Magnoliaceae).  
+0.92"
+What British-American actor born in 1952 starred in The Last Castle?,Delroy Lindo,Delroy Lindo  ,0.97,HotpotQA,"Delroy Lindo  
+0.97"
+Where is the company that owns 13th Street Universal headquartered?,"Midtown Manhattan, New York City","New York City, United States.  ",0.71,HotpotQA,"New York City, United States.  
+0.71"
+When was the group founded which recorded the song Play Something Country ?,1990,N/A,,HotpotQA,
+The Nakajima Ki-87 was a type of fighter aircraft designed specifically to attack what?,enemy aircraft,It was designed to intercept high‑altitude B‑29 Superfortress bombers.  ,0.92,HotpotQA,"It was designed to intercept high‑altitude B‑29 Superfortress bombers.  
+0.92"
+Sid Haig had a role in the exploitation horror film released in what year?,2003,2005  ,0.68,HotpotQA,"2005  
+0.68"
+"Brett Dier, who starred in ""Jane the Virgin"" appears on what Canadian TV shows?","Canadian TV shows ""Bomb Girls"" and ""The L.A. Complex""","The Canadian TV shows Brett Dier has appeared on include The Listener, The L.A. Complex, and Degrassi: The Next Generation.  ",0.73,HotpotQA,"The Canadian TV shows Brett Dier has appeared on include The Listener, The L.A. Complex, and Degrassi: The Next Generation.  
+0.73"
+Michael Kelso is one of the male leads on the show that was set in what fictional Wisconsin town?,Point Place,"Point Place, Wisconsin  ",0.99,HotpotQA,"Point Place, Wisconsin  
+0.99"
+"Between University of Wyoming and Clarkson University, which institution was founded earlier?",University of Wyoming,University of Wyoming was founded earlier.  ,0.97,HotpotQA,"University of Wyoming was founded earlier.  
+0.97"
+"Here Is Always Somewhere Else and Football Under Cover, are films of which genre?",documentary,They are documentary films.  ,0.7,HotpotQA,"They are documentary films.  
+0.7"
+What genre of music is the solo artist that contributed to Real Damage a variant of?,synth-pop,Electronic music.  ,0.6,HotpotQA,"Electronic music.  
+0.6"
+Guitarist Dave Gregory is known best for his work with a rock band  lead by what two songwriters?,Andy Partridge and Colin Moulding,Andy Partridge and Colin Moulding.  ,0.97,HotpotQA,"Andy Partridge and Colin Moulding.  
+0.97"
+In what year was Joy Enriquez's husband born?,1977,N/A,,HotpotQA,
+Which episode of Glee is named after a power ballad from the 1973 Aerosmith debut album?,Dream On,Dream On  ,0.97,HotpotQA,"Dream On  
+0.97"
+In what city does Mike Carey coach women's basketball ?,Morgantown,N/A,,HotpotQA,

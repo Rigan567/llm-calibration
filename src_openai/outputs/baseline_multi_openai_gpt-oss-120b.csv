@@ -1,0 +1,417 @@
+question,gold,pred,confidence,source,raw_response
+The important feature of chaotic systems is that very small changes in initial conditions can lead to large differences in final states. ,True,true,0.96,Astro-QA_Judgement,"true
+0.96"
+The core of M87 contains a massive black hole. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"Liu Yong's ""Where to Wake from the Wine Tonight, on the Willow Bank in the Morning Breeze and the Fading Moon"" describes the phase of the moon known as the waning crescent. ",True,true,0.7,Astro-QA_Judgement,"true
+0.7"
+"The apparent brightness of all stars when placed at the same standard distance is referred to as ""true brightness"". ",True,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"The reason why humans speculate the existence of ""dark energy"" is that the accelerating expansion of the universe contradicts the mutual attraction of gravity, and current knowledge cannot explain the energy that drives this expansion. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The volume differences between stars are much greater than their mass differences. ,True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+"On the moon, artificial satellite phenomena can be observed. ",True,false,0.78,Astro-QA_Judgement,"false
+0.78"
+Galileo was the first person to use a telescope to observe celestial bodies and achieve significant results. ,True,false,0.78,Astro-QA_Judgement,"false
+0.78"
+The phenomenon of the seasons is due to the Earth's revolution combined with the tilt of its axis of rotation. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Analyzing the composition of organic compounds in meteorites can reveal the presence of prebiotic materials in the universe. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+"An astronomer passed away in a car accident, and his ashes were sent to the moon. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The Voyager spacecraft carried a golden record inscribed with a variety of sounds from nature and human societies on Earth. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The two discoverers of the 3K cosmic background radiation were originally satellite communication engineers. ,True,false,0.92,Astro-QA_Judgement,"false
+0.92"
+Cygnus A (A Cyg) is an explosive galaxy. ,False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+Black holes formed from the collapse of stars are smaller in volume than neutron stars and rotate faster than 5000 rotations per second. ,False,N/A,,Astro-QA_Judgement,
+"The relationship within a scattered star cluster is relatively loose, without a regular shape. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The formation of Uranus's peculiar seasons is due to its unique rotational characteristics. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+"Venus rotates ""backwards"" (clockwise). ",True,true,0.96,Astro-QA_Judgement,"true
+0.96"
+The Bullet Cluster (1E0657-56) holds significant value in astronomy as it is the first celestial system where the existence of dark matter was directly confirmed. ,True,true,0.86,Astro-QA_Judgement,"true
+0.86"
+The constellation of the Turtle still exists. ,False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"According to ancient Chinese records, the characteristics of supernova explosions include their sudden appearance, exceptional brightness, and long duration. ",True,true,0.86,Astro-QA_Judgement,"true
+0.86"
+"According to calculations by solar physicists, the lifespan of the Sun should be about 5 billion years. ",False,false,0.86,Astro-QA_Judgement,"false
+0.86"
+"To date, only the United States has achieved close-range exploration around Mars. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+It is estimated that there should be 1 million stellar black holes in the Milky Way. ,True,false,0.75,Astro-QA_Judgement,"false
+0.75"
+"The formation of a black hole must involve a spatial boundary where photons cannot escape, known as the event horizon. ",True,true,0.96,Astro-QA_Judgement,"true
+0.96"
+The reason why Type Ia supernovae are used as standard cosmic candles is that their brightness is constant when they explode. ,True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+The advent of artificial satellites has provided excellent opportunities for the study of cosmic rays. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+Aurora is a phenomenon caused by the activity of solar wind particles. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The acceleration due to gravity is the same at different locations on Earth. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"In determining the direction of the night sky's diurnal motion, the left-handed spiral system is only effective for the starry sky observed in the Southern Hemisphere. ",False,false,0.75,Astro-QA_Judgement,"false
+0.75"
+The Galileo probe only reached the surface of Jupiter. ,True,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The sun is currently a main sequence star on the Hertzsprung-Russell diagram. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The spectral characteristics of blackbody radiation are only related to the material of the blackbody, and are not related to temperature. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+NASA astronauts play golf on the moon. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The history of human civilization is 6 orders of magnitude shorter than the history of the Earth. ,True,false,0.78,Astro-QA_Judgement,"false
+0.78"
+The light emitted by a nebula is a type of electromagnetic radiation. ,False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Europa may be tidally locked. ,False,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Galactic black holes are the products of stars that have evolved to the end of their lives. ,False,false,0.73,Astro-QA_Judgement,"false
+0.73"
+"In 1801, Ceres was once classified as one of the eight major planets in the solar system. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+New stars are a class of variable stars. ,True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+The horizon refers to the physical boundary of a black hole. ,False,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"In bright nebulae, the red ones are emission nebulae and the blue ones are reflection nebulae. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The Gnomon was an ancient astronomical instrument used to observe the trajectory of the moon. ,False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The habitable zones of planetary systems around stars of different spectral types are all located at the same distance. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+There are asteroids named Tom Hanks and Meryl. ,True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+The formulas for calculating the redshift Z in both classical mechanics and special relativity are approximately interchangeable when dealing with celestial bodies whose recessional velocities are much less than the speed of light (v << c). ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The constellation of the Toad still exists today. ,False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The annual motion of the stars is caused by the Earth's revolution around the Sun. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The asteroid belt is located between Mars and Jupiter. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Aurora can be observed on the moon. ,False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+The transit method generally tends to discover larger exoplanets more easily. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+"The earliest physical evidence of dragon totem was unearthed from an ancient tomb in Puyang, Henan in 1987. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"The Milky Way is capable of rotation, and different parts rotate at varying speeds. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The Bullet Cluster (1E0657-56) holds significant value in the field of astronomy as it is the first celestial system where the existence of dark matter was directly confirmed. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The duration of an annular eclipse cannot exceed 11 minutes. ,False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The value of Hubble's constant varies in different historical periods. ,True,true,0.71,Astro-QA_Judgement,"true
+0.71"
+The absence of evidence for extraterrestrial life does not constitute evidence for the absence of extraterrestrial life. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+Astronauts on the International Space Station become weightless because there is no gravity in space. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+Meteor phenomena can be observed on the moon. ,False,false,0.6,Astro-QA_Judgement,"false
+0.6"
+"Due to the harsh environment of Venus, no spacecraft has landed on its surface. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+A solar eclipse can be observed both on Earth and Mars. ,False,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"Throughout their lives, stars generate outward pressure through nuclear fusion reactions to counteract the immense gravitational force pulling inward. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The discovery of cosmic background radiation is a direct negation of the Big Bang theory. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"Scientists have collected a library of sounds and images, which they have sent into space for aliens to find. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"The unity and opposition of diversity and uniformity in biology are essentially issues of gene composition, sequence, and expression. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+"Due to the barriers of time and space, exploring extraterrestrial civilizations is incredibly challenging. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+There are two intermittently erupting giant plumes of water on Europa. ,True,false,0.73,Astro-QA_Judgement,"false
+0.73"
+The magnitude and spectral type of Cygnus X-1 are data pertaining to the giant star in a black hole-giant binary system. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"The annual apparent motion of the Sun is not an actual movement of the Sun, but a reflection of the Earth's revolution. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The constellation Lyra still exists. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The Hubble relation indicates that the recessional velocity of a galaxy is directly proportional to its distance. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Free neutrons will combine with protons to directly form helium atoms. ,False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The ability for a spacecraft to land on a planet largely depends on whether the planet has a dense atmosphere. ,True,false,0.62,Astro-QA_Judgement,"false
+0.62"
+"""Open Universe"" refers to the outcome of the universe continuing to expand indefinitely, whereas ""Closed Universe"" describes the scenario where the universe expands to a certain limit and then begins to contract again. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"The term ""Big Bang Model"" was first actively conceived by people like Gamow. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"As you travel from Beijing to Guangzhou, with the decrease in latitude, the position of the North Star in the night sky rises accordingly. ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"Based on the observations from Gamma-ray Spectrometers and Neutron Spectrometers, Mars may have experienced large-scale climate change. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+The TESS telescope can only observe one area for 27 days. ,True,false,0.73,Astro-QA_Judgement,"false
+0.73"
+There is a celestial object named 'Oumuamua. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+There is a certain scientific basis for constellation fortune-telling. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The ""waxing crescent"" in the astronomical and meteorological sense appears in the evening - ""the waning moon reflects the afterglow."" ",False,false,0.75,Astro-QA_Judgement,"false
+0.75"
+"Around 21:00 at night, observe the Big Dipper with its handle pointing east, which indicates it is currently autumn. ",False,false,0.7,Astro-QA_Judgement,"false
+0.7"
+Earth also has Trojan asteroids. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+Zodiac constellations can only be observed in the northern hemisphere. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+The Kuiper Belt objects include Pluto. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Phobos is likely to gradually approach Mars. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+"Humans take pictures of galaxies, whether on the ground or in space, and there is always only one angle to shoot from. ",True,true,0.7,Astro-QA_Judgement,"true
+0.7"
+A nova is a newly born star. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+Newton was a renowned British physicist who proposed the law of universal gravitation and Newton's laws of motion. ,True,true,0.99,Astro-QA_Judgement,"true
+0.99"
+"Currently, the detection of black holes is still in a challenging phase. ",True,true,0.71,Astro-QA_Judgement,"true
+0.71"
+"In the movie ""Interstellar,"" a black hole would need to be accompanied by a white hole (if they indeed exist) in order for human spacecraft to travel back and forth. ",True,false,0.93,Astro-QA_Judgement,"false
+0.93"
+"In the painting ""The Universe is a Snake Biting Its Own Tail,"" the head and tail of the snake correspond to the scale of the universe (10^32 meters) and the scale of microscopic particles (10^(-27) meters), respectively. These two scales are closely interconnected. ",True,false,0.73,Astro-QA_Judgement,"false
+0.73"
+The constellation Lepus still exists today. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Astronauts grow taller in space. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+Sirius is the nearest star to the Sun. ,False,false,0.97,Astro-QA_Judgement,"false
+0.97"
+Total solar eclipses will cease to exist after 100 million years. ,False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"""The East has Venus, the West has Mercury"" - The stars referred to as the Morning Star and the Evening Star in the ""Book of Songs"" are respectively Mercury and Venus. ",False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+The basis for determining exoplanets through the transit method is that there is a slight decrease in the brightness of the star when the planet transits. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+Can we distinguish Mare Crisium (with a diameter of 520km) on Earth with the naked eye? ,True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+There is a nebula named after Pac-Man. ,True,false,0.62,Astro-QA_Judgement,"false
+0.62"
+The experiment on the Eiffel Tower demonstrated that the ionizing radiation measured at Earth's surface comes from space. ,False,false,0.75,Astro-QA_Judgement,"false
+0.75"
+"The Moon belongs to the United States, and the U.S. has held sovereignty over it since 1969. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+Gan De is the compiler of the oldest star catalog in the world and the earliest discoverer of Jupiter's third moon. ,True,false,0.95,Astro-QA_Judgement,"false
+0.95"
+Diffuse nebulae are made up of stars. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The world of stars is similar to that of humans, as the length of life does not necessarily correlate with size. ",False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"Dark lines in the spectra of the Sun and stars represent the distribution, abundance, and pressure of elements in the atmosphere. ",True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+"The IAU-SETI has successively conducted communication with the universe through the 21cm band and the radio band, but so far it has gained nothing. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"Among the major space telescopes, those with infrared detection and imaging capabilities include the ""Hubble"" and ""Spitzer"" telescopes. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+Sunspots can be observed on the moon. ,True,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The criterion for determining whether a lunar month is a leap month is that there is no Zhongqi in this month. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+The footprints of American astronauts on the moon have been erased by the wind. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The initial ratio of matter to antimatter particles was (1 billion + 1):1 billion, with the extra ""1"" of matter particles escaping the fate of annihilation, thus constituting the material world we see today. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The retrograde motion of planets posed a significant challenge to the geocentric theory. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"Unlike lunar eclipses, the timing and degree of a solar eclipse vary by location. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"After the ionization of the Martian atmosphere, it will not be carried away from Mars by the solar wind. ",False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"When reaching the surface of a black hole, the degree of time dilation is 0. ",False,true,0.78,Astro-QA_Judgement,"true
+0.78"
+"During its journey to Saturn, the Cassini spacecraft underwent four accelerations at Venus, Earth, and Jupiter. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"When ""King Wu's campaign against Zhou"" embarked on their journey, a comet appeared with its head pointing east and tail pointing west. It was at dusk. ",False,false,0.9,Astro-QA_Judgement,"false
+0.9"
+"A large number of photons (energy) collide at extremely high temperatures to produce matter and antimatter particles, while matter and antimatter particles also annihilate into energy. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+Positive and negative virtual particle pairs produced by vacuum phase transitions generate the effect of black hole evaporation inside and outside the event horizon. ,True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"The lunar calendar is the Chinese agricultural calendar, while the solar calendar is the foreign Gregorian calendar. ",False,false,0.78,Astro-QA_Judgement,"false
+0.78"
+"There indeed exist many extragalactic systems in the universe, similar to the Milky Way. ",True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+Cerberus is still in existence. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The latest record of a supernova occurred during the Ming Dynasty in China, and since then, no supernova has been observed in the Milky Way. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The Sun does not belong to any star cluster. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The Moon rotates on its axis 90 degrees as it orbits the Earth by 90 degrees. ,True,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The space volume enclosed by the gravitational radius calculated through the Schwarzschild formula is a black hole. ,True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+The first prediction of a solar eclipse was made a long time ago. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+There are more stars in the universe than there are grains of sand on all the beaches on Earth. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+"In modern times, the constellation in which the Sun is located at the vernal equinox is Aries. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The astronomical community considers Edwin Hubble to be the astronomer who made the greatest contributions from the 19th to the 20th century. ,True,false,0.62,Astro-QA_Judgement,"false
+0.62"
+"Photos of star clusters and other deep-space objects taken by large telescopes, with various pale or dazzling colors, are all visible to the human eye. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"On Venus, the Sun rises in the west and sets in the east. ",True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+Rainbows are one of the most common phenomena in nature related to the solar spectrum. ,True,true,0.86,Astro-QA_Judgement,"true
+0.86"
+"It is not galaxies that are moving away from each other through space; rather, it is space itself that is expanding. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The annual apparent motion of the Sun shows that the Sun rotates 180° each year. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+The temperature of a star can be determined by its color. ,True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+Olympus Mons is the tallest mountain in the solar system. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+The maximum number of solar and lunar eclipses that can occur in the same year is seven. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"When Neptune was first discovered, its discoverer proposed naming it George III's star. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"Can we distinguish the Moscow Sea (Mare Moscoviense, with a diameter of 275km) on Earth with the naked eye? ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"After Emperor Wu of Han, the ""beginning of the year"" in traditional Chinese calendar was set to be the month where the spring equinox occurs. ",False,N/A,,Astro-QA_Judgement,
+"In the apparent annual motion of the Sun, the duration of the Sun's stay in each zodiacal constellation varies. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"On Earth, humans cannot directly observe artificial satellites with the naked eye. ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+Saturn is the only planet in the solar system with rings. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The so-called singularity is the upper limit of time, and it lacks space; both temperature and density tend towards infinity. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"On the moon, it is possible to observe the phenomenon of a rainbow. ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"Among the planets, Neptune has the lowest density and is said to be able to float on seawater. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The famous line by Su Dongpo, ""Entrusting the ephemeral mayfly to the universe, a mere grain in the vast sea"", the first sentence reflects the huge contrast between different scales of time, while the latter sentence reflects it in terms of space. ",True,false,0.71,Astro-QA_Judgement,"false
+0.71"
+"In Liu Cixin's novel ""The Three-Body Problem,"" when two suns appear in the sky of the three-body world, the three-body people must dehydrate to cope. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+Visual binary stars are those that can be observed directly with the naked eye. ,False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+Wilson's experiment confirmed the presence of a large amount of ionizing radiation on the surface of the Earth. ,True,true,0.71,Astro-QA_Judgement,"true
+0.71"
+Detectors for detecting dark matter particles can work in outer space or deep underground. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The constellation of Owl still exists. ,False,false,0.86,Astro-QA_Judgement,"false
+0.86"
+"Thermal nuclear reactions inside stars only have one level of ""H→He fusion"". ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+The sun does not have a tidal effect on the earth. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"Currently, astronomers have not yet identified the specific causes for the formation of cluster-scale black holes. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+"Planets, stars, and galaxies make up only 5% of all matter in the universe. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+Giordano Bruno was the first person to observe the stars with a telescope. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"It was not until 1968 that the term ""black hole"" was coined by American astrophysicist John Wheeler, sparking widespread interest in the concept. ",True,false,0.85,Astro-QA_Judgement,"false
+0.85"
+There is an observatory called the Very Large Telescope. ,True,false,0.75,Astro-QA_Judgement,"false
+0.75"
+"In the structure of the human body, parts such as teeth, eyes, and limbs exhibit ""symmetry"", while tissues like the digestive system and endocrine system demonstrate ""asymmetry"". ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+"Higher temperatures can cause a decrease in the signal-to-noise ratio, resulting in signal distortion. Therefore, it is necessary to maintain low temperatures for antenna facilities. ",True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+Red giants are stars in a later stage of development compared to the Sun. ,True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+"The statement ""When the sun sets, it's dusk; when the crescent moon sets, it's dawn"" contradicts the natural laws of lunar phases. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+"Light is both a particle and a wave, this is the dual nature of light. ",True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+The Sun contains 99.8% of the mass in the entire solar system. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+The effects of length contraction and time dilation refer to the phenomenon where spatial dimensions and temporal scales are not consistent across different motion systems or in varying gravitational fields. ,True,true,0.85,Astro-QA_Judgement,"true
+0.85"
+The asteroid belt is primarily composed of rocks and metals. ,True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+There are a maximum of four solar eclipses that can occur in a year. ,False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The primary mission of the Phoenix Mars Lander is to uncover the origin of frozen water on Mars. ,True,false,0.75,Astro-QA_Judgement,"false
+0.75"
+The constellation of the Reindeer still exists today. ,False,false,0.75,Astro-QA_Judgement,"false
+0.75"
+"Solar eclipses can only occur during the ""full moon,"" which is between the 15th and 16th day of the lunar calendar. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"When comparing exoplanets to Earth, the focus is generally on its mass, diameter, distance from the star, whether it is located in the habitable zone, and its orbital period. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"According to Wien's law, by conducting spectrophotometric measurements on a star, one can indirectly determine its mass. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"Kant, as a famous German philosopher, his grave site in Germany is also well protected. ",False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"Until 2007, Russian cosmonauts carried firearms into space. ",True,true,0.62,Astro-QA_Judgement,"true
+0.62"
+"Titan is the only moon in the solar system with liquid on its surface, besides Earth. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"According to the generally accepted path of galaxy evolution, the formation of the Milky Way is likely to have gone through the path of quasar-Seyfert galaxy-Milky Way. ",True,false,0.7,Astro-QA_Judgement,"false
+0.7"
+"Cepheid variable stars and RR Lyrae variables are both types of unstable stars that do not fall within the main sequence, where 90% of stars reside. ",True,true,0.93,Astro-QA_Judgement,"true
+0.93"
+One of the primary missions of the Kepler Space Telescope is to search for Earth-like planets. ,True,true,0.96,Astro-QA_Judgement,"true
+0.96"
+"There is a celestial body named ""Great Wall"". ",True,false,0.75,Astro-QA_Judgement,"false
+0.75"
+Interacting galaxies are a classification of active galaxies. ,True,false,0.9,Astro-QA_Judgement,"false
+0.9"
+Astronomical observations have discovered the existence of white holes. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"More than 100,000 meteorites fall to Earth each day. ",False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+Astronauts are sent into space to prevent a collision between an asteroid and the Earth. ,False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The rise and fall of the tides is caused by the gravitational pull of the moon and the sun. ,True,true,0.96,Astro-QA_Judgement,"true
+0.96"
+"A dwarf planet has been provisionally named ""Santa Claus."" ",True,false,0.86,Astro-QA_Judgement,"false
+0.86"
+"If you cry in space, your tears will just float upwards. ",False,false,0.85,Astro-QA_Judgement,"false
+0.85"
+"Both Europa and Enceladus have surfaces covered by thick ice layers, beneath which there is liquid water. ",True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+"The greater the value of an astronomical body's ""apparent magnitude,"" the dimmer its apparent brightness. ",True,true,0.96,Astro-QA_Judgement,"true
+0.96"
+An astronaut flew towards the sun and disappeared. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The mass of a star only affects the lifespan of the star, not its luminosity. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+Venus is sometimes visible during the day. ,True,true,0.95,Astro-QA_Judgement,"true
+0.95"
+"Because the main components of diffuse nebulae are gas and dust, their overall mass is large, but their density is very low. ",True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+"Astronomers believe that among various galaxies, the most active are quasars. ",True,true,0.78,Astro-QA_Judgement,"true
+0.78"
+The synodic month is shorter than the sidereal month. ,False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+The moon always presents the same face to the Earth. ,True,true,0.97,Astro-QA_Judgement,"true
+0.97"
+"The sheep Dolly and the movie ""Jurassic Park"" both reflect the technology of biological cloning. ",True,true,0.92,Astro-QA_Judgement,"true
+0.92"
+The most advanced method of measuring stellar brightness today is essentially the same principle as taking a photograph with a digital camera. ,True,true,0.7,Astro-QA_Judgement,"true
+0.7"
+"""If heaven had feelings, it would also grow old"" is a line of poetry written by Li He, a poet from the Tang Dynasty. ",True,false,0.92,Astro-QA_Judgement,"false
+0.92"
+"We can calculate the true brightness of a Cepheid variable star by measuring its period of light variation, and then use the period-luminosity relationship to determine its distance from us. ",True,true,0.9,Astro-QA_Judgement,"true
+0.9"
+"About the unit of distance, 1 astronomical unit is larger than 1 parsec. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+Noctilucent clouds can be observed on the Moon. ,False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"The volume of Titan is smaller than Mercury's, but it weighs more than Mercury. ",False,false,0.96,Astro-QA_Judgement,"false
+0.96"
+"Currently, there are no human-made probes that have traveled beyond the solar system. ",False,false,0.95,Astro-QA_Judgement,"false
+0.95"
+"The name ""Scorpio"" was imagined by the ancient Egyptians. ",False,false,0.92,Astro-QA_Judgement,"false
+0.92"
+The diameter of the moon: The distance between theThe diameter of the moon: The distance between the The diameter of the sun: The distance between the moon and the earth = The diameter of the sun: The distance between the sun and the earth. ,True,false,0.75,Astro-QA_Judgement,"false
+0.75"
+The hydrogen fusion in the Sun essentially occurs in its radiation zone. ,False,false,0.78,Astro-QA_Judgement,"false
+0.78"
