@@ -1,5 +1,6 @@
 import os
 import sys
+import time
 import pandas as pd
 import google.generativeai as genai
 from dotenv import load_dotenv
@@ -8,6 +9,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR.parent / ".env")
+DELAY_BETWEEN_REQUESTS = 2.1
 
 if len(sys.argv) < 2:
     print("Usage: python inference_gemma.py <prompt_version>")
@@ -80,6 +82,7 @@ def main():
     print(remaining_df["source"].value_counts())
 
     for _, row in tqdm(remaining_df.iterrows(), total=len(remaining_df)):
+        start_time = time.time()
         try:
             type = {
                 "Open ended": "open",
@@ -111,6 +114,7 @@ def main():
             )
 
         except Exception as e:
+            """
             err_msg = str(e).lower()
             # If we hit the 429 Rate Limit (TPD/RPM) or Quota, we stop the whole script
             if "rate_limit" in err_msg or "quota" in err_msg or "429" in err_msg:
@@ -119,6 +123,11 @@ def main():
 
             print(f"Error on question: {e}")
             continue
+            """
+
+        elapsed_time = time.time() - start_time
+        if elapsed_time < DELAY_BETWEEN_REQUESTS:
+            time.sleep(DELAY_BETWEEN_REQUESTS - elapsed_time)
 
 
 print(f"\n✅ Saved results -> {OUTPUT_CSV}")
