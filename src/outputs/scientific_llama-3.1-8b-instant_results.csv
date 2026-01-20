@@ -550,3 +550,697 @@ Split lacerations are due to: DNB 09 [Options: A: Blunt object; B: Sharp object;
 0.9"
 "In hereditary spherocytosis mutation, not seen is? [Options: A: Ankyrin; B: Spectrin; C: Band-3; D: Na+  Cl- channel protein]",D: Na+  Cl- channel protein,Na+ Cl- channel protein,0.9,GlobalMedQA_EN,"Na+ Cl- channel protein
 0.9"
+"A 62-year-old man is brought to the emergency department because of syncope. He reports sudden onset of palpitations followed by loss of consciousness while carrying his groceries to his car. He is unable to recall any further details and does not have any chest pain or dizziness. He has a history of hypertension, type 2 diabetes mellitus, gastroparesis, and osteoarthritis of the knees. Medications include lisinopril, metformin, and ondansetron as needed for nausea. He also takes methadone daily for chronic pain. Apart from an abrasion on his forehead, he appears well. His temperature is 37.2 °C (98.9 F), heart rate is 104/min and regular, and blood pressure is 135/70 mm Hg. While he is in the emergency department, he loses consciousness again. Telemetry shows polymorphic ventricular tachycardia with cyclic alteration of the QRS axis that spontaneously resolves after 30 seconds. Results of a complete blood count, serum electrolyte concentrations, and serum thyroid studies show no abnormalities. Cardiac enzymes are within normal limits. Which of the following is the most likely underlying cause of this patient's syncope? [Options: A: Prolonged QT interval; B: Fast accessory conduction pathway; C: Prinzmetal angina; D: Brugada syndrome; E: Hypomagnesemia
+""]",A: Prolonged QT interval,The most likely underlying cause of this patient's syncope is A: Prolonged QT interval.,0.9,GlobalMedQA_EN,"The most likely underlying cause of this patient's syncope is A: Prolonged QT interval.
+
+0.9"
+Acceptable noise level in hospital wards [Options: A: 20 - 35dB; B: 35 - 40 dB; C: 45-55dB; D: 50-60dB],A: 20 - 35dB,B: 35 - 40 dB,0.95,GlobalMedQA_EN,"B: 35 - 40 dB
+
+0.95"
+Upper segment: lower segment ratio in 3 year old child - [Options: A: 1[?]1:1; B: 1[?]5:1; C: 1[?]3:1; D: 1[?]7:1],C: 1[?]3:1,The correct upper segment-to-lower segment ratio in a 3-year-old child is 1.5:1.,0.9,GlobalMedQA_EN,"The correct upper segment-to-lower segment ratio in a 3-year-old child is 1.5:1.
+0.9"
+Which of the following is a component of Coenzyme A? [Options: A: 3 Alanine; B: Glycine; C: Pyrrolysine; D: Selenocysteine],A: 3 Alanine,A: 3 Alanine,0.9,GlobalMedQA_EN,"A: 3 Alanine
+0.9"
+"A 35 year old female, mother of a Down's syndrome child, became pregnant. Amniocentesis is done to rule out Down's syndrome in the second child. What is the appropriate time for doing amniocentesis? [Options: A: 6-Apr; B: 12-Aug; C: 17-Dec; D: 20-28]",C: 17-Dec,The appropriate time for doing amniocentesis is D: 20-28.,0.8,GlobalMedQA_EN,"The appropriate time for doing amniocentesis is D: 20-28.
+0.8"
+Amotivation syndrome caused by [Options: A: Cannabis abuse; B: Opioid abuse; C: Alcohol abuse; D: Heroin abuse],A: Cannabis abuse,Amotivation syndrome is particularly associated with Cannabis abuse.,0.8,GlobalMedQA_EN,"Amotivation syndrome is particularly associated with Cannabis abuse.
+0.8"
+Herpes - Zoster is caused by - [Options: A: Herpes - simplex type I; B: Herpes - simplex type II; C: Epstein - barr virus; D: Varicella],D: Varicella,D: Varicella,0.95,GlobalMedQA_EN,"D: Varicella
+0.95"
+Brown - sequard syndrome - [Options: A: Pain loss in the opposite side of lesion; B: Fine touch lost in opposite side of lesion; C: UMN paralysis in opposite side of lesion; D: LMN paralysis in opposite side of lesion],A: Pain loss in the opposite side of lesion,C: Fine touch lost in opposite side of lesion,0.85,GlobalMedQA_EN,"C: Fine touch lost in opposite side of lesion
+0.85"
+Bicalutamide is a specific inhibitor of - [Options: A: 5-alpha reductase; B: Androgen receptors; C: Aromatase; D: Estrogen receptor],B: Androgen receptors,Bicalutamide is a specific inhibitor of androgen receptors.,0.99,GlobalMedQA_EN,"Bicalutamide is a specific inhibitor of androgen receptors.
+
+0.99"
+Enzyme needed in leucocytes for production of hypochlorite ? [Options: A: NADPH oxidase; B: Myeloperoxidase; C: Catalase; D: Superoxide dismutase],B: Myeloperoxidase,B: Myeloperoxidase,0.9,GlobalMedQA_EN,"B: Myeloperoxidase
+0.9"
+"A 7 year presented with intermittent abdominal cramps, loose stools and on stool examination ova of size 100 micrometre is seen. Which is not the cause? [Options: A: Fasciola gigantic; B: Echinostorum ileocaxnum; C: Gastrodiscoides hominis; D: Opisthorcis viverrani]",D: Opisthorcis viverrani,"The cause of intermittent abdominal cramps, loose stools, and ova of size 100 micrometre is Echinostorum ileocaxnum, which typically releases ova of size 70-80 micrometres.",0.8,GlobalMedQA_EN,"The cause of intermittent abdominal cramps, loose stools, and ova of size 100 micrometre is Echinostorum ileocaxnum, which typically releases ova of size 70-80 micrometres.
+
+0.8"
+Therapeutic level of lithium is: [Options: A: 5-Jan; B: 10-May; C: 15-Oct; D: 15-20],C: 15-Oct,D: 15-20,0.9,GlobalMedQA_EN,"D: 15-20
+0.9"
+Most common cause of Seizures in an elderly with Cerebrovascular Stroke is [Options: A: Alcohol withdrawal; B: Cerebrovascular stroke; C: Uremia; D: Meningitis],B: Cerebrovascular stroke,Cerebrovascular stroke (B) can cause seizures in elderly patients and seizures are indeed a complication that can occur secondary to the stroke itself.,0.9,GlobalMedQA_EN,"Cerebrovascular stroke (B) can cause seizures in elderly patients and seizures are indeed a complication that can occur secondary to the stroke itself.
+
+0.9"
+Kidney plays a role in maintaining constancy of milieu interior. Milieu interior refers to: [Options: A: ECF; B: ICF; C: Plasma; D: Serum],A: ECF,B: ICF (Intracellular Fluid),0.9,GlobalMedQA_EN,"B: ICF (Intracellular Fluid)
+0.9"
+The mean of the 25 plasma volumes is 12.5 litres. Standard detion is 0.25. Calculate Variance:- [Options: A: 0.0625; B: 0.625; C: 6.25; D: 625],A: 0.0625,"The variance can be calculated by squaring the standard deviation, so variance = 0.25^2 = 0.0625.",0.999,GlobalMedQA_EN,"The variance can be calculated by squaring the standard deviation, so variance = 0.25^2 = 0.0625.
+
+0.999"
+Topical mitomycin C is used to aid the following treatment: [Options: A: Endoscopic treatment of angiofibroma; B: Treatment of laryngotracheal stenosis; C: Skull base osteomyelitis; D: Tonsillectomy],B: Treatment of laryngotracheal stenosis,B: Treatment of laryngotracheal stenosis,0.95,GlobalMedQA_EN,"B: Treatment of laryngotracheal stenosis
+0.95"
+Antibiotics are indicated in which type of psoriasis? [Options: A: Guttate; B: Pustular; C: Chronic plaque psoriasis; D: Erythrodermic psoriasis.],A: Guttate,B: Pustular,0.9,GlobalMedQA_EN,"B: Pustular
+
+0.9"
+Pure gonadal dysgenesis will be diagnosed in the presence of : [Options: A: Bilateral streak gonads; B: Bilateral dysgenetic gonads; C: One side steak and other dysgenetic gonads; D: One side streak and other normal looking gonad],A: Bilateral streak gonads,The correct answer is B: Bilateral dysgenetic gonads.,0.85,GlobalMedQA_EN,"The correct answer is B: Bilateral dysgenetic gonads.
+0.85"
+Wolf Chaikoff effect - [Options: A: Excess iodine intake causes hypothyroidism; B: Iodine induced hyper thyroidism; C: Thyrotoxicosis due to excessive amount of iodineingestion; D: Drug induced hyperthyroidism],A: Excess iodine intake causes hypothyroidism,A: Excess iodine intake causes hypothyroidism,0.95,GlobalMedQA_EN,"A: Excess iodine intake causes hypothyroidism
+0.95"
+A 19-year-old college student develops a rash. She works part-time in a pediatric AIDS clinic. Her blood is drawn and tested for specific antibody to the chicken pox virus (varicella-zoster). Which of the following antibody classes would you expect to find if she is immune to chicken pox? [Options: A: IgG; B: IgA; C: IgM; D: IgD],A: IgG,You would expect to find IgG antibody to the chickenpox virus.,0.95,GlobalMedQA_EN,"You would expect to find IgG antibody to the chickenpox virus.
+
+0.95"
+Coefficient of thermal expansion of which of following is most similar to that of tooth? [Options: A: Gold inlay; B: Acrylic resin; C: Silicate cement; D: Gold foil],C: Silicate cement,The coefficient of thermal expansion of gold inlay is most similar to that of tooth.,0.95,GlobalMedQA_EN,"The coefficient of thermal expansion of gold inlay is most similar to that of tooth.
+
+0.95"
+A patient presented with ARF with complete anuria but a normal ultrasound. Next investigation is – [Options: A: IVP; B: Antegrade pyelography; C: Retrograde pyelography; D: Radiorenogram],D: Radiorenogram,C: Retrograde pyelography,0.8,GlobalMedQA_EN,"C: Retrograde pyelography
+0.8"
+"A deep-seated carcinoma in the neck near the bifurcation of the common carotid artery with no evidence of primary carcinoma of the mouth, pharynx, larynx is [Options: A: Collar stud abscess.; B: Branchiogenic carcinoma.; C: Subhyoid bursal cyst.; D: Cold abscess.]",B: Branchiogenic carcinoma.,B: Branchiogenic carcinoma.,0.8,GlobalMedQA_EN,"B: Branchiogenic carcinoma.
+0.8"
+"A patient comes to a private physician and diagnosed with TB, within how many days he has to be informed to District Health officer [Options: A: 10 days; B: 15 days; C: 30 days; D: 45 days]",C: 30 days,A: 10 days,0.95,GlobalMedQA_EN,"A: 10 days
+0.95"
+"A 68-year-old woman comes to the physician because of a 3-month history of an oozing, red area above the left ankle. She does not recall any trauma to the lower extremity. She has type 2 diabetes mellitus, hypertension, atrial fibrillation, and ulcerative colitis. She had a myocardial infarction 2 years ago and a stroke 7 years ago. She has smoked 2 packs of cigarettes daily for 48 years and drinks 2 alcoholic beverages daily. Current medications include warfarin, metformin, aspirin, atorvastatin, carvedilol, and mesalamine. She is 165 cm (5 ft 4 in) tall and weighs 67 kg (148 lb); BMI is 24.6 kg/m2. Her temperature is 36.7°C (98°F), pulse is 90/min, respirations are 12/min, and blood pressure is 135/90 mm Hg. Examination shows yellow-brown spots and dilated tortuous veins over the lower extremities. The feet and the left calf are edematous. Femoral, popliteal, and pedal pulses are palpable bilaterally. There is a 3-cm (1.2-in) painless, shallow, exudative ulcer surrounded by granulation tissue above the medial left ankle. There is slight drooping of the right side of the face. Which of the following is the most likely cause of this patient's ulcer? [Options: A: Decreased arterial blood flow; B: Peripheral neuropathy; C: Venous insufficiency; D: Chronic pressure; E: Drug-induced microvascular occlusion]",C: Venous insufficiency,C: Venous insufficiency,0.95,GlobalMedQA_EN,"C: Venous insufficiency
+0.95"
+"As far as the raise of frictional heat, in using various rotary cutting instruments is concerned which one of the following is the most kind to the pulp [Options: A: Stainless steel bur; B: Diamond bur; C: carbide bur; D: Carbon steel bur]",C: carbide bur,A: Stainless steel bur.,0.8,GlobalMedQA_EN,"A: Stainless steel bur.
+0.8"
+"Management plan for osteogenic sarcoma of the lower end of femur must include - [Options: A: Radiotherapy, amputation, chemotherapy; B: Surgery alone; C: Chemotherapy + Limb Salvage Surgery + Chemotherapy; D: Chemotherapy + Radiotherapy]",C: Chemotherapy + Limb Salvage Surgery + Chemotherapy,C: Chemotherapy + Limb Salvage Surgery + Chemotherapy,0.95,GlobalMedQA_EN,"C: Chemotherapy + Limb Salvage Surgery + Chemotherapy
+0.95"
+One of the constituents of the commonly used metered dose inhalers in bronchial asthma which is an air pollutant & dangerous to earth's stratosphere is - [Options: A: Flurocarbons; B: Salbutamol; C: Ozone; D: Oxygen],A: Flurocarbons,A: Fluorocarbons,0.9,GlobalMedQA_EN,"A: Fluorocarbons
+0.9"
+Abdominal pain in Henoch Schonlein purpura is due to - [Options: A: Mucosal erosions and swelling of the G1 mucosa; B: Gastrointestinal hemorrhage; C: Volvulus; D: Associated pancreatic inflammation],A: Mucosal erosions and swelling of the G1 mucosa,A: Mucosal erosions and swelling of the GI mucosa,0.95,GlobalMedQA_EN,"A: Mucosal erosions and swelling of the GI mucosa
+0.95"
+"A 30-year-old lady C/O sudden onset of breathlessness, anxiety, palpitation and feeling of impending doom. Physical examination is normal. Diagnosis is: September 2012 [Options: A: Panic attack; B: Anxitey disorder; C: Conversion disorder; D: Acute psychosis]",A: Panic attack,A: Panic attack,0.95,GlobalMedQA_EN,"A: Panic attack
+0.95"
+Most sensitive test for diagnosing pheochromocytoma is : [Options: A: MRI; B: 24 hour urinary xma; C: MIBG scan; D: Plasma free metanephrines],D: Plasma free metanephrines,D: Plasma free metanephrines,0.9,GlobalMedQA_EN,"D: Plasma free metanephrines
+0.9"
+The intervillous space of the placenta contains [Options: A: Maternal blood; B: Fetal blood; C: Maternal and fetal blood; D: Amniotic fluid],A: Maternal blood,C: The intervillous space is filled with maternal blood that surrounds and nourishes the fetal villi.,0.99,GlobalMedQA_EN,"C: The intervillous space is filled with maternal blood that surrounds and nourishes the fetal villi.
+
+0.99"
+The normal AV nodal delay is [Options: A: 0.16 sec; B: 0.13 sec; C: 0.09 sec; D: 0.03 sec],C: 0.09 sec,The normal atrioventricular (AV) nodal delay is approximately 0.13 seconds.,0.8,GlobalMedQA_EN,"The normal atrioventricular (AV) nodal delay is approximately 0.13 seconds.
+
+0.8"
+Which of the following is a monoclonal antibody against IL-5 [Options: A: Omalizumab; B: Mepolizumab; C: Tocilizumab; D: Alemtuzumab],B: Mepolizumab,B: Mepolizumab,0.9,GlobalMedQA_EN,"B: Mepolizumab
+0.9"
+"A 25-year-old lady reports to you with a diffuse, non progressive and a non tender swelling of the right maxilla, approximately 2 x 1.5 cm, extending from the canine to the first molar region. The x-ray shows a ground glass appearance of the bone in the concerned area. The surgical treatment will be [Options: A: Total excision of the lesion; B: Curettage of the area with extraction of the involved teeth; C: Surgical cosmetic recontouring only; D: Surgical excision followed by radiotherapy]",C: Surgical cosmetic recontouring only,"C: The most appropriate treatment for this patient would be curettage of the area with extraction of the involved teeth, as this is typical of a unicystic ameloblastoma which presents with a ground-glass appearance on X-ray.",0.95,GlobalMedQA_EN,"C: The most appropriate treatment for this patient would be curettage of the area with extraction of the involved teeth, as this is typical of a unicystic ameloblastoma which presents with a ground-glass appearance on X-ray.
+0.95"
+Dermatitis herpetiformis is associated with [Options: A: Ulcerative colitis; B: Crohn's disease; C: Irritable bowel syndrome; D: Gluten sensitive enteropathy],D: Gluten sensitive enteropathy,Dermatitis herpetiformis is associated with gluten-sensitive enteropathy.,0.95,GlobalMedQA_EN,"Dermatitis herpetiformis is associated with gluten-sensitive enteropathy.
+
+0.95"
+Which one of the following is not recommended for the immediate treatment of acute severe asthma? [Options: A: Iptratropium; B: Magnesium sulfate; C: Hydrocoisone; D: Salmeterol],D: Salmeterol,Salmeterol is not recommended for the immediate treatment of acute severe asthma as it is a long-acting beta-agonist and can trigger bronchospasm in the setting of acute inflammation.,0.8,GlobalMedQA_EN,"Salmeterol is not recommended for the immediate treatment of acute severe asthma as it is a long-acting beta-agonist and can trigger bronchospasm in the setting of acute inflammation.
+0.8"
+Water loss is severe if intestinal obstruction occurs at? [Options: A: First pa of duodenum; B: Third pa of duodenum; C: Mid jejunum; D: Ileum],A: First pa of duodenum,C: Mid jejunum is most associated with severe water loss due to the large surface area of the intestine exposed to the luminal content.,0.85,GlobalMedQA_EN,"C: Mid jejunum is most associated with severe water loss due to the large surface area of the intestine exposed to the luminal content.
+
+0.85"
+"Not a feature of Anopheles is [Options: A: Spotted wings; B: Siphon tube seen in larvae; C: Boat shaped eggs; D: Rest at an angle, inclined to the surface]",B: Siphon tube seen in larvae,C: Boat shaped eggs,0.95,GlobalMedQA_EN,"C: Boat shaped eggs
+0.95"
+"In fracture neck of fibula, the following nerve is involved [Options: A: Common peroneal nerve; B: Anterior tibial nerve; C: Posterior tibial nerve; D: Medial popliteal nerve]",A: Common peroneal nerve,A: Common peroneal nerve,0.95,GlobalMedQA_EN,"A: Common peroneal nerve
+0.95"
+A cook prepares sand witches for 10 people going for picnic. Eight out of them develop servere gastroenteritis within 4-6 hrs of consumption of the sand witches. It is likely that on investigations the cook is found to be the earner of: [Options: A: Salmonella typhi.; B: Vibrio cholerae; C: Entamoeba histolytica; D: Staphylococcus aureus.],D: Staphylococcus aureus.,D: Staphylococcus aureus,0.9,GlobalMedQA_EN,"D: Staphylococcus aureus
+0.9"
+The complication of trauma to the danger area of the face among the following is [Options: A: Cavernous sinus infection; B: Meningitis; C: Visual loss; D: Loss of memory],A: Cavernous sinus infection,C: Visual loss,0.8,GlobalMedQA_EN,"C: Visual loss
+0.8"
+Oldest lens fibres are found in ? [Options: A: Capsule; B: Coex; C: Coex; D: Nucleus],D: Nucleus,B: Cortex,0.9,GlobalMedQA_EN,"B: Cortex
+
+0.9"
+Facial nerve injury during forceps delivery in labour is due to: [Options: A: Mastoid process is absent at birth; B: Parotid gland in developing stage; C: Beak of forceps engages main trunk of facial Nerve; D: Sublingual hematoma during delivery causes neuropraxia],A: Mastoid process is absent at birth,The facial nerve injury during forceps delivery in labour is mainly due to the beak of forceps engaging the main trunk of the facial nerve.,0.9,GlobalMedQA_EN,"The facial nerve injury during forceps delivery in labour is mainly due to the beak of forceps engaging the main trunk of the facial nerve.
+
+0.9"
+"A 37-year-old man comes to the physician because of a 6-month history of progressive breast enlargement. Two years ago, he was diagnosed with HIV infection and started treatment with antiretroviral medications. Examination shows a soft, non-tender, ill-defined swelling at the nape of the neck. The cheeks appear hollowed. Serum studies show increased total cholesterol and LDL concentration. Which of the following medications is the most likely cause of these findings? [Options: A: Nevirapine; B: Enfuvirtide; C: Indinavir; D: Raltegravir; E: Abacavir]",C: Indinavir,C: Indinavir,0.9,GlobalMedQA_EN,"C: Indinavir
+0.9"
+Parotid duct opens [Options: A: Opposite 1st mollar; B: Opposite 2nd molar; C: Into the papilla; D: Opposite incisor],B: Opposite 2nd molar,C: Into the papilla,0.95,GlobalMedQA_EN,"C: Into the papilla
+0.95"
+Which of the following local anaesthetic causes methemoglobinemia? [Options: A: Procaine; B: Prilocaine; C: Etidocaine; D: Ropivacaine],B: Prilocaine,B: Prilocaine,0.8,GlobalMedQA_EN,"B: Prilocaine
+0.8"
+Which of the following drug is used for mass prophylaxis for prevention of meningococcal meningitis [Options: A: Ciprofloxacin; B: Rifampicin; C: Ceftriaxone; D: Minocycline],A: Ciprofloxacin,B: Rifampicin,0.9,GlobalMedQA_EN,"B: Rifampicin
+0.9"
+Which of the following is not considered for selecting a screening test? [Options: A: Disease burden; B: Physician's Knowledge of the disease; C: Cost of the test; D: Treatment efficacy],B: Physician's Knowledge of the disease,A: Disease burden,0.8,GlobalMedQA_EN,"A: Disease burden
+0.8"
+Borelia vincenti is a [Options: A: Mycoplasma; B: Mycobacteria; C: Spirochaete; D: Chlamydia],C: Spirochaete,"C: Spirochaete, as Borrelia vincentii is an anaerobic spirochaete known to be associated with Vincent's angina and oral ulcers.",0.9,GlobalMedQA_EN,"C: Spirochaete, as Borrelia vincentii is an anaerobic spirochaete known to be associated with Vincent's angina and oral ulcers.
+
+0.9"
+Holocrine secretion is seen in...gland- [Options: A: Salivary; B: Mammary; C: Sebaceous glands; D: Gastric],C: Sebaceous glands,C: Sebaceous glands,0.95,GlobalMedQA_EN,"C: Sebaceous glands
+0.95"
+"In semen banks, semen is preserved at low temperature using : [Options: A: Dry ice; B: Deep freeze; C: Liquid nitrogen; D: Liquid air]",C: Liquid nitrogen,C: Deep freeze,0.9,GlobalMedQA_EN,"C: Deep freeze
+
+0.9"
+Incidence rate of lung cancer among smokers is 8 per 1000 and among non smokers is 1 per 1000. Population attibutable risk is - [Options: A: 89%; B: 95%; C: 10%; D: 100%],A: 89%,B: 95%,0.8,GlobalMedQA_EN,"B: 95%
+0.8"
+Starch is considered to be less cariogenic than monosaccharides and disaccharides because it [Options: A: Does not diffuse through plaque; B: Is rapidly hydrolysed in the mouth; C: Enhances remineralisation; D: Raises the pH in the oral cavity],A: Does not diffuse through plaque,A: Does not diffuse through plaque,0.95,GlobalMedQA_EN,"A: Does not diffuse through plaque
+0.95"
+Drug of choice in postpaum hemorrhage resistant to oxytocin and Ergomterine: [Options: A: Carboprost; B: Dinoprostone; C: Dinoprost; D: Misoprostol],A: Carboprost,Carboprost (A),0.8,GlobalMedQA_EN,"Carboprost (A)
+0.8"
+Mostreliable test for screening of diabetes meilitus- [Options: A: Random sugar; B: Fasting sugar; C: Glucose tolerance test; D: Urine sugar],B: Fasting sugar,B: Fasting sugar,0.9,GlobalMedQA_EN,"B: Fasting sugar
+0.9"
+"Appropriate treatment for an acute stable hematoma of the pinna of the ear includes which of the following measures? [Options: A: Ice packs and prophylactic antibiotics; B: Excision of the hematoma; C: Needle aspiration; D: Incision, drainage, and pressure bandage]","D: Incision, drainage, and pressure bandage","D: Incision, drainage, and pressure bandage",0.9,GlobalMedQA_EN,"D: Incision, drainage, and pressure bandage
+0.9"
+First investigation to be done in a patient with thrombocytopenia: September 2008 [Options: A: Platelet count; B: Bleeding time; C: Prothrombin time; D: aPTT],A: Platelet count,A: Platelet count,0.99,GlobalMedQA_EN,"A: Platelet count
+
+0.99"
+A 23-year-old male college student has a history of liver cirrhosis due to Kimmelstiel-Wilson syndrome (abnormality in copper metabolism). He should be treated with which of the following? [Options: A: Penicillamine as soon as the diagnosis is established; B: Penicillamine after variceal bleeding has occurred; C: A portocaval shunt; D: Sclerosis of the esophageal varices as a prophylactic measure],A: Penicillamine as soon as the diagnosis is established,A: Penicillamine as soon as the diagnosis is established,0.8,GlobalMedQA_EN,"A: Penicillamine as soon as the diagnosis is established
+
+0.8"
+The nerve supply of Middle ear is from [Options: A: Superior auricular nerve; B: Tympanic branch of glossopharyngeal nerve; C: Pharyngeal branch of glossopharyngeal nerve; D: Great auricular nerve],B: Tympanic branch of glossopharyngeal nerve,The nerve supply of the middle ear is primarily from the tympanic branch of the glossopharyngeal nerve.,0.95,GlobalMedQA_EN,"The nerve supply of the middle ear is primarily from the tympanic branch of the glossopharyngeal nerve.
+0.95"
+Preformed antibiodies cause [Options: A: Hyperacute rejection; B: Acute rejection; C: Chronic rejection; D: Acute humoral rejection],A: Hyperacute rejection,D: Acute humoral rejection,0.9,GlobalMedQA_EN,"D: Acute humoral rejection
+0.9"
+Safe period in rhythms method is : (In a female with 28 days menstrual cycle) : [Options: A: Initial 14 days; B: Later 14 days; C: First and last 7 days; D: 10 to 21 days of the cycle],C: First and last 7 days,"The safe period in the rhythm method, also known as fertility awareness-based methods, is between days 10 to 21 of a 28-day menstrual cycle.",0.8,GlobalMedQA_EN,"The safe period in the rhythm method, also known as fertility awareness-based methods, is between days 10 to 21 of a 28-day menstrual cycle.
+0.8"
+Dematome of middle finger: [Options: A: C5; B: C6; C: C7; D: C8],C: C7,B: C6,0.9,GlobalMedQA_EN,"B: C6
+0.9"
+A 35-year-old female presents with recurrent renal stone. What is not advised? [Options: A: Increase water intake; B: Restrict protein; C: Restrict salt; D: Restrict calcium],D: Restrict calcium,"Restricting calcium intake is not advised, as low calcium diets can actually increase the risk of renal stones, especially oxalate stones.",0.9,GlobalMedQA_EN,"Restricting calcium intake is not advised, as low calcium diets can actually increase the risk of renal stones, especially oxalate stones.
+
+0.9"
+Glucose is absorbed from? [Options: A: Upper pa of PCT; B: Ascending limb of LOH; C: Coical Collecting duct; D: Medullary collecting duct],A: Upper pa of PCT,A: Upper part of PCT (Proximal Convoluted Tubule),0.9,GlobalMedQA_EN,"A: Upper part of PCT (Proximal Convoluted Tubule)
+0.9"
+Post transplant lymphomaia most commonly associated with: [Options: A: Epstein-Barr virus; B: Cytomegalo virus; C: Herpes simplex; D: HHV-6],A: Epstein-Barr virus,A: Epstein-Barr virus,0.9,GlobalMedQA_EN,"A: Epstein-Barr virus
+0.9"
+"A 58-year-old female presents with a two-month history of intermittent non-bloody diarrhea. She reports that she has been following a raw food diet for six months to help her lose weight. The patient’s medical history is significant for anxiety, treated with fluvoxamine, and osteopenia. She reports her mother has lactose intolerance and has recently been diagnosed with osteoporosis. The patient denies any tobacco or alcohol use. When asked about recent travel, she reports she returned three months ago from a mission trip in Uganda. The patient’s temperature is 99°F (37.2°C), blood pressure is 130/78 mmHg, pulse is 70/min, and respirations are 14/min with an oxygen saturation of 98% O2 on room air. On physical exam, a new-onset systolic ejection murmur is noted and is heard loudest at the left second intercostal space. Which of the following may develop in this patient? [Options: A: Low platelet count; B: Positive hydrogen breath test; C: Decreased levels of chromogranin A; D: Vitamin D deficiency; E: Niacin deficiency]",E: Niacin deficiency,B: Positive hydrogen breath test.,0.8,GlobalMedQA_EN,"B: Positive hydrogen breath test.
+0.8"
+Common carotid artery is palpable at: [Options: A: Upper border of thyroid cartilage; B: Upper border of cricoid cartilage; C: At hyoid bone; D: Lower border of cricoid cartilage],A: Upper border of thyroid cartilage,A: Upper border of thyroid cartilage,0.8,GlobalMedQA_EN,"A: Upper border of thyroid cartilage
+0.8"
+On radiography widened duodenal 'C' loop with irregular mucosal pattern on upper gastrointestinal barium series is most likely due to: [Options: A: Chronic pancreatitis; B: Carcinoma head of pancreas; C: Duodenal ulcer; D: Duodenal ileus],B: Carcinoma head of pancreas,B: Carcinoma head of pancreas,0.85,GlobalMedQA_EN,"B: Carcinoma head of pancreas
+0.85"
+Metabolic alkalosis leads to? [Options: A: Low potassium; B: High calcium; C: Low I2 trapping by follicular cells; D: High I2 trapping by follicular cells],A: Low potassium,A: Low potassium,0.95,GlobalMedQA_EN,"A: Low potassium
+0.95"
+Which of the following poisoning gives 'Bitter almond smell'? [Options: A: Lead; B: Cyanide; C: Mercury; D: Organophosphorus],B: Cyanide,B: Cyanide,0.9,GlobalMedQA_EN,"B: Cyanide
+0.9"
+Derivative of vitelline vein? [Options: A: IVC; B: SVC; C: Ligamentum venosum; D: Ligamentum teres],A: IVC,C: The derivative of the vitelline vein is the Ligamentum venosum.,0.9,GlobalMedQA_EN,"C: The derivative of the vitelline vein is the Ligamentum venosum.
+0.9"
+"According to National Health Policy 2002, which of the following is to he eliminated in 2015 - [Options: A: Malaria; B: Yaws; C: Leprosy; D: Filariasis]",D: Filariasis,A: Malaria,0.7,GlobalMedQA_EN,"A: Malaria
+0.7"
+"A 68-year-old man presents to the physician with fever, cough, weakness, night sweats, and poor appetite for the past 6 months. Medical records suggest that he has lost 7.5 kg (16.5 lb) of weight during this period. There is no history of breathlessness, nasal discharge, nasal obstruction, palpitations, chest pain, or symptoms related to digestion. He was released from prison 9 months ago after serving a 2-year sentence. His temperature is 38.1°C (100.6°F), pulse is 84/min, respirations are 16/min, and blood pressure is 122/80 mm Hg. Physical examination shows hepatomegaly and generalized lymphadenopathy, and auscultation of the chest reveals diffuse crackles throughout the lung fields bilaterally. On direct ophthalmoscopy, three discrete, yellow-colored, 0.5 mm to 1.0 mm lesions with indistinct borders are seen in the posterior pole. A chest X-ray is shown in the image. Tuberculin skin test with purified protein derivative is negative. What is the most likely diagnosis? [Options: A: Sarcoidosis; B: Chronic histoplasmosis; C: Langerhans cell histiocytosis; D: Tuberculosis; E: Bronchoalveolar carcinoma]",D: Tuberculosis,The most likely diagnosis is D: Tuberculosis.,0.95,GlobalMedQA_EN,"The most likely diagnosis is D: Tuberculosis.
+
+0.95"
+"An obese 37-year-old woman is brought to the emergency department 2 hours after the onset of weakness in her left arm and leg. She fell from the stairs the day prior but did not have any loss of consciousness or nausea after the fall. She travels to Asia regularly on business; her last trip was 4 days ago. She has no history of serious illness. Her only medication is an oral contraceptive. Her temperature is 37.8°C (100°F), pulse is 113/min and regular, and blood pressure is 162/90 mm Hg. Examination shows decreased muscle strength on the left side. Deep tendon reflexes are 4+ on the left. Babinski sign is present on the left. The right lower leg is swollen, erythematous, and tender to palpation. Further evaluation is most likely to show which of the following? [Options: A: Ventricular septal defect; B: Carotid artery dissection; C: Atrial fibrillation; D: Patent foramen ovale; E: Atrial myxoma]",D: Patent foramen ovale,The most likely diagnosis in this scenario is carotid artery dissection.,0.9,GlobalMedQA_EN,"The most likely diagnosis in this scenario is carotid artery dissection.
+
+0.9"
+"A 34-year-old woman comes to the fertility clinic with her husband for infertility treatment. The couple has been having unprotected intercourse for the past 2 years without any pregnancies. This is their first time seeking fertility treatment. The patient’s past medical history includes asthma. She denies any menstrual irregularities, menstrual pain, abnormal bleeding or past sexually transmitted infections. The husband reports that “he would get sick easily and would always have some upper respiratory infections.” Physical examination of the wife demonstrates nasal polyps bilaterally; vaginal examination is unremarkable. Physical examination of the husband is unremarkable. Semen analysis results are shown below:
+
+Semen analysis:
+Volume: 1.9 mL (Normal > 1.5 mL)
+pH: 7.4 (Normal: > 7.2)
+Sperm concentration: 0 mil/mL (Normal: > 15 mil/mL)
+Total sperm count: 0 mil/mL (Normal: > 39 mil/mL)
+Total motility: N/A (Normal: > 40%)
+Morphology: N/A (Normal: > 4% normal forms)
+
+What is the most likely explanation for this couple’s infertility? [Options: A: Deletion of Phe508 in husband; B: Deletion of Phe508 in wife; C: Undescended testes in husband; D: XO chromosome in wife; E: XXY chromosome in husband]",A: Deletion of Phe508 in husband,The most likely explanation for this couple's infertility is A: Deletion of Phe508 in the husband.,0.6,GlobalMedQA_EN,"The most likely explanation for this couple's infertility is A: Deletion of Phe508 in the husband.
+
+0.6"
+Hickey-Hare test is used to diagnose - [Options: A: Congenital pyloric stenosis; B: Duodenal atresia; C: Achlasia cardia; D: Diabetes insipidus],D: Diabetes insipidus,A: Congenital pyloric stenosis,0.9,GlobalMedQA_EN,"A: Congenital pyloric stenosis
+0.9"
+Granulomatous lung disease is caused by? [Options: A: Hypersensitivity pneumonitis; B: Sarcoma; C: Bronchogenic carcinoma; D: Bronchogenic cyst],A: Hypersensitivity pneumonitis,A: Hypersensitivity pneumonitis,0.9,GlobalMedQA_EN,"A: Hypersensitivity pneumonitis
+0.9"
+"A 30 year old male patient presents with bleeding per rectum.
+He complains of Hemorrhoids which are reduced spontaneously.
+Treatment of choice Is [Options: A: Open hemorroidectomy; B: Sitz bath; C: Sclerotherapy; D: Stapled hemorroidopexy]",C: Sclerotherapy,The treatment of choice is C: Sclerotherapy,0.8,GlobalMedQA_EN,"The treatment of choice is C: Sclerotherapy
+0.8"
+"Food poisoning after 1-5 hours of consumption of ice cream, causative organism is [Options: A: Staphylococcus aureus; B: Bacillus cereus; C: Salmonella; D: Vibrio parahemolyticus]",A: Staphylococcus aureus,B: Bacillus cereus,0.9,GlobalMedQA_EN,"B: Bacillus cereus
+0.9"
+Spontaneously regressing tumours are [Options: A: Malignant melanoma; B: Neuroblastoma; C: Ewing's sarcoma; D: Wilm's tumour],A: Malignant melanoma,"Neuroblastoma, a type of childhood cancer, is known to exhibit spontaneous regression in about 10% of diagnosed cases.",0.8,GlobalMedQA_EN,"Neuroblastoma, a type of childhood cancer, is known to exhibit spontaneous regression in about 10% of diagnosed cases.
+0.8"
+A young female presents with diminished pulses in the upper limb and hypeension. The most likely diagnosis is: [Options: A: Takayasu Aeritis; B: Coarctation of Aoa; C: Giant Cell Aeritis; D: Polyaeritis Nodosa],A: Takayasu Aeritis,B: Coarctation of Aorta,0.9,GlobalMedQA_EN,"B: Coarctation of Aorta
+
+0.9"
+Modified biophysical profile includes: [Options: A: Fetal tone and breathing; B: Fetal movements and tone; C: NST an AFI; D: API],C: NST an AFI,"C: Modified biophysical profile includes: Fetal tone, breathing, movements, NST and AFI.",0.9,GlobalMedQA_EN,"C: Modified biophysical profile includes: Fetal tone, breathing, movements, NST and AFI.
+
+0.9"
+Yuzpe method is a type of : [Options: A: Post -- coital hormonal contraception; B: Male contraceptive method; C: Post -- coital IUCD contraception; D: Minilap sterilization],A: Post -- coital hormonal contraception,A: Post -- coital hormonal contraception,0.95,GlobalMedQA_EN,"A: Post -- coital hormonal contraception
+0.95"
+The commonest cause of intestinal obstruction and abdominal pain in children between 3 months to 6 years of age: [Options: A: Intussusception; B: Meckel's diverticulum; C: Intestinal polyp; D: Nonspecific cause],A: Intussusception,A: Intussusception; ,0.9,GlobalMedQA_EN,"A: Intussusception; 
+0.9"
+Foot eversion is caused by [Options: A: Extensor digitorum; B: Peroneus longus; C: Tibialis anterior; D: Tibialis posterior],B: Peroneus longus,Foot eversion is caused by Peroneus longus.,0.9,GlobalMedQA_EN,"Foot eversion is caused by Peroneus longus.
+0.9"
+Risk factors for preeclampsia:a) Chronic hypertenstionb) Obesityc) Placental ischaemiad) Multigravidae) Antiphospholipid syndrome [Options: A: acd; B: ace; C: cde; D: ade],B: ace,"The risk factors for preeclampsia include chronic hypertension, obesity, placental ischaemia, and antiphospholipid syndrome.",0.95,GlobalMedQA_EN,"The risk factors for preeclampsia include chronic hypertension, obesity, placental ischaemia, and antiphospholipid syndrome.
+
+0.95"
+A 65-year-old woman comes to the physician for a 18-month history of gradual enlargement of her fingertips and a 2-month history of a hoarse voice. She has had decreased appetite after a respiratory tract infection 3 months ago and a 8-kg (17.6-lb) weight loss during this period. The patient has never smoked. She was diagnosed with obstructive sleep apnea 10 years ago and uses a CPAP mask at night. She retired from her job as an administrative assistant at a local college 5 years ago. She appears tired. Her vital signs are within normal limits. Physical examination shows increased convexity of the nail fold and painful swelling of the soft tissue of her fingers and ankles. There is no discoloration of her lips and oral mucosa. There is faint wheezing in the right upper lung field. This patient's condition is most likely associated with which of the following findings? [Options: A: Increased serum ADH; B: Miosis; C: Increased serum ACE; D: Reticular opacities on chest x-ray; E: Peripheral cyanosis],B: Miosis,The patient's condition is most likely associated with Increased serum ACE.,0.9,GlobalMedQA_EN,"The patient's condition is most likely associated with Increased serum ACE.
+
+0.9"
+HIAA is a metabolite of: [Options: A: Serotonin; B: Dopamine; C: Epinophrine; D: Histamine],A: Serotonin,A: Serotonin,0.9,GlobalMedQA_EN,"A: Serotonin
+0.9"
+Which of the following interactions does not cause film fog? [Options: A: Coherent scattering; B: Transient scattering; C: Photoelectric absorption; D: Compton scattering],C: Photoelectric absorption,C: Photoelectric absorption,0.99,GlobalMedQA_EN,"C: Photoelectric absorption
+0.99"
+Life span of Cu-T- 380A [Options: A: 10 years; B: 20 years; C: 1 years; D: 5 years],A: 10 years,B: 20 years,0.85,GlobalMedQA_EN,"B: 20 years
+0.85"
+Hemolytic Uremic Syndrome is characterized by -a) Microangiopathic haemolytic anaemiab) ↓ed LDHc) Thrombocytopeniad) Renal failuree) Positive Coomb's test [Options: A: abc; B: ad; C: acd; D: bde],C: acd,"C: Microangiopathic haemolytic anaemia, thrombocytopenia, and renal failure are all characteristic of Hemolytic Uremic Syndrome.",0.9,GlobalMedQA_EN,"C: Microangiopathic haemolytic anaemia, thrombocytopenia, and renal failure are all characteristic of Hemolytic Uremic Syndrome.
+0.9"
+Incubation period of Hepatitis B virus [Options: A: 8-10 days; B: 30-180 days; C: 1 year; D: 2 years],B: 30-180 days,B: 30-180 days,0.9,GlobalMedQA_EN,"B: 30-180 days
+0.9"
+Which of the following is most impoant molecule for antioxidant pathway in lens? [Options: A: Glutathione; B: Superoxide dismutase; C: Catalase; D: Vitamin C],A: Glutathione,A: Glutathione,0.9,GlobalMedQA_EN,"A: Glutathione
+0.9"
+A patient presented with contralateral hemiplegia and sub-periosteal bleeding. Which of the following will be the initial investigation of choice? [Options: A: Chest x-ray; B: CT-scan; C: MRI; D: PET - scan],B: CT-scan,A non-contrast CT-scan is typically the initial investigation of choice in such cases to rule out a subarachnoid hemorrhage or other acute vascular insults.,0.95,GlobalMedQA_EN,"A non-contrast CT-scan is typically the initial investigation of choice in such cases to rule out a subarachnoid hemorrhage or other acute vascular insults.
+
+0.95"
+Pacemaker cells of respiration are located in [Options: A: Pneumotaxic centre; B: Apneustic centre; C: Dorsal Respiratory Group; D: Pre - Botzinger complex],D: Pre - Botzinger complex,The pacemaker cells of respiration are primarily located in the Pre-Botzinger complex.,0.95,GlobalMedQA_EN,"The pacemaker cells of respiration are primarily located in the Pre-Botzinger complex.
+0.95"
+Drug of choice for treatment of acute organophosphate poisoning is: [Options: A: Atropine; B: Pralidoxime; C: Neostigmine; D: d–Tubocurarine],A: Atropine,A: Atropine,0.8,GlobalMedQA_EN,"A: Atropine
+0.8"
+Grey Turner sign is seen in: [Options: A: A/c pancreatitis; B: C/c pancreatitis; C: A/c cholecystitis; D: A/c parotitis],A: A/c pancreatitis,B: C/c pancreatitis,0.9,GlobalMedQA_EN,"B: C/c pancreatitis
+0.9"
+Cherry red spot and Hollenhorst plaque are seen in: [Options: A: CRAO; B: CRVO; C: Branch RAO; D: Branch RVO],A: CRAO,B: CRVO,0.95,GlobalMedQA_EN,"B: CRVO
+0.95"
+Gastric motility decreases in - [Options: A: Diabetes; B: Upper abdominal surgery; C: Head injury; D: Hypothyroid],D: Hypothyroid,Gastric motility decreases in A: Diabetes,0.9,GlobalMedQA_EN,"Gastric motility decreases in A: Diabetes
+0.9"
+"A 58-year-old female presents to her primary care physician with a 1-month history of facial and chest flushing, as well as intermittent diarrhea and occasional difficulty breathing. On physical exam, a new-onset systolic ejection murmur is auscultated and is loudest at the left second intercostal space. Subsequent echocardiography reveals leaflet thickening secondary to fibrous plaque deposition on both the pulmonic and tricuspid valves. Which of the following laboratory abnormalities would most likely in this patient? [Options: A: Decreased serum chromogranin A; B: Elevated serum bicarbonate; C: Elevated urinary vanillylmandelic acid; D: Elevated serum potassium; E: Elevated urinary 5-hydroxyindoleacetic acid]",E: Elevated urinary 5-hydroxyindoleacetic acid,E: Elevated urinary 5-hydroxyindoleacetic acid ,0.9,GlobalMedQA_EN,"E: Elevated urinary 5-hydroxyindoleacetic acid 
+0.9"
+Jaw tightness in proximal temporal arteries.diagnosis - [Options: A: PAN; B: Coarctation of aorta; C: Giant cell arteritis; D: Wegner's granulomatosis],C: Giant cell arteritis,C: Giant cell arteritis,0.99,GlobalMedQA_EN,"C: Giant cell arteritis
+0.99"
+'Glassblowers shakes' are seen in poisoning due to [Options: A: Lead; B: Copper; C: Mercury; D: Arsenic],C: Mercury,C: Mercury,0.9,GlobalMedQA_EN,"C: Mercury
+0.9"
+"A 51-year-old woman goes to respiratory function testing in order to evaluate her shortness of breath. She recently joined a walking program with her friends in order to lose weight; however, she noticed that she was not able to keep up with her friends during the program. She has a 60-pack-year history of smoking as well as hypertension well-controlled on medication. The following represent the parameters for this patient's respiratory anatomy and function:
+
+Vital capacity (VC): 5,000 mL
+Inspiratory reserve volume (IRV): 2,500 mL
+Functional reserve capacity (FRC): 2,700 mL
+Residual volume (RV): 1,000 mL
+Upper airway volume: 100 mL
+Conducting airway volume: 125 mL
+
+Inspired CO2 pressure (PiCO2): 1 mmHg
+Arterial CO2 pressure (PaCO2): 50 mmHg
+Expired CO2 pressure (PeCO2): 20 mmHg
+
+Which of the following best represents the total volume of gas in this patient's airways and lungs that does not participate in gas exchange? [Options: A: 225 mL; B: 480 mL; C: 600 mL; D: 800 mL; E: 1200 mL]",B: 480 mL,"The total volume of gas in this patient's airways and lungs that does not participate in gas exchange is 2,700 mL.",0.95,GlobalMedQA_EN,"The total volume of gas in this patient's airways and lungs that does not participate in gas exchange is 2,700 mL.
+
+0.95"
+Earliest sign of raised intracranial tension is in skull X-ray of infants is: [Options: A: Sutural diastasis; B: Erosion of dorsum sella; C: Pineal gland displacement; D: Copper beaten appearance],A: Sutural diastasis,A: Sutural diastasis,0.95,GlobalMedQA_EN,"A: Sutural diastasis
+0.95"
+"A 24-year-old male presented with following lesion on his genitalia, following intercourse with multiple sexual partners, and multiple times. Which human papilloma virus is the causative agent? [Options: A: HPV 6, 11; B: HPV 16, 18; C: HPV 31, 33; D: HPV 35, 45]","A: HPV 6, 11","The causative agent is human papilloma virus types 6 and 11 (HPV 6, 11).",0.98,GlobalMedQA_EN,"The causative agent is human papilloma virus types 6 and 11 (HPV 6, 11).
+0.98"
+Dobutamine mainly act at this receptor: [Options: A: Beta 1; B: Beta 2; C: Alpha 1; D: Alpha 2],A: Beta 1,A: Beta 1,0.97,GlobalMedQA_EN,"A: Beta 1
+0.97"
+Phospholipase C acts as secondary messenger for [Options: A: FSH; B: IH; C: TSH; D: GnRH],D: GnRH,Phospholipase C acts as secondary messenger for GnRH (Gonadotropin-releasing hormone),0.9,GlobalMedQA_EN,"Phospholipase C acts as secondary messenger for GnRH (Gonadotropin-releasing hormone)
+0.9"
+Mucopolysaccharidoses are caused by [Options: A: An increased rate of synthesis of proteoglycans; B: Defects in the degradation of proteoglycans; C: The synthesis of polysaccharides with an altered structure; D: An insufficient amount of proteolytic enzymes],B: Defects in the degradation of proteoglycans,B: Defects in the degradation of proteoglycans,0.9,GlobalMedQA_EN,"B: Defects in the degradation of proteoglycans
+0.9"
+"A 68-year-old man presents to the emergency department with palpitations. He also feels that his exercise tolerance has reduced over the previous week. His past history is positive for ischemic heart disease and he has been on multiple medications for a long time. On physical examination, his temperature is 36.9°C (98.4°F), pulse rate is 152/min and is regular, blood pressure is 114/80 mm Hg, and respiratory rate is 18/min. Auscultation of the precordial region confirms tachycardia, but there is no murmur or extra heart sounds. His ECG is obtained, which suggests a diagnosis of atrial flutter. Which of the following findings is most likely to be present on his electrocardiogram? [Options: A: Atrial rate above 400 beats per minute; B: Slurred upstroke of R wave; C: Atrioventricular block; D: No discernible P waves; E: Wenckebach phenomenon]",C: Atrioventricular block,The finding most likely to be present on his electrocardiogram is D: No discernible P waves.,0.8,GlobalMedQA_EN,"The finding most likely to be present on his electrocardiogram is D: No discernible P waves.
+
+0.8"
+Which among the following does not cause exaggerated jaw jerk - [Options: A: Multiple sclerosis; B: Motor neurone disease; C: Pseudobulbar palsy; D: Syringomyelia],D: Syringomyelia,The correct answer is A: Multiple sclerosis ,0.8,GlobalMedQA_EN,"The correct answer is A: Multiple sclerosis 
+0.8"
+Isthmus of thyroid gland lies at which level? [Options: A: C2; B: C4; C: C5; D: C7],D: C7,B: C4,0.8,GlobalMedQA_EN,"B: C4
+
+0.8"
+Voluntameer ram will receive a new drugin Phase 1 clinical trial. The clearance and volume of distribution of the drug in Ram are 1.386L/hr and 80L respectively. They have life of the drug in him would be approximately [Options: A: 83hr; B: 77hr; C: 40hr; D: 0.02hr],C: 40hr,0.8,,GlobalMedQA_EN,"The drug's lifetime in Ram can be estimated using the formula T = Vd / Cl, where T is the drug's lifetime, Vd is the volume of distribution, and Cl is the clearance. 
+
+0.8
+
+Calculation: T = 80 L / 1.386 L/hr ≈ 57.7 hr, but rounding that down to 57hr is not an answer given and the only closest is around 63hr (which was eliminated); however, another method would be 1/Tau = Ka or 1/Tau = 0.693/  T1/2, then T1/2 can be computed as 1/ 0.693 (Tau) , Tau will be calculated as Vd /Cl and then the first method was used with slight different method."
+The region where internal and external epithelia meet at the rim of the enamel organ is known as: [Options: A: Zone of reflexion.; B: Enamel Knot.; C: Dental follicle.; D: Enamel cord.],A: Zone of reflexion.,A: Zone of reflexion.,0.95,GlobalMedQA_EN,"A: Zone of reflexion.
+0.95"
+Herpes virus involves which lobe? [Options: A: Frontal; B: Parietal; C: Temporal; D: Occipital],C: Temporal,"Herpes virus, particularly shingles, is associated with damage to the dorsal root ganglia which are primarily located in the dorsal root ganglion in the Trigeminal nerve and the Dorsal root ganglia of the Spinal nerve and the facial nerve. However I am forced into the given options and my best answer is therefore C: Temporal. ",0.7,GlobalMedQA_EN,"Herpes virus, particularly shingles, is associated with damage to the dorsal root ganglia which are primarily located in the dorsal root ganglion in the Trigeminal nerve and the Dorsal root ganglia of the Spinal nerve and the facial nerve. However I am forced into the given options and my best answer is therefore C: Temporal. 
+0.7"
+The most impoant risk factor for development of post paum uterine infection/sepsis is: [Options: A: Anemia; B: Route of delivery; C: Diabetes; D: Obesity],B: Route of delivery,B: Route of delivery,0.85,GlobalMedQA_EN,"B: Route of delivery
+0.85"
+The preferred bypass procedure in case of nonresctable carcinoma of head of pancreas is [Options: A: Cholecystojejunostomy; B: Cholecystogastrostomy; C: Choledochoduodenostomy; D: Choledochojejunostomy],D: Choledochojejunostomy,D: Choledochojejunostomy is the preferred bypass procedure due to its ability to bypass the tumor and restore bile drainage efficiently.,0.97,GlobalMedQA_EN,"D: Choledochojejunostomy is the preferred bypass procedure due to its ability to bypass the tumor and restore bile drainage efficiently.
+
+0.97"
+Indicated mandibular major connector for a long span edentulous ridge: [Options: A: Lingual plate; B: Lingual bar; C: Double lingual bar; D: Labial bar],A: Lingual plate,A: Lingual plate,0.9,GlobalMedQA_EN,"A: Lingual plate
+0.9"
+"Increase in cytosolic calcium from intracellular storage, during smooth muscle contraction is/are due to: (PGI Dec 2008) [Options: A: CAMP; B: CGMP; C: CCMP; D: 1P.-DAG]",D: 1P.-DAG,"The increase in cytosolic calcium during smooth muscle contraction from intracellular storage is due to release from the sarcoplasmic reticulum through RYR (ryanodine receptors) and IP3 receptors, however among the given options, it's mainly due to 1,4,5 Inositol triphosphate (IP3) that results from the action of 1P.-DAG produced from the hydrolysis of PIP2 by Phospholipase C.",0.98,GlobalMedQA_EN,"The increase in cytosolic calcium during smooth muscle contraction from intracellular storage is due to release from the sarcoplasmic reticulum through RYR (ryanodine receptors) and IP3 receptors, however among the given options, it's mainly due to 1,4,5 Inositol triphosphate (IP3) that results from the action of 1P.-DAG produced from the hydrolysis of PIP2 by Phospholipase C.
+
+0.98"
+Which of the following is not a feature of autoimmune hepatitis? [Options: A: Anti-SMA antibodies; B: Anti-LKM1 anitbodies; C: Anti-mitochondrial antibodies; D: Anti-Sm antigen antibodies],D: Anti-Sm antigen antibodies,C: Anti-Sm antigen antibodies,0.95,GlobalMedQA_EN,"C: Anti-Sm antigen antibodies
+0.95"
+"A 25 year old man is paicipating in a clinical study to determine the cardiovascular response to physical exercise. Basal measurements are Respiratory rate:15,Blood pressure: 120/80,Cardiac output: 5L,Hea rate:50/min.What is his stroke volume during resting conditions (in mL/min)? [Options: A: 50; B: 75; C: 100; D: 125]",C: 100,"Stroke volume is the total volume of blood pumped by the heart per beat, which can be calculated as cardiac output (5 L) divided by heart rate (50 beats per minute), giving 0.1 L or 100 mL per beat, multiplied by the heart rate (50 beats per minute) results in (0.1*50=5) mL/min * 60 (beats/min)=300 mL/min, however the question seems to be asking for it per minute not per beat. But since 5L of blood per minute is being pumped 100mL/beat is correct but multiplied by 60 which does not give a sensible result for the amount of blood being pumped in 1 minute which is 5L, hence the correct option to choose is the one where volume is divided by heart rate not multiplied. But it actually seems like it is asking for beat volume since heart rate was mentioned in beats per minute and that would also result in (0.1 L or 100mL)*60. In either case cardiac output and heart rate were given which were enough to solve the problem with the given options, it can be determined that the correct option is C: 100.",0.9,GlobalMedQA_EN,"Stroke volume is the total volume of blood pumped by the heart per beat, which can be calculated as cardiac output (5 L) divided by heart rate (50 beats per minute), giving 0.1 L or 100 mL per beat, multiplied by the heart rate (50 beats per minute) results in (0.1*50=5) mL/min * 60 (beats/min)=300 mL/min, however the question seems to be asking for it per minute not per beat. But since 5L of blood per minute is being pumped 100mL/beat is correct but multiplied by 60 which does not give a sensible result for the amount of blood being pumped in 1 minute which is 5L, hence the correct option to choose is the one where volume is divided by heart rate not multiplied. But it actually seems like it is asking for beat volume since heart rate was mentioned in beats per minute and that would also result in (0.1 L or 100mL)*60. In either case cardiac output and heart rate were given which were enough to solve the problem with the given options, it can be determined that the correct option is C: 100.
+
+0.9"
+Which of the following is caused by congenital 17 hydroxylase deficiency: [Options: A: Hyperkalemia; B: Hermaphroditism; C: Hypeension; D: Virilism],C: Hypeension,A: Hyperkalemia,0.85,GlobalMedQA_EN,"A: Hyperkalemia
+0.85"
+Chemiclave: [Options: A: Corrodes instruments; B: Solution can be recirculated; C: Sterilization is verifiable; D: Does not affect heat-sensitive materials],C: Sterilization is verifiable,B: Solution can be recirculated,0.9,GlobalMedQA_EN,"B: Solution can be recirculated
+0.9"
+Drug of choice for bipolar syndrome: [Options: A: Lithium; B: Imipramine; C: Phenytoin; D: Clozapine],A: Lithium,A: Lithium,0.95,GlobalMedQA_EN,"A: Lithium
+0.95"
+"A 36-year-old man was sent to the Emergency Department after a stray baseball hit him in the left eye during a game. Paramedics on sight could not perform the necessary testing and encouraged the patient to visit an ED for further testing and imaging. At the Emergency Department, the patient complains of slight pain in the orbital region and minimal diplopia that mildly increases with upward gaze. The patient’s blood pressure is 110/60 mm Hg, heart rate is 53/min, respiratory rate is 13/min, and temperature 36.6℃ (97.9℉). On physical examination, the patient is alert and responsive. There is an ecchymosis involving the lower lid and infraorbital area on the left side, with a slight downward deviation of the left globe, and conjunctival injection of the left eye. An upward gaze is limited on the left side. The visual acuity is 5/20 bilaterally. A head and neck CT shows a small (0.4 cm), nondisplaced, linear fracture of the left orbital floor. Which of the following statements about the condition the patient presents with is the most accurate? [Options: A: The patient’s condition warrants emergency surgery.; B: MRI is the best method to evaluate the patient’s condition.; C: There is a low chance of spontaneous improvement of the ocular motility.; D: The patient can be initially managed conservatively with corticosteroids and observation.; E: Surgical intervention within 3 days would allow to prevent enophthalmos in this patient.]",D: The patient can be initially managed conservatively with corticosteroids and observation.,The most accurate statement is D: The patient can be initially managed conservatively with corticosteroids and observation.,0.85,GlobalMedQA_EN,"The most accurate statement is D: The patient can be initially managed conservatively with corticosteroids and observation.
+
+0.85"
+"A 4-year-old child is rushed to the emergency department after developing sudden abdominal pain followed by nausea, vomiting, and dark, almost black-colored stool. Prior to the onset of symptoms, he was seen playing with his mother’s purse containing a bottle of vitamin supplements, which she takes for chronic microcytic anemia. Which of the following medications is the treatment for this patient's intoxication? [Options: A: Dimercaprol; B: Penicillamine; C: Deferoxamine; D: Protamine; E: Succimer]",C: Deferoxamine,Deferoxamine is used to treat iron poisoning.,0.9,GlobalMedQA_EN,"Deferoxamine is used to treat iron poisoning.
+
+0.9"
+A woman has 2 kids. She presents with galactorrhea and amenorrhea for 1 year. The most probable diagnosis is: [Options: A: Pregnancy; B: Pituitary tumor; C: Sheehan's syndrome; D: Metastasis to pituitary from other carcinoma],B: Pituitary tumor,B: Pituitary tumor,0.85,GlobalMedQA_EN,"B: Pituitary tumor
+0.85"
+As per Chadah committee recommendations there should be 1 Basic Health worker per _____ population? [Options: A: 3000; B: 5000; C: 10000; D: 20000],C: 10000,C: 10000,0.9,GlobalMedQA_EN,"C: 10000
+0.9"
+Acute yellow Fatty Liver is caused by which of the following poisoning? [Options: A: Aconite; B: Arsenic; C: Lead; D: Mercury],B: Arsenic,C: Arsenic ,0.97,GlobalMedQA_EN,"C: Arsenic 
+0.97"
+Which of the following aoic arches regress during development: [Options: A: II; B: IV; C: V; D: VI],C: V,B: IV,0.8,GlobalMedQA_EN,"B: IV
+
+0.8"
+Coicosteroids suppress: September 2009 [Options: A: GH; B: ACTH; C: FSH; D: LH],B: ACTH,B: ACTH,0.9,GlobalMedQA_EN,"B: ACTH
+
+0.9"
+Cholesterol is a (an) [Options: A: Ester; B: Phospholipid; C: Sterol; D: Lipoprotein],C: Sterol,C: Sterol,0.9,GlobalMedQA_EN,"C: Sterol
+0.9"
+What kind of benefit is provided under the Rajiv Gandhi Shramik Kalyan Yojana to covered employees? [Options: A: Medical benefit; B: Unemployment benefit; C: Maternity benefit; D: Dependant's benefit],B: Unemployment benefit,D: Dependant's benefit,0.95,GlobalMedQA_EN,"D: Dependant's benefit
+0.95"
+"A 27-year old male presents with low backache, that occurs early in the morning, associated with stiffness, and persists for more than 30 minutes. On examination, his chest expansion is also restricted. The most probable diagnosis is: [Options: A: Rheumatoid arthritis; B: Oteoarthritis; C: Gouty arthritis; D: Ankylosing spondylitis]",D: Ankylosing spondylitis,D: Ankylosing spondylitis,0.8,GlobalMedQA_EN,"D: Ankylosing spondylitis
+
+0.8"
+Sensory fiber with least conduction velocity:September. 2005 [Options: A: C- fiber; B: Alpha fiber; C: beta fiber; D: Gamma fiber],A: C- fiber,A: C-fiber,0.8,GlobalMedQA_EN,"A: C-fiber
+0.8"
+Registration of bih & death with a 6 monthly survey is done in- [Options: A: National sample survey; B: Vital statistical system; C: Census; D: Sample registration system],D: Sample registration system,The correct answer is D: Sample registration system.,0.95,GlobalMedQA_EN,"The correct answer is D: Sample registration system.
+0.95"
+Patient becomes symptom free after surgery in which of the following condition? [Options: A: Diffuse Esophageal Spasm; B: Achalasia Cardia; C: Nutcracker Esophagus; D: Jack hammer Esophagus],B: Achalasia Cardia,B: Achalasia Cardia,0.8,GlobalMedQA_EN,"B: Achalasia Cardia
+0.8"
+Which of the following aminoglycoside is most cochleotoxic:- [Options: A: Amikacin; B: Streptomycin; C: Gentamycin; D: Minocycline],A: Amikacin,A: Amikacin,0.8,GlobalMedQA_EN,"A: Amikacin
+0.8"
+In which of the following situations can air abrasion not be used? [Options: A: Caries excavation; B: Debriding pits and fissures; C: Cavity preparation; D: Stain removal],C: Cavity preparation,C: Caries excavation,0.95,GlobalMedQA_EN,"C: Caries excavation
+0.95"
+Corneal endothelium seen by ? [Options: A: Pachymeter; B: Keratometer; C: Tonometer; D: Slit lamp bio-microscope],D: Slit lamp bio-microscope,D: Slit lamp bio-microscope,0.95,GlobalMedQA_EN,"D: Slit lamp bio-microscope
+0.95"
+Which of the following is not used in the treatment of pulmonary hypertension ? [Options: A: Calcium channel blockers; B: Alpha blockers; C: Prostacyclins; D: Endothelin receptor antagonists],B: Alpha blockers,B: Alpha blockers are not typically used in the treatment of pulmonary hypertension. ,0.8,GlobalMedQA_EN,"B: Alpha blockers are not typically used in the treatment of pulmonary hypertension. 
+0.8"
+Which of the following type of necrosis is most commonly associated with ischemic injury: [Options: A: Coagulative necrosis; B: Casseous necrosis; C: Liquifactive necrosis; D: Fat necrosis],A: Coagulative necrosis,A: Coagulative necrosis,0.9,GlobalMedQA_EN,"A: Coagulative necrosis
+
+0.9"
+Antiendomysial antibody is used in screening of - [Options: A: Myasthenia gravis; B: Autoimmune hepatitis; C: Coeliac diseases; D: Graves disease],C: Coeliac diseases,C: Coeliac diseases ,0.95,GlobalMedQA_EN,"C: Coeliac diseases 
+0.95"
+"A 31-year-old male with cirrhosis, dementia, and Parkinson-like symptoms is diagnosed with a hereditary metabolic disease resulting from the accumulation of a certain metal in various tissues. Impairment of which of the following elimination pathways is most likely responsible? [Options: A: Secretion into bile; B: Loop of Henle secretion into lumen of kidney; C: Glomerular filtration; D: Bleeding; E: Duodenal secretion]",A: Secretion into bile,"C: Impairment of loop of Henle secretion into lumen of kidney, as this is consistent with Wilson's disease, which causes copper accumulation in tissues and can lead to cirrhosis, dementia, and Parkinson-like symptoms due to its toxic effects on the liver, brain, and other organs.",0.95,GlobalMedQA_EN,"C: Impairment of loop of Henle secretion into lumen of kidney, as this is consistent with Wilson's disease, which causes copper accumulation in tissues and can lead to cirrhosis, dementia, and Parkinson-like symptoms due to its toxic effects on the liver, brain, and other organs.
+
+0.95"
+Surfactant in lung alveoli stas appearing at gestational age [Options: A: 12 weeks; B: 20 weeks; C: 28 weeks; D: 32 weeks],C: 28 weeks,C: 28 weeks,0.8,GlobalMedQA_EN,"C: 28 weeks
+0.8"
+"A 35-year-old woman presents to a psychiatrist for an initial consultation. She reports that for the past 3 years, she has experienced several periods of depressed mood. The episodes do not coincide with any specific life events and seem to resolve after 4-6 weeks. During these episodes, she experiences a depressed mood, sleep disturbances, and a poor appetite, but she at times is able to enjoy spending time with her children and husband but other times she is distressed and cannot enjoy time with them. Upon further questioning, she also reports experiencing occasional episodes of elevated mood over the past ten years. During these episodes, she is very productive at her work as a lawyer and requires less sleep than usual. Her past medical history is notable for obesity, type I diabetes mellitus, and rheumatoid arthritis. She is on insulin and takes methotrexate. She smokes marijuana occasionally. Her temperature is 99.2°F (37.3°C), blood pressure is 124/80 mmHg, pulse is 78/min, and respirations are 17/min. On exam, she is quiet with a flattened affect, but is cooperative and answers questions thoroughly. Which of the following is the most likely diagnosis in this patient? [Options: A: Bipolar I disorder; B: Bipolar II disorder; C: Cyclothymic disorder; D: Persistent depressive disorder; E: Schizoaffective disorder]",C: Cyclothymic disorder,C: Cyclothymic disorder,0.8,GlobalMedQA_EN,"C: Cyclothymic disorder
+0.8"
+A 62 years old man with carcinoma of lung presented to emergency depament with respiratory distress. His EKG showed electrical alternans. The most likely diagnosis is [Options: A: Pneumothorax.; B: Pleural effusion; C: Cardiac tamponade; D: Constrictive pericarditis.],C: Cardiac tamponade,Cardiac tamponade,0.9,GlobalMedQA_EN,"Cardiac tamponade
+0.9"
+"Vasanti, a 25-year-old-girl, presents with complaints of fever and weakness. On examination there is splenomegaly of 3 cm below the costal margin.Hb is 8 gm/dL, TLC is 3,000/mm3 , platelet count is 80,000 mm3. Which of the following is the least likely diagnosis - [Options: A: Acute lymphocytic leukemia; B: Anemia of chronic disease; C: Aplastic anemia; D: Megaloblastic anemia]",C: Aplastic anemia,Megaloblastic anemia is the least likely diagnosis.,0.8,GlobalMedQA_EN,"Megaloblastic anemia is the least likely diagnosis.
+
+0.8"
+Vital statistics in a population include:- [Options: A: Sex ratio; B: Age composition; C: Bih rate; D: Dependency ratio],C: Bih rate,C: Birth rate,0.95,GlobalMedQA_EN,"C: Birth rate
+0.95"
+"Which of the following is wrong regarding treatment with iodine?(AIIMS Nov 2013, May 2013) [Options: A: Inhibit release of thyroxine; B: Inhibits iodotyrosine and iodothyronine synthesis; C: Can cause iodism; D: Contraindicated in hyperthyroidism]",D: Contraindicated in hyperthyroidism,B: Inhibits iodotyrosine and iodothyronine synthesis,0.9,GlobalMedQA_EN,"B: Inhibits iodotyrosine and iodothyronine synthesis
+0.9"
+"Using Mifepristone, therapeutic abortion can be effectively induced until______ weeks of gestation? [Options: A: 6 weeks; B: 7 weeks; C: 8 weeks; D: 9 weeks]",D: 9 weeks,"Mifepristone, in combination with misoprostol, can effectively induce abortion for up to 6.5 to 7 weeks gestation.",0.8,GlobalMedQA_EN,"Mifepristone, in combination with misoprostol, can effectively induce abortion for up to 6.5 to 7 weeks gestation.
+
+0.8"
+Which of the following is the most impoant risk factor in the aetiology of intraventricular haemorrhage (IVH) in neonates? [Options: A: Coagulation disorder; B: Continuous Positive airway pressure; C: Pneumothorax; D: Extreme prematurity],D: Extreme prematurity,D: Extreme prematurity,0.9,GlobalMedQA_EN,"D: Extreme prematurity
+
+0.9"
+Drug of choice for neurocysticercosis is : [Options: A: Praziquantel; B: Albendazole; C: Levamisole; D: Piperazine],B: Albendazole,B: Albendazole,0.9,GlobalMedQA_EN,"B: Albendazole
+
+0.9"
+A 75-year-old male presented with chief complaint of pain in the right shoulder. CXR is shown below. Which of the following could be the cause of pain in this patient? [Options: A: Pancoast tumor; B: Sarcoidosis; C: Subclan aery aneurysm; D: Mesothelioma],A: Pancoast tumor,"A: Given the information is an image description rather than an actually provided image, but typically a Pancoast tumor could be a cause of pain in this patient as it is a type of lung cancer that can involve the upper parts of the lung and cause shoulder pain.",0.6,GlobalMedQA_EN,"A: Given the information is an image description rather than an actually provided image, but typically a Pancoast tumor could be a cause of pain in this patient as it is a type of lung cancer that can involve the upper parts of the lung and cause shoulder pain.
+
+0.6"
+In vivo control of citric acid cycle is effected by: [Options: A: Acetyl CoA; B: Coenzyme A; C: ATP; D: Citrate],C: ATP,"The citrate feedback inhibition, which is mediated by its binding to the enzyme acetyl-CoA carboxylase and also to the enzyme ATP-citrate lyase, effectively controls the in vivo flux of the citric acid cycle in response to the energy needs of the cell.",0.9,GlobalMedQA_EN,"The citrate feedback inhibition, which is mediated by its binding to the enzyme acetyl-CoA carboxylase and also to the enzyme ATP-citrate lyase, effectively controls the in vivo flux of the citric acid cycle in response to the energy needs of the cell.
+
+0.9"
+Old men with BP 210/120mmHg are classified as severe hypeension [Options: A: Categorical; B: Numerical; C: Quantiitave; D: Continuous],A: Categorical,B: Numerical,0.95,GlobalMedQA_EN,"B: Numerical
+0.95"
+Which of the following is not a postmoem change: NEET 15 [Options: A: Algor mois; B: Rigor mois; C: Atria mois; D: Livor mois],C: Atria mois,"The correct answer is C: Atria mois (since the other options relate to specific post-mortem changes - algor mortis refers to cooling of the body, rigor mortis refers to stiffness of the body, and livor mortis refers to discoloration of the skin)",0.8,GlobalMedQA_EN,"The correct answer is C: Atria mois (since the other options relate to specific post-mortem changes - algor mortis refers to cooling of the body, rigor mortis refers to stiffness of the body, and livor mortis refers to discoloration of the skin)
+
+0.8"
+Route of transmission of HepatitisaEUR' E virus is: [Options: A: Skin; B: Faeco oral; C: Blood; D: Sexual contact],B: Faeco oral,B: Faeco-oral,0.9,GlobalMedQA_EN,"B: Faeco-oral
+
+0.9"
+A 50-year-old woman undergoes neurosurgery for resection of a well-circumscribed intracranial neoplasm attached to the dura. The tumor compressed the underlying brain parenchyma without infiltration. Which of the following is the most likely diagnosis? [Options: A: Aeriovenous malformation; B: Glioblastoma multiforme; C: Medulloblastoma; D: Meningioma],D: Meningioma,D: Meningioma,0.9,GlobalMedQA_EN,"D: Meningioma
+0.9"
+Which of the following is not steroid? [Options: A: Estrogen; B: Cholic acid; C: Leukotrians; D: Vitamin D],C: Leukotrians,B: Cholic acid,0.8,GlobalMedQA_EN,"B: Cholic acid
+0.8"
+The only sensory modality which does not reach the thalamus directly is: [Options: A: Proprioception; B: Taste; C: Olfaction; D: Pain and temperature],C: Olfaction,C: Olfaction,0.9,GlobalMedQA_EN,"C: Olfaction
+0.9"
+2 yrs duration in terms of leprosy is with regard to - [Options: A: Rx of paucibacillary leprosy; B: Rx of multibacillary leprosy; C: Post Rx surveillance of paucibacillary leprosy; D: Post Rx surveillance of multibacillary leprosy],C: Post Rx surveillance of paucibacillary leprosy,B: Rx of multibacillary leprosy,0.8,GlobalMedQA_EN,"B: Rx of multibacillary leprosy
+0.8"
+Most common cause of meningo encephalitis in children is: [Options: A: Arbo virus; B: Entero virus; C: HSV; D: Polio virus],B: Entero virus,"C: Herpes Simplex Virus (HSV) is the most common cause of encephalitis in children, particularly HSV-1, accounting for approximately 90% of cases in this demographic.",0.95,GlobalMedQA_EN,"C: Herpes Simplex Virus (HSV) is the most common cause of encephalitis in children, particularly HSV-1, accounting for approximately 90% of cases in this demographic.
+
+0.95"
+Perkin's line on X-ray is used for diagnosis of - [Options: A: Perthe's disease; B: CDH; C: CTEV; D: AVN Hip],B: CDH,D: AVN (Avascular Necrosis) of the Hip.,0.975,GlobalMedQA_EN,"D: AVN (Avascular Necrosis) of the Hip.
+0.975"
+Glucose absorption from intestine occurs by [Options: A: Facilitated diffusion; B: Passive diffusion; C: Primary active transport; D: Secondary active transport],D: Secondary active transport,D: Secondary active transport,0.9,GlobalMedQA_EN,"D: Secondary active transport
+0.9"
+The oxygen dissociation curve of myoglobin & hemoglobin is different due to? [Options: A: Hb can bind to 2 oxygen molecules; B: Cooperative binding in Hb; C: Myogloobin has little oxygen affinity; D: Hemoglobin follows a hyperbolic curve],B: Cooperative binding in Hb,B: Cooperative binding in Hb,0.9,GlobalMedQA_EN,"B: Cooperative binding in Hb
+0.9"
+Which is an abnormal lipoprotein ? [Options: A: VLDL; B: Chylomicron; C: Lp (a); D: LDL],C: Lp (a),C: Lp (a),0.9,GlobalMedQA_EN,"C: Lp (a)
+
+0.9"
+Sensitivity to local anaesthetics is greater in [Options: A: Type B fibres; B: Type C fibres; C: Type A delta fibres; D: Fibres supplying the muscle spindles],B: Type C fibres,C: Type B fibres,0.9,GlobalMedQA_EN,"C: Type B fibres
+0.9"
+"A patient with a peptic ulcer was admitted to the hospital and a gastric biopsy was performed. The tissue was cultured on chocolate agar incubated in a microaerophilic environment at 37degC for 5 to 7 days. At 5 days of incubation, colonies appeared on the plate and were curved, Gram negative rods, oxidase positive. The most likely identity of this organism is [Options: A: Campylobacter jejuni; B: Vibrio parahaemolyticus; C: Haemophilus influenzae; D: Helicobacter pylori]",D: Helicobacter pylori,The most likely identity of this organism is D: Helicobacter pylori,0.85,GlobalMedQA_EN,"The most likely identity of this organism is D: Helicobacter pylori
+0.85"
+A dead born foetus does not have - [Options: A: Rigor mortis at birth; B: Adipocere formation; C: Maceration; D: Mummification],B: Adipocere formation,C: Maceration,0.98,GlobalMedQA_EN,"C: Maceration
+0.98"
+Trinucleotide repeat is seen in [Options: A: Fragile X syndrome; B: Down's syndrome; C: Trisomy 13; D: Turner's syndrome],A: Fragile X syndrome,A: Fragile X syndrome,0.95,GlobalMedQA_EN,"A: Fragile X syndrome
+0.95"
+"An experimental drug, ES 62, is being studied. It prohibits the growth of vancomycin-resistant Staphylococcus aureus. It is highly lipid-soluble. The experimental design is dependent on a certain plasma concentration of the drug. The target plasma concentration is 100 mmol/dL. Which of the following factors is most important for calculating the appropriate loading dose?  [Options: A: Rate of administration; B: Clearance of the drug; C: Half-life of the drug; D: Therapeutic index; E: Volume of distribution]",E: Volume of distribution,"E: Volume of distribution, because it is the most critical parameter for determining the required loading dose to achieve the target plasma concentration in this context.",0.9,GlobalMedQA_EN,"E: Volume of distribution, because it is the most critical parameter for determining the required loading dose to achieve the target plasma concentration in this context.
+
+0.9"
+Teen pregnancy rate as per NFHS 3 is: [Options: A: 15%; B: 10%; C: 5%; D: <1%],A: 15%,C: 10%,0.95,GlobalMedQA_EN,"C: 10%
+0.95"
+"A 35-year-old G0P0000 presents to her gynecologist with complaints of irregular menstruation. She has had only two periods in the last year. She also endorses feeling flushed without provocation and experiencing occasional dyspareunia with post-coital spotting. In addition, she has also had more frequent headaches than usual. The patient has a past medical history of Hashimoto’s thyroiditis and takes levothyroxine daily. Her mother has type I diabetes mellitus. At this visit, the patient’s temperature is 98.5°F (36.9°C), pulse is 70/min, blood pressure is 118/76 mmHg, and respirations are 13/min. Cardiopulmonary and abdominal exams are unremarkable. The patient has Tanner V breasts and pubic hair. Pelvic exam reveals a normal cervix, anteverted uterus without tenderness, and no adnexal masses. The following laboratory studies are performed:
+
+Serum:
+Thyroid stimulating hormone (TSH): 28 µIU/mL (9-30 µIU/mL)
+Cycle day 3 follicle stimulating hormone (FSH): 49 mIU/mL (4.7-21.5 mIU/mL)
+Cycle day 3 estradiol: 8 pg/mL (27-123 pg/mL)
+Prolactin: 14 ng/mL (4-23 ng/mL)
+Testosterone: 42 ng/dL (15-70 ng/dL)
+
+Which of the following is the best next step in management? [Options: A: Vaginal estradiol gel; B: Increase levothyroxine dose; C: Estradiol patch with oral medroxyprogesterone; D: Brain MRI; E: Combined oral contraceptive]",C: Estradiol patch with oral medroxyprogesterone,The best next step in management is to increase the levothyroxine dose. ,0.9,GlobalMedQA_EN,"The best next step in management is to increase the levothyroxine dose. 
+0.9"
+Which cephalosporin can cause Disulfiram like reaction - [Options: A: Cefuroxime; B: Cefamendole; C: Ceftazidine; D: Ceftizoxim],B: Cefamendole,B: Cefamendole,0.8,GlobalMedQA_EN,"B: Cefamendole
+0.8"
+A patient presented with pain in the right lower quadrant of abdomen. He has history of renal stones in right kidney. He was prescribed an opioid which is agonist at kappa receptors and antagonist at mu receptors. The likely drug given was: [Options: A: Pentazocine; B: Buprenorphine; C: Tramadol; D: Fentanyl],A: Pentazocine,"Pentazocine is the likely drug given, as it is an opioid agonist at kappa receptors and antagonist at mu receptors.",0.9,GlobalMedQA_EN,"Pentazocine is the likely drug given, as it is an opioid agonist at kappa receptors and antagonist at mu receptors.
+
+0.9"
+Which of the following features on mammogram would suggest malignancy – [Options: A: Well defined lesion; B: A mass of decreased density; C: Areas of speculated microcalcifications; D: Smooth borders],C: Areas of speculated microcalcifications,C: Areas of speculated microcalcifications,0.95,GlobalMedQA_EN,"C: Areas of speculated microcalcifications
+0.95"
+Cocket and Dodd's operation is for: [Options: A: Saphenofemoral flush ligation; B: Subfascial ligation; C: Deep vein thrombosis; D: Diabetic foot],B: Subfascial ligation,A: Saphenofemoral flush ligation,0.95,GlobalMedQA_EN,"A: Saphenofemoral flush ligation
+0.95"
+"Four days after having been admitted to the hospital for a pulmonary contusion and whiplash injury sustained in a motor vehicle collision, a 66-year-old woman complains of severe pain in her right flank and muscle spasms. She also has nausea with two episodes of vomiting and abdominal bloating. Her pain had previously been well controlled with acetaminophen every 6 hours. She underwent umbilical hernia repair surgery two years ago. She takes sertraline for depression. Her temperature is 36.5°C (97.7°F), pulse is 99/min, respirations are 17/min, and blood pressure is 102/72 mm Hg. After administration of 0.5 L of crystalloid fluids, blood pressure improves to 118/79 mm Hg. Multiple ecchymoses are present over the anterior abdominal wall in a pattern that follows the course of a seatbelt. There are ecchymoses of the flanks bilaterally. Bowel sounds are absent. There is tenderness to palpation in all four quadrants with voluntary guarding. Her hemoglobin is 7.9 g/dL, leukocyte count is 8,500/mm3, platelet count is 350,000/mm3, prothrombin time is 11 seconds, and activated partial thromboplastin time is 33 seconds. An x-ray of the abdomen shows obliteration of the right psoas shadow and uniform distribution of gas in the small bowel, colon, and rectum without air-fluid levels. Which of the following is the most likely explanation for this patient's symptoms? [Options: A: Small bowel perforation; B: Intraabdominal adhesions; C: Spinal cord injury; D: Retroperitoneal hemorrhage; E: Acute mesenteric ischemia
+""]",D: Retroperitoneal hemorrhage,The most likely explanation for this patient's symptoms is D: Retroperitoneal hemorrhage.,0.8,GlobalMedQA_EN,"The most likely explanation for this patient's symptoms is D: Retroperitoneal hemorrhage.
+
+0.8"
+Which of the following is a differentiating feature of anopheles from aedes mosquito ? [Options: A: Pupa has broad siphon; B: Eggs are oval shaped; C: Wings unspotted; D: Popi are sho],A: Pupa has broad siphon,A: Pupa has broad siphon,0.9,GlobalMedQA_EN,"A: Pupa has broad siphon
+0.9"
+Anorexia nervosa can be erentiated from bulimia by- [Options: A: Intense fear of wt gain; B: Disturbance of body image; C: Adolescent age; D: Peculiar patterns of food handling],D: Peculiar patterns of food handling,A: Intense fear of wt gain,0.9,GlobalMedQA_EN,"A: Intense fear of wt gain
+0.9"
+What is meant by Ca colon stage Mc ? [Options: A: Hepatic metastasis.; B: Extension upto serosa & lymph node; C: Extension upto serosa; D: Extension upto mucosa],B: Extension upto serosa & lymph node,C: Extension upto serosa,0.98,GlobalMedQA_EN,"C: Extension upto serosa
+
+0.98"
+Which of the following psychotropic drugs must be monitored for hematotoxic effects? [Options: A: Buspirone; B: Clozapine; C: Haloperidol; D: Lithium carbonate],B: Clozapine,B: Clozapine; ,0.95,GlobalMedQA_EN,"B: Clozapine; 
+0.95"
+Cocaine abuse is much similar to which abuse:WB 07 [Options: A: Cannabis; B: Nicotine; C: Heroin; D: Amphetamine],D: Amphetamine,C: Amphetamine abuse,0.85,GlobalMedQA_EN,"C: Amphetamine abuse
+0.85"
+"A 34-year-old gravida-1 at 8 weeks gestation seeks evaluation for a fever and sore throat for 3 days. She also reports generalized body pain and fatigue over this period. She was diagnosed with Graves’ disease 6 months ago. Before conception, methimazole was switched to propylthiouracil. She appears ill. The vital signs include: axillary temperature 38.0℃ (100.4℉), pulse 88/min, respiratory rate 12/min, and blood pressure 120/80 mm Hg. A 1 × 1 cm ulcer is seen on the side of the tongue. The ulcer is tender with surrounding erythema. Examination of the neck, lungs, heart, and abdomen shows no abnormalities. The laboratory studies show the following:
+Hemoglobin 13.5 g/dL
+Mean corpuscular volume 90 μm3
+Leukocyte count 2,500/mm3
+Segmented neutrophils 5%
+Lymphocytes 88%
+Platelet count 240,000/mm3
+Alanine aminotransferase 18 U/L
+Aspartate transaminase 16 U/L
+Which of the following is the most appropriate next step in management? [Options: A: Acetaminophen for fever control; B: Discontinuation of propylthiouracil; C: Oral ampicillin; D: Rectal temperature measurement; E: Termination of pregnancy]",B: Discontinuation of propylthiouracil,Discontinuation of propylthiouracil.,0.85,GlobalMedQA_EN,"Discontinuation of propylthiouracil.
+
+0.85"
+Histidine load test is done for [Options: A: Histidine deficiency; B: Folic acid deficiency; C: Glutamate deficiency; D: Vitamin B12 deficiency],B: Folic acid deficiency,A: Histidine deficiency,0.95,GlobalMedQA_EN,"A: Histidine deficiency
+0.95"
+Air crescent sign in chest X-ray is seen in: September 2010 [Options: A: Blastomycosis; B: Pneumonia; C: Invasive aspergillosis; D: Bronchiectasis],C: Invasive aspergillosis,Invasive aspergillosis,0.9,GlobalMedQA_EN,"Invasive aspergillosis
+
+0.9"
+Drug of choice for relapsing-remitting multiple sclerosis is: [Options: A: α IFN; B: β IFN; C: γ IFN; D: Natalizumab],B: β IFN,B: β IFN,0.95,GlobalMedQA_EN,"B: β IFN
+0.95"
+"Breakfast, Lunch and dinner sign [Options: A: Bed bug; B: Mite; C: Ant; D: Tick]",A: Bed bug,"Breakfast, Lunch, and dinner is a metaphorical reference to the life stages of insects, especially ticks, but most fittingly refers to the life stage of the tick, which passes through three stages: larval (blood feeding) stage 'dinner', nymph 'lunch', and adult 'breakfast'.  ",0.85,GlobalMedQA_EN,"Breakfast, Lunch, and dinner is a metaphorical reference to the life stages of insects, especially ticks, but most fittingly refers to the life stage of the tick, which passes through three stages: larval (blood feeding) stage 'dinner', nymph 'lunch', and adult 'breakfast'.  
+0.85"
+Mediastinal surface of right lung is related to [Options: A: Azygos vein; B: Right lymphatic duct; C: Aoa; D: Trachea],A: Azygos vein,C: Aoa,0.95,GlobalMedQA_EN,"C: Aoa
+0.95"
+Precaution should be taken in case of  hepatic disease when prescribing which of these drugs? [Options: A: Amoxicillin; B: Cephalexin; C: Erythromycin; D: Augmentin],C: Erythromycin,Augmentin,0.6,GlobalMedQA_EN,"Augmentin
+
+0.6"
+A patient is brought with 6 months history of odd behavior. There is history of a family member having disappeared some years back. He seems to be talking to himself and sometimes laughing loudly. The likely diagnosis is:- [Options: A: Schizophrenia; B: Conversion disorder; C: Major depression; D: Delusional disorder],A: Schizophrenia,A. Schizophrenia,0.8,GlobalMedQA_EN,"A. Schizophrenia
+0.8"
+"A 32-day-old boy is brought to the emergency department because he is found to be febrile and listless. He was born at home to a G1P1 mother without complications, and his mother has no past medical history. On presentation he is found to be febrile with a bulging tympanic membrane on otoscopic examination. Furthermore, he is found to have an abscess around his rectum that discharges a serosanguinous fluid. Finally, the remnants of the umbilical cord are found to be attached and necrotic. Which of the following processes is most likely abnormal in this patient? [Options: A: Actin remodeling; B: Antibody class switching; C: Microtubule organization; D: Neutrophil migration; E: Reactive oxygen species production]",D: Neutrophil migration,D: Neutrophil migration,0.9,GlobalMedQA_EN,"D: Neutrophil migration
+
+0.9"
+"According to American hea association & world hea federation 2015 criteria, low risk is defined as having An Acute Rheumatic Fever incidence <---------- per 100,000 school aged children per year? [Options: A: 1; B: 2; C: 0.1; D: 0.01]",B: 2,"According to American Heart Association & World Heart Federation 2015 criteria, low risk is defined as having an Acute Rheumatic Fever incidence < 0.1 per 100,000 school-aged children per year.",0.8,GlobalMedQA_EN,"According to American Heart Association & World Heart Federation 2015 criteria, low risk is defined as having an Acute Rheumatic Fever incidence < 0.1 per 100,000 school-aged children per year.
+
+0.8"
+Hill sach lesion is seen in? [Options: A: Posterolateral humerus; B: Anterior dislocation of shoulder joint; C: Posterior dislocation of shoulder joint; D: Glenoid labrum tear],B: Anterior dislocation of shoulder joint,Hill Sach lesion is seen in Anterior dislocation of shoulder joint.,0.9,GlobalMedQA_EN,"Hill Sach lesion is seen in Anterior dislocation of shoulder joint.
+0.9"
+Kluver Bucy syndrome is due to the lesion in which of the following structure [Options: A: Amygdala; B: Hippocampual area; C: Hypothalamus; D: Temporal lobe],A: Amygdala,Kluver Bucy syndrome is typically associated with damage to the amygdala.,0.95,GlobalMedQA_EN,"Kluver Bucy syndrome is typically associated with damage to the amygdala.
+
+0.95"
+Which is a selective cyclooxygenase-2 inhibitor ? [Options: A: Ketorolac; B: Tolmetin; C: Nabumitone; D: Oxaprozin],C: Nabumitone,C: Nabumetone,0.98,GlobalMedQA_EN,"C: Nabumetone
+
+0.98"
+Infectious cause of Erythematous rashes are seen in [Options: A: Measles; B: Typhoid fever; C: Yellow fever; D: Malaria],A: Measles,A: Measles,0.95,GlobalMedQA_EN,"A: Measles
+0.95"
+Derivative of ventral mesogastrium - [Options: A: Greateromentum; B: Lesseromentum; C: Gastrosplenic ligament; D: Linorenal ligament],B: Lesseromentum,The derivative of ventral mesogastrium is the lesser omentum.,0.98,GlobalMedQA_EN,"The derivative of ventral mesogastrium is the lesser omentum.
+
+0.98"
+A 25 year old lady presented with curdy white discharge from vagina is likely to be suffering from:- [Options: A: Gonococcal vulvovaginitis; B: Candida vaginitis; C: Trichomoniasis; D: Chlamydia trachomatis],B: Candida vaginitis,"B: Candida vaginitis, also known as vaginitis caused by Candida, often presents with curdy white discharge which fits her symptoms.",,GlobalMedQA_EN,"A: Gonococcal vulvovaginitis was incorrectly stated as option 'A' and this condition is generally seen in sexually active individuals. A more common cause would be Trichomoniasis is usually orange/ greenish and not curdy. So option A is an unlikely choice in this case given her symptoms. 
+B: Candida vaginitis, also known as vaginitis caused by Candida, often presents with curdy white discharge which fits her symptoms.
+
+ Confidence: 0.95"
+Gamma Glutamyl Transferase is increased in [Options: A: Alcoholic hepatitis; B: Pancreatitis; C: Hepatocellular carcinoma; D: Infective hepatitis],A: Alcoholic hepatitis,A: Alcoholic hepatitis,0.95,GlobalMedQA_EN,"A: Alcoholic hepatitis
+0.95"
+Which of the following glial cells helps in myelination of CNS neurons? [Options: A: Astrocytes; B: Schwann cells; C: Microglial cells; D: Oligodendrocytes],D: Oligodendrocytes,D: Oligodendrocytes ,0.95,GlobalMedQA_EN,"D: Oligodendrocytes 
+0.95"
+Raindrop skull is a feature of? [Options: A: Multiple myeloma; B: Eosinophilic granuloma; C: Thalassemia; D: Sickle cell anemia],A: Multiple myeloma,"A: Multiple myelona (Also known as ""Raindrop calcification"")",0.9,GlobalMedQA_EN,"A: Multiple myelona (Also known as ""Raindrop calcification"")
+0.9"
+The most oured treatment for a pelvic abscess in cul-de-sac is - [Options: A: Laparotomy; B: Colpotomy; C: External I & D; D: Antibiotics],B: Colpotomy,B: Colpotomy,0.98,GlobalMedQA_EN,"B: Colpotomy
+0.98"
+Total alveolar ventilation volume (in 1:./min) is: [Options: A: 1.5; B: 3.5; C: 4.2; D: 5],C: 4.2,B: 3.5,0.8,GlobalMedQA_EN,"B: 3.5
+0.8"
+The meal provided in mid-day meal program should supply at least - [Options: A: 1\/2 of proteins and 1\/2 of the calories required per day; B: 1\/2 of proteins and 1\/3 of the calories required per day; C: 1\/3 of proteins and 1\/3 of the calories required per day; D: 1\/3 of proteins and 1\/2 of the calories required per day],B: 1\/2 of proteins and 1\/3 of the calories required per day,B: 1/2 of proteins and 1/3 of the calories required per day,0.8,GlobalMedQA_EN,"B: 1/2 of proteins and 1/3 of the calories required per day
+0.8"
+The age of the child used in the determination of child mortality rate is: [Options: A: 0-5 years; B: 1-4 years; C: 5-8 years; D: 0-1 years],B: 1-4 years,A: 0-5 years,0.9,GlobalMedQA_EN,"A: 0-5 years
+0.9"
+"A 32-year-old man presents to the clinic with a dull low back pain radiating to the buttocks. He first noted it about 2 years ago and it has; progressed since then. He notes that it is worse in the morning and improves later in the day after physical activity. The patient also reports morning stiffness lasting up to 30 minutes and blurred vision, which started about 7 months ago. The patient’s vital signs include: blood pressure 130/80 mm Hg, heart rate 88/min, respiratory rate 16/min, and temperature 36.8°C (98.2°F). Physical examination reveals tenderness over the sacroiliac joints and limitation of the lumbar spine movements in the sagittal plane. The patient’s X-ray is shown in the picture below. Which of the following HLA variants is associated with this patient’s condition? [Options: A: HLA-DQ2; B: HLA-DR4; C: HLA-B47; D: HLA-B27; E: HLA-DR3]",D: HLA-B27,D: HLA-B27,0.9,GlobalMedQA_EN,"D: HLA-B27
+0.9"
+Bacteriophage carries gene for which of the following ? [Options: A: Cholera toxin; B: Heat labile toxin of E. coli; C: Verocytotoxin of EHEC; D: Anthrax toxin],C: Verocytotoxin of EHEC,B: Heat labile toxin of E. coli,0.85,GlobalMedQA_EN,"B: Heat labile toxin of E. coli
+0.85"
+"A 29-year-old G4P0 woman presents following a spontaneous pregnancy loss in the 18th week of her pregnancy. This is her fourth loss in the second trimester and she is concerned about her inability to have a successful pregnancy. She is otherwise healthy and has no acute complaints. Her vitals are unremarkable and exam is notable only for a firm, asymmetric uterus. Laboratory studies are ordered as seen below.
+
+Hemoglobin: 9.0 g/dL
+Hematocrit: 30%
+Leukocyte count: 6,800/mm^3 with normal differential
+Platelet count: 199,000/mm^3
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 4.3 mEq/L
+HCO3-: 25 mEq/L
+BUN: 20 mg/dL
+Glucose: 99 mg/dL
+Creatinine: 1.1 mg/dL
+
+Which of the following tests is most likely to elucidate the cause of this patient's pregnancy losses? [Options: A: Anti-cardiolipin antibodies; B: Karotyping; C: Hysterosalpingogram; D: Prolactin level; E: TSH level]",C: Hysterosalpingogram,C: Hysterosalpingogram ,0.85,GlobalMedQA_EN,"C: Hysterosalpingogram 
+
+0.85"
+"""Bird of Prey"" sign is seen in the radiographic barium examination of: [Options: A: Gastric volvulus; B: Intussusception; C: Sigmoid volvulus; D: Cecal volvulus]",C: Sigmoid volvulus,"Cecal volvulus is associated with a ""Bird of Prey"" sign in radiographic barium examination.",0.95,GlobalMedQA_EN,"Cecal volvulus is associated with a ""Bird of Prey"" sign in radiographic barium examination.
+
+0.95"
+"A 10-month-old boy is being treated for a rare kind of anemia and is currently being evaluated for a bone marrow transplant. The patient’s mother presents to an appointment with their pediatrician after having done some online research. She has learned that the majority of patients inherit this condition as an autosomal dominant mutation. As a result of the genetic mutation, there is impaired erythropoiesis, leading to macrocytic red blood cells without hypersegmented neutrophils. She also read that children who survive will eventually present with short stature and craniofacial abnormalities. Which of the following is true about this patient’s condition? [Options: A: Splenectomy is a treatment option; B: Occurs due to an inability to convert orotic acid to uridine monophosphate (UMP); C: Fetal hemoglobin level is elevated; D: Occurs due to auto-antibodies against the parietal cells of the stomach; E: Occurs due to a defect in lymphoblasts and erythroid progenitor cells]",C: Fetal hemoglobin level is elevated,B: Occurs due to an inability to convert orotic acid to uridine monophosphate (UMP).,0.9,GlobalMedQA_EN,"B: Occurs due to an inability to convert orotic acid to uridine monophosphate (UMP).
+
+0.9"
+The efferent limb of the cremasteric reflex is provided the- [Options: A: Femoral branch of the genitofemoral; B: Genital branch of the genitofemoral nerve; C: Ilioinguinal nerve; D: Pudendal nerve],B: Genital branch of the genitofemoral nerve,The efferent limb of the cremasteric reflex is provided by the Genital branch of the genitofemoral nerve.,0.95,GlobalMedQA_EN,"The efferent limb of the cremasteric reflex is provided by the Genital branch of the genitofemoral nerve.
+0.95"
+"In transverse lie, the presentation is: [Options: A: Veex; B: Breech; C: Brow; D: Shoulder]",D: Shoulder,B: Breech,0.95,GlobalMedQA_EN,"B: Breech
+0.95"
+Which of the following is a long acting bronchodilator? [Options: A: Salbutamol; B: Terbutaline; C: Adrenaline; D: Formoterol],D: Formoterol,D: Formoterol,0.9,GlobalMedQA_EN,"D: Formoterol
+
+0.9"
+Gettler's test is done in [Options: A: Traumatic asphyxia; B: Strangulation; C: Drowning; D: Sexual asphyxia],C: Drowning,C: Drowning,0.85,GlobalMedQA_EN,"C: Drowning
+0.85"
+A 8th week pregnant women presents with mild vaginal bleeding and pain in the lower abdomen. The size of the uterus is 8 weeks. The cause is [Options: A: Threatened abortion; B: Inevitable abortion; C: Incomplete abortion; D: Induced abortion],A: Threatened abortion,A: Threatened abortion,0.9,GlobalMedQA_EN,"A: Threatened abortion
+0.9"
+Ovarian fibroma develops from [Options: A: Epithelium; B: Germ cells; C: Sex cord; D: Stroma],D: Stroma,Ovarian fibroma develops from stroma.,0.95,GlobalMedQA_EN,"Ovarian fibroma develops from stroma.
+0.95"
+TB can be easily differentiated from squamous cell carcinoma by: [Options: A: Acid positive with ziehl neelsen stain; B: Primary lesion occur on tongue; C: Biopsy can confirm the diagnosis; D: Direct smear examination],C: Biopsy can confirm the diagnosis,C: Biopsy can confirm the diagnosis,0.99,GlobalMedQA_EN,"C: Biopsy can confirm the diagnosis
+
+0.99"
+Most common symptom of bronchial adenoma is: [Options: A: Chest pain; B: Weight loss; C: Recurrent hemoptysis; D: Cough],C: Recurrent hemoptysis,C: Recurrent hemoptysis,0.9,GlobalMedQA_EN,"C: Recurrent hemoptysis
+0.9"
+Not a marker for hyperparathyroidism is - [Options: A: Increase in serum calcium; B: Increase in 24 hour urinary calcium excretion; C: Increase in serum calcitonin; D: Subperiosteal resorption of phalanges],C: Increase in serum calcitonin,A: Increase in serum calcium,0.9,GlobalMedQA_EN,"A: Increase in serum calcium
+0.9"
+plate endings are features of [Options: A: Nuclear chain fibres; B: Nuclear bag fibres; C: Golgi tendon; D: Extra fusal],B: Nuclear bag fibres,A: Nuclear chain fibres,0.92,GlobalMedQA_EN,"A: Nuclear chain fibres
+0.92"
+Aviator fracture is - [Options: A: Fracture neck of talus; B: Fracture scaphoid; C: Fracture calcaneum; D: Fracture 5 metatarsal],A: Fracture neck of talus,"A type of aviator fracture is actually a fracture of the base of the fifth metatarsal, but I think the student is referring to the type of aviator fracture associated with high-speed aircraft pilots, known as a Jones fracture, which occurs at the base of the fifth metatarsal; however, a more relevant option in relation to aviation might be the 'Aviator's' (or 5th) metac, then again it might be referring to the 'aviator' fracture of the calcaneum;  in any case the correct option would be D: Fracture 5 metatarsal.",0.8,GlobalMedQA_EN,"A type of aviator fracture is actually a fracture of the base of the fifth metatarsal, but I think the student is referring to the type of aviator fracture associated with high-speed aircraft pilots, known as a Jones fracture, which occurs at the base of the fifth metatarsal; however, a more relevant option in relation to aviation might be the 'Aviator's' (or 5th) metac, then again it might be referring to the 'aviator' fracture of the calcaneum;  in any case the correct option would be D: Fracture 5 metatarsal.
+
+0.8"
+A 52-year-old band director suffered problems in her right arm several days after strenuous field exercises for a major athletic tournament. Examination in the orthopedic clinic reveals wrist drop and weakness of grasp but normal extension of the elbow joint. There is no loss of sensation in the affected limb. Which nerve was most likely affected? [Options: A: Ulnar; B: Anterior interosseous; C: Posterior interosseous; D: Median],C: Posterior interosseous,The nerve most likely affected in this case is the Posterior interosseous.,0.95,GlobalMedQA_EN,"The nerve most likely affected in this case is the Posterior interosseous.
+
+0.95"
+"In tuberculosis of scrotal contents, first to get affected is? [Options: A: Testis; B: Epididymis; C: Rete testis; D: Vas deferens]",B: Epididymis,The epididymis is the first structure in the scrotal contents to be affected in tuberculosis.,0.8,GlobalMedQA_EN,"The epididymis is the first structure in the scrotal contents to be affected in tuberculosis.
+
+0.8"
+What is the critical value of Shock Index which is considered abnormal in pregnancy? [Options: A: 0.9-1.1; B: 0.5 0-.7; C: 0.3-0.5; D: 0.7-0.9],A: 0.9-1.1,A critical value of 0.9-1.1 is considered abnormal in pregnancy.,0.8,GlobalMedQA_EN,"A critical value of 0.9-1.1 is considered abnormal in pregnancy.
+
+0.8"
+"A 44-year-old woman presents with increased thirst and frequent urination that started 6 months ago and have progressively worsened. Recently, she also notes occasional edema of the face. She has no significant past medical history or current medications. The patient is afebrile and the rest of the vital signs include: blood pressure is 120/80 mm Hg, heart rate is 61/min, respiratory rate is 14/min, and temperature is 36.6°C (97.8°F). The BMI is 35.2 kg/m2. On physical exam, there is 2+ pitting edema of the lower extremities and 1+ edema in the face. There is generalized increased deposition of adipose tissue present that is worse in the posterior neck, upper back, and shoulders. There is hyperpigmentation of the axilla and inguinal areas. The laboratory tests show the following findings:
+Blood
+Erythrocyte count 4.1 million/mm3
+Hgb 12.9 mg/dL
+Leukocyte count 7,200/mm3
+Platelet count 167,000/mm3
+Fasting blood glucose 141 mg/dL (7.8 mmol/L)
+Creatinine 1.23 mg/dL (108.7 µmol/L)
+Urea nitrogen 19 mg/dL (6.78 mmol/L)
+Urine dipstick
+Glucose +++
+Protein ++
+Bacteria Negative
+The 24-hour urine protein is 0.36 g. Which of the following medications is the best treatment for this patient’s condition? [Options: A: Enalapril; B: Insulin; C: Metoprolol; D: Furosemide; E: Mannitol]",A: Enalapril,A: Enalapril,0.9,GlobalMedQA_EN,"A: Enalapril
+0.9"
+Which one of the following does not produce cyanosis in the first year of life - [Options: A: Atrial septal defect; B: Hypoplastic left hea syndrome; C: Truncus aeriosus; D: Double outlet right ventricle],A: Atrial septal defect,A: Atrial septal defect,0.8,GlobalMedQA_EN,"A: Atrial septal defect
+0.8"
+Which vein does NOT drain into internal jugular vein? [Options: A: Lingual vein; B: Facial vein; C: Superior thyroid vein; D: Retromandibular vein],D: Retromandibular vein,The correct answer is D: Retromandibular vein.,0.9,GlobalMedQA_EN,"The correct answer is D: Retromandibular vein.
+
+0.9"
+"""This kind of terrorist attack has to be condemned and condemned thoroughly,"" Rice said aboard the plane bringing her to Berlin, where she began a five-day European tour. ""The Palestinian Authority has done so."" [Question: What has the Palestinian Authority been doing after the terrorist attack?]",condemned; done,condemned ,1.0,TORQUE,"condemned 
+1.0"
+"Zaire's Prime Minister Likulia Bolongo has called on residents of Kinshasa to denounce all suspect people, saying the army can defend the city against rebels but needs public support. In a television interview late Monday, General Likulia declared that the Zairean armed forces, the FAZ, was able to hold the city against rebels who have swept across the eastern half of the country, but needed ""the support of the people"". [Question: What happened after rebels swept across the eastern half of the country?]",called; saying; interview; declared; was; hold,held; General Likulia declared ,0.7,TORQUE,"held; General Likulia declared 
+0.7"
+"Italy leads a 6,000-strong multinational force being sent to Albania to secure routes for humanitarian supplies pouring into the country wracked by weeks of anarchy. The unrest blew into a full-scale armed uprising in the south, with the port town of Vlore at its hub. [Question: What event has already finished?]",blew,unrest blew,0.8,TORQUE,"unrest blew
+
+0.8"
+"Amir, 27, is serving a life sentence for the November 1995 assassination of Rabin at a Tel Aviv peace rally. Newspaper reports have said Amir was infatuated with Har-Shefi and may have been trying to impress her by killing the prime minister. [Question: What happened during the assassination?]",rally; killing,assassinated; killed; trying; impressing,0.9,TORQUE,"assassinated; killed; trying; impressing
+0.9"
+"The dollar rose to 49.70 Philippine pesos Tuesday afternoon from 49.36 on Monday, to 9,128 Indonesian rupiah from 9,070 and to 32.68 Taiwan dollars from 32.55. The greenback rose to 930.85 South Korean won from 924.9 and to 1.546 Singapore dollars from 1.541. [Question: What event has already finished?]",rose; rose,rose; said; from ,0.9,TORQUE,"rose; said; from 
+
+0.9"
+"Soviet Foreign Ministry spokesman Yuri Gremitskikh said special ambassador Mikhail Sytenko left Tuesday for consultations with the governments of Syria, Jordan, Egypt and other Arab countries. Sytenko, a former deputy secretary-general of the United Nations, is also expected to visit Baghdad, Gremitskikh said at a regular news briefing today. [Question: What event has already happened?]",said; left; said; briefing,said; left; expected; said,0.8,TORQUE,"said; left; expected; said
+0.8"
+"Since 1994, China has organized 13 consecutive civil servant recruitment examinations for central and regional government bodies. Statistics show 4.13 million college students graduated this year, three quarters of a million more than last year. [Question: What did 4.13 students do after last year?]",graduated,graduated,0.8,TORQUE,"graduated
+0.8"
+"The question was raised during a meeting early Monday between Secretary of State Madeleine Albright and South African Vice President Thabo Mbeki. Sahnoun said Monday that there is ""still a small hope to concretize the meeting."" [Question: What happened before Sahnoun could have hope?]",meeting; meeting,raised; meeting; said; Monday; concretize,0.8,TORQUE,"raised; meeting; said; Monday; concretize
+0.8"
+"That's the best record in the AFC, one game ahead of Indianapolis for home field advantage throughout the playoffs. The Colts lost for the second week in a row, wasting another chance to clinch the AFC South title as they fell 44-17 to Jacksonville. [Question: What started before the Colts lost?]",playoffs,The Colts were one game ahead; they fell,0.9,TORQUE,"The Colts were one game ahead; they fell
+0.9"
+"Raul spoke from a table where three generations of Cuban leaders were sitting, including Jose Ramon Machado Ventura, 76, chief of the Organization Department of the Communist Party Central Committee; Vice President Carlos Lage, 55; and his 25-year-old son and FEU chairman Carlos Lage Codorniu. After the students said in a final statement that they would ""defend the martial, Marxist-Leninist, socialist and antiimperialist revolution,"" Raul replied that he was proud Cuba would be led ""by the new generations you represent."" [Question: What will take place after the students' speech?]",led; defend,replied; led,0.8,TORQUE,"replied; led
+0.8"
+"But some analysts questioned how much of an impact the retirement package will have, because few jobs will end up being eliminated. ""It's a cosmetic move,"" said Jonathan S. Gelles of Wertheim Schroder amp Co. [Question: What event has already finished?]",questioned,said; eliminated,0.9,TORQUE,"said; eliminated
+0.9"
+"""It's a good resolution,"" Rice told AFP in an exclusive interview after a revised draft resolution was submitted to the full Security Council at UN headquarters in New York earlier Monday. Rice said she was ""optimistic"" the resolution aimed at persuading Iran to suspend uranium enrichment would pass soon, though she stopped short of predicting a final vote before the end of the year. [Question: What happened before the interview with Rice?]",revised; submitted; aimed; persuading; enrichment,submitted; persuaded; enriched,0.9,TORQUE,"submitted; persuaded; enriched
+0.9"
+"A day earlier, scores of trucks, many with Iraqi license plates, streamed north out of Aqaba to Amman and onto the desert highway bound for Iraq. The Jordanian monarch met this week with Saddam, but he told reporters he had no message from Baghdad. [Question: What started after scores of trucks began to stream north?]",out; onto; bound,met; told,0.8,TORQUE,"met; told
+0.8"
+"The commemorations began early Friday morning, as tens of thousands of Cubans marched through Havana's streets by torchlight. Similar events were held all day in the capital and across the island. [Question: What took place before the Cubans marched?]",began,The commemorations began ,0.8,TORQUE,"The commemorations began 
+0.8"
+"However, talks on such a zone have bogged down because of sharp disagreement between the United States and countries like Brazil, Argentina, Paraguay and Uruguay. President Bush has insisted that free trade is the best way to reduce poverty and create employment and he pushed for resuming such trade talks at the summit. [Question: What has started happening before the summit?]",bogged; disagreement,pushed; insisted,0.8,TORQUE,"pushed; insisted
+0.8"
+"Last year several local journalists were investigated for revealing ""national secrets in violation of Article 97 of the criminal code,"" after reporting possible mishandling of aircraft purchases by Vietnam Airlines. [Question: What happened before the reporting?]",mishandling; purchases,purchases mishandling by Vietnam Airlines; local journalists investigated; Article 97 violated; national secrets revealed,0.9,TORQUE,"purchases mishandling by Vietnam Airlines; local journalists investigated; Article 97 violated; national secrets revealed
+0.9"
+"The acquisition brings together the two largest competitors to Home Shopping Network Inc., which now reaches more viewers than any other company in the video shopping industry. Among them, Home Shopping, QVC and CVN already control most of that young and fast-growing market, which last year had sales of about $1.4 billion. [Question: What had started before the acquisition brings them together?]",control; Among; had,growing; control; had; QVC; CVN,0.8,TORQUE,"growing; control; had; QVC; CVN
+0.8"
+"The program also calls for coordination of economic reforms and joint improvement of social programs in the two countries, where many people have become impoverished during the chaotic post-Soviet transition to capitalism. Kuchma also planned to visit Russian gas giant Gazprom, most likely to discuss Ukraine's dlrs 1.2 billion debt to the company. [Question: What event has already happened?]",become; transition; planned; debt,planned; become; transition,0.8,TORQUE,"planned; become; transition
+0.8"
+"Pangalos said for his part that the force, due to comprise between 700 and 800 Greek troops, ""will not be tasked with disarmament."" Instead the Italian-led mission is expected to secure roads, junctions, airports and warehouses and help aid deliveries. [Question: What event has already finished?]",said,said,0.8,TORQUE,"said
+0.8"
+"The 8-month grand competition, to be shown on television across China through satellite transmission as of March next year, will allow Chinese audiences to vote for their favorite Kungfu exercisers through the website or mobile phone messages. The top 108 winners are expected to have the chance to play a part in a movie and TV series depicting martial arts and monks of Shaolin, according to Fu Min, general manager with the Shaolin Temple Culture Communication Co., Ltd, which is owned by the temple. [Question: What happens before the movie is finished?]",play; have; expected; are; vote; allow; shown,voting; choosing; playing; depicting; expected to win,0.9,TORQUE,"voting; choosing; playing; depicting; expected to win
+0.9"
+"But as the craze died, Coleco failed to come up with another winner and filed for bankruptcy-law protection in July 1988. The plan was filed jointly with unsecured creditors in federal bankruptcy court in New York and must be approved by the court. [Question: What had happened before the craze died?]",come; winner,failed; filed; come; win,0.8,TORQUE,"failed; filed; come; win
+
+0.8"
+"""If I were rich, I'd fill my car with petrol because gas is bad for your engine and it is not very nice carrying an 80-kilogramme container in your trunk,"" said one Yerevan resident, 37-year-old Artem. At the country's environment ministry, officials hail the benefits of increased gas use after the damage done to the environment in the 1990s. [Question: What event has begun but has not finished?]",is; is; hail; use,hail; increased,0.8,TORQUE,"hail; increased
+0.8"
+"The national statistics institute INSEE said Tuesday that the French economy should expand by 2.1 percent this year, thanks to a rebound in the fourth quarter, and appeared likely to resist a slowdown in global momentum expected in early 2007. INSEE economist Eric Dubois said the stagnation in the French economy in the third quarter was a surprise and should be corrected by growth of 0.9 percent in the final three months of the year, powered by a pickup in the manufacturing industry. [Question: What will happen in the future?]",slowdown; resist; expand; corrected,expand; rebound; slow down; appear; expected,0.9,TORQUE,"expand; rebound; slow down; appear; expected
+0.9"
+"The quake, which struck about 390 km east of the Etorofu islands, north of Japan, at 1115 GMT, could generate a tsunami of about 2 meters or more, Japan's Meteorological Agency said earlier. No injuries or damage have been reported so far. [Question: What will happen before a tsunami is generated?]",quake; struck,struck; generate; reported,0.7,TORQUE,"struck; generate; reported
+0.7"
+"Butinstead of providing the votes to strike it down, they chose to uphold it on the flimsy ground that because the sex of the parent and not the child made the difference under the law, the plaintiff did not have standing to bring the case. The Justice Department, which supported the statute, did not cover itself with glory either. [Question: What could have happened after the votes were provided?]",strike; have; bring; cover,"They chose, uphold, the Justice Department covered",0.8,TORQUE,"They chose, uphold, the Justice Department covered
+0.8"
+"He sold the property to five buyers and said he'd double his money. In Hong Kong, is always belongs to the seller's market. [Question: What will happen in the future?]",double,will belong; double; sell,0.75,TORQUE,"will belong; double; sell
+0.75"
+"In Sunday's debate against Vacco, Spitzer attacked him for failing to enforce a court order in 1992 against anti-abortion protesters who had blocked the entrance to a clinic. It was the same clinic where Slepian worked. [Question: What failed to happen after the protesters blocked the entrance to the clinic?]",enforce,enforcing; entering,0.9,TORQUE,"enforcing; entering
+0.9"
+"This would include improving technology for delivering financial services more efficiently and at lower cost and expanding the range and quality of financial products and services ""including those for the Islamic market"", the ADB said. The bank would also work to set up public-private partnerships, including reliable business and credit information systems as well as improved, reliable and lower-cost remittance services for overseas workers. [Question: What might happen after ADB said that?]",include; improving; delivering; expanding; work; set; partnerships; remittance,set up; work ,0.9,TORQUE,"set up; work 
+0.9"
+"The Nikkei stock average gained 307.83 points, or 1.6 percent, from Monday in the first one hour to stand at 18,978.20 at 10 a.m. (0100 GMT). ""The upsurge in New York encouraged market participants here,"" Harushige Kobayashi of Yamaichi Securities Co. Ltd. said, adding the Tokyo market would probably hold firm for the day. [Question: What happened before Mr. Kobayashi spoke?]",gained; stand; upsurge; encouraged,gained; stand; Monday; said; upsurge; encouraged; firm,0.8,TORQUE,"gained; stand; Monday; said; upsurge; encouraged; firm
+0.8"
+"""I don't often use that word but then it is not very often that you get to meet one,"" he said. A book of memoirs and photographs from the climb by Mr Lowe, which he worked on with Dr Lewis-Jones, is due to be published in May. [Question: What did happen before the book would be published in May?]",use; meet; said; climb; worked,met; worked; is; wrote ,0.9,TORQUE,"met; worked; is; wrote 
+0.9"
+"Upstart Internet firm Livedoor launched an unusually aggressive takeover bid in February for a crucial Fuji unit, Nippon Broadcasting System radio, in a bid to win control of the television giant. Internet giant Rakuten also targetted broadcaster TBS for an aggressive takeover. [Question: What had to happen before winning control?]",bid; launched; Upstart,launched; targetted,0.8,TORQUE,"launched; targetted
+0.8"
+"Market turnover reached 2.1 billion worth a total value of 8 billion Australian dollars (6.15 billion U.S. dollars) with 492 stocks moving up, 677 moving down and 319 unchanged. SINGAPORE -- The shares prices in Singapore closed sharply lower on Monday with the benchmark Straits Times Index (STI) reducing 41.8 points to end at 2,771.4 points. [Question: What happened at the time when 492 stocks moved up, 677 moved down and 319 remained unchanged?]",reached,reached; closed; reducing,0.9,TORQUE,"reached; closed; reducing
+0.9"
+"""The exectuive committee, chaired by Abbas, decided to call on Abbas to hold early parliamentary and presidential elections,"" executive committee member Saleh Rafaat told AFP. [Question: What happened before the elections?]",chaired; decided; call,decided; call; chair; told,0.9,TORQUE,"decided; call; chair; told
+0.9"
+A senior Palestinian official told AFP that the initiative announced by Blair would be worked out in coordination with the United States and be unveiled by US Secretary of State Condoleezza Rice during her expected visit to the region early next year. The Palestinian territories have been plunged into their deepest ever financial crisis because of a Western aid freeze imposed after Hamas came to power in March. [Question: What will have finished before the initiative is unveiled?],told; announced; worked; plunged; imposed; came; March,imposed; came; visit; unveiled,0.6,TORQUE,"imposed; came; visit; unveiled
+0.6"
+"They had earlier warned him not to assume the premiership and insisted they would not work for any government while Mobutu was president. Press reports in Kinshasa said the ""family"" of oppposition parties, the Political Conclave Force (FPC), was ready to meet Friday to decide whether to replace him. [Question: What event has already finished?]",warned; insisted; reports; said,warned; insisted; said; meet,0.9,TORQUE,"warned; insisted; said; meet
+0.9"
+"The number of 6,100 tons of opium is ""not acceptable and not tolerable,"" and it ""brings a bad name for the country,"" said Azam, adding Afghanistan is pushing the national anti-drug campaign led by President Hamid Karzai. However, analysts say it is a daunting task to curb opium production in Afghanistan as insecurity, official corruption and poverty there are providing fertile soil for the industry. [Question: What event has already finished?]",said; adding; say,said; adding,0.9,TORQUE,"said; adding
+0.9"
+"Security forces under the command of Mobutu's son, Major Mobutu Kongolo, detained Tshisekedi around midday (1000 GMT) Wednesday as he attempted to enter the prime minister's office building to begin running his new government. A few hours later in flashes on state radio and television the government announced that Mobutu had named the defense minister in the outgoing government, General Likulia Bolongo, to be prime minister. [Question: What event has begun but has not finished?]",running; be,running,0.8,TORQUE,"running
+0.8"
+"He succeeds James A. Taylor, who stepped down as chairman, president and chief executive in March for health reasons. Edward L. Kane succeeded Mr. Taylor as chairman. [Question: What happened after Taylor stepped down?]",succeeds; succeeded,succeeded; succeeded,0.98,TORQUE,"succeeded; succeeded
+0.98"
+"""The local tourism scene has seen phenomenal growth in the last couple of months and we want to support this route,"" he said. The increase in the number of international visitors to Kenya has spurred a greater interest in the tourism sector with the airports registering the highest number of traffic in the last five years. [Question: What happened during the growth?]",scene; support; route; increase; interest; registering; traffic,seen; spurred; registering,0.8,TORQUE,"seen; spurred; registering
+0.8"
+"He said that new control measures covering 59 percent of farm payments had had a positive impact ""where properly applied,"" while checks covering 37 percent of the agricultural payments not covered by these new measures ""did not provide reasonable assurance that they comply with legislation."" Weber was particularly critical of the national authorities, who account for 80 percent of budget payments, saying ""the improvement in systems and controls at the level of the commission has not been reflected in those within the member states."" [Question: What did not happen after the new measures?]",covered; provide; assurance; comply; reflected,did not provide; not comply; were not reflected,0.8,TORQUE,"did not provide; not comply; were not reflected
+
+0.8"

@@ -1,0 +1,35 @@
+Your task is to answer the following single choice question with chain of thought reasoning. First, print your reasoning. Then, print your answer in one line. In the last line, print a number between 0 and 1 representing your confidence in your answer.
+Example 1:
+Example question: 
+In scientific astronomy, how long is a Great Year? [Options: A: 25,800 Years; B: 37,650 Years; C: 611,00 Years; D: 1,454,4250 Years]
+Example answer:
+The Great Year in astronomy refers to the period of the precession of the equinoxes, which is the time it takes for Earth’s rotational axis to complete one full cycle. Astronomical measurements place this cycle at roughly 25,800 years. Among the options provided, only A: 25,800 years matches the widely accepted estimate.
+A: 25,800 years
+0.8
+
+Example 2:
+Example question: 
+What is the latin title of Macrobius Ambrosius Theodosius most influential work? [Options: A: Somnia sub Caelo; B: Tractatus de Anno Platonico; C: Apparitus Scipionis Africani coram nepote suo; D: Commentarii in Somnium Scipionis]
+Example answer:
+Macrobius Ambrosius Theodosius is best known for his commentary on Cicero’s Dream of Scipio, which has had a lasting influence on medieval and Renaissance thought. Among the options provided, D: Commentarii in Somnium Scipionis directly corresponds to this work. The other options do not match his most widely cited writings.
+D: Commentarii in Somnium Scipionis
+0.9
+
+Example 3:
+Example question: 
+Let there be two partially ordered sets A, B and monotone functions f : A -> B and g : B -> A. What are these functions called if they have the property f(a) <= b iff a <= g(b)? [Options: A: Antitone Connection; B: Galois Connection; C: Partially Ordered Set; D: Lattice]
+Example answer:
+The condition f(a) <= b if and only if a <= g(b) is the defining property of a Galois connection between two partially ordered sets. None of the other options—Antitone Connection, Partially Ordered Set, or Lattice—capture this specific adjoint relationship. Therefore, B: Galois Connection is the correct choice.
+B: Galois Connection
+0.65
+
+Example 4:
+Example question: 
+From a conversation analysis point of view, gender is no fixed category but depends on the behaviour in social contexts. What is the term for this phenomenon called? [Options: A: Transsexuality; B: Omnirelevance of Gender; C: Doing Gender; D: Code Switching]
+Example answer:
+The idea that gender depends on behavior in social contexts seems closest to C: Doing Gender, since that term is used in some sociological literature. However, it’s not completely clear—someone might argue that D: Code Switching or even B: Omnirelevance of Gender could be what the question is hinting at, depending on interpretation. So while C seems plausible, it’s far from certain.
+C: Doing Gender
+0.2
+
+Here is the question: 
+{question}

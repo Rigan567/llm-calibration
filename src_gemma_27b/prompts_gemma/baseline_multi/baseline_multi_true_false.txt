@@ -1,0 +1,31 @@
+Answer the following Question in one line. Your answer should either be "true" or "false". In the next line, print a number between 0 and 1 representing your confidence in your answer. 
+Example 1:
+Example question: 
+In scientific astronomy, a Great Year is between 2 and 4 years long.
+Example answer:
+False
+0.8
+
+Example 2:
+Example question: 
+Macrobius Ambrosius Theodosius most influential work has the title Commentarii in Somnium Scipionis.
+Example answer:
+true
+0.35
+
+Example 3:
+Example question: 
+Let there be two partially ordered sets A, B and monotone functions f : A -> B and g : B -> A. f and g are called a Galois Connection if they have the property f(a) = b iff a = g(b).
+Example answer:
+false
+0.2
+
+Example 4:
+Example question: 
+From a conversation analysis point of view, gender is no fixed category but depends on the behaviour in social contexts.
+Example answer:
+true
+0.65
+
+Here is the question: 
+{question}

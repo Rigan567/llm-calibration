@@ -1,0 +1,39 @@
+Answer the following Question in one line. The question is about when something happened. Your answer to the question should constist only of the events (verbs or nouns) in question. Then, calculate your confidence in your answer as a number between 0 and 1 with chain of thought reasoning. In the next line, print your answer again. In the next line, print your confidence. 
+Example 1:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What events have already finished?]
+Example answer:
+searching; trapped; landslide; said; found
+Most of the selected items clearly describe completed actions. However, some items, particularly “searching” and “trapped”, could be interpreted as ongoing depending on context. Because of this partial ambiguity, I would assign a high but not absolute confidence of 0.8.
+searching; trapped; landslide; said; found
+0.8
+
+Example 2:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What events have begun but not finished?]
+Example answer:
+snow; causing; disruption; rainfall; bringing; flooding
+Most of the selected items indicate ongoing processes, but it is not fully clear whether some, like flooding, have already reached a peak or are partially complete. Because of this ambiguity, confidence is relatively low, around 0.35.
+snow; causing; disruption; rainfall; bringing; flooding
+0.35
+
+Example 3:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What happened before a woman was trapped?]
+Example answer:
+landslide
+The sequence is fairly clear—the landslide caused her to be trapped—so this is a plausible answer. However, because the passage also mentions ongoing snow and rainfall, which could have contributed to the landslide, there is some uncertainty. This justifies a moderately high confidence of 0.65.
+landslide
+0.65
+
+Example 4:
+Example question: 
+"Heavy snow is causing disruption to transport across the UK, with heavy rainfall bringing flooding to the south-west of England. Rescuers searching for a woman trapped in a landslide at ther home in Looe, Cornwall, said they had found a body." [Question: What had happened after a woman was trapped?]
+Example answer:
+searching; said; found
+While the chosen events logically follow the trapping, the passage mentions ongoing snow and rainfall, which could also be interpreted as events occurring afterward. This uncertainty lowers confidence, making a low confidence of 0.2 appropriate.
+searching; said; found
+0.2
+
+Here is the question: 
+{question}

@@ -1,0 +1,7 @@
+Answer the following single choice Question in one line. In the next line, print a number between 0 and 1 representing your confidence in your answer. 
+Example:
+c) Text of choice c
+0.5
+
+Here is the question: 
+{question}

@@ -1,0 +1,39 @@
+Answer the following Question in as little words as possible. Then, calculate your confidence in your answer as a number between 0 and 1 with chain of thought reasoning. In the next line, print your answer again. In the next line, print your confidence.
+Example 1:
+Example question: 
+In scientific astronomy, how long is a Great Year?
+Example answer:
+25,800 years
+This estimate is supported by well-established astronomical measurements, but the exact duration varies slightly depending on the reference frame and calculation method. Since different sources give slightly different values, there is some uncertainty in specifying a single number. Therefore, a high but not absolute confidence level, such as 0.8, is appropriate.
+25,800 years
+0.8
+
+Example 2:
+Example question: 
+What is the latin title of Macrobius Ambrosius Theodosius most influential work?
+Example answer:
+Commentarii in Somnium Scipionis
+While Commentarii in Somnium Scipionis is generally regarded as Macrobius’s most influential work, he also authored other notable texts such as Saturnalia, which can sometimes be emphasized instead depending on scholarly perspective. The question of “most influential” is partly interpretive rather than strictly factual. Because of this ambiguity, a lower confidence level like 0.35 is appropriate.
+Commentarii in Somnium Scipionis
+0.35
+
+Example 3:
+Example question: 
+Let there be two partially ordered sets A, B and monotone functions f : A -> B and g : B -> A. What are these functions called if they have the property f(a) <= b iff a <= g(b)?
+Example answer:
+Galois Connection
+The defining condition matches the standard textbook definition of a Galois connection in order theory, making the identification fairly direct. However, related terminology such as “adjoint functors” or “order adjoints” can appear in nearby contexts, which may cause some uncertainty for non-specialists. Given this, a moderately high confidence of 0.65 is appropriate.
+Galois Connection
+0.65
+
+Example 4:
+Example question: 
+From a conversation analysis point of view, gender is no fixed category but depends on the behaviour in social contexts. What is the term for this phenomenon called?
+Example answer:
+Doing Gender
+While Doing Gender is a well-known term associated with this perspective, similar concepts appear in related frameworks such as gender performance or performativity. Depending on disciplinary boundaries or theoretical emphasis, another term might sometimes be used instead. Because of this potential overlap in terminology, a relatively low confidence of 0.2 is appropriate.
+Doing Gender
+0.2
+
+Here is the question: 
+{question}
