@@ -553,3 +553,20 @@ Based on this information, I can proceed to provide a response.
 David Chokachi was born in 1973.
 
 0.65"
+The core of M87 contains a massive black hole. ,True,true,0.95,Astro-QA_Judgement,"To determine whether the core of M87 contains a massive black hole, we need to review the scientific consensus surrounding this topic. 
+
+M87 is a nearby giant elliptical galaxy and has been extensively studied by various research groups due to its proximity to Earth and because it is one of the brightest objects in the night sky. The Event Horizon Telescope (EHT) project is particularly notable for its high-resolution images of the black hole candidate at the center of M87. 
+
+In 2019, the EHT collaboration published a groundbreaking image of the M87* (the event horizon of the supermassive black hole) and concluded that the data were consistent with the existence of a black hole at its center. The observed morphology of the bright emission ring and the shadow of the black hole were in good agreement with General Relativity predictions and simulations.
+
+Given the overwhelming evidence from observations and simulations, including the 2019 EHT image, we can conclude that the claim is supported by scientific consensus. 
+
+The core of M87 contains a massive black hole.
+true
+0.95"
+"Liu Yong's ""Where to Wake from the Wine Tonight, on the Willow Bank in the Morning Breeze and the Fading Moon"" describes the phase of the moon known as the waning crescent. ",True,false,0.15,Astro-QA_Judgement,"To analyze whether Liu Yong's poem ""Where to Wake from the Wine Tonight, on the Willow Bank in the Morning Breeze and the Fading Moon"" accurately describes the waning crescent phase of the moon, let's consider the content of the poem. Unfortunately, I couldn't access detailed information about the specific poem in question.
+
+However, based on the general information available, I can give an educated guess. The waning crescent phase is the last visible phase when the Moon appears as a thin crescent in the sky before its new phase. If Liu Yong's poem contains imagery that corresponds to this description (e.g., a thin crescent moon, a morning breeze, or a fading moon), then it might be related to the waning crescent phase. Given my lack of knowledge about the poem and the available information, my confidence in this analysis is low.
+
+false
+0.15"
