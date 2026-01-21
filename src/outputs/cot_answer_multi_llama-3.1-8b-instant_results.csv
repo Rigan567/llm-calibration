@@ -1,0 +1,555 @@
+question,gold,pred,confidence,source,raw_response
+The volume differences between stars are much greater than their mass differences. ,True,false,0.75,Astro-QA_Judgement,"The volume of a star is determined by its radius, and for stars of a given mass, there is a relatively small range of radii due to the balance of internal pressure and gravity. The mass of a star, however, can vary greatly, but this does not directly translate to large differences in volume, as volume is largely a function of the radius squared. Therefore, the volume differences between stars are generally much smaller than their mass differences.
+
+false
+0.75"
+"The formation of a black hole must involve a spatial boundary where photons cannot escape, known as the event horizon. ",True,true,0.95,Astro-QA_Judgement,"The concept of a black hole is generally well-understood in astrophysics and theoretical physics. In the context of black holes, the event horizon is indeed a spatial boundary that marks the point of no return around a black hole. Any matter or radiation that crosses the event horizon will be trapped by the black hole's gravity and cannot escape. The event horizon is not exactly a boundary in space, but rather a surface that encloses the point of no return. Objects that cross the event horizon are, from that point on, inevitably destined for the singularity at the center of the black hole.
+
+Therefore, the statement about the formation of a black hole involving a spatial boundary where photons cannot escape, known as the event horizon, is a core aspect of our understanding of black holes.
+
+true
+0.95"
+The habitable zones of planetary systems around stars of different spectral types are all located at the same distance. ,False,false,0.95,Astro-QA_Judgement,"The concept of a habitable zone is crucial in astrobiology, referring to the regions around stars where temperatures are just right for liquid water to exist on planetary surfaces. This zone typically encompasses a specific range of distances from the star due to the balance between insolation, which warms the surface, and the cooling effects from atmospheric heat loss. The habitable zone depends on factors including stellar luminosity and temperature, so different stars have habitable zones at varying distances. Therefore, stars of different spectral types have habitable zones at different distances not all the same distance.
+
+false
+0.95"
+The discovery of cosmic background radiation is a direct negation of the Big Bang theory. ,False,false,0.85,Astro-QA_Judgement,"The Big Bang theory describes the origins and evolution of the universe, proposing that it began as an infinitely hot and dense point and expanded rapidly. The cosmic background radiation (CMB) is a key prediction of this theory, resulting from the residual heat of the initial explosion. Arno Penzias and Robert Wilson's discovery of the CMB in 1964 provided significant evidence supporting the Big Bang theory, rather than contradicting or negating it.
+
+false
+0.85"
+Earth also has Trojan asteroids. ,True,false,0.78,Astro-QA_Judgement,"In our solar system, the term ""Trojan"" refers to small celestial bodies located near a planet's Lagrange points, specifically at the L4 (or L5) location ahead (or behind) the planet in its orbit around the Sun. These celestial bodies are gravitationally stable due to the equilibrium between the Sun and the planet, preventing them from being ejected or perturbed by gravitational forces. Earth's orbit is different in many ways compared to the gas giants which often have many Trojan asteroids. Earth's weaker gravitational pull and relatively small stable zones make it less appealing or likely to attract a considerable collection of trojan-like asteroids that exist around Jupiter's orbit. Therefore, the likelihood of finding a considerable amount of trojan asteroids around Earth is relatively low.
+
+false
+0.78"
+Gan De is the compiler of the oldest star catalog in the world and the earliest discoverer of Jupiter's third moon. ,True,false,0.32,Astro-QA_Judgement,"To determine if the statement about Gan De is true or false, let's evaluate the information piece by piece.
+
+Firstly, I'll look into who Gan De is in the context of ancient Chinese astronomy. Gan De is indeed associated with ancient Chinese star cataloging. However, my understanding of his contributions primarily revolves around astronomical observations rather than catalog production or discovery of specific moons.
+
+Now, I'll evaluate the claim about the oldest star catalog. I'm familiar with ancient Chinese star catalogs, but I don't have direct information on their compilers. However, I do recognize the significance of the Catalog of Stars attributed to Gan De, which indeed dates back thousands of years.
+
+Lastly, looking into the discovery of Jupiter's moons, Gan De is often credited with discovering Jupiter and noting the presence of at least one large companion. However, the number of companions is often disputed in historical records.
+
+From these considerations, I can form a judgment about the statement's accuracy.
+
+false
+0.32"
+"There indeed exist many extragalactic systems in the universe, similar to the Milky Way. ",True,true,0.85,Astro-QA_Judgement,"In order to evaluate the statement, we must consider the context of extragalactic systems. Extragalactic systems refer to galaxies beyond our own Milky Way. While there are numerous observations and studies of the universe, there are indeed many galaxies with characteristics similar to those of the Milky Way. Therefore, the notion that extragalactic systems exist and have similarities to the Milky Way can be considered accurate.
+
+true
+0.85"
+"After Emperor Wu of Han, the ""beginning of the year"" in traditional Chinese calendar was set to be the month where the spring equinox occurs. ",False,true,0.5,Astro-QA_Judgement,"To analyze this statement, I will need to reason about the traditional Chinese calendar and its historical changes. The traditional Chinese calendar is a lunisolar calendar that is based on the cycles of the moon and the sun, and its calculations involve a complex combination of astronomical observations and mathematical algorithms. Emperor Wu of Han (141-87 BCE) was a key figure in the development of the traditional Chinese calendar, and his reign saw the introduction of various astronomical and calendrical reforms.
+
+During Emperor Wu's reign, there were significant efforts to synchronize the Chinese calendar with the astronomical observations, particularly the solstices and equinoxes. One of the key events that led to these reforms was the astronomical observations made by the astronomers at the imperial court, which included the observation of the spring equinox and the winter solstice. These observations helped establish the timing of the beginning of the year in the traditional Chinese calendar.
+
+However, there is evidence to suggest that the beginning of the year in the traditional Chinese calendar was indeed aligned with the spring equinox by the time of Emperor Wu of Han, or at least not that far ahead in later Chinese dynasties. Specifically, during the Han Dynasty (206 BCE-220 CE), there is mention of the ""qi you"", which referred to the month that marked the beginning of the new astronomical year corresponding to the spring equinox.
+
+Taking into account this context, it's clear that the timing of the beginning of the year in the traditional Chinese calendar was indeed determined by the spring equinox, at least as early as the Han Dynasty. However I'm not certain if that occurred before Emperor Wu, or by his reign itself, however it is likely to be the latter.
+
+true
+0.5"
+There is an observatory called the Very Large Telescope. ,True,true,0.95,Astro-QA_Judgement,"Here's the reasoning:
+
+There is a prominent astronomical observatory known as the European Southern Observatory's Very Large Telescope (VLT), which consists of four major telescopes and is located in the Atacama Desert in Chile. I am familiar with this observatory, as it is a major scientific research facility and has made significant contributions to our understanding of the universe. It is likely that the Very Large Telescope is well-known and widely acknowledged in the scientific community. Therefore, the existence of the Very Large Telescope is not something that could be disputed.
+
+true
+0.95"
+One of the primary missions of the Kepler Space Telescope is to search for Earth-like planets. ,True,true,0.78,Astro-QA_Judgement,"The Kepler Space Telescope was primarily designed and launched for a mission called the Kepler Mission or the Kepler space observatory. This mission aimed to detect Earth-sized planets or planets of similar size to Earth that orbit their stars at temperatures that are sufficient to allow liquid water. However, it primarily did so using transit photometry, detecting these planets by measuring the decrease in a star's brightness caused by a planet crossing in front of it.
+
+The Kepler Space telescope's primary mission was to survey a large region of the sky for a few years to find planets which transited in front of their stars, which could be similar in size to the Earth and be in a region where liquid water could exist. The telescope's primary goal did not explicitly focus on identifying planets with an atmosphere and biosignatures that could support life.
+
+While the search for Earth-like planets was a key aim of the Kepler Space Telescope, a secondary mission extension was the K2 mission, launched after the primary mission, which did have the goal of discovering exoplanets, in addition to studying other astrophysical phenomena and searching for habitable or bio-supporting planets.
+
+Given the information I have and what is known about the Kepler Telescope, the primary mission of the Kepler Space Telescope was indeed related to searching for and detecting exoplanets that might be similar to Earth in various characteristics.
+
+true
+0.78"
+"""If heaven had feelings, it would also grow old"" is a line of poetry written by Li He, a poet from the Tang Dynasty. ",True,false,0.3,Astro-QA_Judgement,"This statement is likely false because it quotes a specific line of poetry from a particular poet in the Tang Dynasty. I will check my knowledge on Li He and his works. Li He was a notable poet from the Tang Dynasty, known for his unique and expressive style. However, without direct access to his complete poem collections, I can only recall some of his notable poems and lines, not all of them. Nevertheless, I could search my databases to see if I have any information on this exact poem or line.
+
+If I am unable to find information about a poem with this exact line, I may consider the statement false based on the limited information about his known works.
+
+false
+0.3"
+The local group refers to the cluster of galaxies that includes the Milky Way and several surrounding galaxies. ,True,true,0.95,Astro-QA_Judgement,"My line of reasoning starts by recalling that the local group in astronomy is often associated with a collection of galaxies that are gravitationally bound together. I consider various possibilities that might make this statement incorrect, but none of them seem to match the general definition used in astronomy. 
+
+Next, I consider the possibility that the statement might be referring to some other context or interpretation of the term 'local group', but that does not seem to be relevant to the main discussion of galaxy classification and the structure of the universe. 
+
+I then think about well-known local galaxy clusters that might fit this description, and the Milky Way is often cited as the primary galaxy in a large cluster of nearby galaxies known as the Local Group.
+
+Therefore, this description of the local group seems accurate based on current knowledge of galaxy clusters, particularly the one that the Milky Way belongs to.
+
+true
+0.95"
+"""Stellar fetuses"" - protostars are extremely hot and emit intense ultraviolet radiation. ",False,true,0.32,Astro-QA_Judgement,"The term ""protostar"" typically refers to a star in its earliest stages of evolution, immediately following the collapse of a molecular cloud. At this point, the protostar is still in the process of accreting material from its surroundings, before it begins fusing hydrogen into helium, marking the birth of a main-sequence star. However, as the term ""stellar fetuses"" does not directly correspond to a widely recognized astronomical term, I will assess the accuracy of the statement in relation to protostars.
+
+Protostars are indeed extremely hot due to the release of gravitational energy during their collapse. However, the comparison to a fetus, implying a developmental stage, doesn't directly relate to their properties as objects. The key aspect of protostars is their stage in the star-formation process, with intense ultraviolet radiation being a characteristic that doesn't necessarily align with the ""fetal"" stage concept. But given the provided term, it seems the statement attempts to convey the fact that protostars are in a relatively early, formative stage and produce intense ultraviolet radiation.
+
+true
+0.32"
+Amotivation syndrome caused by [Options: A: Cannabis abuse; B: Opioid abuse; C: Alcohol abuse; D: Heroin abuse],A: Cannabis abuse,"However, the relationship between heroin abuse and amotivation syndrome is not entirely unique, so my confidence level in this answer is not very high.",0.35,GlobalMedQA_EN,"The concept of amotivation syndrome is related to substance abuse, particularly one that affects an individual's motivation and mental state. Among the options provided, heroin abuse (Option D) has been known to lead to issues related to motivation and behavior.
+
+Heroin abuse is linked to a condition that affects an individual's motivation and overall well-being, which seems to align with the characteristics of amotivation syndrome. It's also plausible that other substances like alcohol (Option C) or opioids (Option B) could lead to similar issues, but heroin specifically comes with well-documented effects on motivation. 
+
+However, the relationship between heroin abuse and amotivation syndrome is not entirely unique, so my confidence level in this answer is not very high.
+
+0.35"
+Oldest lens fibres are found in ? [Options: A: Capsule; B: Coex; C: Coex; D: Nucleus],D: Nucleus,B: Cortex,0.85,GlobalMedQA_EN,"The question seems to be incomplete. There are missing options and no complete question. Considering a likely complete version, I will proceed with ""Oldest lens fibres are found in ? [Options: A: Capsule; B: Cortex; C: Coelenterata; D: Nucleus]""
+
+The question refers to the context of lens development and possibly anatomy or biology. To make an educated guess, we should consider how lens fibers are formed and what part of the lens is known to have an age-related composition.
+
+In developmental biology and anatomy, the lens of the eye grows throughout life by adding new lens fibers from the periphery. New lens fibers are produced from the epithelial cells that line the anterior surface of the lens. 
+
+The cortex of the lens makes up the bulk of the lens. The oldest lens fibers are located in the very center of the lens.
+
+Considering the options, B: Cortex seems to be the most plausible answer.
+
+B: Cortex
+0.85"
+Spontaneously regressing tumours are [Options: A: Malignant melanoma; B: Neuroblastoma; C: Ewing's sarcoma; D: Wilm's tumour],A: Malignant melanoma,B: Neuroblastoma,0.75,GlobalMedQA_EN,"The term 'spontaneously regressing tumour' typically refers to a type of cancer that can regress or disappear on its own without any intervention, in some cases. To narrow down the options, we need to consider which cancers are known for spontaneously regressing.
+
+One cancer type that is well-documented for its spontaneous regression is neuroblastoma. This cancer, which primarily affects children, has a notable history of cases where it has resolved on its own without treatment.
+
+Let's compare this with other options. Malignant melanoma is a type of skin cancer known for its aggressive nature, and while there have been cases of spontaneous regression, they are relatively rare. Ewing's sarcoma is a type of bone cancer, and it is not known for spontaneous regression. Wilm's tumour is a kidney cancer found in children, and while there are some reports of spontaneous regression, it is not as well-documented as neuroblastoma.
+
+Given these considerations, B: Neuroblastoma is the most likely correct answer.
+
+B: Neuroblastoma
+0.75"
+Indicated mandibular major connector for a long span edentulous ridge: [Options: A: Lingual plate; B: Lingual bar; C: Double lingual bar; D: Labial bar],A: Lingual plate,B: Lingual bar,0.7,GlobalMedQA_EN,"To answer this question, I should first consider the definition and requirements of a mandibular major connector. The term ""mandibular"" refers to the jawbone, specifically below the lower teeth. A major connector in dental restorations serves as a base that connects other components, such as clasps, to support dentures. Considering a long span edentulous ridge, which is a region of gum and bone that is too long for a single clasp, would require a larger base for support.
+
+A lingual plate (Option A) typically covers more surface area than other designs, including the lingual bar. However, a lingual bar (Option B) seems to be more suitable for a long span edentulous ridge. A labial bar would be less practical and uncomfortable for patients. Furthermore, the double lingual bar does not seem like the most likely solution since it is often unnecessary for standard cases.
+
+Considering the options given, B: Lingual bar seems the most suitable type of connector for a long span edentulous ridge due to its ability to provide adequate support and comfort to patients.
+
+B: Lingual bar
+0.7"
+In vivo control of citric acid cycle is effected by: [Options: A: Acetyl CoA; B: Coenzyme A; C: ATP; D: Citrate],C: ATP,D: Citrate,0.85,GlobalMedQA_EN,"To determine the correct answer, I'll evaluate each option in relation to the functioning of the citric acid cycle (also known as the Krebs cycle or tricarboxylic acid cycle). The citric acid cycle is a crucial metabolic pathway that takes place within the mitochondria of cells. It plays a central role in cellular respiration, linking glycolysis to the electron transport chain. The cycle is initiated and sustained by several regulatory mechanisms, key among which is the control exerted by intermediates of the cycle itself.
+
+Option A: Acetyl CoA serves as the primary initiating molecule for the citric acid cycle, carrying two-carbon acetyl groups that feed into the cycle. However, while Acetyl CoA is essential for initiating the citric acid cycle, the question is asking about in vivo control of the cycle, which involves regulatory mechanisms within the cell that are not primarily about initiation.
+
+Option B: Coenzyme A has a role in the formation of Acetyl CoA by facilitating its synthesis from pyruvate via pyruvate dehydrogenase. While CoA does interact with Acetyl CoA within the pathway, it is Acetyl CoA which is the crucial molecule initiating the cycle.
+
+Option C: ATP has regulatory effects on the citric acid cycle, but it is not an intermediate in the cycle. Instead, ATP production in mitochondria often reflects or influences the rate of the citric acid cycle, but it does not directly regulate it.
+
+Option D: Citrate, a key intermediate of the citric acid cycle, has a central regulatory role. The level of citrate within the mitochondria has a high allosteric feedback effect on the rate-limiting enzyme of the citric acid cycle, which is isocitrate dehydrogenase (in animals) or citrate synthase (in many microorganisms). When citrate levels are high, the activity of these enzymes decreases, effectively reducing the overall flux through the cycle. This is one form of negative feedback that maintains the balance of cellular metabolism.
+
+Considering the roles of these molecules in relation to the citric acid cycle, the option that best addresses the regulatory aspects of in vivo control of the cycle is related to a molecule that directly participates in the cycle. Thus the molecule which is part of cycle and affects it is: 
+
+D: Citrate
+0.85"
+"According to American hea association & world hea federation 2015 criteria, low risk is defined as having An Acute Rheumatic Fever incidence <---------- per 100,000 school aged children per year? [Options: A: 1; B: 2; C: 0.1; D: 0.01]",B: 2,"Print my confidence in the answer, on a scale from 0 to 1:",0.35,GlobalMedQA_EN,"Print my chain of thought reasoning:
+To answer this question, I will rely on the specific criteria for defining low risk in the context of Acute Rheumatic Fever.  Given that these criteria were defined by the American Heart Association and the World Heart Federation in 2015, it's essential to examine the definitions closely. Among the options provided, I need to pinpoint the incidence rate that corresponds to low risk for Acute Rheumatic Fever among school-aged populations.
+
+Since I am not aware of these specific values from memory, I will default to examining the general properties of low-risk thresholds and how they are typically defined. Most threshold metrics, especially ones defined by international associations like the American Heart Association and the World Heart Federation, usually involve a value that is a very low but non-negligible incidence.
+
+Considering these general principles, option C would seem more reasonable since values like 0.1 or lower could be reasonable for thresholds of low risk for common conditions.
+
+Now, print my answer in one line:
+C: 0.1
+
+Print my confidence in the answer, on a scale from 0 to 1:
+0.35"
+"The commemorations began early Friday morning, as tens of thousands of Cubans marched through Havana's streets by torchlight. Similar events were held all day in the capital and across the island. [Question: What took place before the Cubans marched?]",began,morning; preparations; arrangements; planning,0.3,TORQUE,"The passage describes the commemorations beginning early Friday morning. This implies that the commemorations and other events such as march planning, preparations, and arrangements must have occurred prior to the Cubans marching. Since the passage explicitly mentions the marches as the beginning of the commemorations, it is reasonable to infer that these preparations or other preceding events took place beforehand. However, the passage does not provide explicit details about the sequence of events before the marches, so making assumptions is less certain than directly inferred events.
+
+morning; preparations; arrangements; planning
+0.3"
+The foreign minister said there was a danger of all-out conflict in the Horn of Africa. He said his government hoped to avoid war but warned that conflict would become inevitable if the Islamists continued on their current path. [Question: What event has begun but has not finished?],continued,Islamists; continuing,0.55,TORQUE,"My reasoning is as follows: The passage indicates that the foreign minister is making a statement about an ongoing situation. This includes the Islamists continuing on their current path, which suggests an action that has begun but is potentially ongoing. The foreign minister said something, but the statement itself did not cause the event; rather, the event is a condition described in the statement. The event that has begun but is not finished is the Islamists' path of action. However, it's worth noting that this is somewhat uncertain because the passage does not provide a clear indication of whether the event is still in progress at the time of reporting.
+
+Islamists; continuing
+0.55"
+"In American Stock Exchange composite trading, Citadel shares closed yesterday at $45.75, down 25 cents. [Question: What event has already happened?]",closed,closed; decreased,0.85,TORQUE,"The passage mentions a current stock price of Citadel shares and a change in the price over the previous day. The verb ""closed"" describes a completed event as it indicates the end of the trading period. It is clear that the event being referred to is that of the share price settling at $45.75 at the close of trading the day before. The decrease in price also happened yesterday; thus, the event of Citadel shares closing has been completed. 
+closed; decreased
+0.85"
+"Journalists following the court hearing are sat behind a glass window, but Amin then ordered a 10-minute break to decide how best the woman could speak. ""Everyone has to hear,"" Amin said. [Question: What happened before the 10-minute break?]",ordered,ordered; decision; ordered,0.85,TORQUE,"The passage first mentions the journalists observing the court hearing through a glass window. This establishes what seems to be the normal or typical state of affairs. The 10-minute break ordered by Amin then follows. We can infer that the decision to order a break must have happened before the break itself, as it was a condition or prerequisite for the break. We also know Amin made that decision after saying they had to hear the woman, but that event seems to logically follow the actual ordering of the break. This leads to a conclusion that Amin ordering the break must have been the last event, since it would trigger the others. In contrast, journalists following the court hearing is an ongoing or typical condition. Then, the decision to order a 10-minute break must have preceded the actual ordering of the break as it would be a prerequisite to order the break.
+
+ordered; decision; ordered
+0.85"
+"""The Air Force Office of Special Investigations and base officials are assisting in the investigation with the Okinawa City Police,"" the statement said. No further details are available, it said, adding: ""The incident is still under investigation."" [Question: What event has already finished?]",said; said,statement; said; available; investigating ,0.85,TORQUE,"The passage indicates that the investigation is ongoing as it is “still under investigation,” suggesting that some stages or aspects of the investigation are completed while others are not. However, the availability of no further details implies that the search for additional information has also completed, as this is typically the first step in the investigation process. Therefore, the events that have already finished are the statement made about further details not being available and saying that the incident is still under investigation, while the investigation itself is still ongoing. 
+
+statement; said; available; investigating 
+0.85"
+"Which airport is located in Maine, Sacramento International Airport or Knox County Regional Airport?",Knox County Regional Airport,Knox County Regional Airport,0.95,HotpotQA,"Upon further inspection of these two airport options and looking into their respective locations, I notice that Sacramento International Airport is actually located in Sacramento, California. Therefore, it's highly unlikely that it is located in Maine. Knox County Regional Airport, on the other hand, does have a location in Maine, specifically in the town of Waldoboro. This information points to Knox County Regional Airport as the correct answer.
+
+Knox County Regional Airport
+0.95"
+"What character did this actor, who also played a supporting role in Sleepy Hollow, play in the final six Harry Potter films?",Professor Albus Dumbledore,Professor Severus Snape,0.85,HotpotQA,"The actor mentioned appears to be a well-known figure in the film industry, but there's not enough information to directly identify the actor or the specific character. To make an educated guess, I will think about possible actors who played in both the Harry Potter series and Sleepy Hollow. One well-known actor who fits this description is Timothy Dalton, who played a supporting role in the 2013 Sleepy Hollow series and had a significant presence in the Harry Potter films, particularly after 2005.
+
+Considering the timeline of the final six Harry Potter films (Harry Potter and the Half-Blood Prince to Harry Potter and the Deathly Hallows – Part 2), I will think about the characters played by Timothy Dalton in these movies. He portrayed the character of Professor Severus Snape in these films.
+
+Given the information available, I will conclude that the character played by this actor, Timothy Dalton, in the final six Harry Potter films is likely to be Professor Severus Snape.
+
+Professor Severus Snape
+0.85"
+"Who was drafted into the 2009 NFL Draft, during the he seventy-fourth annual meeting of National Football League (NFL)?",Darrius Ramar Heyward-Bey,Matthew Stafford,0.7,HotpotQA,"To answer this question, I need to recall the events surrounding the 2009 NFL Draft and identify a notable player who was drafted that year. My understanding is that the 2009 NFL Draft took place in New York City over four days, specifically from April 25-26 and concluding on April 25 and a final day the next morning for rounds 5-7.
+
+The information from my knowledge is that Matthew Stafford, the quarterback from the University of Georgia, was drafted by the Detroit Lions. He is often regarded as a notable choice during this draft. The first overall draft pick is a significant event, as it often gets substantial media attention.
+
+The Detroit Lions made Matthew Stafford their first overall pick in the 2009 NFL Draft at the Draft's opening round in New York City.
+
+Matthew Stafford
+0.7"
+what does Weihui and Weinan have in common?,China,Weihui and Weinan share the prefix 'Wei',0.15,HotpotQA,"To find the common ground between Weihui and Weinan, a starting point is considering their linguistic origins and geographical associations. Both names are found in various forms and languages, but ""Weihui"" and ""Weinan"" are associated with cities in China. 
+
+Weihui is the Chinese name for Weihui District, which is part of Kaifeng City in Henan Province, China. In contrast, Weinan is a city located in Shaanxi Province, China. The shared element in both names might not be immediately apparent. However, if their city associations are examined more closely, there seems to be no direct or prominent connection between Weihui city and Weinan city.
+
+Despite the initial lack of a connection, a possible clue might be found in the Chinese characters for these place names. However, without knowing the Chinese characters or without more specific information about the names, a possible connection seems unlikely.
+
+One possible approach could be searching for famous or notable individuals with these names to see if any commonalities emerge. However, this might require more information or search resources.
+
+Alternatively, if a specific context or domain associated with Weihui and Weinan is provided, it could greatly aid in identifying their connection.
+
+At this point, I could not determine a clear and definitive relationship between the two names without more information. However, a connection can potentially be found through their city associations, but without further context, it remains unclear.
+
+Weihui and Weinan share the prefix 'Wei'
+0.15"
+"When was the political party, which along with the Socialist Workers Movement are the chief contributors to the United Left in Argentina, founded",1918,FRIT,0.75,HotpotQA,"The term ""United Left"" in Argentina, which combines the contributions of the Socialist Workers Movement and another party, suggests a coalition of political organizations rather than a single, unified party. Given the context, the political party in question is most likely the Workers' Left Front (FRIT), but I can also consider other potential parties. One likely candidate is the Socialist Left Party, but the Socialist Workers Movement is already mentioned, and another candidate is the Communist Left Party.
+
+The Workers' Left Front (FRIT) is a clear possibility since it is indeed associated with the United Left in Argentina. The FRIT has a known history that dates to the early 2000s and, more specifically, was created in 2003 and 2004 from different parties, some which had been part of other parties, such as Socialist left-wing parties, and left-wing parties. FRIT itself may have been influenced by, or the same as other similar groups.
+
+FRIT
+0.75"
+"Pauline was a journalist and the second wife of which American novelist, short story writer, and journalist?",Ernest Hemingway,The information also hints that this novelist may have been active between the late 19th and mid-20th centuries. ,,HotpotQA,"To determine the American novelist, short story writer, and journalist that Pauline married, my reasoning begins with considering the historical context of notable American writers and their spouses. Many famous American writers have been married to women who were also writers, but the fact that Pauline was a journalist narrows the possibilities. 
+
+Pauline's husband would need to be an accomplished writer with a significant career, as well as someone who married multiple times, as Pauline wasn't his first or last spouse. 
+
+Notable American writers who had multiple marriages include Ernest Hemingway, Norman Mailer, Gore Vidal, and William Faulkner, but the information about Pauline and these writers doesn't immediately yield a clear connection.
+
+The information also hints that this novelist may have been active between the late 19th and mid-20th centuries. 
+
+Considering these hints and constraints, my best guess points towards William Faulkner's wife's name was not Pauline, but we find the novelist, Ernest Hemingway, with a wife named Pauline Pfeiffer."
+"Zwan and Noir Désir, have which genre in common?",rock,Post-Hardcore/Post-Punk Revival,0.58,HotpotQA,"My reasoning is as follows: 
+
+Both Zwan and Noir Désir are bands known for their music, but the question seems to ask for a common genre. A preliminary search indicates that Zwan was an American alternative rock band. Research on Noir Désir shows them to be a French rock band, often classified as alternative rock. An alternative to the term 'alternative rock' would be post-punk rock and later, the term post-hardcore and its subgenre, post-punk revival, could be applied to both, however 'post-hardcore' was more closely associated with the band Zwan. A common thread for both could be associated with post-hardcore, especially Noir Désir's early music and later Zwan's work in the early 2000s. However, the term post-punk revival could also be used here and is closely associated with the early work of both bands, however the subcategory is more closely associated with Noir Désir but the genre and later subgenre, post-punk revival could be closely associated with Noir Désir's earlier work. Therefore the term post-punk revival and later its subcategory post-hardcore or simply, 'post-hardcore' is the term that captures the common genre for both bands, although a stronger claim for the latter term and the common thread is a little clearer with post-punk revival as well.
+
+Post-Hardcore/Post-Punk Revival
+0.58"
+What country does Andhra Pradesh Randomized Evaluation Studies ande Azim Premji have in common?,India,"The possible common connection is India: 'Andhra Pradesh', a major contributor to India's educational research, and 'Azim Premji', a famous Indian philanthropist focused on India's education, share a geographical connection.",,HotpotQA,"To answer this question, I need to establish a connection between the entities mentioned: 'Andhra Pradesh Randomized Evaluation Studies' and 'Azim Premji'. 
+
+First, 'Andhra Pradesh Randomized Evaluation Studies', being an academic research project, might not necessarily reveal a direct connection with Azim Premji. However, I can explore possible connections: 
+
+'Andhra Pradesh Randomized Evaluation Studies' might be related to education in India since it likely involves studies of educational outcomes in India.
+
+Considering 'Azim Premji', it is known that he is a well-known figure in Indian philanthropy and a major donor to education in India. The Azim Premji Foundation primarily focuses on education reform and improvement in India.
+
+The possible common connection is India: 'Andhra Pradesh', a major contributor to India's educational research, and 'Azim Premji', a famous Indian philanthropist focused on India's education, share a geographical connection.
+
+India"
+Henry Durant went to this constituent college that has over how many students and fellows?,seven hundred,700,0.85,HotpotQA,"To answer this question, I must first identify the constituent college attended by Henry Durant. After considering historical records, I am aware of Henry Durant, who served as a President of Gonville and Caius College, a constituent college of the University of Cambridge. I recall information about this college's past enrollment statistics.
+
+Considering this, I found the relevant historical facts about Gonville and Caius College and the specific number of students and fellows associated with it. Based on these details, Gonville and Caius College has over 700 students and fellows.
+
+700
+0.85"
+"Barrier Device starred which Canadian actress, known for a role on ""Grey's Anatomy"", as a sex researcher?",Sandra Miju Oh,"However I then recalled Elizabeth Reaser and found she was co-star with another Elizabeth Taylor's co-star, the American actress Elizabeth, who was  co-star with Richard Burton for 2 films, but there was another film with an Elizabeth and a Barbara  Barbara Harris was not the one that I was looking for but Barbara Parkins was the American co-star of Elizabeth.  However I knew that the  actress I was looking was an Emmy award winner, a Canadian star  of  Grey's Anatomy.",,HotpotQA,"My reasoning for this answer begins with information regarding a movie called ""Barrier Device"" or ""The Barrier Device"", but I was unable to identify it further because there are not enough details given. However, I have information about a movie that might be related to a ""barrier"" - it is possible that you are referring to the movie ""Barrymore"" starring  Kathleen Turner, but there isn't enough to indicate that Kathleen Turner was in a movie called ""Barrier Device"".
+
+However, I do know about an actor and director, Kathleen's first husband, Jay Jennings also spelled Jay Lansing's co-star,  Kathleen's second husband,  Richard Burton's first wife, who was a 3 time Oscar winner and that actress's first name was Eliz - Elizabeth was a bit close to Elizab - then I found a 2001 movie where Kathleen Turner played a sex researcher, and I discovered that there was another movie made with a similar name, the movie title was ""The Barrier"" however I was unable to establish a connection between the two.
+
+However I was unable to establish a name for the Canadian star. Then, after thinking more, I remembered Kathleen's co-star and her 2nd husband,  Richard Burton's 2nd wife was  an American actress but it was a 3-time Oscar winner that I was trying to recall,  and that actress was none other then Elizabeth Taylor. Then I remembered that there was another 2 time winner and then I recalled there was an Elizabeth that starred  and I found out that there was a Kathleen co-star and then I finally found out that the co star of Kathleen was 2-time  Oscar winner, a Canadian actress for her role in  ""Grey's Anatomy"", and the answer is.
+
+Shonda's co-star Elizabeth, 
+Elizabeth  was not alone, the two were  Elizabeth Reaser and Kathleen was her co-star on the Grey's Anatomy. 
+However I then recalled Elizabeth Reaser and found she was co-star with another Elizabeth Taylor's co-star, the American actress Elizabeth, who was  co-star with Richard Burton for 2 films, but there was another film with an Elizabeth and a Barbara  Barbara Harris was not the one that I was looking for but Barbara Parkins was the American co-star of Elizabeth.  However I knew that the  actress I was looking was an Emmy award winner, a Canadian star  of  Grey's Anatomy.
+
+Then I thought, there must be one more movie where the Canadian  two-time Emmy winner Elizabeth co-starred with  the  2-time  American actress and co-star Elizabeth in another movie  and the last piece of information was revealed and the answer was the  name of the other actress and it is a name of actress that started with  the letter M  -  no it was not Meryl. It turned out to be the name that started with the letter E  as was the case with the other Canadian, it was Elizabeth Reaser, and the movie title was and the second actress was,  as you may know Elizabeth 2-time  Oscar winner American co-stars with Elizabeth of the movie where they co starred, as I was recalling and  Elizabeth co-star  of Elizabeth was, as I finally found out,  the co actor,  of  American actress was,  Elizabeth Taylor was not, although the American 3-time  Oscar winner,  Elizabeth Reaser's co-star in two films was none other than Elizabeth and also  American actress Elizabeth was  co-star to both of them and her first name began with E  - no E was her last name or middle name in this case.  But the other name that started with a E, and also  in this case a Elizabeth was in ""The  American Dreamer  (1971)""."
+Which English poet wrote travel ,Rupert Chawner Brooke,The answer is: William Cowper,0.15,HotpotQA,"My reasoning: The question is incomplete. To provide a confident answer, I need a complete question. The phrase ""travel"" seems to be cut off, and the question is likely referring to a notable travel-writing English poet. The incomplete question makes it challenging to determine the exact answer.
+
+However, some notable English poets known for their travel writings come to mind. Considering the incomplete question, one possible poet could be John Keats, but he is perhaps better known for his odes and sonnets. Another poet that comes to mind is James Thomson, but he is also not typically known for travel writings. Based on the incomplete information provided, I'm struggling to pinpoint a single poet.
+
+Considering possible English poets famous for their travel writings, I can think of a few possibilities: 
+
+1. Edward Lear: While not strictly known as a travel poet, Edward Lear is famous for his travel journals and is known to have written about his travels in limerick form.
+
+2. William Somerset Maugham and his fellow writer, William Cobbett are both less often associated with English poetry but wrote about travel.
+
+However, one of the most widely known English poets who wrote about travel is: 
+
+William Cowper.
+
+The answer is: William Cowper
+0.15"
+Sid Haig had a role in the exploitation horror film released in what year?,2003,2003,0.7,HotpotQA,"To answer the question about Sid Haig's role in an exploitation horror film, I need to consider the context provided. Sid Haig was an American character actor, known for his extensive work in the exploitation film genre. He appeared in numerous low-budget, horror films throughout his career, particularly in the early days of his career.
+
+One notable film that comes to mind, featuring Sid Haig in a role that fits the query, was a part of a popular series. One possibility that fits this description is his appearance in the House of 1000 Corpses, which is a 2003 exploitation horror film directed by Rob Zombie, and is a part of the House of 1000 Corpses series.
+
+Given this information, and considering Sid Haig's known career in exploitation horror films, I'll take a guess.
+
+2003
+0.7"
+"Venus rotates ""backwards"" (clockwise). ",True,true,0.85,Astro-QA_Judgement,"In our solar system, Venus's rotation is relatively unique compared to other planets in terms of its slow speed and very slow sidereal rotation period. The most distinctive feature of its rotation is that it rotates clockwise, which is often referred to as a retrograde rotation. This peculiarity has garnered significant interest from astronomers due to its implications on the planet's history, including its potential for a violent past and the lack of a strong magnetic field.
+
+true
+0.85"
+Europa may be tidally locked. ,False,false,0.35,Astro-QA_Judgement,"Europa, the icy moon of Jupiter, is one of the most intriguing bodies in our solar system, with its potential subsurface ocean and possible habitability. The concept of Europa's tidally locked state is an interesting one, as it involves the rotation of Europa in a synchronized manner with Jupiter's gravitational pull. However, this tidally locked status is not necessarily true. In our current understanding, Europa is thought to have a synchronous rotation with Jupiter, but the exact nature and extent of its tidal locking are still being researched.
+
+Therefore, whether Europa is tidally locked is not a fixed concept that can be definitively declared true.
+
+false
+0.35"
+The absence of evidence for extraterrestrial life does not constitute evidence for the absence of extraterrestrial life. ,True,true,0.55,Astro-QA_Judgement,"The statement in question seems related to the concept of burden of proof in scientific inquiry. From a general logical standpoint, the burden of proof typically lies with those who make a claim, not those who dispute it. Therefore, the absence of evidence for any particular phenomenon does not serve as sufficient grounds to prove its non-existence. In scientific investigation, the possibility of extraterrestrial life remains an open question and the current lack of evidence does not constitute conclusive evidence for its non-existence.
+
+true
+0.55"
+The important feature of chaotic systems is that very small changes in initial conditions can lead to large differences in final states. ,True,true,0.15,Astro-QA_Judgement,"The concept of chaotic systems stems from the idea that even infinitesimal variations in initial conditions can significantly alter the outcome and behavior of a complex system. This property is often referred to as the butterfly effect, where the flapping of a butterfly's wings is believed to influence the trajectory of a tornado, exemplifying the dramatic impact that tiny changes can have on complex systems. The sensitive dependence on initial conditions is indeed a hallmark characteristic of chaotic systems, suggesting that this statement is accurate. However, the statement lacks specificity. It describes the feature of chaotic systems as simply being a consequence of ""very small changes"" in ""initial conditions leading to large differences in final states."" There are multiple features, not solely described as sensitive dependence on initial conditions, for example, the existence of an attractor in chaotic systems or the non-periodic, non-repeating behavior of chaotic systems. Therefore, considering the statement's simplicity and its lack of specificity, the answer is true but is far from being universally accurate in capturing the nature of chaotic systems.
+
+true
+0.15"
+"According to calculations by solar physicists, the lifespan of the Sun should be about 5 billion years. ",False,true,0.42,Astro-QA_Judgement,"The statement about the Sun's lifespan is based on solar physics calculations. My knowledge indicates that the commonly cited figure for the Sun's age and potential lifespan is around 4.6 billion years old and approximately 5 billion years until it exhausts its fuel in the main sequence and then will expand into a red giant.
+
+However, it's essential to note that various estimates exist, and actual lifetimes can vary based on numerous factors such as changes in solar brightness and internal composition. This uncertainty in calculations might lead to variations in predicted lifetimes. Given these considerations and the fact that the value in question is within the reasonable predicted range, the statement's accuracy is uncertain. Nonetheless, the commonly accepted estimate for the Sun's remaining lifespan is indeed around 5 billion years, which leads me to infer the claim's likelihood.
+
+true
+0.42"
+The Gnomon was an ancient astronomical instrument used to observe the trajectory of the moon. ,False,false,0.78,Astro-QA_Judgement,"The Gnomon was an ancient astronomical instrument used to make sundial measurements, observing shadows and thus measuring time based on the position of the sun, and not specifically the moon. While the Gnomon's primary use was for tracking time and the movement of the sun, it was also used in ancient cultures to track the path of the sun and in some cases, the moon and stars. However, its main and most common use was related to the sun, not the moon.
+
+false
+0.78"
+"Due to the barriers of time and space, exploring extraterrestrial civilizations is incredibly challenging. ",True,true,0.85,Astro-QA_Judgement,"One possible interpretation of this statement is that the challenges associated with exploring extraterrestrial civilizations, such as the vast distances and potential differences in timescales, make it currently impossible or impractical to do so. However, the use of the word ""incredibly"" to describe these challenges implies that they are significant but not necessarily insurmountable. Furthermore, the existence of radio telescopes and other technologies capable of searching for signals from other civilizations suggests that scientists are actively working on this problem.
+
+Therefore the statement could be seen as being more of an encouragement or a reminder of the difficulties than as a straightforward claim about impossibility. However given the context of the phrase, it's very likely that the author intends that the difficulty is indeed a major obstacle making it very challenging.
+
+true
+0.85"
+The Kuiper Belt objects include Pluto. ,True,true,0.95,Astro-QA_Judgement,"In astronomical classifications, the term 'Kuiper Belt objects' generally refers to various small, icy bodies, such as dwarf planets, asteroids, and comets that orbit the Sun beyond the orbit of Neptune. Pluto is a well-known member of this group. However, with the reclassification of Pluto by the International Astronomical Union (IAU) in 2006, it was designated as a dwarf planet due to its size and gravitational influence. Nevertheless, it remains a key component of the Kuiper Belt. 
+
+true
+0.95"
+"Dark lines in the spectra of the Sun and stars represent the distribution, abundance, and pressure of elements in the atmosphere. ",True,false,0.32,Astro-QA_Judgement,"The presence of dark lines in the spectra of the Sun and stars is a phenomenon known as the absorption spectrum or Fraunhofer lines, which were first described by Joseph von Fraunhofer in the 19th century. These dark lines are indeed indicative of certain elements being present in the atmospheres of celestial bodies. However, the statement seems to suggest a direct correlation between the presence of dark lines and the distribution, abundance, and pressure of elements. This is partially true, since the presence of dark lines does suggest the presence of certain elements, and can be related to their abundance. However, linking it directly to pressure is more complex, as it depends on factors such as the atomic structure and the specific spectral lines present.
+
+false
+0.32"
+The Sun does not belong to any star cluster. ,True,false,0.85,Astro-QA_Judgement,"The Sun is part of the Local Bubble, a region in the galaxy that is a cavity within the denser interstellar medium, and it is considered to be in the Orion Arm of the Milky Way galaxy, which is part of the Local Star Cluster. This indicates that the Sun is not a singleton star but rather a member of a loose star cluster. Therefore, the statement that the Sun does not belong to any star cluster is incorrect.
+false
+0.85"
+Saturn is the only planet in the solar system with rings. ,False,false,0.85,Astro-QA_Judgement,"The concept of planet classification has evolved with time, particularly with the discovery of objects beyond the traditional planets, such as Pluto. However, currently, there are eight planets in our solar system, and Saturn is known to be among them along with having a notable ring system. The question, though, makes the claim that Saturn is the only planet with rings, but we know this not to be the case from modern observations and studies of other planets in the solar system. 
+
+Uranus, Neptune, Jupiter, and Mars all have less prominent ring systems, so the notion of Saturn being the only planet in the solar system with rings is no longer accurate with the advent of more information. Therefore, the statement is considered false.
+false
+0.85"
+"Light is both a particle and a wave, this is the dual nature of light. ",True,true,0.85,Astro-QA_Judgement,"This statement is rooted in the field of quantum mechanics, where the nature of light was a topic of ongoing debate in the early 20th century. The idea of light behaving as both a particle and a wave arises from experiments such as the double-slit experiment, where light appears to exhibit wave-like properties, and the photoelectric effect, where light behaves as particles, now known as photons. Key contributors to this understanding include Albert Einstein and Louis de Broglie, who helped shape the concept of wave-particle duality. This concept has been experimentally supported and forms a fundamental aspect of quantum mechanics, suggesting that the dual nature of light is an empirically verified phenomenon. Therefore, the given statement is true.
+
+true
+0.85"
+Astronauts are sent into space to prevent a collision between an asteroid and the Earth. ,False,false ,0.6,Astro-QA_Judgement,"This statement appears to be referring to a hypothetical or fictional scenario, as it is very rare for asteroids to pose an immediate or credible threat to the Earth. Typically, asteroid deflection missions are not routine events and would likely be planned extensively in advance. However, there have been instances in which deflection or disruption of asteroids has been a goal of space missions. 
+
+One possible example is the NASA mission called DART (Double Asteroid Redirection Test), which was an actual mission designed to test an asteroid deflection technique. But, the DART mission was not sent to prevent the collision between an asteroid and the Earth. 
+
+Given that asteroids are being tracked closely by astronomers, and in case an asteroid threat is identified, an actual response might involve other measures such as observation, deflection or disruption techniques, rather than merely sending astronauts, it seems the statement is unlikely to be correct. Therefore, the statement appears to be false.
+ 
+false 
+0.6"
+"Currently, there are no human-made probes that have traveled beyond the solar system. ",False,false,0.95,Astro-QA_Judgement,"The Voyager 1 space probe was launched in 1977 as part of NASA's Voyager program, with a primary mission to study the outer Solar System and beyond. Voyager 1 crossed the heliopause in August 2012, which marks the boundary between the heliosphere and interstellar space. This crossing of the heliopause is the definition of having traveled beyond the solar system. Therefore, the presence of Voyager 1's successful journey into the interstellar space contradicts the statement.
+
+false
+0.95"
+"Saturn's moon, Pan, is the smallest known member of Saturn's satellite family. ",True,false,0.58,Astro-QA_Judgement,"Saturn's moon catalog contains various bodies orbiting Saturn, with Pan being one of them. Pan is relatively small but the definition of the smallest known member in a satellite family might refer to more specific criteria that determine satellite size or membership. The smallest confirmed satellite of Saturn might be considered the moon, instead of it necessarily being Pan.
+
+However, without further information about the definition used or the criteria for satellite family membership at Saturn, we may have to rely on Pan's known size being the smallest, or other information we do not have.
+
+Pan is the smallest of the mid-sized moon of Saturn. But it’s also not the very smallest moon of Saturn. 
+
+false
+0.58"
+Stars are born in nebulae. ,True,true,0.55,Astro-QA_Judgement,"Stars are born in nebulae. This statement appears to align with the current understanding of astrophysics, but there's a slight nuance. Nebulae are massive interstellar clouds that are rich in gas and dust, which can give rise to the formation of stars through a process called star formation. However, this is not a direct statement about where stars are born, but rather what conditions are necessary for star formation to occur.
+
+To simplify the reasoning, stars are often born in giant molecular clouds (GMCs), which are a subset of nebulae but are typically denser and more conducive to star formation. But considering the term ""nebulae"" can include various types of interstellar clouds and not necessarily GMCs, this could allow some level of interpretation of this claim being generally correct.
+
+true
+0.55"
+Therapeutic level of lithium is: [Options: A: 5-Jan; B: 10-May; C: 15-Oct; D: 15-20],C: 15-Oct,"In contrast, options B: 10-May and C: 15-Oct do not appear to be a standard way of expressing a therapeutic range in the medical or psychiatric literature, although the numeric portion does provide at least an idea of some value being provided.",,GlobalMedQA_EN,"The therapeutic level of lithium typically falls within a specific range that is effective for treating bipolar disorder without being overly toxic. While it's true that blood levels of lithium can drop after the initial dose has been administered due to its water solubility and redistribution in the body, for this question, we are focused on the therapeutic level range rather than the peak and trough levels post-administration.
+
+Lithium is often used in psychiatry for treating bipolar disorder. It takes about 7-14 days for lithium levels to stabilize in the body. However, this question is most likely referring to a general therapeutic window that is commonly cited in literature rather than the specific stabilization period.
+
+In psychiatry, the therapeutic range of lithium is usually around 0.8 to 1.2 millimoles per liter (mEq/L), but we do not see these values in the given options. However, if we are to look at the options  in a very general sense and compare them to what we know about other psychotropic medications and their therapeutic levels in the blood, a common way to express such therapeutic windows is by giving specific numeric values. Looking at option A: 5-Jan, there is a lack of clarity due to the format of the provided option values, as '5-Jan' does not provide a clear range or value of therapeutic level. 
+
+In contrast, options B: 10-May and C: 15-Oct do not appear to be a standard way of expressing a therapeutic range in the medical or psychiatric literature, although the numeric portion does provide at least an idea of some value being provided.
+
+Option D: 15-20, in a very general sense, might be interpreted as a range with an upper bound at '20', however,  we cannot confirm this would fall within the known therapeutic range for lithium levels in the blood."
+Borelia vincenti is a [Options: A: Mycoplasma; B: Mycobacteria; C: Spirochaete; D: Chlamydia],C: Spirochaete,C: Spirochaete,0.85,GlobalMedQA_EN,"The question is referring to Borelia vincentii, likely a typo for Borelia vincentii, which I'll assume is a typo for Borelia vincentii (Leptospira vincentii isn't related but there is Borellia vincentii is not the most accurate spelling, however it's probably Borellia vincentii). Borellia burgdorferi is a well known species within the Borellia group. However none of the common species within the borrelia group match Borelia vincentii but a well known and close relative to it is Borellia vincentii, the correct answer for it's a [C: Spirochaete]. 
+
+C: Spirochaete
+0.85"
+HIAA is a metabolite of: [Options: A: Serotonin; B: Dopamine; C: Epinophrine; D: Histamine],A: Serotonin,A: Serotonin,0.85,GlobalMedQA_EN,"To answer this question, let's analyze each option step by step. The first step is to identify the possible sources of HIAA in our bodies.
+
+HIAA, or 5-Hydroxyindoleacetic acid, is a metabolite often associated with serotonin, as serotonin is eventually broken down into HIAA through a series of enzymatic reactions. This makes A: Serotonin a strong candidate.
+
+Dopamine (option B) is also a neurotransmitter but its metabolism doesn't result in a metabolite that can be easily related to HIAA.
+
+Epinophrine (also known as adrenaline), option C, is a type of catecholamine that is involved in physiological responses such as the ""fight or flight"" response but it's not typically associated with HIAA.
+
+Histamine, option D, is another neurotransmitter involved in physiological processes, such as responses to allergic reactions, but HIAA is not its metabolite.
+
+Given the strong association between serotonin and its metabolite HIAA, we can reasonably conclude that HIAA is a metabolite of A: Serotonin.
+A: Serotonin
+0.85"
+As per Chadah committee recommendations there should be 1 Basic Health worker per _____ population? [Options: A: 3000; B: 5000; C: 10000; D: 20000],C: 10000,A: 5000,0.7,GlobalMedQA_EN,"The Chadah committee is known for its recommendations on the distribution and deployment of healthcare workers in India. The goal was to provide healthcare services, especially in rural areas. 
+
+To identify the correct population that corresponds to having one Basic Health worker per that population, I would rely on general knowledge that is specific or as close to specific as it can get considering the given choices for this type of question.
+
+Upon reviewing general knowledge about the Chadah committee's recommendations, it appears that 1 Basic Health worker per 5000 population is the figure mentioned in various sources.
+
+A: 5000
+0.7"
+Glucose absorption from intestine occurs by [Options: A: Facilitated diffusion; B: Passive diffusion; C: Primary active transport; D: Secondary active transport],D: Secondary active transport,D: Secondary active transport,0.85,GlobalMedQA_EN,"My reasoning starts with understanding how glucose is absorbed from the intestine. Glucose is a small, polar molecule that cannot easily pass through the cell membrane, which has a selectively permeable nature due to its lipid bilayer structure. As a result, its absorption is facilitated in another way. 
+
+This is done by co-transport with sodium ions, a process that occurs against the concentration gradient, but it still requires no additional energy directly as in primary active transport. However, since this co-transport of sodium ions is indirectly driven by the concentration gradient of other ions, sodium, this makes it a secondary active transport mechanism. 
+
+Considering the other options, facilitated diffusion typically requires a specific carrier molecule for transport to occur; passive diffusion involves the movement of substances from high to low concentration, which does not occur in this case because glucose co-transport happens in the opposite direction; and primary active transport would have required directly coupling ATP or equivalent energy to the transport process, but the description provided indicates this is not the case.
+
+Based on the explanation provided, among the options provided, only D: Secondary active transport matches the process of glucose absorption through co-transport with sodium ions.
+
+D: Secondary active transport
+0.85"
+Raindrop skull is a feature of? [Options: A: Multiple myeloma; B: Eosinophilic granuloma; C: Thalassemia; D: Sickle cell anemia],A: Multiple myeloma,A: Multiple myeloma,0.6,GlobalMedQA_EN,"The term 'raindrop skull' is used in medical literature to describe a specific appearance of the skull. To identify the correct answer, I should consider each option and its characteristics.
+
+Multiple myeloma is a type of blood cancer characterized by the proliferation of cancerous plasma cells in the bone marrow. While it can cause bone lesions, these typically appear as 'punched-out' lytic lesions rather than a 'raindrop' appearance.
+
+Eosinophilic granuloma, a variant of Langerhans cell histiocytosis, can also involve bone destruction, leading to lytic lesions. However, it doesn't typically present with a 'raindrop skull' appearance.
+
+Thalassemia is a genetic disorder affecting the production of hemoglobin, and while it can lead to bone marrow expansion and changes in skull shape, it isn't typically associated with a 'raindrop' appearance.
+
+Sickle cell anemia, on the other hand, is a genetic disorder affecting hemoglobin production, leading to red blood cells becoming crescent-shaped under certain conditions. In individuals with sickle cell anemia, bone marrow expansion can cause a 'hair on end' appearance on skull X-rays, but a 'raindrop skull' is more characteristic of other conditions.
+
+However, a 'raindrop skull' is particularly associated with conditions where there is bone marrow expansion or changes due to blood diseases. Considering this and looking through my knowledge, 'raindrop skull' is indeed a term used to describe the appearance of the skull associated with conditions leading to bone resorption, one of which could be A: Multiple myeloma.
+
+A: Multiple myeloma
+0.6"
+"He sold the property to five buyers and said he'd double his money. In Hong Kong, is always belongs to the seller's market. [Question: What will happen in the future?]",double,transactions; occurring; prices; changing; market conditions; shifting,0.5,TORQUE,"I will approach this question by first identifying what information is currently available in the passage. I notice that the passage mentions the present state of the market in Hong Kong as a seller's market, which suggests that the market conditions are currently in favor of the seller. The passage also mentions the seller saying that he will double his money, but this statement is not an event about the future - it appears to be the outcome the seller is expecting to happen.
+
+However, the passage does not explicitly describe any events that have definitely not yet occurred. Since the context implies that the speaker is making general statements about the market, I need to make some inferences about what could be meant by ""what will happen in the future."" The most reasonable interpretation in this context might be that events such as transactions occurring, prices changing, or market conditions shifting could happen in the future.
+
+My analysis suggests that while there are events implied to be in progress or concluded, it's more difficult to identify future events directly from the given passage. Therefore, I will conclude that the passage provides insufficient information to pinpoint specific events that are explicitly stated to happen in the future. However, based on general statements made in the passage, some potential future events that could be considered might include transactions; occurring; prices; changing; market conditions; shifting.
+
+transactions; occurring; prices; changing; market conditions; shifting
+0.5"
+"The country's advertising business was worth 7.6 billion yuan (950 million U.S. dollars) in 2005, ranking sixth in the world. However, some ads for fake medicines have misled consumers and harmed their interests. [Question: What has been happening during 2005?]",business; ads; misled; harmed,Misleading; being worth,0.5,TORQUE,"The country's advertising business was worth 7.6 billion yuan in 2005, according to the passage, which implies that there has been a valuation of the business during this time. The passage also mentions some ads for fake medicines, suggesting that there are “some” ads during 2005, likely implying ongoing production and possibly also misleading consumers. Misleading is an action happening here. There’s also no information about any other specific actions that happened in 2005 outside of these two points; no other specific events are mentioned.
+Misleading; being worth
+0.5"
+The government dissolved the federation 10 days later and set up a caretaker committee to run the sport. FIFA has also dismissed the caretaker committee appointed by the government last week to oversee the running of the football. [Question: What happened after the government dissolved the federation?],set; dismissed; appointed; week,set; up; dismissed; FIFA; dismissed,0.85,TORQUE,"The passage states that after the government dissolved the federation, they set up a caretaker committee to run the sport and FIFA dismissed this committee appointed by the government. This implies that there are at least two direct events that occurred after dissolving: setting up and dismissing. Given the direct connection between dissolving the federation and setting up and dismissing the committee, these two are the most clearly related events that happened after the government dissolved the federation. The FIFA dismissing the previous committee may be an extension of the setting up, however, it specifically refers to the previously appointed caretaker committee, which also implies setting up is also part of the events that happened.
+set; up; dismissed; FIFA; dismissed
+0.85"
+The acquisition of 87-store Weisfield's raises Ratners's U.S. presence to 450 stores. About 30% of Ratners's profit already is derived from the U.S. [Question: What happened before the acquisition?],derived,U.S. presence,0.85,TORQUE,"The passage discusses the acquisition of Weisfield's by Ratners and mentions 30% of Ratners' profit being derived from the U.S. This implies that Ratners had a U.S. presence before the acquisition. The acquisition itself also indicates that something occurred after Ratners already had a U.S. presence. The mention of 30% of Ratners' profit being derived from the U.S. suggests that Ratners was making money in the U.S., which means the U.S. presence already existed. Therefore, the event that occurred before the acquisition is U.S. presence.
+U.S. presence
+0.85"
+Four years of talks have largely stalled over the degree to which rich countries offer financial support to their agriculture sectors. France is the biggest recipient of EU farm subsidies. [Question: What event has already finished?],stalled,stalled,0.95,TORQUE,"The passage mentions that four years of talks have ""largely stalled"", indicating that the stalling of talks is a completed event. In contrast to the ongoing discussions, there is no indication that the stalling started, and the phrase ""largely stalled"" suggests that the stalling has reached a conclusion. Additionally, being the ""biggest recipient"" is a state that continues, but it doesn't necessarily describe an event that started and finished. 
+
+stalled
+0.95"
+Peter Hobbs founded the company that is based in what town in Manchester?,Failsworth,Altrincham,0.42,HotpotQA,"To answer this question, I will first consider the information available about Peter Hobbs and his company. While I'm not aware of any prominent business leader by this name, research suggests that Peter Hobbs, the co-founder of the online retailer AO.com, is a well-known entrepreneur. The company AO.com is indeed based in a town in Manchester, which is a metropolitan area in northern England.
+
+To pinpoint the specific location, I will now narrow down my search. Manchester is a large city with several districts and surrounding towns. Since AO.com is a well-established retailer, its headquarters is likely to be located in a prominent area.
+
+Considering AO.com's origins and size, I will now focus on the specific locations within Manchester that are known for their business hubs or major transportation links. Research indicates that AO.com's headquarters is situated in the town of Didsbury is a strong possibility, however it may be more accurately described as being based in the town of Ashton-Under-Lyne is not a likely place.
+
+A more plausible option would be that the AO. com headquarters is based in the Old traord in Ashton-Under-Lyne's near neighbour Didsbury's neighbour Altrincham does not seem to be where it is. I'll consider a final option which I believe is where it is.
+
+Research suggests that AO.com is based Altrincham may not seem likely since the Ashton-Under-Lyne neighbour Altrincham is actually the likely answer for it is Altrincham.
+
+Altrincham
+0.42"
+What T.V. show did the episode Colonel Homer air on?,The Simpsons,The Simpsons,0.45,HotpotQA,"To determine the answer to the question ""What TV show did the episode 'Colonel Homer' air on?"", I need to rely on my knowledge of classic American television.
+
+First, I have to consider what I know about episodes with names like 'Colonel Homer'. This type of episode title suggests it may be a satirical or comical take on a character or situation, and is likely from a show that has a strong comedic or satirical component to its storytelling.
+
+I remember that The Simpsons has a diverse range of episode titles, often inspired by classic American culture and history. It's possible that 'Colonel Homer' may be an episode of a popular American animated show.
+
+Another key piece of information that could help me is understanding that 'Homer' is a common first name in America, often used as a comedic device in American satire. This could lead me to guess that the show in question is a satirical or comedic show, and given its American flavor, a plausible answer could be The Simpsons.
+
+The key to further narrowing down this guess is to recall specific episodes with a character named Homer or with a title referencing a character named Colonel, and then linking this to a show that has 'Homer' as a main character. However, without additional information or context about the episode, I am left relying on general knowledge of popular American TV shows.
+
+A possible answer, given this reasoning, could be an episode on The Simpsons. However, without a specific reference or more context, my knowledge is limited and I should approach this answer with caution.
+
+The Simpsons
+0.45"
+Mustang television and cinema promoted which brand of Irish dry stout beer?,Guinness,"One of the characters in this series was played by John Cleese, who also appeared in an unrelated project named ""Fawlty Towers,"" set mainly in a hotel in Torquay, England. John Cleese also wrote and acted in another project, ""Clockwise,"" however that was a more straightforward comedy and is not particularly related to the context of this question.",,HotpotQA,"To answer this question, I need to recall information related to the term ""Mustang."" While the term can have various meanings, one significant connection to television and cinema comes from a British comedy sketch series, which I believe is called ""Monty Python's Flying Circus."" However, more relevant to this context is another popular British sketch show called ""Monty Python."" 
+
+One of the characters in this series was played by John Cleese, who also appeared in an unrelated project named ""Fawlty Towers,"" set mainly in a hotel in Torquay, England. John Cleese also wrote and acted in another project, ""Clockwise,"" however that was a more straightforward comedy and is not particularly related to the context of this question.
+
+One more context that is relevant here is the project that John Cleese produced named ""Fierce Creatures"" and more significantly for this question, its 1992 prequel, ""A Fish Called Wanda"" and its 1983 film, ""Local Hero"" by writer and producer David Hayman. However, a more relevant context is the 1999 film, ""Fierce Creatures"" which is not as successful as John Cleese's other projects. This is where it gets somewhat relevant as John Cleese appeared in ' Clockwise'. But, this isn't the correct link."
+What type of institution are Kathmandu University and Brown University?,University,Private Universities,0.85,HotpotQA,"Both Kathmandu University and Brown University can be analyzed using chain of thought reasoning as below: 
+
+Considering the context and information available, the term ""University"" often refers to a type of institution specializing in higher education. Universities are generally characterized as institutions that offer academic programs, degrees, and research opportunities. 
+
+This general understanding of a university does not narrow down to a specific type, as the term encompasses many types of higher education institutions, such as private universities, public universities, liberal arts colleges, research universities, etc.
+
+However, based on the provided universities (Kathmandu University and Brown University), one could make a plausible inference regarding their type. 
+
+Kathmandu University is a private higher education institution, established in Nepal. Its focus and reputation suggest that it could be classified as a private university. 
+
+Brown University is located in the United States and is known as an Ivy League institution, which indicates that it is a private research-based institution. 
+
+This leads to a possible classification: Both Kathmandu University and Brown University are non-state institutions involved in higher education, research, and providing various academic programs. This classification is consistent with the general understanding of universities and is supported by their specific roles and contexts.
+
+Considering the confidence in the classification process and available information, I'd say:
+
+Private Universities
+0.85"
+Were the bands Adam Again and Mastodon active at the same time?,no,No,0.9,HotpotQA,"To answer this question, I will chain my reasoning as follows:
+
+1. First, let's verify the existence of the bands Adam Again and Mastodon.
+- Through general knowledge, I know Adam Again was an American rock band formed in 1984 and broke up by the early 1990s.
+- I also know Mastodon is an American heavy metal band formed in 2000.
+
+2. Given the formation years, let's try to find a temporal link between the two bands.
+- If Adam Again formed in 1984 and the earliest reported formation year for Mastodon is 2000, this suggests a gap of roughly two to sixteen years between the bands' formations.
+
+3. Now let's determine if Mastodon could have existed during the time Adam Again was active.
+- The formation year of Adam Again, 1984, falls outside Mastodon's possible range of existence (between 2002 and 2016).
+
+4. Since Adam Again disbanded early in the 1990s and Mastodon formed later, I can now conclude that these bands were likely not active around the same time.
+
+Answer: 
+No
+0.9"
+In which film did Shirley Henderson appear with Tilda Swinton,Okja,Orlando,0.85,HotpotQA,"The film industry is home to numerous collaborations between talented actors. To answer this question, I'll start by recalling the diverse filmography of both Shirley Henderson and Tilda Swinton. I need to consider various possibilities, but given their extensive work together in some notable projects, my thoughts will lean towards the more iconic examples.
+
+Shirley Henderson has worked with a wide array of actors throughout her career, but Tilda Swinton stands out in my mental list. Considering their shared involvement in various projects, the most notable collaboration comes to mind: their appearance in the 1994 film ‘Orlando’, directed by Sally Potter.
+
+The combination of Swinton's versatility and Henderson's dynamic range in this adaptation of Virginia Woolf's 'Orlando' makes their on-screen interaction memorable. Given their distinct talents and the impact of their collaboration in this period drama, I'm fairly certain of their shared appearance in this film.
+
+Orlando
+0.85"
+What is the nationality of the person who played drums in the supergroup Planet Us?,American,American,0.45,HotpotQA,"To answer this question, I will first determine what is being asked: the nationality of a musician in a supergroup. To address this, I'll consider the musicians in the supergroup Planet Us. This group consists of Mike Mills, Kevin McCabe, and Pat Sansone, along with Wilco's drummer, Glenn Kotche and the guitarist Kurt Bloch. I will determine their nationalities in order to find an answer. 
+
+Considering Mike Mills - Mike Mills is American. 
+Considering Kevin McCabe - I can't find information about a musician named Kevin McCabe in a well-known band such as Planet Us, however Kevin McCabe is indeed in the American band, but a band that is not super well known, 
+Considering Pat Sansone - I couldn't find much information about his nationality.
+Considering Glenn Kotche - Glenn Kotche is American. 
+Considering Kurt Bloch - Kurt Bloch appears to be American.
+
+Given the nationality of these musicians and assuming that they are representative of the group Planet Us, my answer would most appropriately be a reference to a nationality of the musicians in the group. Since the question could potentially refer to any member in the group (the group itself is not a country and therefore cannot have a nationality), we may conclude a nationality that is associated within the supergroup Planet Us.
+
+American
+0.45"
+Is the Herald or The Liberator Magazine published further north?,The Liberator Magazine,The Liberator Magazine,0.3,HotpotQA,"To answer this question, I need to gather more information about the Herald and The Liberator Magazine. I'll start by attempting to identify these two publications and their respective locations. The Herald doesn't seem directly related to politics or social justice, which might help narrow down its potential locations, possibly in more neutral regions or larger countries like New Zealand or Pakistan. The Liberator Magazine, however, has a more distinctive name and appears to be a historical publication associated with British politics in the mid-19th century, specifically in Ireland.
+
+Given this new information, Ireland is situated further north in the Northern Hemisphere compared to New Zealand, which would place The Liberator Magazine slightly further north if I assume the New Zealand Herald is a different publication.
+
+The New Zealand Herald is a daily newspaper based in Auckland, New Zealand. The Liberator Magazine was a periodical based in Ireland. New Zealand is approximately 46° South latitude, while Ireland is approximately 53° North latitude. The geographical north direction makes the later location farther north than the former.
+
+Based on this reasoning, The Liberator Magazine is published further north than the New Zealand Herald.
+
+The Liberator Magazine
+0.3"
+Where is the hockey team based on with which  Sebastian Strandberg most recently played?,"Evansville, Indiana",Växjö Lakers,0.42,HotpotQA,"To find the answer, my first step is to identify Sebastian Strandberg and the sport, which is identified as hockey. Next, I will try to find information about him that is most likely to contain the answer, such as recent team affiliations, which could come from an online search or general knowledge of sports news. After gathering and considering this information, my next step will be to filter and evaluate the relevance of the sources. If I find a reliable and up-to-date source indicating his recent team, I will then proceed to extract the name of the team.
+
+Växjö Lakers
+0.42"
+In what year was the British historian who was arrested in 2005 for Holocaust denial in Austria born?,1938,Born in 1939.,0.95,HotpotQA,"To answer this question, I'll start by recalling information about the British historian who was arrested in 2005 for Holocaust denial in Austria. I believe this historian may be David Irving, a notable figure in the UK for his extreme views on the subject. Next, I will consider David Irving's career path and the time of the arrest he was arrested in 2005. If I recall correctly, David Irving was known for his provocative writings on World War II and the Nazi regime. He published several books on the topic, often sparking controversy due to his contentious viewpoints. This should give me some insight into the likely correct answer.
+
+Based on the process of eliminating other possibilities and recalling information about the arrest, I'm confident that the arrested historian is indeed David Irving.
+
+Born in 1939.
+0.95"
+"Which author was born first, Lorraine Hansberry or Sandra Gulland?",Lorraine Vivian Hansberry,Lorraine Hansberry,0.85,HotpotQA,"To find the answer, I must first know the birth years of Lorraine Hansberry and Sandra Gulland. Lorraine Hansberry was an American playwright, and after verifying, she was born on May 19, 1930. The Canadian author Sandra Gulland is known for her historical fiction works, and her birth year is 1955, after searching for the required information.
+
+Now, based on their birth years, we can determine that Lorraine Hansberry was born before Sandra Gulland.
+Lorraine Hansberry
+0.85"
+In what year was Joy Enriquez's husband born?,1977,David Chokachi was born in 1973.,0.65,HotpotQA,"In order to answer this question accurately, I would need more context about Joy Enriquez's husband, specifically his identity and a reliable source referencing his birth year. Without access to such information or further context, it seems unlikely to provide an accurate answer.
+
+However, if a connection or relation to Joy Enriquez is identified, further research might become more feasible. In 2007, Joy Enriquez was married to David Chokachi, and there seems to be a possibility of getting the correct information.
+
+Based on this information, I can proceed to provide a response.
+
+David Chokachi was born in 1973.
+
+0.65"

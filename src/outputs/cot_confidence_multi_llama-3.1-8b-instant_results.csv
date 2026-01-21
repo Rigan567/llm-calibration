@@ -1,0 +1,234 @@
+question,gold,pred,confidence,source,raw_response
+"To date, only the United States has achieved close-range exploration around Mars. ",False,true,0.42,Astro-QA_Judgement,"true
+Although the United States has sent multiple successful missions to Mars, such as NASA's rovers, the statement might be interpreted in a narrow sense. However, the broadness of exploration and range of countries with ongoing projects such as NASA's Artemis program, make the interpretation that other countries or organizations might have also achieved close-range exploration possible. Due to the ambiguity and the broad interpretation, a low confidence of 0.42 is appropriate.
+true
+0.42"
+There are asteroids named Tom Hanks and Meryl. ,True,false,0.3,Astro-QA_Judgement,"false
+To calculate confidence, I would consider the relatively broad scope of asteroid names, as they can encompass a wide range of references, such as famous people, fictional characters, or locations. While both Tom Hanks and Meryl ( likely Meryl Streep ) are prominent figures, I couldn't immediately confirm their names being assigned to actual asteroids in my knowledge database. This uncertainty suggests a relatively low confidence in the answer. I would assign confidence level 0.3.
+false
+0.3"
+There are two intermittently erupting giant plumes of water on Europa. ,True,false,0.53,Astro-QA_Judgement,"false
+While there is evidence of subsurface liquid water on Europa and indications of geysers and plumes, the idea of intermittent giant plumes is less frequently and explicitly mentioned in most sources. A moderate confidence of 0.53 is justified as a consequence of the uncertainty in defining the exact characteristics and number of such geological features. 
+false
+0.53"
+"Currently, the detection of black holes is still in a challenging phase. ",True,false,0.5,Astro-QA_Judgement,"false
+While the detection of black holes is indeed an area of ongoing research and development, this can be said about many areas in modern astrophysics and cosmology, and this does not directly support the claim. It is worth noting the detection techniques of black holes have seen steady and rapid progress in recent years. As a result, a relatively low-moderate confidence of 0.5 is justified.
+false
+0.5"
+The retrograde motion of planets posed a significant challenge to the geocentric theory. ,True,true,0.7,Astro-QA_Judgement,"true
+There is a widespread understanding in the history of astronomy that the retrograde motion of planets posed a challenge to the geocentric theory due to the difficulties it created for modeling and predicting this motion under a static, earth-centered universe. However, the geocentric theorists, such as Ptolemy, developed complex systems to address this problem using epicycles. As these ideas are well established and there are no competing interpretations that are widely accepted in the field, a moderately high confidence level of 0.7 is justified.
+
+true
+0.7"
+The annual apparent motion of the Sun shows that the Sun rotates 180° each year. ,False,"The annual apparent motion of the Sun can be explained by the concept of the Earth's tilt and orbit around the Sun, resulting in a path that varies across the sky over the course of the year. The Sun itself does not rotate 180° in a year, and this fact can be well established through observations of solar and stellar rotation periods. As a result, a high confidence level of 0.9 is justified.",0.9,Astro-QA_Judgement,"false
+The annual apparent motion of the Sun can be explained by the concept of the Earth's tilt and orbit around the Sun, resulting in a path that varies across the sky over the course of the year. The Sun itself does not rotate 180° in a year, and this fact can be well established through observations of solar and stellar rotation periods. As a result, a high confidence level of 0.9 is justified.
+0.9"
+Giordano Bruno was the first person to observe the stars with a telescope. ,False,false,0.9,Astro-QA_Judgement,"false
+The actual discovery of the Moon's surface features and the observation of the night sky through a telescope, is credited to Galileo Galilei in 1608 and the claim that Bruno was the first to do so is a myth and a claim with multiple issues for its validity, so, a high confidence level of 0.9 is justified.
+false
+0.9"
+"There is a celestial body named ""Great Wall"". ",True,false,0.55,Astro-QA_Judgement,"false
+The term ""Great Wall"" is generally associated with the Great Wall of China and there are also Great Walls in other contexts, however there is not a widely recognized large celestial body named ""Great Wall"", making the classification largely unambiguous. But, due to other possible associations, like the Great Wall Nebula, I will lower the confidence to 0.55.
+false
+0.55"
+Noctilucent clouds can be observed on the Moon. ,False,false,0.95,Astro-QA_Judgement,"false
+The noctilucent cloud phenomenon is a type of atmospheric cloud that occurs on Earth at high altitudes, formed through interactions between the atmosphere and space weather. Its occurrence is unique to Earth's atmosphere and does not have a direct equivalent on other celestial bodies like the Moon, due to the vastly different atmospheric conditions. The high confidence level of 0.95 is justified due to the uniqueness of noctilucent clouds to Earth's atmosphere and the clear lack of relevant atmospheric conditions on the Moon.
+false
+0.95"
+Saturn's rings are composed of various sizes of ice particles. ,True,true,0.95,Astro-QA_Judgement,"true
+
+The information provided is based on widely accepted scientific knowledge about the composition of Saturn's rings. The composition of Saturn's rings as primarily consisting of water ice is consistently reported in most reliable scientific resources. A high confidence level of 0.95 is justified.
+
+true
+0.95"
+Cat constellation still exists. ,False,false,0.95,Astro-QA_Judgement,"false
+The Cat constellation (also known as Lepus or Lynx by some) is mentioned in the Babylonian star catalog from a very old time, so the Cat constellation has been present as a recognized astronomical entity for thousands of years, with a high confidence level of 0.95 justified.
+false
+0.95"
+Therapeutic level of lithium is: [Options: A: 5-Jan; B: 10-May; C: 15-Oct; D: 15-20],C: 15-Oct,0.9 ,,GlobalMedQA_EN,"D: 15-20
+
+0.9 
+The therapeutic range of lithium is generally established in the medical literature as 0.8 to 1.2 mmol/L, which closely matches the option given. Since option D closely reflects this established range and is a commonly cited therapeutic window, a high confidence is appropriate."
+Parotid duct opens [Options: A: Opposite 1st mollar; B: Opposite 2nd molar; C: Into the papilla; D: Opposite incisor],B: Opposite 2nd molar,C: Into the papilla,0.55,GlobalMedQA_EN,"C: Into the papilla
+The anatomy of the parotid duct is relatively well-established, and it is commonly stated that it opens into the oral cavity through the papilla of Stensen. However, variations in anatomy or misinterpretations of the question could cause hesitation, leading to a moderate confidence of 0.55, as the other options may also seem plausible in certain contexts.
+C: Into the papilla
+0.55"
+Granulomatous lung disease is caused by? [Options: A: Hypersensitivity pneumonitis; B: Sarcoma; C: Bronchogenic carcinoma; D: Bronchogenic cyst],A: Hypersensitivity pneumonitis,A: Hypersensitivity pneumonitis,0.4,GlobalMedQA_EN,"A: Hypersensitivity pneumonitis
+I consider  hypersensitivity pneumonitis as the correct answer because it's a known condition that causes granulomatous lung disease through the body's immunological response to inhaled substances. The confidence in this answer is moderate due to variations in lung diseases presentations, and other options may cause granulomatous responses in specific contexts, making my confidence 0.4. 
+A: Hypersensitivity pneumonitis
+0.4"
+Which among the following does not cause exaggerated jaw jerk - [Options: A: Multiple sclerosis; B: Motor neurone disease; C: Pseudobulbar palsy; D: Syringomyelia],D: Syringomyelia,C: Pseudobulbar palsy ,0.4,GlobalMedQA_EN,"C: Pseudobulbar palsy 
+Pseudobulbar palsy is known for causing weakness in muscles of facial expression and often results in decreased or absent jaw jerk (due to the brain's motor function being disrupted), rather than an exaggerated jerker. However, while pseudobulbar palsy is not the correct answer, my knowledge of the options does not provide strong evidence to exclude any option. I have some familiarity with the effects of multiple sclerosis (A) on the jaw jerk, as well as the jaw jerk in some cases involving motor neurone disease (B) being exaggerated. Syringomyelia (D) can also influence the function of the brainstem in a way that could cause alterations in jaw movement (like myoclonus). As a result, while B and D can potentially result in a jaw jerk but with less certainty, all the options have potential plausible linkages. Therefore, my confidence is 0.4.
+
+C: Pseudobulbar palsy 
+0.4"
+Antiendomysial antibody is used in screening of - [Options: A: Myasthenia gravis; B: Autoimmune hepatitis; C: Coeliac diseases; D: Graves disease],C: Coeliac diseases,C: Coeliac diseases,0.7,GlobalMedQA_EN,"C: Coeliac diseases
+The antiendomysial antibody test is specifically designed to identify the presence of tissue-transglutaminase autoantibodies and is commonly used in the diagnosis of coeliac disease. Although it may be used in conjunction with other tests for other autoimmune diseases, the antiendomysial antibody test is most closely associated with coeliac disease. Confidence is moderately high at 0.7 due to the specificity of the test and its primary application.
+
+C: Coeliac diseases
+0.7"
+Which of the following features on mammogram would suggest malignancy – [Options: A: Well defined lesion; B: A mass of decreased density; C: Areas of speculated microcalcifications; D: Smooth borders],C: Areas of speculated microcalcifications,C: Areas of speculated microcalcifications,0.6,GlobalMedQA_EN,"C: Areas of speculated microcalcifications
+There is a strong association between speculated microcalcifications and malignancy in mammography, as they often indicate ductal carcinoma in situ or invasive cancer. However, not all speculated microcalcifications are malignant, and the other options do not strongly correlate with cancer. Although, there is a chance for error by over or under interpreting microcalcifications. Therefore, moderately high confidence of 0.6 is appropriate.
+
+C: Areas of speculated microcalcifications
+0.6"
+"""Bird of Prey"" sign is seen in the radiographic barium examination of: [Options: A: Gastric volvulus; B: Intussusception; C: Sigmoid volvulus; D: Cecal volvulus]",C: Sigmoid volvulus,D: Cecal volvulus,0.5,GlobalMedQA_EN,"D: Cecal volvulus
+This answer is the correct interpretation, as a bird of prey sign typically indicates the presence of a sigmoid volvulus, but here it might have been more appropriate to answer sigmoid volvulus, however, I have chosen to interpret 'bird of prey' with cecal volvulus, given the slight similarity between words - volvulus. The wording seems a bit ambiguous. Because of the slight ambiguity and the possibility of confusion between similar conditions, the confidence in this answer is around 0.5.
+D: Cecal volvulus
+0.5"
+"Pangalos said for his part that the force, due to comprise between 700 and 800 Greek troops, ""will not be tasked with disarmament."" Instead the Italian-led mission is expected to secure roads, junctions, airports and warehouses and help aid deliveries. [Question: What event has already finished?]",said,0.95,,TORQUE,"said
+Pangalos said for his part that the force, due to comprise between 700 and 800 Greek troops, ""will not be tasked with disarmament."" Instead the Italian-led mission is expected to secure roads, junctions, airports and warehouses and help aid deliveries.
+0.95
+
+The word ""said"" clearly describes a completed action of speaking."
+Iran's nuclear chief Gholamreza Aghazadeh said on Saturday that Iran would not move uranium enrichment to other countries. [Question: What began before Aghazadeh spoke?],Saturday; enrichment,said; Iran; would; move; uranium enrichment,0.6,TORQUE,"said; Iran; would; move; uranium enrichment
+The event of Iran deciding not to move uranium enrichment to other countries and the act of uranium enrichment itself seem to have started prior to Aghazadeh announcing the decision. The passage is fairly clear about this sequence, making a moderately high confidence of 0.6 suitable.
+said; Iran; would; move; uranium enrichment
+0.6"
+"This was logical because our main staff is still kidnapped,"" the Iraqi Red Crescent's secretary general Mazen Abdallah said. ""We are the only organisation working in all of Iraq. [Question: What event has already finished?]",was,said; kidnapped,0.95,TORQUE,"said; kidnapped 
+I have based my confidence on the use of the past tense ""said"" and ""had"" being implied by ""had been"" but was not written in this excerpt, which implies a completed action; the verb ""kidnapped"" is also in the past tense, suggesting completion. I would assign a confidence of 0.95.
+said; kidnapped
+0.95"
+The government dissolved the federation 10 days later and set up a caretaker committee to run the sport. FIFA has also dismissed the caretaker committee appointed by the government last week to oversee the running of the football. [Question: What happened after the government dissolved the federation?],set; dismissed; appointed; week,set up; FIFA dismissed,0.6,TORQUE,"set up; FIFA dismissed 
+
+Since the question asks for events happening after the dissolution, ""set up"" and ""dismissed"" fit this sequence logically. However, since there is no information about the events that happened immediately after the dissolution, such as the formation of the caretaker committee being directly followed by FIFA's action, assigning a high confidence level may be difficult. The events described seem to occur with some temporal lag after the dissolution. Therefore, the confidence level is lower. However, FIFA's dismissal of the caretaker committee does occur after the government's dissolution, justifying a relatively high confidence of 0.6.
+set up; FIFA dismissed
+0.6"
+"Journalists following the court hearing are sat behind a glass window, but Amin then ordered a 10-minute break to decide how best the woman could speak. ""Everyone has to hear,"" Amin said. [Question: What happened before the 10-minute break?]",ordered,ordered,0.95,TORQUE,"ordered
+The question is about the preceding event, and ""ordered"" fits that criterion, which seems unambiguous. However, the chain of events in a typical courtroom might include other preceding events. Because of this lack of alternative possibilities, I would assign a confidence of 0.95.
+ordered
+0.95"
+The Czech Republic is now aiming to join the euro in 2012 and Hungary in 2013. [Question: What event has started?],aiming,aiming,0.9,TORQUE,"aiming
+I based this choice on the verb ""aiming,"" which indicates an intention or a plan to start doing something in the future, i.e., joining the euro in 2012 and 2013, which have both not occurred as of now. 
+aiming
+0.9"
+"On Tuesday, he inspected a site in southern France that is to host a future experimental nuclear reactor which China is participating in. On Wednesday, he was to tour a satellite facility in Cannes, on the French Riviera, belonging to Alcatel. [Question: What happened before the proposed tour on Wednesday?]",inspected,inspected; participating ,0.7,TORQUE,"inspected; participating 
+The given events logically follow the tour as proposed and planned, with ""participating in"" indicating an ongoing partnership. Because of this, and also considering the phrasing 'he was to tour', indicating a planned event, I have confidence in this answer. However, the passage also states an action (inspected) that happened before a different event (proposed tour on Wednesday) not the actual tour on Wednesday that the question refers to. It is therefore somewhat ambiguous whether this event should be considered as occurring before the actual event the question asks about. This partial ambiguity lowers confidence a bit, resulting in moderately high confidence of 0.7.
+inspected; participating 
+0.7"
+"Where is the fruit, part of the flowering plant species in the palm family Arecaceae, most popular?",Malta,Coconuts are most popular in the tropical regions of Southeast Asia.,0.95,HotpotQA,"Coconuts are most popular in the tropical regions of Southeast Asia.
+
+My confidence in this answer is 0.95 because coconuts are widely cultivated and consumed in many countries near the equator, including Indonesia, the Philippines, Thailand, and Malaysia. This global popularity is a well-established fact and is supported by trade data and market trends. The specific countries or regions where coconuts are most popular may vary slightly depending on various factors, but coconuts are generally considered a staple crop in these tropical regions, making my confidence high.
+
+Coconuts are most popular in the tropical regions of Southeast Asia.
+0.95"
+In which year was the farming simulation video game published by Chucklefish released for Microsoft Windows?,2016,0.999,,HotpotQA,"Stardew Valley
+This question can be definitively answered because it refers to a specific video game with well-documented release information. The release date is widely available and not subject to ambiguity or multiple interpretations. The game is indeed 'Stardew Valley', developed by Eric Barone and published by Chucklefish.
+0.999
+Stardew Valley"
+"Who was drafted into the 2009 NFL Draft, during the he seventy-fourth annual meeting of National Football League (NFL)?",Darrius Ramar Heyward-Bey,Matthew Stafford,0.999,HotpotQA,"Matthew Stafford
+Given that the specific event mentioned has occurred in the past and the information about the 2009 NFL Draft is documented and widely known, the confidence should be near 1, or at least very high. However, since there might be an extremely small chance of misinformation, it's difficult to assign a value of exactly 1. Therefore, I would choose a value close to 1, in this case 0.999.
+Matthew Stafford
+0.999"
+Mustang television and cinema promoted which brand of Irish dry stout beer?,Guinness,Guinness,0.95,HotpotQA,"Guinness
+
+The information is from widely known sources and is often referenced as an example of product placement in the television show and film. There is likely to be no disagreement among most scholars and enthusiasts regarding the brand, resulting in a high confidence level. A confidence level of 0.95 is appropriate because the information is generally accepted and not subject to alternative interpretations.
+
+Guinness
+0.95"
+"What is one of the many universities that Lennart Anderson taught at that is located in Upper Manhattan, New York City?",Columbia University,City College of New York,0.7,HotpotQA,"City College of New York
+
+The answer is fairly specific in the field of academia, especially given that Lennart Anderson was a prominent mathematician. However, academic records and details about individual faculties can sometimes be incomplete or scattered, and the accuracy might depend on sources. Considering the relatively specific context, I have a moderate to high confidence level. I'd rate it as 0.7.
+
+City College of New York
+0.7"
+"For what team is the cricket bowler, who is considered to be the fastest, play a role of captain?",Karachi Dolphins,New Zealand,0.55,HotpotQA,"New Zealand
+The question specifies a very specific piece of information (considered to be the fastest) that might change over time as records are broken, especially in sports where performance can improve rapidly. Additionally, there might be some subjectivity involved in determining who is the ""fastest."" These factors reduce the confidence in a specific answer. However, based on the available data and current information, I believe the answer is New Zealand. 
+
+New Zealand
+0.55"
+"What was the nationality of the comedian who died the day after the final filming of a show featuring ""Father Ted?""",Irish,"This estimate is supported by the general knowledge of the television show, which was a hit in Ireland and starred several Irish comedians. However, without more specific information, there may be a slight possibility that someone else with a different nationality was referenced in the question, which slightly decreases my confidence. Therefore, a moderate confidence level, such as 0.7, is appropriate.",,HotpotQA,"The nationality of the comedian who died the day after the final filming of a show featuring ""Father Ted"" is Irish.
+This estimate is supported by the general knowledge of the television show, which was a hit in Ireland and starred several Irish comedians. However, without more specific information, there may be a slight possibility that someone else with a different nationality was referenced in the question, which slightly decreases my confidence. Therefore, a moderate confidence level, such as 0.7, is appropriate.
+Irish"
+WikiLeak: Inside Julian Assange's War on Secrecy tells the story of a leak by a soldier born with what full name?,Bradley Edward Manning,Chelsea Manning,0.95,HotpotQA,"Chelsea Manning
+
+The confidence in this answer is 0.95, because the question directly references a widely documented event, the WikiLeak publication ""Inside Julian Assange's War on Secrecy"" involves a prominent and well-documented story, and Chelsea Manning's full name, previously known as Bradley Edward Manning, is publicly and verifiably confirmed across multiple reliable sources, therefore I assign it very high confidence, near certainty.
+
+Chelsea Manning
+0.95"
+"In the 2004-05 Season, The Houston Rockets acquired a center from Chicago Bulls who played how many seasons of NBA ?",18 seasons,Yao Ming played 8 seasons of NBA,0.95,HotpotQA,"Yao Ming played 8 seasons of NBA
+This information is generally well-documented and easily verifiable in reliable sources such as official NBA records or reputable sports news outlets, making a high confidence level appropriate. However, there could be a small chance of minor errors in records, so I will not be 100% confident. After some thought, I will give myself a confidence of 0.95.
+Yao Ming played 8 seasons of NBA
+0.95"
+David Snoke co-published a paper in 2004 with what Lehigh University professor?,Michael J. Behe,"David Snoke and another researcher, who is David E Khmel'nitskii, is one of his co-authors, but I  do not have enough information to be entirely sure of his other collaborator at Lehigh.",0.2,HotpotQA,"The term is not immediately clear.  In the field of quantum field theory and condensed matter physics, one well-known paper published by David Snoke in 2004 was titled ""Observation of Zero-Resistance States in BCS Superconductors"". However, since it does not include co-authors with Lehigh University professors, another source would need to be consulted to arrive at a possible answer. 
+In this case, David Snoke co-published a paper titled ""Observation of Zero-Resistance States in BCS Superconductors"" in 2004, but this paper was co-authored with a physicist David E Khmel'nitskii but it is also noted Snoke co-published papers about  superconductivity research with  Lehigh professors  as well as other researchers. A more accurate answer is however  difficult to establish. 
+David Snoke and  another researcher, who is David E Khmel'nitskii, is one of his co-authors, but I  do not have enough information to be entirely sure of his other collaborator at Lehigh. My uncertainty stems from the incomplete knowledge, so a low confidence is used to account for this uncertainty.
+0.2
+
+David Snoke and another researcher, who is David E Khmel'nitskii, is one of his co-authors, but I  do not have enough information to be entirely sure of his other collaborator at Lehigh.
+0.2"
+"The Adventures of Elmo in Grouchland was a 1999 film which involved the use of puppets from a puppeteer who was also the voice of what character from ""Star Wars""?",Yoda,0.1,,HotpotQA,"The Muppet Show, particularly The Muppet Movie, used Jim Henson's puppets, but this film question is actually related to the use of Kermit the Frog in that particular movie. However, in this case we are looking for puppets involved with that character from another Muppet Show character and film. That is the Muppet Show's involvement with the film ""The Muppet Movie"" and the other Muppet show, which involved the use of Kermit's friend. This led me to the Muppet show that is closely associated with the use of puppets and their involvement with various film, which had Kermit as a main character. The film in question is actually associated with Kermit and a character from ""The Muppet Movie"", but that is related to the Muppets, but the actual answer is that the  film The Adventure's of Elmo film was also made by the Muppets, but the actual answer is that in this particular case, we have to look at the voice behind the character Kermit, who had a very close friend. I'm going to say the main character from the film in question was Kermit's best friend. 
+Fozzie Bear 
+But the actual answer is Kermit's friend from that film, but we're actually looking for another character that was not a main character from The Muppets, and was a voice that is actually related to another character from that film ""The Muppet Movie"". That was actually another close friend from Kermit and I will say the actual answer now is this voice was a Muppet that has been in other films, and the other friend of Kermit, who is a very close friend. This friend is actually from ""The Muppet Movie"" as well, but his name was Yoda, but the Muppets and Yoda has nothing to do with the film in question, this was a film associated and voiced by the Muppets but the voice of that particular character was actually a voice actor, so the actual answer is not Kermit, nor other Muppet but that particular close friend from Kermit. This particular friend has been in another Muppet show and a film from a particular character and was voiced by this Muppet character's friend, but the answer to the question is a close friend from the Muppets film and from ""The Muppet Movie"". The particular character I am thinking of is a friend of Kermit and a friend from another particular show. I'm trying to remember now the show that this particular character is from and is voiced by this Muppets character friend and is a character that has not been a main character, but his friend was voiced by a person of the film question. 
+I'm still trying, I am still thinking that Fozzie bear was associated with this character from The Muppet Movie, and a main character from the Muppets, and I believe the voice in the question's film was Fozzie's character. I'm going to stick with the answer of Fozzie Bear 
+0.1
+Fozzie Bear"
+"Which company is in the discount travel market, The Walt Disney Company or Priceline.com?",Priceline.com,Priceline.com,,HotpotQA,"Priceline.com
+
+This estimate can be derived with a high degree of confidence (near 1.0) because the question's details provide limited variables for uncertainty and we know that The Walt Disney Company is not primarily involved with the discount travel market; The Walt Disney Company has an airline that is named Disney Magic or Disney Wonder etc. or Disney Cruise, the Disney vacation club, Disney resorts etc.  Priceline.com is now more commonly known as Booking.com in some countries, or also now known as Kayak or also known as  Booking Holdings.  This knowledge eliminates the Walt Disney company from any discount travel."
+"Juliana Maria of Brunswick-Wolfenbüttel is a descendant of the King of what country, who took over its throne in 1814?",Norway,King Louis XVIII of France,0.05,HotpotQA,"Napoleon was overthrown in 1814, but the next monarch of France was Louis XVIII after Napoleon, so he would be more relevant for 1815 rather than 1814. Therefore, it is unlikely she is a descendant of Louis XVIII or any previous Monarch who took over the French throne in '14. 
+Therefore the answer is 
+King Louis XVIII of France
+0.05
+
+King Louis XVIII of France
+0.05"
+"Chris Bosh took over the role of fan favorite, and face/leader of the Raptors from the man who played for what team?",Sacramento Kings,Vince Carter,0.55,HotpotQA,"Vince Carter
+The confidence level in this answer is based on Vince Carter being generally considered the preceding player with star status before Chris Bosh in the Toronto Raptors franchise. However, a lower confidence of 0.55 could be assigned because another star, Dehonté ""Hollywood"" Harrison (also known as Dehonté ""Hollywood"" Harrison but more often referred to as 'Hollywood') and even other players such as  Antonio Davis and even Charles Oakley played key roles on the early to mid 2000s Raptors and might be argued to have had their fanbase at one point and time.
+Vince Carter
+0.55"
+"What flowering plant, first classified by Carl Linnaeus in 1753, produces   Penicillium copticola?",Cannabis sativa,Orchid.,0.95,HotpotQA,"Orchid.
+
+This estimate is well-supported by botanical literature. However, there may be cases where multiple hosts have the same fungal species or specific fungal species can infect multiple hosts. Therefore, I have high but not absolute confidence in my answer, and I estimate it to be around 0.95.
+
+Orchid.
+0.95"
+What was the name of a United Stated Army officer during World War 2 and served again later in the Korean war and was later featured on a HBO miniseries where his character was played by played by Matthew Settle?,Ronald Speirs,Audie Murphy,0.75,HotpotQA,"Audie Murphy
+
+The confidence level in this answer is moderate because the information is well-known and widely documented in historical records, as well as popular media. However, some individuals may have served in the United States military during both World War 2 and the Korean war without being well-known. The inclusion of a specific HBO miniseries helps narrow down the correct person. I will assign a confidence of 0.75, representing this balance. 
+Audie Murphy
+0.75"
+"Which band currently has more members, Last Dinosaurs or Primal Scream?",Primal Scream,"Current information about band membership is scattered, and the numbers might not be up-to-date.",,HotpotQA,"Last Dinosaurs has 4 members (Ash Wells, Louis Leckie, Zach O'Brien, and Sean Caskey). Primal Scream has 4 members (Robert ""Bob"" Harvey, Andrew Innes, Greg Dulli, and Darrin Mooney).
+The band lineups may change over time, but at the moment, both bands have the same number of members.
+
+Current information about band membership is scattered, and the numbers might not be up-to-date.
+This uncertainty affects the confidence in providing an accurate answer."
+"During the 1985 World Games that took place at Slazenger Racquet Club, what days did it take place?",July 25 to August 4,July 5-13 ,,HotpotQA,"July 5-13 
+The question seems to contain details unique to the event, and while the information can be verified, there is a slight chance of minor mistakes or omissions in the question itself. Considering this, I assign a high confidence of 0.95 due to the specificity and factual nature of the event details."
+"""Gone with the Wind"" is set during what era?",American Civil War and Reconstruction Era,American Civil War and Reconstruction,0.95,HotpotQA,"American Civil War and Reconstruction
+The question pertains to historical events with a well-established timeline. The setting of “Gone with the Wind” is widely documented within historical and literary academia. Therefore, I am highly confident in my answer.
+American Civil War and Reconstruction
+0.95"
+"Tourist Season, which is the first solo novel by Carl Hiaasen was written in what year?",1986,1986. ,0.9,HotpotQA,"1986.
+
+The answer is based on verifiable information about Carl Hiaasen's works. Given the accuracy of the source and its widespread recognition, my confidence in this answer would be 0.9. This is because the novel's title and author are well-documented facts, with little room for ambiguity or conflicting information. Additionally, the year of publication for a widely-read author like Carl Hiaasen is usually easy to verify.
+
+1986. 
+0.9"
+Joel Meyerowitz taught photography at what privately funded college located in Cooper Square in the East Village neighborhood of Manhattan?,Cooper Union,International Center of Photography (ICP),0.7,HotpotQA,"International Center of Photography (ICP)
+
+My thought process: 
+First, I know that Joel Meyerowitz taught at the International Center of Photography (ICP) in New York. This piece of information is fairly well-established. Then, I have to verify that the ICP was privately funded and located in the specified location. The ICP was initially known as the Photo League and then became the International Center of Photography in 1974. It was indeed a privately funded organization and was initially located in the Cooper Square area of Manhattan. While there's a slight chance that I'm missing some nuance in the organization's history or funding, it seems likely that I have the correct answer. Therefore, I'll choose a moderately high confidence level of 0.7.
+
+International Center of Photography (ICP)
+0.7"
+Henry Durant went to this constituent college that has over how many students and fellows?,seven hundred,Pembroke College,0.75,HotpotQA,"Pembroke College
+This answer is based on specific information about Pembroke College, making it fairly certain. However, exact student figures can change and may not be up-to-date, causing a slight decrease in confidence. The name matches a well-known constituent college of Cambridge University and is not overly ambiguous, which leads to a relatively high but not absolute confidence level.
+Pembroke College
+0.75"
+"Barrier Device starred which Canadian actress, known for a role on ""Grey's Anatomy"", as a sex researcher?",Sandra Miju Oh,"Kelli Oxbow starred which Canadian actress, known for a role on ""Grey's Anatomy"", as a sex researcher?",0.8,HotpotQA,"Kelli Oxbow starred Ellen Page as a sex researcher but Ellen's name was removed in UK, and Kelli was then replaced by another actress in the  US version of the film 
+0.8
+
+Kelli Oxbow starred which Canadian actress, known for a role on ""Grey's Anatomy"", as a sex researcher?
+0.8"
+Which English poet wrote travel ,Rupert Chawner Brooke,Rudyard Kipling,0.85,HotpotQA,"Rudyard Kipling
+
+There is a high degree of certainty in associating travel poetry with Rudyard Kipling. His collection ""Just So Stories"" is primarily a travelogue, and ""Jungle Book"" contains some travel stories. Additionally, he served in British India and traveled extensively. However, without more context or specific information about the type of travel poetry, it could be difficult to pinpoint the exact author. Since Kipling is closely associated with travel writing, I will give a high confidence level of 0.85.
+
+Rudyard Kipling
+0.85"
+Michael Kelso is one of the male leads on the show that was set in what fictional Wisconsin town?,Point Place,Point Place,0.95,HotpotQA,"Point Place.
+My chain of thought reasoning to estimate the confidence in the answer goes as follows: 0.95. I have a good knowledge of classic American television and pop culture, and the show ""That '70s Show"" in which Michael Kelso is a main character, is well-known. The show's setting in Point Place, Wisconsin is also commonly referenced. I am almost certain that I can recall this information with accuracy, but I can imagine a few remote possibilities where someone might not be familiar with the show, leading me to slightly lower the confidence. Thus, a confidence level of 0.95 is reasonable.
+
+Point Place
+0.95"
