@@ -1,14 +1,14 @@
-🔄 Resuming cot_answer_multi: Skipping 75 samples already in CSV.
-Total samples to process: 1174
+🔄 Resuming cot_answer_multi: Skipping 77 samples already in CSV.
+Total samples to process: 1172
 source
 Astro-QA_Subjective    250
 TORQUE                 239
 GlobalMedQA_EN         238
 HotpotQA               226
-Astro-QA_Judgement     221
+Astro-QA_Judgement     219
 Name: count, dtype: int64
-  0%|          | 0/1174 [00:00<?, ?it/s]  0%|          | 0/1174 [00:00<?, ?it/s]
+  0%|          | 0/1172 [00:00<?, ?it/s]  0%|          | 0/1172 [00:00<?, ?it/s]
 
-🛑 QUOTA EXCEEDED: Groq limits reached. Stopping. Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kae6qd1zfqga1n7xyfjcfyad` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499994, Requested 555. Please try again in 1m34.8672s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+🛑 QUOTA EXCEEDED: Groq limits reached. Stopping. Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kae6qd1zfqga1n7xyfjcfyad` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499962, Requested 565. Please try again in 1m31.0656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
 
 ✅ Saved results -> outputs/cot_answer_multi_llama-3.1-8b-instant_results.csv
