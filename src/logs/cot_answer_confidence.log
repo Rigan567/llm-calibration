@@ -1,53 +1,6 @@
-🔄 Resuming cot_answer_confidence: Skipping 1023 samples already in CSV.
-Total samples to process: 226
-source
-Astro-QA_Subjective    226
-Name: count, dtype: int64
-  0%|          | 0/226 [00:00<?, ?it/s]  0%|          | 1/226 [00:32<2:02:43, 32.73s/it]  1%|          | 2/226 [01:02<1:56:37, 31.24s/it]  1%|▏         | 3/226 [01:35<1:58:11, 31.80s/it]  2%|▏         | 4/226 [02:07<1:57:25, 31.74s/it]  2%|▏         | 5/226 [02:37<1:55:21, 31.32s/it]  3%|▎         | 6/226 [03:10<1:57:13, 31.97s/it]  3%|▎         | 6/226 [03:25<2:05:27, 34.21s/it]
-Traceback (most recent call last):
-  File "/home/webi/grebsbu/llm-calibration/.venv/lib/python3.13/site-packages/groq/_base_client.py", line 1024, in request
-    response.raise_for_status()
-    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "/home/webi/grebsbu/llm-calibration/.venv/lib/python3.13/site-packages/httpx/_models.py", line 829, in raise_for_status
-    raise HTTPStatusError(message, request=request, response=self)
-httpx.HTTPStatusError: Client error '429 Too Many Requests' for url 'https://api.groq.com/openai/v1/chat/completions'
-For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+🔄 Resuming cot_answer_confidence: Skipping 1249 samples already in CSV.
+Total samples to process: 0
+Series([], Name: count, dtype: int64)
+0it [00:00, ?it/s]0it [00:00, ?it/s]
 
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/webi/grebsbu/llm-calibration/src/inference_groq_com.py", line 128, in <module>
-    main()
-    ~~~~^^
-  File "/home/webi/grebsbu/llm-calibration/src/inference_groq_com.py", line 91, in main
-    response = client.chat.completions.create(
-        model=MODEL_NAME,
-        messages=[{"role": "user", "content": prompt}]
-    )
-  File "/home/webi/grebsbu/llm-calibration/.venv/lib/python3.13/site-packages/groq/resources/chat/completions.py", line 461, in create
-    return self._post(
-           ~~~~~~~~~~^
-        "/openai/v1/chat/completions",
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<45 lines>...
-        stream_cls=Stream[ChatCompletionChunk],
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/home/webi/grebsbu/llm-calibration/.venv/lib/python3.13/site-packages/groq/_base_client.py", line 1242, in post
-    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
-                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/webi/grebsbu/llm-calibration/.venv/lib/python3.13/site-packages/groq/_base_client.py", line 1030, in request
-    self._sleep_for_retry(
-    ~~~~~~~~~~~~~~~~~~~~~^
-        retries_taken=retries_taken,
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<2 lines>...
-        response=response,
-        ^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/home/webi/grebsbu/llm-calibration/.venv/lib/python3.13/site-packages/groq/_base_client.py", line 1070, in _sleep_for_retry
-    time.sleep(timeout)
-    ~~~~~~~~~~^^^^^^^^^
-KeyboardInterrupt
+✅ Saved results -> outputs/cot_answer_confidence_llama-3.1-8b-instant_results.csv
