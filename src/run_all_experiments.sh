@@ -2,15 +2,11 @@
 
 # List of all your prompt versions
 VERSIONS=(
-    #"baseline"
-    #"baseline_multi"
-    "cot_answer"
-    "cot_answer_confidence"
-    "cot_answer_confidence_multi"
-    "cot_answer_multi"
-    "cot_confidence"
-    "cot_confidence_multi"
-    "scientific"
+  "scientific"
+  "cot_confidence_multi"
+  "cot_confidence"
+  "cot_answer_multi"
+  "cot_answer_confidence_multi"
 )
 
 # Create logs directory if it doesn't exist
