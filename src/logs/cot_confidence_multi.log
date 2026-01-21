@@ -1,13 +1,6 @@
-🔄 Resuming cot_confidence_multi: Skipping 586 samples already in CSV.
-Total samples to process: 664
-source
-TORQUE                 243
-HotpotQA               225
-GlobalMedQA_EN         126
-Astro-QA_Subjective     70
-Name: count, dtype: int64
-  0%|          | 0/664 [00:00<?, ?it/s]  0%|          | 0/664 [00:00<?, ?it/s]
-
-🛑 QUOTA EXCEEDED: Groq limits reached. Stopping. Error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kae6qd1zfqga1n7xyfjcfyad` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499847, Requested 638. Please try again in 1m23.808s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+🔄 Resuming cot_confidence_multi: Skipping 1249 samples already in CSV.
+Total samples to process: 0
+Series([], Name: count, dtype: int64)
+0it [00:00, ?it/s]0it [00:00, ?it/s]
 
 ✅ Saved results -> outputs/cot_confidence_multi_llama-3.1-8b-instant_results.csv
