@@ -1179,3 +1179,10 @@ The Palestinian Authority has done so."
 0.8"
 "Butinstead of providing the votes to strike it down, they chose to uphold it on the flimsy ground that because the sex of the parent and not the child made the difference under the law, the plaintiff did not have standing to bring the case. The Justice Department, which supported the statute, did not cover itself with glory either. [Question: What could have happened after the votes were provided?]",strike; have; bring; cover,uphold; supported; cover,0.8,TORQUE,"uphold; supported; cover
 0.8"
+"He sold the property to five buyers and said he'd double his money. In Hong Kong, is always belongs to the seller's market. [Question: What will happen in the future?]",double,will double; will belong,0.8,TORQUE,"will double; will belong
+0.8"
+"In Sunday's debate against Vacco, Spitzer attacked him for failing to enforce a court order in 1992 against anti-abortion protesters who had blocked the entrance to a clinic. It was the same clinic where Slepian worked. [Question: What failed to happen after the protesters blocked the entrance to the clinic?]",enforce,enforce; block,0.8,TORQUE,"enforce; block
+0.8"
+"This would include improving technology for delivering financial services more efficiently and at lower cost and expanding the range and quality of financial products and services ""including those for the Islamic market"", the ADB said. The bank would also work to set up public-private partnerships, including reliable business and credit information systems as well as improved, reliable and lower-cost remittance services for overseas workers. [Question: What might happen after ADB said that?]",include; improving; delivering; expanding; work; set; partnerships; remittance,set; up; partnerships; work,0.9,TORQUE,"set; up; partnerships; work
+
+0.9"
