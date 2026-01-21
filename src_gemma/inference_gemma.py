@@ -35,6 +35,7 @@ model = genai.GenerativeModel(MODEL_NAME)
 
 TARGET_SOURCES = {
     "Astro-QA_Judgement",   # True / False
+    "Astro-QA_Subjective",
     "HotpotQA",             # Multi-hop factoid
     "GlobalMedQA_EN",       # Medical MCQ
     "TORQUE"            # Temporal reasoning (if present)

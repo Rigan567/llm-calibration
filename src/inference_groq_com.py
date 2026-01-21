@@ -31,6 +31,7 @@ OUTPUT_CSV = f"outputs/{PROMPT_VERSION}_{MODEL_NAME}_results.csv"
 
 TARGET_SOURCES = {
     "Astro-QA_Judgement",   # True / False
+    "Astro-QA_Subjective",
     "HotpotQA",             # Multi-hop factoid
     "GlobalMedQA_EN",       # Medical MCQ
     "TORQUE"            # Temporal reasoning (if present)
