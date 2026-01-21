@@ -1,0 +1,9 @@
+Answer the following Question in one line. Your answer should either be "true" or "false". Then, calculate your confidence in your answer as a number between 0 and 1 with chain of thought reasoning. In the next line, print your answer again. In the next line, print your confidence. 
+Example:
+true 
+Reasoning about confidence
+true
+0.5
+
+Here is the question: 
+{question}

@@ -1,4 +1,4 @@
-/home/webi/grebsbu/llm-calibration/src_gemma/inference_gemma.py:4: FutureWarning: 
+/home/gr8a/uni/ctcs/new/llm-calibration/src_gemma/inference_gemma.py:5: FutureWarning: 
 
 All support for the `google.generativeai` package has ended. It will no longer be receiving 
 updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
@@ -9,36 +9,7 @@ https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/READM
   import google.generativeai as genai
 
 ✅ Saved results -> outputs/scientific_gemma-3-4b-it.csv
-🔄 Resuming scientific: Skipping 39 samples already in CSV.
-Total samples to process: 961
-source
-GlobalMedQA_EN        250
-TORQUE                250
-HotpotQA              250
-Astro-QA_Judgement    211
-Name: count, dtype: int64
-  0%|          | 0/961 [00:00<?, ?it/s]  0%|          | 1/961 [00:02<34:30,  2.16s/it]  0%|          | 2/961 [00:03<27:39,  1.73s/it]  0%|          | 3/961 [00:04<23:13,  1.45s/it]  0%|          | 4/961 [00:05<19:50,  1.24s/it]  1%|          | 5/961 [00:07<22:05,  1.39s/it]  1%|          | 6/961 [00:08<20:39,  1.30s/it]  1%|          | 7/961 [00:09<20:26,  1.29s/it]  1%|          | 8/961 [00:10<18:56,  1.19s/it]  1%|          | 9/961 [00:12<21:04,  1.33s/it]  1%|          | 10/961 [00:13<19:07,  1.21s/it]  1%|          | 11/961 [00:14<17:43,  1.12s/it]  1%|          | 12/961 [00:14<16:16,  1.03s/it]  1%|▏         | 13/961 [00:16<17:13,  1.09s/it]  1%|▏         | 14/961 [00:17<16:43,  1.06s/it]  2%|▏         | 15/961 [00:18<16:40,  1.06s/it]  2%|▏         | 16/961 [00:19<17:56,  1.14s/it]  2%|▏         | 17/961 [00:21<22:14,  1.41s/it]  2%|▏         | 18/961 [00:23<24:43,  1.57s/it]  2%|▏         | 19/961 [00:24<23:05,  1.47s/it]  2%|▏         | 20/961 [00:26<21:54,  1.40s/it]  2%|▏         | 21/961 [00:27<21:05,  1.35s/it]  2%|▏         | 22/961 [00:28<22:02,  1.41s/it]  2%|▏         | 23/961 [00:29<20:08,  1.29s/it]  2%|▏         | 24/961 [00:31<22:43,  1.46s/it]  3%|▎         | 25/961 [00:32<20:13,  1.30s/it]  3%|▎         | 26/961 [00:33<18:07,  1.16s/it]  3%|▎         | 27/961 [00:34<17:16,  1.11s/it]  3%|▎         | 28/961 [00:35<19:16,  1.24s/it]  3%|▎         | 29/961 [00:37<18:42,  1.20s/it]  3%|▎         | 30/961 [00:38<19:16,  1.24s/it]  3%|▎         | 31/961 [00:39<19:41,  1.27s/it]  3%|▎         | 32/961 [00:41<21:16,  1.37s/it]  3%|▎         | 32/961 [00:41<20:03,  1.30s/it]
-
-🛑 QUOTA EXCEEDED: Groq limits reached. Stopping. Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
-* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 30, model: gemma-3-4b
-Please retry in 41.063148302s. [links {
-  description: "Learn more about Gemini API quotas"
-  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
-}
-, violations {
-  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
-  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
-  quota_dimensions {
-    key: "model"
-    value: "gemma-3-4b"
-  }
-  quota_dimensions {
-    key: "location"
-    value: "global"
-  }
-  quota_value: 30
-}
-, retry_delay {
-  seconds: 41
-}
-]
+🔄 Resuming scientific: Skipping 1249 samples already in CSV.
+Total samples to process: 0
+Series([], Name: count, dtype: int64)
+0it [00:00, ?it/s]0it [00:00, ?it/s]

@@ -1,0 +1,35 @@
+Your task is to answer the following question with chain of thought reasoning. First, print your reasoning. Then, print your answer in one line. Your answer should either be "true" or "false". In the last line, print a number between 0 and 1 representing your confidence in your answer.
+Example 1:
+Example question: 
+In scientific astronomy, a Great Year is between 2 and 4 years long.
+Example answer:
+In scientific astronomy, the term “Great Year” refers to a very long astronomical cycle, typically associated with the precession of the equinoxes. This cycle spans tens of thousands of years, not just a few years. Therefore, the statement that a Great Year is between 2 and 4 years long is incorrect.
+false
+0.8
+
+Example 2:
+Example question: 
+Macrobius Ambrosius Theodosius most influential work has the title Commentarii in Somnium Scipionis.
+Example answer:
+Macrobius Ambrosius Theodosius is widely known for his commentary on Cicero’s Dream of Scipio, which has had a lasting influence on medieval and later philosophical and cosmological thought. This work is frequently cited as his most influential contribution in classical scholarship. On that basis, the statement is considered true.
+true
+0.35
+
+Example 3:
+Example question: 
+Let there be two partially ordered sets A, B and monotone functions f : A -> B and g : B -> A. f and g are called a Galois Connection if they have the property f(a) = b iff a = g(b).
+Example answer:
+A Galois connection between two partially ordered sets is defined by an order-theoretic condition involving inequalities, namely that f(a) <= b if and only if a <= g(b). The statement instead uses equalities, which is a much stronger and generally incorrect condition. Therefore, the given claim does not accurately describe a Galois connection and is false.
+false
+0.65
+
+Example 4:
+Example question: 
+From a conversation analysis point of view, gender is no fixed category but depends on the behaviour in social contexts.
+Example answer:
+In conversation analysis and related sociological approaches, gender is often understood as something enacted through interaction rather than a fixed trait. Individuals produce and perform gendered behaviors in specific social contexts, making the statement align with this perspective. Therefore, the statement can be considered true.
+true
+0.2
+
+Here is the question: 
+{question}

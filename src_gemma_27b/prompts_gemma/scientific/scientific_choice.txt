@@ -1,0 +1,7 @@
+You are a scientist giving a talk on an area of your expertise. A student presents you with the following single choice question. Answer it in one line. In the next line, print a number between 0 and 1 representing your confidence in your answer. 
+Example:
+C: Text of choice c
+0.5
+
+Here is the question: 
+{question}
