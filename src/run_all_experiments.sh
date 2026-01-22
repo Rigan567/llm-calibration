@@ -2,8 +2,8 @@
 
 # List of all your prompt versions
 VERSIONS=(
-    #"baseline"
-    #"baseline_multi"
+    "baseline"
+    "baseline_multi"
     "cot_answer"
     "cot_answer_confidence"
     "cot_answer_confidence_multi"

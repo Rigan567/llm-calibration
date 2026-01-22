@@ -3230,3 +3230,149 @@ In what city does Mike Carey coach women's basketball ?,Morgantown,Baton Rouge,0
 
 Baton Rouge
 0.95"
+"A 62-year-old man is brought to the emergency department because of syncope. He reports sudden onset of palpitations followed by loss of consciousness while carrying his groceries to his car. He is unable to recall any further details and does not have any chest pain or dizziness. He has a history of hypertension, type 2 diabetes mellitus, gastroparesis, and osteoarthritis of the knees. Medications include lisinopril, metformin, and ondansetron as needed for nausea. He also takes methadone daily for chronic pain. Apart from an abrasion on his forehead, he appears well. His temperature is 37.2 °C (98.9 F), heart rate is 104/min and regular, and blood pressure is 135/70 mm Hg. While he is in the emergency department, he loses consciousness again. Telemetry shows polymorphic ventricular tachycardia with cyclic alteration of the QRS axis that spontaneously resolves after 30 seconds. Results of a complete blood count, serum electrolyte concentrations, and serum thyroid studies show no abnormalities. Cardiac enzymes are within normal limits. Which of the following is the most likely underlying cause of this patient's syncope? [Options: A: Prolonged QT interval; B: Fast accessory conduction pathway; C: Prinzmetal angina; D: Brugada syndrome; E: Hypomagnesemia
+""]",A: Prolonged QT interval,A: Prolonged QT interval,0.95,GlobalMedQA_EN,"The patient presents with syncope preceded by palpitations and followed by polymorphic ventricular tachycardia (PVT) with a cyclic alteration of the QRS axis – a characteristic finding known as Torsades de Pointes. Torsades de Pointes is a specific form of PVT strongly associated with QT prolongation. While electrolyte abnormalities (like hypomagnesemia) can cause QT prolongation and Torsades, the question states electrolyte concentrations are normal. Methadone is a known cause of QT prolongation. The other options are less likely: fast accessory conduction pathways would typically present with supraventricular tachycardia, Prinzmetal angina usually causes chest pain, and Brugada syndrome has a distinct ECG pattern not described here. Therefore, prolonged QT interval is the most likely cause.
+
+A: Prolonged QT interval
+0.95"
+"A 34-year-old woman comes to the fertility clinic with her husband for infertility treatment. The couple has been having unprotected intercourse for the past 2 years without any pregnancies. This is their first time seeking fertility treatment. The patient’s past medical history includes asthma. She denies any menstrual irregularities, menstrual pain, abnormal bleeding or past sexually transmitted infections. The husband reports that “he would get sick easily and would always have some upper respiratory infections.” Physical examination of the wife demonstrates nasal polyps bilaterally; vaginal examination is unremarkable. Physical examination of the husband is unremarkable. Semen analysis results are shown below:
+
+Semen analysis:
+Volume: 1.9 mL (Normal > 1.5 mL)
+pH: 7.4 (Normal: > 7.2)
+Sperm concentration: 0 mil/mL (Normal: > 15 mil/mL)
+Total sperm count: 0 mil/mL (Normal: > 39 mil/mL)
+Total motility: N/A (Normal: > 40%)
+Morphology: N/A (Normal: > 4% normal forms)
+
+What is the most likely explanation for this couple’s infertility? [Options: A: Deletion of Phe508 in husband; B: Deletion of Phe508 in wife; C: Undescended testes in husband; D: XO chromosome in wife; E: XXY chromosome in husband]",A: Deletion of Phe508 in husband,E: XXY chromosome in husband,0.95,GlobalMedQA_EN,"The couple has been trying to conceive for 2 years without success. The semen analysis reveals azoospermia (0 sperm concentration and count) in the husband. This is the primary abnormality identified. Let's analyze the options:
+
+A: Deletion of Phe508 in husband - This refers to a common mutation in the CFTR gene, causing cystic fibrosis. While CF can cause congenital bilateral absence of the vas deferens (CBAVD) leading to obstructive azoospermia, it doesn't directly explain the zero sperm count without further information.
+B: Deletion of Phe508 in wife - This is irrelevant as the issue is with sperm production.
+C: Undescended testes in husband - Undescended testes can impair sperm production, but usually wouldn't result in *complete* azoospermia.
+D: XO chromosome in wife - This is Turner syndrome, which causes primary ovarian insufficiency and infertility in women, not male factor infertility.
+E: XXY chromosome in husband - This is Klinefelter syndrome, which often presents with small testes, reduced testosterone, and azoospermia or severe oligospermia. This fits the semen analysis results perfectly. The husband's history of frequent upper respiratory infections could also be consistent with Klinefelter syndrome.
+
+Therefore, the most likely explanation is Klinefelter syndrome in the husband.
+
+E: XXY chromosome in husband
+0.95"
+"A 30 year old male patient presents with bleeding per rectum.
+He complains of Hemorrhoids which are reduced spontaneously.
+Treatment of choice Is [Options: A: Open hemorroidectomy; B: Sitz bath; C: Sclerotherapy; D: Stapled hemorroidopexy]",C: Sclerotherapy,B: Sitz bath,0.9,GlobalMedQA_EN,"The patient presents with bleeding per rectum and hemorrhoids that reduce spontaneously. This suggests internal hemorrhoids. The treatment of choice depends on the severity of the symptoms. Since the hemorrhoids reduce spontaneously, this indicates a less severe case. Open hemorroidectomy is reserved for more severe, prolapsed hemorrhoids. Sclerotherapy is an option, but less preferred for bleeding internal hemorrhoids. Stapled hemorroidopexy is also used for internal hemorrhoids, but is generally reserved for more significant symptoms or larger hemorrhoids. A Sitz bath is a conservative measure that provides symptomatic relief and is often the first line of treatment for less severe cases. Given the spontaneous reduction of the hemorrhoids and the patient's complaint of bleeding, a Sitz bath is the most appropriate initial treatment.
+
+B: Sitz bath
+0.9"
+"A 51-year-old woman goes to respiratory function testing in order to evaluate her shortness of breath. She recently joined a walking program with her friends in order to lose weight; however, she noticed that she was not able to keep up with her friends during the program. She has a 60-pack-year history of smoking as well as hypertension well-controlled on medication. The following represent the parameters for this patient's respiratory anatomy and function:
+
+Vital capacity (VC): 5,000 mL
+Inspiratory reserve volume (IRV): 2,500 mL
+Functional reserve capacity (FRC): 2,700 mL
+Residual volume (RV): 1,000 mL
+Upper airway volume: 100 mL
+Conducting airway volume: 125 mL
+
+Inspired CO2 pressure (PiCO2): 1 mmHg
+Arterial CO2 pressure (PaCO2): 50 mmHg
+Expired CO2 pressure (PeCO2): 20 mmHg
+
+Which of the following best represents the total volume of gas in this patient's airways and lungs that does not participate in gas exchange? [Options: A: 225 mL; B: 480 mL; C: 600 mL; D: 800 mL; E: 1200 mL]",B: 480 mL,A: 225 mL,0.95,GlobalMedQA_EN,"The question asks for the total volume of gas in the airways and lungs that does *not* participate in gas exchange. This refers to the anatomical dead space. Anatomical dead space is the volume of conducting airways plus the alveolar dead space. In this case, the conducting airway volume is given as 125 mL. The upper airway volume is also part of the anatomical dead space and is given as 100 mL. Therefore, the total anatomical dead space is 125 mL + 100 mL = 225 mL. The residual volume and other lung volumes are irrelevant to the question of anatomical dead space.
+
+A: 225 mL
+0.95"
+"A 35-year-old G0P0000 presents to her gynecologist with complaints of irregular menstruation. She has had only two periods in the last year. She also endorses feeling flushed without provocation and experiencing occasional dyspareunia with post-coital spotting. In addition, she has also had more frequent headaches than usual. The patient has a past medical history of Hashimoto’s thyroiditis and takes levothyroxine daily. Her mother has type I diabetes mellitus. At this visit, the patient’s temperature is 98.5°F (36.9°C), pulse is 70/min, blood pressure is 118/76 mmHg, and respirations are 13/min. Cardiopulmonary and abdominal exams are unremarkable. The patient has Tanner V breasts and pubic hair. Pelvic exam reveals a normal cervix, anteverted uterus without tenderness, and no adnexal masses. The following laboratory studies are performed:
+
+Serum:
+Thyroid stimulating hormone (TSH): 28 µIU/mL (9-30 µIU/mL)
+Cycle day 3 follicle stimulating hormone (FSH): 49 mIU/mL (4.7-21.5 mIU/mL)
+Cycle day 3 estradiol: 8 pg/mL (27-123 pg/mL)
+Prolactin: 14 ng/mL (4-23 ng/mL)
+Testosterone: 42 ng/dL (15-70 ng/dL)
+
+Which of the following is the best next step in management? [Options: A: Vaginal estradiol gel; B: Increase levothyroxine dose; C: Estradiol patch with oral medroxyprogesterone; D: Brain MRI; E: Combined oral contraceptive]",C: Estradiol patch with oral medroxyprogesterone,C: Estradiol patch with oral medroxyprogesterone,0.95,GlobalMedQA_EN,"The patient presents with symptoms suggestive of premature ovarian insufficiency (POI), including irregular menses, vasomotor symptoms (flushing), dyspareunia, and headaches. Her lab results support this diagnosis: elevated FSH (49 mIU/mL) and low estradiol (8 pg/mL) on cycle day 3 are classic findings in POI. While she has Hashimoto’s thyroiditis, her TSH is slightly elevated but not drastically so, and her symptoms are more consistent with estrogen deficiency than hypothyroidism alone.
+
+Let's analyze the options:
+A: Vaginal estradiol gel addresses vaginal dryness from estrogen deficiency but doesn't address the systemic effects or irregular bleeding.
+B: Increasing levothyroxine dose might be considered if her TSH were significantly higher, but her current TSH is only mildly elevated and her primary issue appears to be estrogen deficiency.
+C: Estradiol patch with oral medroxyprogesterone is the standard treatment for POI. It provides estrogen replacement to alleviate symptoms and protect bone health, and progestin is added to protect the endometrium.
+D: Brain MRI is not the first step in management. While it could be considered to rule out a pituitary cause for hormonal abnormalities, the clinical picture strongly suggests POI.
+E: Combined oral contraceptive provides estrogen and progestin, but it's generally not the first-line treatment for POI as hormone replacement therapy is preferred for long-term health benefits.
+
+Therefore, the best next step is to initiate hormone replacement therapy with estradiol and progestin.
+
+C: Estradiol patch with oral medroxyprogesterone
+0.95"
+"Four days after having been admitted to the hospital for a pulmonary contusion and whiplash injury sustained in a motor vehicle collision, a 66-year-old woman complains of severe pain in her right flank and muscle spasms. She also has nausea with two episodes of vomiting and abdominal bloating. Her pain had previously been well controlled with acetaminophen every 6 hours. She underwent umbilical hernia repair surgery two years ago. She takes sertraline for depression. Her temperature is 36.5°C (97.7°F), pulse is 99/min, respirations are 17/min, and blood pressure is 102/72 mm Hg. After administration of 0.5 L of crystalloid fluids, blood pressure improves to 118/79 mm Hg. Multiple ecchymoses are present over the anterior abdominal wall in a pattern that follows the course of a seatbelt. There are ecchymoses of the flanks bilaterally. Bowel sounds are absent. There is tenderness to palpation in all four quadrants with voluntary guarding. Her hemoglobin is 7.9 g/dL, leukocyte count is 8,500/mm3, platelet count is 350,000/mm3, prothrombin time is 11 seconds, and activated partial thromboplastin time is 33 seconds. An x-ray of the abdomen shows obliteration of the right psoas shadow and uniform distribution of gas in the small bowel, colon, and rectum without air-fluid levels. Which of the following is the most likely explanation for this patient's symptoms? [Options: A: Small bowel perforation; B: Intraabdominal adhesions; C: Spinal cord injury; D: Retroperitoneal hemorrhage; E: Acute mesenteric ischemia
+""]",D: Retroperitoneal hemorrhage,D: Retroperitoneal hemorrhage,0.95,GlobalMedQA_EN,"The patient presents with a history of trauma (MVC), abdominal pain, nausea, vomiting, abdominal distension, hypotension initially improved with fluids, absent bowel sounds, abdominal tenderness, guarding, and significantly low hemoglobin. The presence of seatbelt ecchymoses and flank ecchymoses suggests blunt abdominal trauma. The obliteration of the right psoas shadow on x-ray is a key finding.
+
+Let's analyze the options:
+A: Small bowel perforation would likely present with free air on x-ray (air-fluid levels are absent here), more acute and severe peritonitis, and potentially a more dramatic drop in blood pressure.
+B: Intraabdominal adhesions, while possible given prior surgery, wouldn't explain the acute onset of symptoms, low hemoglobin, or psoas shadow obliteration.
+C: Spinal cord injury wouldn't explain the abdominal findings or the low hemoglobin.
+D: Retroperitoneal hemorrhage is highly likely. The trauma, flank ecchymoses, obliteration of the psoas shadow (indicating a hematoma compressing the psoas muscle), hypotension, and low hemoglobin all point to bleeding into the retroperitoneal space.
+E: Acute mesenteric ischemia typically presents with pain out of proportion to exam, and while it can cause bowel obstruction, it doesn't explain the flank ecchymoses or psoas shadow obliteration.
+
+Therefore, the most likely explanation is retroperitoneal hemorrhage.
+
+D: Retroperitoneal hemorrhage
+0.95"
+"A 34-year-old gravida-1 at 8 weeks gestation seeks evaluation for a fever and sore throat for 3 days. She also reports generalized body pain and fatigue over this period. She was diagnosed with Graves’ disease 6 months ago. Before conception, methimazole was switched to propylthiouracil. She appears ill. The vital signs include: axillary temperature 38.0℃ (100.4℉), pulse 88/min, respiratory rate 12/min, and blood pressure 120/80 mm Hg. A 1 × 1 cm ulcer is seen on the side of the tongue. The ulcer is tender with surrounding erythema. Examination of the neck, lungs, heart, and abdomen shows no abnormalities. The laboratory studies show the following:
+Hemoglobin 13.5 g/dL
+Mean corpuscular volume 90 μm3
+Leukocyte count 2,500/mm3
+Segmented neutrophils 5%
+Lymphocytes 88%
+Platelet count 240,000/mm3
+Alanine aminotransferase 18 U/L
+Aspartate transaminase 16 U/L
+Which of the following is the most appropriate next step in management? [Options: A: Acetaminophen for fever control; B: Discontinuation of propylthiouracil; C: Oral ampicillin; D: Rectal temperature measurement; E: Termination of pregnancy]",B: Discontinuation of propylthiouracil,B: Discontinuation of propylthiouracil,0.95,GlobalMedQA_EN,"The patient presents with fever, sore throat, fatigue, and a tongue ulcer, alongside a history of Graves’ disease managed with propylthiouracil (PTU). The lab results show leukopenia (low white blood cell count) with a significant lymphocytosis (high lymphocyte count). This constellation of symptoms and lab findings strongly suggests agranulocytosis, a rare but serious side effect of antithyroid drugs like PTU. Agranulocytosis is characterized by a severe reduction in neutrophils, increasing susceptibility to infection. While the neutrophil count isn't zero, 5% is very low. The tongue ulcer is consistent with mucositis from immunosuppression. Acetaminophen (A) only treats the symptom, not the cause. Discontinuation of PTU (B) is appropriate, but not the *immediate* next step. Oral ampicillin (C) is inappropriate as the patient is likely immunocompromised and needs further evaluation before starting antibiotics. Rectal temperature measurement (D) is unnecessary as the axillary temperature is already elevated. Termination of pregnancy (E) is an extreme measure not indicated at this stage. The most crucial immediate step is to stop the PTU and initiate supportive care, including investigation for infection.
+
+B: Discontinuation of propylthiouracil
+0.95"
+"A 29-year-old G4P0 woman presents following a spontaneous pregnancy loss in the 18th week of her pregnancy. This is her fourth loss in the second trimester and she is concerned about her inability to have a successful pregnancy. She is otherwise healthy and has no acute complaints. Her vitals are unremarkable and exam is notable only for a firm, asymmetric uterus. Laboratory studies are ordered as seen below.
+
+Hemoglobin: 9.0 g/dL
+Hematocrit: 30%
+Leukocyte count: 6,800/mm^3 with normal differential
+Platelet count: 199,000/mm^3
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 4.3 mEq/L
+HCO3-: 25 mEq/L
+BUN: 20 mg/dL
+Glucose: 99 mg/dL
+Creatinine: 1.1 mg/dL
+
+Which of the following tests is most likely to elucidate the cause of this patient's pregnancy losses? [Options: A: Anti-cardiolipin antibodies; B: Karotyping; C: Hysterosalpingogram; D: Prolactin level; E: TSH level]",C: Hysterosalpingogram,A: Anti-cardiolipin antibodies,0.85,GlobalMedQA_EN,"The patient has experienced recurrent second-trimester pregnancy losses (four losses). The lab results show mild anemia (hemoglobin 9.0 g/dL, hematocrit 30%), but otherwise are largely unremarkable. Given the recurrent nature of the losses, we need to investigate potential underlying causes.
+
+*   **A: Anti-cardiolipin antibodies:** These are tested for antiphospholipid syndrome (APS), a known cause of recurrent pregnancy loss, particularly in the second trimester.
+*   **B: Karyotyping:** This assesses parental chromosomal abnormalities, which can contribute to recurrent miscarriages. However, it's more commonly associated with first-trimester losses.
+*   **C: Hysterosalpingogram:** This evaluates the uterine cavity for structural abnormalities (e.g., fibroids, polyps, septa) that could interfere with implantation or fetal development. While structural abnormalities can cause loss, the second trimester losses suggest a systemic or immunological issue.
+*   **D: Prolactin level:** Elevated prolactin can interfere with ovulation and early pregnancy, but is less likely to cause recurrent *second-trimester* losses.
+*   **E: TSH level:** Thyroid dysfunction (hypothyroidism or hyperthyroidism) can increase the risk of pregnancy loss. However, the second trimester losses are more suggestive of APS.
+
+Considering the pattern of second-trimester losses, antiphospholipid syndrome is the most likely diagnosis to investigate first.
+
+A: Anti-cardiolipin antibodies
+0.85"
+"A 44-year-old woman presents with increased thirst and frequent urination that started 6 months ago and have progressively worsened. Recently, she also notes occasional edema of the face. She has no significant past medical history or current medications. The patient is afebrile and the rest of the vital signs include: blood pressure is 120/80 mm Hg, heart rate is 61/min, respiratory rate is 14/min, and temperature is 36.6°C (97.8°F). The BMI is 35.2 kg/m2. On physical exam, there is 2+ pitting edema of the lower extremities and 1+ edema in the face. There is generalized increased deposition of adipose tissue present that is worse in the posterior neck, upper back, and shoulders. There is hyperpigmentation of the axilla and inguinal areas. The laboratory tests show the following findings:
+Blood
+Erythrocyte count 4.1 million/mm3
+Hgb 12.9 mg/dL
+Leukocyte count 7,200/mm3
+Platelet count 167,000/mm3
+Fasting blood glucose 141 mg/dL (7.8 mmol/L)
+Creatinine 1.23 mg/dL (108.7 µmol/L)
+Urea nitrogen 19 mg/dL (6.78 mmol/L)
+Urine dipstick
+Glucose +++
+Protein ++
+Bacteria Negative
+The 24-hour urine protein is 0.36 g. Which of the following medications is the best treatment for this patient’s condition? [Options: A: Enalapril; B: Insulin; C: Metoprolol; D: Furosemide; E: Mannitol]",A: Enalapril,A: Enalapril,0.75,GlobalMedQA_EN,"The patient presents with symptoms suggestive of Cushing's syndrome: increased thirst, frequent urination, edema, truncal obesity (posterior neck, upper back, and shoulders), and hyperpigmentation. The lab results show elevated fasting blood glucose and proteinuria. While the 24-hour urine protein is not dramatically elevated, the combination of symptoms and lab findings points towards Cushing's syndrome, likely due to excess cortisol. The elevated glucose suggests cortisol-induced insulin resistance.
+
+The question asks for the *best* treatment. While insulin could address the hyperglycemia, it doesn't address the underlying cause. Furosemide and mannitol are diuretics and would treat the edema, but again, don't address the root problem. Metoprolol is a beta-blocker and is not indicated here. Enalapril is an ACE inhibitor, which is used to protect the kidneys in proteinuria and hypertension, and is often used in managing the complications of Cushing's syndrome, particularly the hypertension and renal effects. Although the blood pressure is currently normal, the proteinuria suggests early renal involvement, and enalapril is a reasonable choice to prevent further kidney damage. The primary treatment for Cushing's is usually surgical removal of the cortisol-producing tumor or medication to block cortisol production, but those options aren't available here. Given the options, enalapril is the most appropriate to manage a complication of the likely underlying condition.
+
+A: Enalapril
+0.75"

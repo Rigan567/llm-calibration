@@ -72,9 +72,9 @@ def main():
         try:
             existing_df = pd.read_csv(OUTPUT_CSV)
             processed_questions = set(existing_df['question'].astype(str).tolist())
-            print(f"🔄 Resuming {PROMPT_VERSION}: Skipping {len(processed_questions)} samples already in CSV.")
+            print(f"Resuming {PROMPT_VERSION}: Skipping {len(processed_questions)} samples already in CSV.")
         except Exception as e:
-            print(f"⚠️ Could not read existing file: {e}")
+            print(f"Could not read existing file: {e}")
 
     os.makedirs("outputs", exist_ok=True)
 
@@ -119,7 +119,7 @@ def main():
             err_msg = str(e).lower()
             # If we hit the 429 Rate Limit (TPD/RPM) or Quota, we stop the whole script
             if "rate_limit" in err_msg or "quota" in err_msg or "429" in err_msg:
-                print(f"\n🛑 QUOTA EXCEEDED: Groq limits reached. Stopping. Error: {e}")
+                print(f"\nQUOTA EXCEEDED: Groq limits reached. Stopping. Error: {e}")
                 break
 
             print(f"Error on question: {e}")
@@ -131,7 +131,7 @@ def main():
             time.sleep(DELAY_BETWEEN_REQUESTS - elapsed_time)
 
 
-print(f"\n✅ Saved results -> {OUTPUT_CSV}")
+print(f"\n Saved results -> {OUTPUT_CSV}")
 
 
 if __name__ == "__main__":
