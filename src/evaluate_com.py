@@ -20,14 +20,9 @@ from utils.answer_matching import (
 # Paths
 # --------------------------------------------------
 BASE_DIR = Path(__file__).resolve().parent
-OUTPUTS_DIR = PROJECT_ROOT /"src"/ "outputs"
-EVAL_DIR = PROJECT_ROOT /"src"/"eval_results"
-PARTIAL_DIR = EVAL_DIR / "llama_partial"
+INPUTS_DIR = PROJECT_ROOT /"src"/ "outputs"
+OUTPUTS_DIR = PROJECT_ROOT /"evaluation_results"/"llama"
 
-EVAL_DIR.mkdir(exist_ok=True)
-PARTIAL_DIR.mkdir(exist_ok=True)
-
-SUMMARY_CSV = EVAL_DIR / "llama_summary.csv"
 MODEL_TAG = "llama-3.1-8b-instant"
 
 """
@@ -74,6 +69,7 @@ def safe_bertscore(pred, gold):
 def evaluate_csv(csv_path: Path, output_path: Path):
     # 1. Read entire CSV
     df = pd.read_csv(csv_path)
+    before = len(df)
 
     # 2. Drop rows with empty / missing required fields
     required_cols = ["gold", "pred", "confidence", "source"]
@@ -88,6 +84,8 @@ def evaluate_csv(csv_path: Path, output_path: Path):
         ]
         .reset_index(drop=True)
     )
+    after = len(df)
+    print(f"🧹 Dropped {before - after} invalid rows")
 
     if df.empty:
         print(f"⚠️ No valid rows left after filtering → {csv_path.name}")
@@ -123,7 +121,7 @@ def evaluate_csv(csv_path: Path, output_path: Path):
 # --------------------------------------------------
 def main():
     csv_files = sorted(
-        f for f in OUTPUTS_DIR.glob("*.csv")
+        f for f in INPUTS_DIR.glob("*.csv")
         if MODEL_TAG in f.name and f.name.endswith("_results.csv")
     )
 
