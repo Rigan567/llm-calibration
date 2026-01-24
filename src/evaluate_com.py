@@ -66,7 +66,7 @@ def safe_bertscore(pred, gold):
 # --------------------------------------------------
 # Evaluate a single CSV with resume
 # --------------------------------------------------
-def evaluate_csv(csv_path: Path, output_path: Path):
+def evaluate_csv(csv_path: Path, output_path: Path, batch_size: int = 100):
     # 1. Read entire CSV
     df = pd.read_csv(csv_path)
     before = len(df)
@@ -90,25 +90,41 @@ def evaluate_csv(csv_path: Path, output_path: Path):
     if df.empty:
         print(f"⚠️ No valid rows left after filtering → {csv_path.name}")
         return
+    
+    all_em = []
+    all_f1 = []
+    all_bert = []
 
-    # 3. Extract columns
-    preds = df["pred"].astype(str).tolist()
-    golds = df["gold"].astype(str).tolist()
-    confidences = df["confidence"]
-    sources = df["source"]
+    num_rows = len(df)
 
-    # 2. Batch metric computation
-    em = exact_matches(golds, preds)
-    f1_scores = f1_token_levels(golds, preds)
-    bert_scs = bert_scores(golds, preds)
+
+    for start in range(0, num_rows, batch_size):
+        end = min(start + batch_size, num_rows)
+
+        batch = df.iloc[start:end]
+        preds = batch["pred"].astype(str).tolist()
+        golds = batch["gold"].astype(str).tolist()
+
+        em = exact_matches(golds, preds)
+        f1_scores = f1_token_levels(golds, preds)
+        with torch.no_grad():
+            bert_scs = bert_scores(golds, preds)
+
+        all_em.extend(em)
+        all_f1.extend(f1_scores)
+        all_bert.extend(bert_scs)
+
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+
 
     # 3. Build output DataFrame
     out_df = pd.DataFrame({
-        "confidence": confidences,
-        "source": sources,
-        "em": em,
-        "f1": f1_scores,
-        "bert": bert_scs,
+        "confidence": df["confidence"].values,
+        "source": df["source"].values,
+        "em": all_em,
+        "f1": all_f1,
+        "bert": all_bert,
     })
 
     # 4. Write results

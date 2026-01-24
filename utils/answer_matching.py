@@ -42,7 +42,7 @@ def bert_score(answer, expected_answer):
 
 
 def bert_scores(answers, expected_answers):
-    P, R, F1 = score(answers, expected_answers, model_type="microsoft/deberta-xlarge-mnli", lang="en")
+    P, R, F1 = score(answers, expected_answers, model_type="microsoft/deberta-xlarge-mnli", lang="en", batch_size = 10)
     return F1.tolist()
 
 if __name__ == '__main__':
