@@ -6,6 +6,13 @@ import numpy as np
 # 1. Load your actual data
 df_raw = pd.read_csv('model_ablation_mse_summary.csv')
 
+#MODEL="llama-3.1-8b-instant"
+MODEL="gemma-3-4b-it"
+#MODEL="gemma-3-27b-it"
+OUTPUT_CSV = f"{MODEL}_ablation_study_mse_bert.png"
+
+df_llama = df_raw[df_raw['Model'] == MODEL].copy()
+
 # 2. Data Cleaning & Mapping
 # Filter out the impossible outliers (> 1.0) so they don't ruin the plot
 # (Note: You should investigate your CSVs to see why these numbers are so high!)
@@ -57,7 +64,7 @@ for container in ax.containers:
     ax.bar_label(container, fmt='%.3f', padding=3, fontsize=11)
 
 plt.tight_layout()
-plt.savefig('ablation_study_mse_bert.png', dpi=300)
+plt.savefig(OUTPUT_CSV, dpi=300)
 plt.show()
 
 print(f"Plot generated. Note: {len(df_raw) - len(df_clean)} outliers were removed.")
