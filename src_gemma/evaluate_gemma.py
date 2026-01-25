@@ -4,35 +4,28 @@ from tqdm import tqdm
 import sys
 import torch
 
-# -----------------------------------------------------
-# Project path setup
-# -----------------------------------------------------
+# --------------------------------------------------
+# Path setup
+# --------------------------------------------------
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.append(str(PROJECT_ROOT))
 
 from utils.answer_matching import (
     exact_matches,
     f1_token_levels,
+    bert_scores
 )
 
-from bert_score import score as bert_score_fn
-
-# -----------------------------------------------------
+# --------------------------------------------------
 # Paths
-# -----------------------------------------------------
+# --------------------------------------------------
 BASE_DIR = Path(__file__).resolve().parent
-OUTPUTS_DIR = BASE_DIR / "outputs"
+INPUTS_DIR = PROJECT_ROOT / "src_gemma" / "outputs"
+OUTPUTS_DIR = PROJECT_ROOT / "evaluation_results" / "src_gemma"
 
-EVAL_DIR = BASE_DIR / "eval_results"
-PARTIAL_DIR = EVAL_DIR / "gemma_partial"
-
-EVAL_DIR.mkdir(exist_ok=True)
-PARTIAL_DIR.mkdir(exist_ok=True)
-
-SUMMARY_CSV = EVAL_DIR / "gemma_4b_summary.csv"
 MODEL_TAG = "gemma-3-4b-it"
 
-
+"""
 def compute_ece(confidences, correctness, n_bins=10):
     bins = [(i / n_bins, (i + 1) / n_bins) for i in range(n_bins)]
     ece = 0.0
@@ -52,9 +45,9 @@ def compute_ece(confidences, correctness, n_bins=10):
 
     return ece
 
-# -----------------------------------------------------
-# Safe BERTScore (never crash)
-# -----------------------------------------------------
+# --------------------------------------------------
+# Safe BERTScore
+# --------------------------------------------------
 def safe_bertscore(pred, gold):
     try:
         P, R, F1 = bert_score_fn(
@@ -66,116 +59,103 @@ def safe_bertscore(pred, gold):
         )
         return float(F1[0])
     except Exception:
-        return None
+        return None  # never crash
+
+"""
 
 
-# -----------------------------------------------------
-# Per-CSV evaluation with resume
-# -----------------------------------------------------
-def evaluate_csv(csv_path: Path):
+# --------------------------------------------------
+# Evaluate a single CSV with resume
+# --------------------------------------------------
+def evaluate_csv(csv_path: Path, output_path: Path, batch_size: int = 100):
+    # 1. Read entire CSV
     df = pd.read_csv(csv_path)
+    before = len(df)
 
-    partial_path = PARTIAL_DIR / f"{csv_path.stem}.partial.csv"
+    # 2. Drop rows with empty / missing required fields
+    required_cols = ["gold", "pred", "confidence", "source"]
 
-    if partial_path.exists():
-        partial_df = pd.read_csv(partial_path)
-        start_idx = len(partial_df)
-        print(f"🔄 Resuming {csv_path.name} from row {start_idx}")
-    else:
-        partial_df = pd.DataFrame(
-            columns=["em", "f1", "bert_f1"]
-        )
-        start_idx = 0
+    df = (
+        df[required_cols]
+        .dropna()
+        .loc[
+            lambda x: (x["gold"].astype(str).str.strip() != "")
+                      & (x["pred"].astype(str).str.strip() != "")
+                      & (x["source"].astype(str).str.strip() != "")
+        ]
+        .reset_index(drop=True)
+    )
+    after = len(df)
+    print(f"🧹 Dropped {before - after} invalid rows")
 
-    for i in tqdm(
-        range(start_idx, len(df)),
-        desc=csv_path.name,
-        initial=start_idx,
-        total=len(df),
-    ):
-        row = df.iloc[i]
-        pred = str(row["pred"])
-        gold = str(row["gold"])
+    if df.empty:
+        print(f"⚠️ No valid rows left after filtering → {csv_path.name}")
+        return
 
-        result = {
-            "em": exact_matches(pred, gold),
-            "f1": f1_token_levels(pred, gold),
-            "bert_f1": safe_bertscore(pred, gold),
-        }
+    all_em = []
+    all_f1 = []
+    all_bert = []
 
-        partial_df.loc[i] = result
-        partial_df.to_csv(partial_path, index=False)
+    num_rows = len(df)
 
-        if i % 50 == 0:
+    for start in range(0, num_rows, batch_size):
+        end = min(start + batch_size, num_rows)
+
+        batch = df.iloc[start:end]
+        preds = batch["pred"].astype(str).tolist()
+        golds = batch["gold"].astype(str).tolist()
+
+        em = exact_matches(golds, preds)
+        f1_scores = f1_token_levels(golds, preds)
+        with torch.no_grad():
+            bert_scs = bert_scores(golds, preds)
+
+        all_em.extend(em)
+        all_f1.extend(f1_scores)
+        all_bert.extend(bert_scs)
+
+        if torch.cuda.is_available():
             torch.cuda.empty_cache()
-            
-    em = [int(x) for x in em]
-    f1 = [float(x) for x in f1]
 
-    # Aggregate metrics
-    em = partial_df["em"].tolist()
-    f1 = partial_df["f1"].tolist()
-    bert = partial_df["bert_f1"].dropna().tolist()
+    # 3. Build output DataFrame
+    out_df = pd.DataFrame({
+        "confidence": df["confidence"].values,
+        "source": df["source"].values,
+        "em": all_em,
+        "f1": all_f1,
+        "bert": all_bert,
+    })
 
-    accuracy = sum(em) / len(em)
-    avg_token_f1 = sum(f1) / len(f1)
-    avg_bert_f1 = sum(bert) / len(bert) if bert else None
+    # 4. Write results
+    out_df.to_csv(output_path, index=False)
 
-    confidences = df["confidence"].fillna(0.0).tolist()
-    brier = sum((p - y) ** 2 for p, y in zip(confidences, em)) / len(em)
-
-    prompt_name = csv_path.stem.replace(f"_{MODEL_TAG}", "")
-
-    return {
-        "prompt": prompt_name,
-        "accuracy": accuracy,
-        "avg_token_f1": avg_token_f1,
-        "avg_bertscore_f1": avg_bert_f1,
-        "brier_score": brier,
-        "num_samples": len(df),
-    }
+    print(f"✅ Saved batch evaluation → {output_path}")
 
 
-# -----------------------------------------------------
-# Main (CSV-level resume)
-# -----------------------------------------------------
+# --------------------------------------------------
+# Main (fully resumable)
+# --------------------------------------------------
 def main():
-    if SUMMARY_CSV.exists():
-        summary_df = pd.read_csv(SUMMARY_CSV)
-        completed = set(summary_df["prompt"].tolist())
-        print(f"🔄 Found {len(completed)} completed prompts")
-    else:
-        summary_df = pd.DataFrame()
-        completed = set()
-
     csv_files = sorted(
-        f for f in OUTPUTS_DIR.glob("*.csv")
-        if MODEL_TAG in f.name
+        f for f in INPUTS_DIR.glob("*.csv")
+        if MODEL_TAG in f.name #and f.name.endswith("_results.csv")
     )
 
-    if not csv_files:
-        raise RuntimeError("No Gemma-4B output CSVs found.")
+    print(f"🔍 Found {len(csv_files)} result files to evaluate")
 
     for csv_file in csv_files:
-        prompt_name = csv_file.stem.replace(f"_{MODEL_TAG}", "")
+        prompt = csv_file.stem.replace(f"_{MODEL_TAG}_results", "")
+        output_path = OUTPUTS_DIR / f"{prompt}_{MODEL_TAG}_metrics.csv"
 
-        if prompt_name in completed:
-            print(f"⏭ Skipping {prompt_name}")
+        if output_path.exists():
+            print(f"⏭️ Skipping {prompt} (already evaluated)")
             continue
 
         print(f"📊 Evaluating {csv_file.name}")
-        row = evaluate_csv(csv_file)
+        evaluate_csv(csv_file, output_path)
+        print(f"✅ Saved metrics for {prompt}")
 
-        summary_df = pd.concat(
-            [summary_df, pd.DataFrame([row])],
-            ignore_index=True
-        )
-        summary_df.to_csv(SUMMARY_CSV, index=False)
-
-        torch.cuda.empty_cache()
-        print(f"✅ Saved results for {prompt_name}")
-
-    print(f"\n🎉 Evaluation complete → {SUMMARY_CSV}")
+    print("\n🎉 Batch evaluation complete")
 
 
 if __name__ == "__main__":
