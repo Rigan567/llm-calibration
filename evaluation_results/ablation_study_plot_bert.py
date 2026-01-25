@@ -7,16 +7,14 @@ import numpy as np
 df_raw = pd.read_csv('model_ablation_mse_summary.csv')
 
 #MODEL="llama-3.1-8b-instant"
-MODEL="gemma-3-4b-it"
-#MODEL="gemma-3-27b-it"
+#MODEL="gemma-3-4b-it"
+MODEL="gemma-3-27b-it"
 OUTPUT_CSV = f"{MODEL}_ablation_study_mse_bert.png"
 
-df_llama = df_raw[df_raw['Model'] == MODEL].copy()
+df_selected = df_raw[df_raw['Model'] == MODEL].copy()
 
-# 2. Data Cleaning & Mapping
-# Filter out the impossible outliers (> 1.0) so they don't ruin the plot
-# (Note: You should investigate your CSVs to see why these numbers are so high!)
-df_clean = df_raw[df_raw['average mse bert'] <= 1.0].copy()
+# 2. Then clean outliers from that specific model subset
+df_clean = df_selected[df_selected['average mse bert'] <= 1.0].copy()
 
 # Map your Version names to Plot Categories
 version_map = {
@@ -56,7 +54,7 @@ ax = sns.barplot(
 plt.title('Ablation Study: Average MSE BERT Score(Calibration Error)', fontsize=18, fontweight='bold', pad=25)
 plt.ylabel('Mean Squared Error (Lower is Better)', fontsize=14)
 plt.xlabel('')
-plt.ylim(0, 0.2) # MSE shouldn't exceed 1.0
+plt.ylim(0, 0.25) # MSE shouldn't exceed 1.0
 plt.legend(title='Condition', loc='upper right', frameon=True, shadow=True)
 
 # Add numeric labels on top

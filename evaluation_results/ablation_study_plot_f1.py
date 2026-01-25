@@ -7,16 +7,14 @@ import numpy as np
 df_raw = pd.read_csv('model_ablation_mse_summary.csv')
 
 #MODEL="llama-3.1-8b-instant"
-MODEL="gemma-3-4b-it"
-#MODEL="gemma-3-27b-it"
+#MODEL="gemma-3-4b-it"
+MODEL="gemma-3-27b-it"
 OUTPUT_CSV = f"{MODEL}_ablation_study_mse_f1.png"
 
-df_llama = df_raw[df_raw['Model'] == MODEL].copy()
+df_selected = df_raw[df_raw['Model'] == MODEL].copy()
 
-# 2. Data Cleaning & Mapping
-# Filter out the impossible outliers (> 1.0) so they don't ruin the plot
-# (Note: You should investigate your CSVs to see why these numbers are so high!)
-df_clean = df_raw[df_raw['average mse f1'] <= 1.0].copy()
+# 2. Then clean outliers from that specific model subset
+df_clean = df_selected[df_selected['average mse f1'] <= 1.0].copy()
 
 # Map your Version names to Plot Categories
 version_map = {
